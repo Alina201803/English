@@ -3454,7 +3454,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 4. 拓展
 
-   =bureaucratese
+   [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
 
 
 
