@@ -3203,165 +3203,6 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义：1 - 来自希腊语 symptoma,疾病，发生，来自 sym-,一起，一致，-pt,追逐，降落，词源同compete,petition,-oma,名词后缀。引申词义症状，征兆等。词义演变比较 syndrome,综合症。
 
 
-#### alert/əˈlɜːt/ 
-
-1. 助记：来自意大利语 all'erta.-erta,上升，词源同 erect,竖直。即全部到城墙上守城。引申为 警戒 警觉
-2. 词源
-   etymology
-   "on the watch," 1610s, from French alerte "vigilant" (17c.), from prepositional phrase à l'erte "on the watch," from Italian all'erta "to the height." Second element from erta "lookout, high tower," noun use of fem. of erto, past participle of ergere "raise up," from Latin erigere "raise" (see erect (adj.)).
-3. 定义
-   1.  quick to see, understand, and act in a particular situation 警觉的  机敏的
-   2.  a warning to prepared to deal with something dangerous 警报 
-4. 1. on alert,处于警戒状态;保持戒备  
-       Soldiers and police have been put on alert士兵和警方都已进入警戒状态
-   2. on the alert for something,准备就绪；防备着
-      They want to be on the alert for similar buying opportunities. 
-      他们希望随时掌握有关类似购买机会的信息。
-
-#### climb/klaɪm/
-
-1. 助记：clim-,clin-,cliv- 
-   = lean, slope, 表示“倾斜，斜坡”，来自拉丁语，引申为攀爬
-2. 词源：
-   etymology
-   Old English climban "raise oneself using hands and feet; rise gradually, ascend; make an ascent of" (past tense clamb, past participle clumben, clumbe), from West Germanic *klimban "go up by clinging" (source also of Dutch klimmen, Old High German klimban, German klimmen "to climb").
-3. 定义：to go up, or to go towards the top of something 攀爬 上升
-4. 拓展：俚语 climb the wall （由于失望 焦虑 忧虑 举止失常）
-   By the time the cops came i was about to climb the wall 警察赶到的时候，我都快急得发疯了
-
-#### scale/skeɪl/
-
-1. 助记：
-   1. 来自古诺斯语 skel,贝壳，skal,碗，饮水容器，来自 Proto-Germanicskaela,分开，劈开，来自PIEskel,砍，切，分开，词源同 shell,scallop.由贝壳引申词义碗，饮水器具，由贝壳的钙化性质引申词义水垢，牙石，由碗，饮水容器引申词义秤，天平，即秤的原型，由该印欧语的词根义引申词义鱼鳞，鳞片等。
-   2. 来自拉丁语 scala,梯子，来自（缩写自）scandere,攀爬，攀登，来自 PIE*skand,爬，上升，词源同 scan,ascend,descend.字母 d 脱落，类似拼写比较 rule,regulate.引申词义规模，范围，程度，等级，比例等。
-2. 词源：
-   etymology
-   skin plates on fish or snakes," c. 1300, from Old French escale "cup, scale, shell pod, husk" (12c., Modern French écale) "scale, husk," from Frankish *skala or some other Germanic source, from Proto-Germanic *skælo "split, divide" (source also of Dutch schaal "a scale, husk," Old High German scala "shell," Gothic skalja "tile," Old English scealu "shell, husk"), from PIE root *skel- (1) "to cut."
-3. 定义：
-   1. one of the many very small, flat pieces that cover the skin of fish, snakes, etc.鳞 鱼鳞
-   2. a hard, white or grey layer of material that forms on the inside of pipes or containers that heat water水垢
-   3. a set of numbers, amounts, etc., used to measure or compare the level of something刻度 尺度
-   4. to climb up a steep surface, such as a wall or the side of a mountain, often using special equipment 动词 攀登 攀爬
-
-#### tinker/ˈtɪŋ.kər/ 
-
-1. 助记：tink丁当声(拟声，榔头敲击锅的声音) + -er名词后缀，表人。
-2. 词源：
-   etymology
-   "mender of kettles, pots, pans, etc.," late 14c. (mid-13c. as a surname), of uncertain origin. Some connect the word with the sound made by light hammering on metal. Tinker's damn "something slight and worthless" is from 1824, probably preserving tinkers' reputation for free and casual use of profanity; the plain and simple etymology is not good enough for some writers, and since 1877 an ingeniously elaborate but baseless derivation has been circulated claiming the second word is really dam.
-3. 定义：
-   1. a person who travelled from place to place, repairing pans or other metal containers小炉匠，补锅匠，修补匠，补锅，
-   2. to make small changes to something, especially in an attempt to repair or improve it修补 （尤指不起作用地）修修补补； 小修理
-
-#### assiduous/əˈsɪdʒ.u.əs/
-
-1. 助记：as-一再 + sid-坐 + -uous → 一再坐着[学习] → 勤勉的。
-2. 词源：
-   etymology
-   1530s, from Latin assiduus "attending; continually present, incessant; busy; constant," from assidere/adsidere "to sit down to, sit by" (thus "be constantly occupied" at one's work); from ad "to" (see ad-) + sedere "to sit," from PIE root *sed- (1) "to sit." The word acquired a taint of "servility" in 18c. Related: Assiduously; assiduousness.
-3. 定义：
-    show hard work, care, and attention to detail
-   專心致志的；勤勉的
-
-#### ethic/ˈeθ.ɪk/ 
-
-1. 助记：ethn-,ethno- = nation, 表示“民族；性情（民族情感）” 民族情感指向 引申为 伦理 道德体系 
-
-2.  词源：
-
-   **etymology**
-
-   late 14c., ethik "study of morals," from Old French etique "ethics, moral philosophy" (13c.), from Late Latin ethica, from Greek ethike philosophia "moral philosophy," fem. of ethikos "ethical," from ethos "moral character," related to ethos "custom" (see ethos). Meaning "moral principles of a person or group" is attested from 1650s.
-
-3. 定义：a system of accepted beliefs that control behaviour, especially such a system based on morals 伦理 道德规范
-
-   a system of accepted beliefs that control behaviour, especially such a system based on morals 伦理 道德规范
-
- 
-
-#### trap/træp/ 
-
-1. 助记：tr- 表示“踩、踏”，原始印欧语形式为*der-. 一踩会陷进去的 圈套 陷阱
-
-   来自古英语 traeppe,陷阱，罗网，来自 Proto-Germanictrep,踩踏，来自 PIEder,走，跑，步行，词源同 trip,tramp,tread.词义通俗化为圈套
-
-2. 词源：
-
-   **etymology**
-
-   contrivance for catching unawares," late Old English træppe, treppe "snare, trap," from Proto-Germanic *trep- (source also of Middle Dutch trappe "trap, snare"), related to Germanic words for "stair, step, tread" (Middle Dutch, Middle Low German trappe, treppe, German Treppe "step, stair," English tread (v.)), and probably literally "that on or into which one steps," from PIE *dreb-, extended form of root *der- (1), an assumed base of words meaning "to run, walk, step." Probably akin to Old French trape, Spanish trampa "trap, pit, snare," but the exact relationship is uncertain.
-
-3. 定义：
-
-   1. a dangerous or unpleasant situation which you have got into and from which it is difficult or impossible to escape圈套；詭計
-   2. a device or hole for catching animals or people and preventing their escape陷阱；夾子；捕捉器
-
-#### rank/ræŋk/
-
-1. 助记：rank- = rank, 表示“排列，顺序”，来源于古法语rangier“排成直线”。
-
-   来自古法语ranc , 排，行，来自PIE*sker , 弯，转，词源同ring , curve . 词义由环行排列过渡至水平排列。引申词义排列，等级。
-
-2.  词源：
-
-   **etymology**
-
-   Old English ranc "proud, overbearing, showy," from Proto-Germanic *rankaz (source also of Danish rank "right, upright," German rank "slender," Old Norse rakkr "straight, erect"), perhaps from PIE root *reg- "move in a straight line." In reference to plant growth, "vigorous, luxuriant, abundant, copious" it is recorded from c. 1300. Related: Rankly; rankness.
-
-3. 定义：
-
-   a particular position, higher or lower than others 等级 级别
-
-   a row, especially of people or things standing side by side 行 列 排
-
-   a position in an organization, such as the army, showing the importance of the person having it 职位 官阶 
-
-4. 拓展：rank and file民众；普通士兵；普通成员。国际象棋传入西方后，在12世纪的法国非常流行，一些象棋术语也开始进入民众之中。国象棋盘上的横列称作rank，纵列称作file，这样rank and file就是棋盘上的所有士兵并随后通俗化指普通民众了。There was widespread support for him among the rank and file. 
-
-#### escalate/ˈes.kə.leɪt/
-
-1. 助记：
-
-   escal-梯子 + -ate表动词 → 梯子使人逐步上升。
-
-   escal- = ladder, 表示“梯子
-
-2. 词源：
-
-   **etymology**
-
-   1922, "to use an escalator," back-formation from escalator, replacing earlier verb escalade (1801), from the noun escalade. Escalate came into general use with a figurative sense of "raise" from 1959 (intrans.), originally in reference to scenarios for possible nuclear war. Related: Escalated; escalating. Transitive figurative sense is by 1962.
-
-3. 定义：to become or make something become greater or more serious
-
-4. 拓展：文中 escalate request to the Management Committe  指请求上升到达管理委员会 比喻 
-
-   escalator（自动扶梯）：在攻城战中用梯子攀爬城墙
-
-   英语单词escalator（电动扶梯）原本是美国著名的奥蒂斯电梯公司（Otis Elevator Co.）所生产的电动扶梯的品牌名。该品牌由单词escalade+elevator混合而成。英语单词escalade原本是一个军事术语，指的是在攻城战中用梯子攀爬城墙，由e+scale（攀爬）+ade（名词后缀）构成。电动扶梯就是电力驱动的楼梯，在停用时可以作为普通楼梯使用，在很多建筑中得到普遍使用。奥蒂斯电梯公司出品的escalator牌电动扶梯在市场中占据了巨大的份额，以至于这一品牌名成了“电动扶梯”的代名词，并反向衍生了单词escalate。
-
-   escalade： [,eskə'leɪd] n.vt.攀登，用梯子攀爬
-
-   escalator： ['eskəleɪtə] n.电动扶梯，自动扶梯
-
-   escalate：['eskəleɪt] v.逐步上升，逐渐增强
-
-#### shiny/ˈʃaɪ.ni/
-
-1. 助记：shine- = spark, 表示“火花”。
-
-   来自古英语 scinan,照耀，照明，发光，来自 Proto-Germanicskinan,照耀，发光，来自 PIEskai,照耀，发光，词源同 sheen,shimmer.
-
-2. 词源：
-
-   **etymology**
-
-   1580s, from shine (n.) + -y (2). As a noun meaning "a shiny object" (also "money") from 1856. 
-
-3. 定义：A shiny surface is bright because it reflects light闪耀的 发光的 发亮的
-
-4. 拓展：make hay while the sun shines莫失良机；抓紧时机。英国本身雾天就多，而中世纪里，比较准确地预测未来三天甚至两天的天气都是很困难的。所以割草+晒干这个过程就格外需要天公作美。因此，看到大晴天，赶紧的，割草去。If you want to become a millionaire, you must make hay(晒干草) while the sun shines. 
-
 ## 11. Perceive and Don’t Tolerate Problems
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
@@ -3500,27 +3341,29 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
    re-,向后，往回，-cip,抓住，词源同 receive,participate.引申词义食谱，秘诀。
 
+   de- "off"偏离 + via "way" 道路=> devi- "turn aside, off the way" + -ation => deviation.
+
+   => turn out of the way.偏离道理，越轨，偏差
+
 2. 词源,
 
    **OED Origin**
 
-   Late Middle English: from Latin, **literally ‘receive!’** (first used as an instruction in medical prescriptions), imperative of recipere.
+   Late Middle English: from Latin, literally ‘receive!’ (first used as an instruction in medical prescriptions), imperative of recipere.
 
    **Etymology**
 
-   1580s, "medical prescription," from Middle French récipé (15c.), from Latin recipe "take!," second person imperative singular of recipere "**to take" (see [receive](https://www.etymonline.com/word/receive?ref=etymonline_crossreference));** word written by physicians at the head of prescriptions. Figurative use from 1640s. Meaning "instructions for preparing food" first recorded 1743. The original sense survives only in the pharmacist's abbreviation Rx.
+   1580s, "medical prescription," from Middle French récipé (15c.), from Latin recipe "take!," second person imperative singular of recipere "to take" (see [receive](https://www.etymonline.com/word/receive?ref=etymonline_crossreference)); word written by physicians at the head of prescriptions. Figurative use from 1640s. Meaning "instructions for preparing food" first recorded 1743. The original sense survives only in the pharmacist's abbreviation Rx.
 
 3. 释义,
 
-   食谱 a set of instructions telling you how to prepare and cook food, including a list of what food is needed for this
+   食谱 a set of instructions telling you how to prepare and cook food, including a listof what food is needed for this
 
 4. 拓展
 
-   recipe（食谱）：医生处方中的第一个字
-   古代西方医生在开处方时，第一个字通常是拉丁语recipe，意思是take（服用），后来缩写为Rx，并且R的最后一笔和x的第一笔重合。学过西医的中国医生在开处方时也是这样写的，不信可以翻开自己看病时医生开的处方单看看。因此，单词recipe在英语中原本表示“处方”，到了17世纪时逐渐用来表示“食谱”，而用prescription来表示“处方”。不过，从医生处方的第一个字上依然能看出recipe的初始含义。
-   与recipe同源的英语单词还有receive（接收）、reception（接收）等。
-   receive：[rɪ'siv] vt. 收到；接待；接纳vi. 接收
-   reception：[rɪ'sɛpʃən] n. 接待；接收；招待会；感受；反应
+   secret
+
+   tips
 
 **Thorough** /ˈθɝː.ə/ 彻底的
 
@@ -3549,6 +3392,71 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    complete 彻底的
 
    radical 根本的
+
+
+**Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
+
+1. 助记,
+
+   pin+point
+
+   pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
+
+   **Etymology**
+
+   also pin-point, "point of a pin," 1849, **from [pin](https://www.etymonline.com/word/pin?ref=etymonline_crossreference) (n.) + [point](https://www.etymonline.com/word/point?ref=etymonline_crossreference) (n.).** Taken into aeronautics in sense "place identified from the air," hence verb meaning "locate precisely" (1917), which originally was aviators' slang. Related: Pinpointed; pinpointing. As an adjective, "performed with precisional accuracy," 1944, originally of aerial bombing.
+
+3. 释义,
+
+   准确指出 to find out or saythe exact position in space or time of something
+
+4. 拓展
+
+   vt.查明；精确地找到；准确描述
+
+   [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
+
+   adj.精确的；详尽的
+
+   [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
+
+   n.针尖；精确位置；极小之物
+
+   [needlepoint](javascript:void(0);) / [fingerling](javascript:void(0);)
+
+**Gobbledegook** /ˈɡɑː.bəl.di.ɡuːk/ 官样文章
+
+1. 助记,
+
+   gobble+degook
+
+   来自1944年美国德克萨斯州国会议员Maury Maverick杜撰的一个词，模仿公鸡叫的声音来讽刺当时过于冗长的官样文章。同时，值得注意的是，他本人是maverick这个词的原创者Maverick的孙子。
+
+2. 词源,
+
+   **OED Origin**
+
+   1940s (originally US): probably imitating a **turkey's gobble**.
+
+   **Etymology**
+
+   also gobbledegook, "the overinvolved, pompous talk of officialdom" [Klein], 1944, American English, first used by U.S. Rep. Maury Maverick, D.-Texas, (1895-1954), a grandson of the original [maverick](https://www.etymonline.com/word/maverick?ref=etymonline_crossreference)and chairman of U.S. Smaller War Plants Corporation during World War II, in a memo dated March 30, 1944, banning "gobbledygook language" and mock-threateaning, "anyone using the wordsactivation or implementation will be shot." Maverick said he made up the word in imitation of turkey noise. Another word for it, coined about the same time, was bafflegab (1952).
+
+3. 释义,
+
+   官样文章 language, especially used in official letters, forms, and statements, that seemsdifficult or to mean nothing because you do not understand it
+
+4. 拓展
+
+   =bureaucratese
+
+
 
 
 
