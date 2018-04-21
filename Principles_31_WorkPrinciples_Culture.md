@@ -3503,6 +3503,66 @@ nitty-gritty/ˌnɪt.iˈɡrɪt.i/
 3. 定义：the basic facts of a situation  基本事实 本质
 
 
+mediocrity/ˌmiː.diˈɒk.rə.ti/ 
+
+1. 助记：
+   medius,中间的，ocris,山峰，锯齿状高山，后词义进一步贬义化，形容平庸的，差劲的。
+   mediocre【普通的，平庸的】 + -ity表名词。
+2. 词源：
+   etymology
+   early 15c., "moderation; intermediate state or amount," from Middle French médiocrité and directly from Latin mediocritatem (nominative mediocritas) "a middle state, middling condition, medium," from mediocris (see mediocre). Neutral at first; disparaging sense began to predominate from late 16c. The meaning "person of mediocre abilities or attainments" is from 1690s. Before the tinge of disparagement crept in, another name for the Golden Mean was golden mediocrity.
+3. 定义：
+   1. the quality of being not very good 平庸
+   2. a person that is not very good at something or not very good at anything in particular, or something that is not very good平庸之人
+
+cue/kjuː/
+
+1. 助记：暗示，来自拉丁语quando,何时，
+              台球杆，来自 queue,尾巴。
+2. 词源：
+   etymology
+   "stage direction," 1550s, from Q, which was used 16c., 17c. in stage plays to indicate actors' entrances, probably as an abbreviation of Latin quando "when" (from PIE root *kwo-, stem of relative and interrogative pronouns) or a similar Latin adverb. Shakespeare's printed texts have it as both Q and cue.
+3. 定义：
+   1. a word or action in a play or film that is used as a signal by a performer to begin saying or doing something（戲劇或電影中用來暗示演員開始說或做某事的）尾白，提示
+   2. a signal for someone to do something暗示；號
+4. 拓展：
+   1. cue（提示）：戏剧脚本中的提示标志
+      在16和17世纪时，在西方戏剧的脚本上，往往有表示提醒演员说话或上场的提示符号Q，Q是拉丁单词quando（=英语中的when）的缩写。后来，这个符号逐渐演变为单词cue，其发音跟Q一样。词义也逐渐扩展，不仅可以用来表示戏剧中的提示，还可以表示任何提示。
+      cue：n.提示，暗示，线索v.给……暗示
+      miscue：[mɪs'kjʊ] n. 撞歪；失误vi. 撞歪；错过提示
+   2. queue [kjuː] n.队列；长队；辫子，vi.排队；排队等候，vt.将…梳成辫子；使…排队。这个单词实际与单词cue [kjuː] n.提示；线索，vt.给…暗示，互为异体（qu-中的q发k音），本意是尾巴（狐狸的尾巴被小白兔看到啦）。尾巴能卷曲，队列能蜿蜒。Please queue up to register.请排队挂号。 
+
+reverberate/rɪˈvɜː.bər.eɪt/ 
+
+1. 助记：re-回 + verber-震动 + -ate表动词 → 重新震动 → 起回声。
+2. 词源：
+   etymology
+   1570s, "beat back, drive back, force back," from Latin reverberatus, past participle of reverberare "strike back, repel, cause to rebound" (see reverberation). Meaning "re-echo" is from 1590s. Earlier verb was reverberen (early 15c.). Related: Reverberated; reverberating.
+3. 定义：
+   1. If a loud, deep sound reverberates, it continues to be heard around an area, so that the area seems to shake.回声 回响 v.
+   2. If an event or idea reverberates somewhere, it has an effect on everyone or everything in a place or group.震撼 产生广泛影响 v.
+
+leeway/ˈliː.weɪ/ 
+
+1. 助记：lee【背风处】 + way【方向，道路】。原指由强风所致的偏航，现主要用于比喻义自由活动的空间，回旋余地。
+2. 词源：
+   etymology
+   also lee-way, 1660s, "sideways drift of a ship in her course caused by wind, deviation from true course by drifting to leeward," from lee + way (n.). Applied to loss of progress in general from 1827. Figurative meaning "extra space" is by 1835.
+3. 定义：
+   1. freedom to act within particular limits自由空間，自由度，餘地
+   2. an amount or period of time that has been lost or wasted富餘時間，多餘時間；浪費的時間
+4. 拓展：leeway（余裕）：航海时受风影响产生的偏移
+   英语单词leeway原本是个航海术语，由lee（下风处）+way（途径）组成，指的是船只在航行时，受风力影响，向下风方向产生的偏移。在航行时，必须预先想到船只可能产生的这种偏移，预先留出余裕，以免船只与下风方向的其他物体发生碰撞。因此，leeway一词便产生了“余裕，回旋余地”的含义。现在，该词已经广泛应用于日常生活和工作场景中。
+   leeway：['liːweɪ] n.余裕，回旋余地；偏航
+
+there is one way to skin a cat 达到目的方法不止一种
+
+    There are many versions of this proverb, which suggests there are always several ways to do something. Charles Kingsley used one old British form in Westward Ho! in 1855:“there are more ways of killing a cat than choking it with cream”. Other versions include “there are more ways of killing a cat than by choking it with butter”, and “there are more ways of killing a dog than choking him with pudding”. The earliest version appears as far back as 1678, in the second edition of John Ray’s collection of English proverbs, in which he gives it as “there are more ways to kill a dog than hanging”.
+
+    Writers have pointed to its use in the southern states of the US in reference to the catfish, often abbreviated to cat, a fish that is indeed usually skinned in preparing it for eating. However, it looks very much from the multiple versions of the saying, their wide distribution and their age, that this is just a local application of the proverb.  俗语中 cat 是对catfish 鲶鱼的缩写，鲶鱼需要剥去皮才能吃
+
+
+
 ## 11. Perceive and Don’t Tolerate Problems
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
