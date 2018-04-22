@@ -3203,306 +3203,6 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义：1 - 来自希腊语 symptoma,疾病，发生，来自 sym-,一起，一致，-pt,追逐，降落，词源同compete,petition,-oma,名词后缀。引申词义症状，征兆等。词义演变比较 syndrome,综合症。
 
 
-#### alert/əˈlɜːt/ 
-
-1. 助记：来自意大利语 all'erta.-erta,上升，词源同 erect,竖直。即全部到城墙上守城。引申为 警戒 警觉
-2. 词源
-   etymology
-   "on the watch," 1610s, from French alerte "vigilant" (17c.), from prepositional phrase à l'erte "on the watch," from Italian all'erta "to the height." Second element from erta "lookout, high tower," noun use of fem. of erto, past participle of ergere "raise up," from Latin erigere "raise" (see erect (adj.)).
-3. 定义
-   1.  quick to see, understand, and act in a particular situation 警觉的  机敏的
-   2.  a warning to prepared to deal with something dangerous 警报 
-4. 1. on alert,处于警戒状态;保持戒备  
-       Soldiers and police have been put on alert士兵和警方都已进入警戒状态
-   2. on the alert for something,准备就绪；防备着
-      They want to be on the alert for similar buying opportunities. 
-      他们希望随时掌握有关类似购买机会的信息。
-
-#### climb/klaɪm/
-
-1. 助记：clim-,clin-,cliv- 
-   = lean, slope, 表示“倾斜，斜坡”，来自拉丁语，引申为攀爬
-2. 词源：
-   etymology
-   Old English climban "raise oneself using hands and feet; rise gradually, ascend; make an ascent of" (past tense clamb, past participle clumben, clumbe), from West Germanic *klimban "go up by clinging" (source also of Dutch klimmen, Old High German klimban, German klimmen "to climb").
-3. 定义：to go up, or to go towards the top of something 攀爬 上升
-4. 拓展：俚语 climb the wall （由于失望 焦虑 忧虑 举止失常）
-   By the time the cops came i was about to climb the wall 警察赶到的时候，我都快急得发疯了
-
-#### scale/skeɪl/
-
-1. 助记：
-   1. 来自古诺斯语 skel,贝壳，skal,碗，饮水容器，来自 Proto-Germanicskaela,分开，劈开，来自PIEskel,砍，切，分开，词源同 shell,scallop.由贝壳引申词义碗，饮水器具，由贝壳的钙化性质引申词义水垢，牙石，由碗，饮水容器引申词义秤，天平，即秤的原型，由该印欧语的词根义引申词义鱼鳞，鳞片等。
-   2. 来自拉丁语 scala,梯子，来自（缩写自）scandere,攀爬，攀登，来自 PIE*skand,爬，上升，词源同 scan,ascend,descend.字母 d 脱落，类似拼写比较 rule,regulate.引申词义规模，范围，程度，等级，比例等。
-2. 词源：
-   etymology
-   skin plates on fish or snakes," c. 1300, from Old French escale "cup, scale, shell pod, husk" (12c., Modern French écale) "scale, husk," from Frankish *skala or some other Germanic source, from Proto-Germanic *skælo "split, divide" (source also of Dutch schaal "a scale, husk," Old High German scala "shell," Gothic skalja "tile," Old English scealu "shell, husk"), from PIE root *skel- (1) "to cut."
-3. 定义：
-   1. one of the many very small, flat pieces that cover the skin of fish, snakes, etc.鳞 鱼鳞
-   2. a hard, white or grey layer of material that forms on the inside of pipes or containers that heat water水垢
-   3. a set of numbers, amounts, etc., used to measure or compare the level of something刻度 尺度
-   4. to climb up a steep surface, such as a wall or the side of a mountain, often using special equipment 动词 攀登 攀爬
-
-#### tinker/ˈtɪŋ.kər/ 
-
-1. 助记：tink丁当声(拟声，榔头敲击锅的声音) + -er名词后缀，表人。
-2. 词源：
-   etymology
-   "mender of kettles, pots, pans, etc.," late 14c. (mid-13c. as a surname), of uncertain origin. Some connect the word with the sound made by light hammering on metal. Tinker's damn "something slight and worthless" is from 1824, probably preserving tinkers' reputation for free and casual use of profanity; the plain and simple etymology is not good enough for some writers, and since 1877 an ingeniously elaborate but baseless derivation has been circulated claiming the second word is really dam.
-3. 定义：
-   1. a person who travelled from place to place, repairing pans or other metal containers小炉匠，补锅匠，修补匠，补锅，
-   2. to make small changes to something, especially in an attempt to repair or improve it修补 （尤指不起作用地）修修补补； 小修理
-
-#### assiduous/əˈsɪdʒ.u.əs/
-
-1. 助记：as-一再 + sid-坐 + -uous → 一再坐着[学习] → 勤勉的。
-2. 词源：
-   etymology
-   1530s, from Latin assiduus "attending; continually present, incessant; busy; constant," from assidere/adsidere "to sit down to, sit by" (thus "be constantly occupied" at one's work); from ad "to" (see ad-) + sedere "to sit," from PIE root *sed- (1) "to sit." The word acquired a taint of "servility" in 18c. Related: Assiduously; assiduousness.
-3. 定义：
-    show hard work, care, and attention to detail
-       專心致志的；勤勉的
-
-
-
-
-
-**Lawsuit** /ˈlɑː.suːt/ 诉讼                
-
-1. 助记,
-
-   law+suit
-
-   law,法律，suit,诉讼。
-
-   suit（套装）：古代随从所穿的统一制服
-   suit源自拉丁语secutus，是动词sequi（跟随）的过去分词形式，与sequel（继续）同源，字面意思是“跟随”，最早表示“随从”，后来表示这些随从所穿的统一制服，再后来表示成套的衣服，即常说的“套装西服”。单词suite其实是suit的变体，表示“一批随从、一套家具、套间”。另一方面，从“跟随”的词意出发，suit还衍生出“追赶、请求”之意，从而衍生出“对女性的追求”之意。在法律领域，suit表示“诉讼”，对应动词是sue（控告、请求）。同源单词还有动词pursue（追赶，继续，从事）和名词pursuit（追求、职业）
-
-2. 词源,
-
-   **OED Origin**
-
-   **Etymology**
-
-   1620s, from [law](https://www.etymonline.com/word/law?ref=etymonline_crossreference) (n.) + [suit](https://www.etymonline.com/word/suit?ref=etymonline_crossreference) (n.).
-
-3. 释义,
-
-   诉讼 a problem taken to a law court by an ordinary person or an organization rather than the police in order to obtain a legal decision
-
-4. 拓展
-
-   同义词
-
-   litigation
-
-   ​
-
-**Equipped**  /ɪˈkwɪpt/ 装备齐全的                  
-
-1. 助记,
-
-   来自古法语esquiper, 船的配备，装载，词源同ship. 拼写参照etude, study
-
-2. 词源,
-
-   **OED Origin**
-
-   Early 16th century: from French équiper, probably from Old Norse skipa ‘**to man (a ship)’, from skip ‘ship’.**
-
-   **Etymology**
-
-   1520s, from Middle French équiper "to fit out," from Old French esquiper "fit out a ship, load on board" (12c.), probably from Old Norse skipa "arrange, place in order," usually "fit out a ship," but also of warriors manning a hall and trees laden with ripe fruit, from skip "ship" (see [ship](https://www.etymonline.com/word/ship?ref=etymonline_crossreference) (n.)). Related: Equipped; equipping. Similar words in  Spanish and Portuguese ultimately are from Germanic.
-
-3. 释义,
-
-   装备齐全的 having the necessary tools, clothes, equipment, etc.
-
-4. 拓展
-
-   同义词
-
-   [furnished](javascript:void(0);)
-
-
-
-#### ethic/ˈeθ.ɪk/ 
-
-1. 助记：ethn-,ethno- = nation, 表示“民族；性情（民族情感）” 民族情感指向 引申为 伦理 道德体系 
-
-2. 词源：
-
-   **etymology**
-
-   late 14c., ethik "study of morals," from Old French etique "ethics, moral philosophy" (13c.), from Late Latin ethica, from Greek ethike philosophia "moral philosophy," fem. of ethikos "ethical," from ethos "moral character," related to ethos "custom" (see ethos). Meaning "moral principles of a person or group" is attested from 1650s.
-
-3. 定义：a system of accepted beliefs that control behaviour, especially such a system based on morals 伦理 道德规范
-
-   a system of accepted beliefs that control behaviour, especially such a system based on morals 伦理 道德规范
-
-
-
-#### trap/træp/ 
-
-1. 助记：tr- 表示“踩、踏”，原始印欧语形式为*der-. 一踩会陷进去的 圈套 陷阱
-
-   来自古英语 traeppe,陷阱，罗网，来自 Proto-Germanictrep,踩踏，来自 PIEder,走，跑，步行，词源同 trip,tramp,tread.词义通俗化为圈套
-
-2. 词源：
-
-   **etymology**
-
-   contrivance for catching unawares," late Old English træppe, treppe "snare, trap," from Proto-Germanic *trep- (source also of Middle Dutch trappe "trap, snare"), related to Germanic words for "stair, step, tread" (Middle Dutch, Middle Low German trappe, treppe, German Treppe "step, stair," English tread (v.)), and probably literally "that on or into which one steps," from PIE *dreb-, extended form of root *der- (1), an assumed base of words meaning "to run, walk, step." Probably akin to Old French trape, Spanish trampa "trap, pit, snare," but the exact relationship is uncertain.
-
-3. 定义：
-
-   1. a dangerous or unpleasant situation which you have got into and from which it is difficult or impossible to escape圈套；詭計
-   2. a device or hole for catching animals or people and preventing their escape陷阱；夾子；捕捉器
-
-#### rank/ræŋk/
-
-1. 助记：rank- = rank, 表示“排列，顺序”，来源于古法语rangier“排成直线”。
-
-   来自古法语ranc , 排，行，来自PIE*sker , 弯，转，词源同ring , curve . 词义由环行排列过渡至水平排列。引申词义排列，等级。
-
-2. 词源：
-
-   **etymology**
-
-   Old English ranc "proud, overbearing, showy," from Proto-Germanic *rankaz (source also of Danish rank "right, upright," German rank "slender," Old Norse rakkr "straight, erect"), perhaps from PIE root *reg- "move in a straight line." In reference to plant growth, "vigorous, luxuriant, abundant, copious" it is recorded from c. 1300. Related: Rankly; rankness.
-
-3. 定义：
-
-   a particular position, higher or lower than others 等级 级别
-
-   a row, especially of people or things standing side by side 行 列 排
-
-   a position in an organization, such as the army, showing the importance of the person having it 职位 官阶 
-
-4. 拓展：rank and file民众；普通士兵；普通成员。国际象棋传入西方后，在12世纪的法国非常流行，一些象棋术语也开始进入民众之中。国象棋盘上的横列称作rank，纵列称作file，这样rank and file就是棋盘上的所有士兵并随后通俗化指普通民众了。There was widespread support for him among the rank and file. 
-
-#### escalate/ˈes.kə.leɪt/
-
-1. 助记：
-
-   escal-梯子 + -ate表动词 → 梯子使人逐步上升。
-
-   escal- = ladder, 表示“梯子
-
-2. 词源：
-
-   **etymology**
-
-   1922, "to use an escalator," back-formation from escalator, replacing earlier verb escalade (1801), from the noun escalade. Escalate came into general use with a figurative sense of "raise" from 1959 (intrans.), originally in reference to scenarios for possible nuclear war. Related: Escalated; escalating. Transitive figurative sense is by 1962.
-
-3. 定义：to become or make something become greater or more serious
-
-4. 拓展：文中 escalate request to the Management Committe  指请求上升到达管理委员会 比喻 
-
-   escalator（自动扶梯）：在攻城战中用梯子攀爬城墙
-
-   英语单词escalator（电动扶梯）原本是美国著名的奥蒂斯电梯公司（Otis Elevator Co.）所生产的电动扶梯的品牌名。该品牌由单词escalade+elevator混合而成。英语单词escalade原本是一个军事术语，指的是在攻城战中用梯子攀爬城墙，由e+scale（攀爬）+ade（名词后缀）构成。电动扶梯就是电力驱动的楼梯，在停用时可以作为普通楼梯使用，在很多建筑中得到普遍使用。奥蒂斯电梯公司出品的escalator牌电动扶梯在市场中占据了巨大的份额，以至于这一品牌名成了“电动扶梯”的代名词，并反向衍生了单词escalate。
-
-   escalade： [,eskə'leɪd] n.vt.攀登，用梯子攀爬
-
-   escalator： ['eskəleɪtə] n.电动扶梯，自动扶梯
-
-   escalate：['eskəleɪt] v.逐步上升，逐渐增强
-
-#### shiny/ˈʃaɪ.ni/
-
-1. 助记：shine- = spark, 表示“火花”。
-
-   来自古英语 scinan,照耀，照明，发光，来自 Proto-Germanicskinan,照耀，发光，来自 PIEskai,照耀，发光，词源同 sheen,shimmer.
-
-2. 词源：
-
-   **etymology**
-
-   1580s, from shine (n.) + -y (2). As a noun meaning "a shiny object" (also "money") from 1856. 
-
-3. 定义：A shiny surface is bright because it reflects light闪耀的 发光的 发亮的
-
-4. 拓展：make hay while the sun shines莫失良机；抓紧时机。英国本身雾天就多，而中世纪里，比较准确地预测未来三天甚至两天的天气都是很困难的。所以割草+晒干这个过程就格外需要天公作美。因此，看到大晴天，赶紧的，割草去。If you want to become a millionaire, you must make hay(晒干草) while the sun shines. 
-
-discipline/ˈdɪs.ə.plɪn/ 
-
-1. 助记：disciple【学习，门徒】 + -ine。引申词义训练，必要的纪律，惩罚。
-2. 词源：
-   etymology
-   early 13c., "penitential chastisement; punishment," from Old French descepline (11c.) "discipline, physical punishment; teaching; suffering; martyrdom," and directly from Latin disciplina "instruction given, teaching, learning, knowledge," also "object of instruction, knowledge, science, military discipline," from discipulus (see disciple (n.)).
-3. 定义：training that makes people more willing to obey or more able to control themselves, often in the form of rules, and punishments if these are broken, or the behaviour produced by this training 纪律
-4. 拓展：discipline（纪律）：纪律严明的古罗马教育
-   古罗马人以纪律严明著称，古罗马军队之所以拥有强大的战斗力，一个主要原因就是士兵们能够严守军纪。古罗马人的纪律性是从儿童教育阶段就开始培养、锻炼出来的。古罗马人认为，教育不仅仅是传授知识，更重要的是磨练意志、培养学生吃苦耐劳、遵守纪律等各项优良品质，因此在教学活动中往往融合对学生的意志和纪律的培养，普遍采用体罚手段。
-   英语单词discipline来自拉丁语disciplina，指的就是古罗马的这种教育，字面意思是“指导、教学”，由此延伸出“学科”之意。由于古罗马的教育强调纪律和惩戒，因此discipline又产生了“纪律、磨练、管教”的含义。与它同源的单词有disciple（门徒、弟子）。
-   discipline：['dɪsɪplɪn] n.学科，纪律，磨练，管教，惩罚vt.训练，寻到，惩戒
-   indiscipline：[ɪn'dɪsɪplɪn] n. 无纪律；缺乏训练；无纪律行为
-   disciplinary：['dɪsəplənɛri] adj. 规律的；训练的；训诫的
-   disciple：[dɪ'saɪp(ə)l] n.门徒，弟子
-
-
-confusion/kənˈfjuː.ʒən/ 
-
-1. 助记：
-   confuse【混乱】 + -ion名词后缀
-   con-共同 + fus-流 + e → 流到一起 → 混合, 混乱。
-   con-,表强调，-fus,流，倾泻，词源同 fusion,foundry.即流到一起，难以区别而产生困惑。
-2. 词源：
-   etymology
-   c. 1300, confusioun, "overthrow, ruin," from Old French confusion "disorder, confusion, shame" (11c.) and directly from Latin confusionem (nominative confusio) "a mingling, mixing, blending; confusion, disorder," noun of action from past-participle stem of confundere "to pour together," also "to confuse" (see confound).
-3. 定义：a situation in which people do not understand what is happening, what they should do 困惑  混淆
-
-
-instill /ɪnˈstɪl/
-
-1. 助记：in-进入，使 + still-滴，水滴，引申词义逐步灌输，逐步培养。
-2. 词源：
-   etymology
-   also instil, early 15c., "to introduce (liquid, feelings, etc.) little by little," from Latin instillare "put in by drops; to drop, trickle," from in- "in" (from PIE root *en "in") + stilla "a drop" (see distill). Related: Instilled; instiller; instilling.
-3. 定义：to put a feeling, idea, or principle gradually into someone's mind, so that it has a strong influence on the way that person thinks or behaves 逐渐灌输
-
-offend/əˈfend/ 
-
-1. 助记：
-   of-一再 + fend-打击 → 一再打击[别人] → 得罪
-   fend- = strike, 表示“打击”，来自拉丁语。
-2. 词源：
-   etymology
-   early 14c., "to sin against (someone)," from Old French ofendre "transgress, antagonize," and directly from Latin offendere "to hit, strike against," figuratively "to stumble, commit a fault, displease, trespass against, provoke," from assimilated form of ob "in front of against" (see ob-) + -fendere "to strike" (found only in compounds; see defend).
-3. 定义：to make someone upset or angry 冒犯 得罪 惹恼
-
-vest /vest/
-
-1. 助记：
-   来自PIE*wes , 穿衣，词源同wear , invest . 引申词义授权，赋予，来自特定衣服的象征意
-   vest- 
-   = clothes, 表示“衣服”，原始印欧语形式*wes- "to clothe", 同源词wear表示“穿、磨损”。
-2. 词源：
-   etymology
-   1610s, "loose outer garment" (worn by men in Eastern countries or in ancient times), from French veste "a vest, jacket" (17c.), from Italian vesta, veste "robe, gown," from Latin vestis "clothing," from vestire "to clothe" (from PIE *wes- (2) "to clothe," extended form of root *eu- "to dress"). The sleeveless garment worn by men beneath the coat was introduced by Charles II in a bid to rein in men's attire at court, which had grown extravagant and decadent in the French mode.
-3. 定义：a type of underwear, often with no sleeves, that covers the upper part of the body, worn for extra warmth背心
-4. 拓展：invest（投资）：给财富换上神奇的衣服
-   17世纪初期，西方的英、法、荷等国纷纷向东半球开展殖民扩展，并设立多家“东印度公司”负责殖民地的经贸事务，实际上是西方列强侵略盘剥印度等地的工具。1602年，荷兰联合东印度公司成立。它采取了一种全新的企业组织形式——股份制，即通过向全社会融资来筹集资金。1609年，在荷兰的阿姆斯特丹成立了世界上第一家股票交易所。当时，东印度公司成了国家的摇钱树，源源不断地从东方带来巨大财富。在海外财富的刺激下，成千上万的人把自己的积蓄投入给东印度公司，希望将来能获得丰厚的回报。甚至，阿姆斯特丹市市长的女仆也成了东印度公司的股东之一。正是在这种背景下，invest这个原本与金融毫无关系的单词衍生出了“投资”的含义。
-   英语单词invest来自investire，本意是“穿上正式的制服”，由in（进入）+vestire（衣服）构成，英语单词vest（背心，汗衫）就源自vestire。人们将手中的钱换成东印度公司股票时，就像是给财富换上了一件神奇的衣服，一件可以带来滚滚财源的衣服，所以人们用invest这个单词来比喻这种购买股票的投资行为，invest也就产生了“投资”的含义。有趣的是，股票交易所中的交易员都身穿马甲（in vest）。
-   invest：[ɪn'vest] v.投资，投资于；覆盖，包围
-   investment：[ɪn'ves(t)m(ə)nt] n.投资，投入，封锁
-   investor： [ɪn'vɛstɚ] n. 投资者
-   vest： [vest] n.背心，汗衫，马甲vt.授予，使穿衣服vi.归属，穿衣服
-   investiture：[ɪn'vɛstətʃɚ] n. 授职仪式；授权仪式；装饰或覆盖物
-
-nitty-gritty/ˌnɪt.iˈɡrɪt.i/ 
-
-1. 助记：
-   Nitty虱子 gritty沙砾
-   记忆中我们很早就被告之：认识事物，首先要抓住事物的“本质”。英语中，“本质、精髓”常用单词essence来表示，今天谈的nitty-gritty也表示“本质”，不过更加口语话。
-   Nitty-gritty（本质）是个合成词，由两种极微小的事物——“虱子”和“沙砾”——组成，nitty（多虱子的）源于名词nit（虱子），gritty相应的名词形式grit指“沙砾”。语言学家猜测，也许人们觉得，微小的东西比庞然大物更易于掌握，更与“本质、核心”相吻合，所以，“虱子”+“沙子”——颇显怪诞的“微小”组合——竟成了重中之重的“核心”、“本质”和“精髓”。
-   这种猜测很容易让人想起诗人William Blake（威廉·布莱克）那首有名的诗行：To see a world in a grain of sand, And a heaven in a wild flower; Hold infinity in the palm of your hand, And eternity in an hour（从一粒沙子里可以看穿宇宙，从一朵野花里可以看到天堂；你可以把无限握在手心，把永恒存于瞬间）。
-   记着哦，下次如果有人在您面前天花乱坠晕侃时，您不妨提醒他一下：
-   Let's get to the nitty-gritty.（咱们讨论些实质的东西吧！)
-2. 词源："basic facts," 1961, knitty-gritty, American English, said to have been chiefly used by black jazz musicians, perhaps ultimately from nit and grits "finely ground corn."
-3. 定义：the basic facts of a situation  基本事实 本质
-
-
 ## 11. Perceive and Don’t Tolerate Problems
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
@@ -3641,27 +3341,29 @@ nitty-gritty/ˌnɪt.iˈɡrɪt.i/
 
    re-,向后，往回，-cip,抓住，词源同 receive,participate.引申词义食谱，秘诀。
 
+   de- "off"偏离 + via "way" 道路=> devi- "turn aside, off the way" + -ation => deviation.
+
+   => turn out of the way.偏离道理，越轨，偏差
+
 2. 词源,
 
    **OED Origin**
 
-   Late Middle English: from Latin, **literally ‘receive!’** (first used as an instruction in medical prescriptions), imperative of recipere.
+   Late Middle English: from Latin, literally ‘receive!’ (first used as an instruction in medical prescriptions), imperative of recipere.
 
    **Etymology**
 
-   1580s, "medical prescription," from Middle French récipé (15c.), from Latin recipe "take!," second person imperative singular of recipere "**to take" (see [receive](https://www.etymonline.com/word/receive?ref=etymonline_crossreference));** word written by physicians at the head of prescriptions. Figurative use from 1640s. Meaning "instructions for preparing food" first recorded 1743. The original sense survives only in the pharmacist's abbreviation Rx.
+   1580s, "medical prescription," from Middle French récipé (15c.), from Latin recipe "take!," second person imperative singular of recipere "to take" (see [receive](https://www.etymonline.com/word/receive?ref=etymonline_crossreference)); word written by physicians at the head of prescriptions. Figurative use from 1640s. Meaning "instructions for preparing food" first recorded 1743. The original sense survives only in the pharmacist's abbreviation Rx.
 
 3. 释义,
 
-   食谱 a set of instructions telling you how to prepare and cook food, including a list of what food is needed for this
+   食谱 a set of instructions telling you how to prepare and cook food, including a listof what food is needed for this
 
 4. 拓展
 
-   recipe（食谱）：医生处方中的第一个字
-   古代西方医生在开处方时，第一个字通常是拉丁语recipe，意思是take（服用），后来缩写为Rx，并且R的最后一笔和x的第一笔重合。学过西医的中国医生在开处方时也是这样写的，不信可以翻开自己看病时医生开的处方单看看。因此，单词recipe在英语中原本表示“处方”，到了17世纪时逐渐用来表示“食谱”，而用prescription来表示“处方”。不过，从医生处方的第一个字上依然能看出recipe的初始含义。
-   与recipe同源的英语单词还有receive（接收）、reception（接收）等。
-   receive：[rɪ'siv] vt. 收到；接待；接纳vi. 接收
-   reception：[rɪ'sɛpʃən] n. 接待；接收；招待会；感受；反应
+   secret
+
+   tips
 
 **Thorough** /ˈθɝː.ə/ 彻底的
 
@@ -3690,8 +3392,6 @@ nitty-gritty/ˌnɪt.iˈɡrɪt.i/
    complete 彻底的
 
    radical 根本的
-
-
 
 
 **Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
@@ -3755,6 +3455,57 @@ nitty-gritty/ˌnɪt.iˈɡrɪt.i/
 4. 拓展
 
    =bureaucratese
+
+
+ **Pros**  /prəuz/ 赞同者      
+
+1. 助记,
+
+   professional (n.) 的缩写。作为形容词最初记录于1915 (in golfing's pro shop)。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (as a noun): from Latin, literally ‘for, on behalf of’.
+
+   **Etymology**
+
+   "a consideration or argument in favor," c. 1400, from Latin pro "on behalf of, in place of, before, for, in exchange for, just as," from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "in front of, before, first, chief." Pro and con is short for pro and contra (c. 1400) "for and against" (Latin pro et contra).
+
+3. 释义,
+
+   赞成者  supporting or agreeing with something
+
+4. 拓展
+
+   [pros and cons](javascript:void(0);)正反两方面；赞成者和反对者
+
+ **Violate** /ˈvaɪ.ə.leɪt/ 违背    
+
+1. 助记,
+
+   viol+ate
+
+   viol-暴力,野蛮,ate-造成--违背\违反
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin violat- ‘treated violently’, from the verb violare.
+
+   **Etymology**
+
+   early 15c., "to break" (an oath, etc.), from Latin violatus, past participle of violare "treat with violence, dishonor, outrage" (see [violation](https://www.etymonline.com/word/violation?ref=etymonline_crossreference)). Sense of "ravish" is first recorded mid-15c. Related: Violated; violating.
+
+3. 释义,
+
+   违背 to break or act against something, especially a law, agreement, principle, or something that should be treated with respect
+
+4. 拓展
+
+   act against
 
 
 
