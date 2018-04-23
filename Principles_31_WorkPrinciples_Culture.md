@@ -3809,7 +3809,159 @@ enchant/ɪnˈtʃɑːnt/
 
 
 
+
+Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
+
+1. 助记,
+
+   pin+point
+
+   pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
+
+   **Etymology**
+
+   also pin-point, "point of a pin," 1849, **from [pin](https://www.etymonline.com/word/pin?ref=etymonline_crossreference) (n.) + [point](https://www.etymonline.com/word/point?ref=etymonline_crossreference) (n.).** Taken into aeronautics in sense "place identified from the air," hence verb meaning "locate precisely" (1917), which originally was aviators' slang. Related: Pinpointed; pinpointing. As an adjective, "performed with precisional accuracy," 1944, originally of aerial bombing.
+
+3. 释义,
+
+   准确指出 to find out or saythe exact position in space or time of something
+
+4. 拓展
+
+   vt.查明；精确地找到；准确描述
+
+   [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
+
+   adj.精确的；详尽的
+
+   [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
+
+   n.针尖；精确位置；极小之物
+
+   [needlepoint](javascript:void(0);) / [fingerling](javascript:void(0);)
+
+**Gobbledegook** /ˈɡɑː.bəl.di.ɡuːk/ 官样文章
+
+1. 助记,
+
+   gobble+degook
+
+   来自1944年美国德克萨斯州国会议员Maury Maverick杜撰的一个词，模仿公鸡叫的声音来讽刺当时过于冗长的官样文章。同时，值得注意的是，他本人是maverick这个词的原创者Maverick的孙子。
+
+2. 词源,
+
+   **OED Origin**
+
+   1940s (originally US): probably imitating a **turkey's gobble**.
+
+   **Etymology**
+
+   also gobbledegook, "the overinvolved, pompous talk of officialdom" [Klein], 1944, American English, first used by U.S. Rep. Maury Maverick, D.-Texas, (1895-1954), a grandson of the original [maverick](https://www.etymonline.com/word/maverick?ref=etymonline_crossreference)and chairman of U.S. Smaller War Plants Corporation during World War II, in a memo dated March 30, 1944, banning "gobbledygook language" and mock-threateaning, "anyone using the wordsactivation or implementation will be shot." Maverick said he made up the word in imitation of turkey noise. Another word for it, coined about the same time, was bafflegab (1952).
+
+3. 释义,
+
+   官样文章 language, especially used in official letters, forms, and statements, that seemsdifficult or to mean nothing because you do not understand it
+
+4. 拓展
+
+   [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 12. Diagnose Problems to Get at Their Root Causes
+
+**Anchor** /ˈæŋ.kɚ/ 锚
+
+1. 助记,
+
+   同ankle, 弯钩，脚踝，锚。
+
+   anc-,ang-,ank,-unc- 
+   这组词根都源自原始印欧语*ang-/*ank- ="to bend"表示弯或钩状.
+
+   在医学词汇中：anchylo-, ancylo-特指“弯曲、粘连”.
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English ancor, ancra, via Latin from Greek ankura; reinforced in Middle English by Old French ancre. The current form is from anchora, an erroneous Latin spelling. The verb (from Old French ancrer) dates from Middle English.
+
+   **Etymology**
+
+   "device for securing ships to the ground under the water by means of cables," Old English ancor, borrowed 9c. from Latin ancora "an anchor," from or cognate with Greek ankyra "an anchor, a hook," from PIE root *ang-/*ank- **"to bend" (see [angle](https://www.etymonline.com/word/angle?ref=etymonline_crossreference) (n.)).**
+
+   A very early borrowing into English and said to be the only Latin nautical term used in the Germanic languages (German Anker, Swedish ankar, etc.). The unetymological -ch- emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for [anchorman](https://www.etymonline.com/word/anchorman?ref=etymonline_crossreference) (q.v.).
+
+3. 释义,
+
+   锚  a heavy metal object, usually shaped like a cross with curved arms, on astrong rope or chain, that is dropped from a boat into the water to prevent theboat from moving away
+
+4. 拓展
+
+   近义词，
+
+   kelleg n.[船]锚
+
+   backer patron 靠山
+
+   nail 钉住
+
+   同根词，
+
+   [anchorage](javascript:void(0);) 锚地；下锚；停泊税
+
+   [anchorman](javascript:void(0);) 末棒运动员；新闻节目主持人
+
+   [anchorperson](javascript:void(0);) 新闻节目主持人
+
+**Pitfall**/ˈpɪt.fɑːl/ 陷阱
+
+1. 助记,
+
+   pit+fall
+
+   pit,深坑，fall,掉落。掉落深坑，引申词义陷阱。
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
+
+3. 释义,
+
+   陷阱 a likely mistake or problem in a situation
+
+4. 拓展
+
+   [deficiency](javascript:void(0);) 缺陷
+
+   defect 缺点
+
+   trap\ [mesh](javascript:void(0);) 陷阱
+
+## 
+
+
 
 
 
