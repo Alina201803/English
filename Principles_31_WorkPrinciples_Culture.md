@@ -3619,6 +3619,67 @@ enchant/ɪnˈtʃɑːnt/
    canticle：['kæntɪk(ə)l] n. 颂歌；圣歌
 
 
+vague/veɪɡ/
+
+1. 助记：
+   vag 流浪者；vag-漫游 + -ue → 漫游而思想不集中 → 含糊的。
+   vagary vag-漫游 + -ary名词后缀 → 思想漫游 → 妄想。狂想 奇特行为n.
+2. 词源：
+   etymology
+   "uncertain as to specifics," 1540s, from Middle French vague "empty, vacant; wild, uncultivated; wandering" (13c.), from Latin vagus "strolling, wandering, rambling," figuratively "vacillating, uncertain," of unknown origin. Related: Vagueness.
+3. 定义：
+   1. not clearly expressed, known, described, or decided(表达或感知)含糊的, 不明确的, 不清楚的
+   2. not clear in shape, or not clearly seen模糊的,不清楚的,朦胧的
+
+implicit/ɪmˈplɪs.ɪt/
+
+1. 助记：im-进 + plic-折叠 + it → 重叠表达 → 含蓄的。
+   plic- pli- ply = fold, 表示“重叠，折叠
+   complicate com-全部 + plic-折叠 + -ate表动词 → 全部重叠起来 → 弄复杂 
+   explicit ex-出 + plic-折叠 + it → [说话]不重叠的 → 直截了当的。
+2. 词源：
+   etymology
+   1590s, "implied, resting on inference," from Middle French implicite and directly from Latin implicitus, later variant of implicatus "entangled, confused, involved," past participle of implicare "entangle, involve," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plicare "to fold" (from PIE root *plek- "to plait"). From c. 1600 as "resulting from perfect confidence (in authority), unquestioning" (especially of faith).
+3. 定义:suggested but not communicated directly不言明[含蓄]的；
+
+gravitate/ˈɡræv·ɪˌteɪt/
+
+1. 助记：grave【重】 + itale → 变重
+2. 词源：
+   etymology
+   1640s, "exert weight; move downward" (obsolete), from Modern Latin gravitare (16c. in scientific writing), from Latin gravitas "heaviness, weight," from gravis "heavy" (from PIE root *gwere-(1) "heavy"). Meaning "be affected by gravity" is from 1690s. Figurative sense "be strongly attracted to, have a natural tendency toward" is from 1670s. Related: Gravitated; gravitating. The classical Latin verb was gravare "to make heavy, burden, oppress, aggravate."
+3. 定义：to be attracted to or move toward something受重力作用； 被吸引
+4. 拓展：gravity（重力）：物体的“沉重”属性
+   英语单词gravity和gravitation都源自拉丁语gravis（=grave，沉重的），都含有“重力、地心引力”的含义，因此很多人都区分不了这两个单词之间的细微差异。其实，通过词源分析，两者之间的差异一目了然。gravity直接来自拉丁语名词gravitas，是gravis的名词形式，本意就是“沉重性、严重性”，13世纪进入法语，15世纪进入英语。当时并没有“重力、地心引力”的含义，因为那时候人们还没有“重力”和“万有引力”的概念，光知道物体有“沉重”这种性质。
+   直到16世纪末期，科学家伽利略才首次提出了“重力”或“万有引力”的概念，并通过著名的比萨斜塔实验向大众演示了重力的作用过程。这个时候，科学家才有了“引力”这个概念，并在17世纪40年代创造了动词gravitate，用来表示“引力作用”，而它的名词形式自然就是gravitation。
+   这么看，gravity和gravitation之间的差异就很明显了：gravity是grave（沉重的）的名词形式，意思是“沉重性、严重性”，后来万有引力概念诞生后，在非专业场合可以表示“重力、万有引力”，但同时保留了“沉重性、严重性”之意。而gravitation出现在万有引力概念诞生之后，是动词gravitate（引力作用）的名词形式，专门用来表示“重力、万有引力”，不表示“沉重性、严重性”。
+   grav-：沉重
+   gravity：['ɡrævəti] n. 重力，地心引力；严重性；庄严
+   grave：[ɡrev] adj. 重大的；严肃的；黯淡的n. 墓穴，坟墓；死亡vt. 雕刻；铭记
+   gravid：['grævɪd] adj. 妊娠的；怀孕的。字面意思指身子变沉重
+   gravitate：['ɡrævɪtet] vi. 受引力作用；被吸引
+   gravitation：[,ɡrævɪ'teʃən] n. 重力；万有引力；地心吸力
+
+expedient/ɪkˈspiː.di.ənt/
+
+1. 助记：ex-出 + ped-脚 + -ient → 能把脚跨出去 → 方便的
+2. 词源：
+   etymology
+   late 14c., "advantageous, fit, proper to a purpose," from Old French expedient "useful, beneficial" (14c.) or directly from Latin expedientem (nominative expediens) "beneficial," present participle of expedire "make fit or ready, prepare" (see expedite). The noun meaning "a device adopted in an exigency, that which serves to advance a desired result" is from 1650s. Related: Expediential; expedientially (both 19c.).
+3. 定义：helpful or useful in a particular situation, but sometimes not morally acceptable方便的，便利的，有利的
+
+prerequisite/ˌpriːˈrek.wɪ.zɪt/ 
+
+1. 助记：
+   pre-预先 + requisite【必需品】 → 先决条件。
+   re-再 + quis-寻找 + -ite → 一再寻求的 → 必要的。
+2. 词源：
+   etymology
+   1630s (n.) "something required beforehand," 1650s (adj.), "required beforehand," both from pre- + requisite.
+   mid-15c., from Latin requisitus, past participle of requirere (see require). As a noun from c. 1600.
+3. 定义：something that must exist or happen before something else can exist or happen先决条件，前提，必要条件
+
+
 ## 11. Perceive and Don’t Tolerate Problems
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
