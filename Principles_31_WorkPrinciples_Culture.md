@@ -3460,7 +3460,78 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 ## 12. Diagnose Problems to Get at Their Root Causes
 
+**Anchor** /ˈæŋ.kɚ/ 锚
 
+1. 助记,
+
+   同ankle, 弯钩，脚踝，锚。
+
+   anc-,ang-,ank,-unc- 
+   这组词根都源自原始印欧语*ang-/*ank- ="to bend"表示弯或钩状.
+
+   在医学词汇中：anchylo-, ancylo-特指“弯曲、粘连”.
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English ancor, ancra, via Latin from Greek ankura; reinforced in Middle English by Old French ancre. The current form is from anchora, an erroneous Latin spelling. The verb (from Old French ancrer) dates from Middle English.
+
+   **Etymology**
+
+   "device for securing ships to the ground under the water by means of cables," Old English ancor, borrowed 9c. from Latin ancora "an anchor," from or cognate with Greek ankyra "an anchor, a hook," from PIE root *ang-/*ank- **"to bend" (see [angle](https://www.etymonline.com/word/angle?ref=etymonline_crossreference) (n.)).**
+
+   A very early borrowing into English and said to be the only Latin nautical term used in the Germanic languages (German Anker, Swedish ankar, etc.). The unetymological -ch- emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for [anchorman](https://www.etymonline.com/word/anchorman?ref=etymonline_crossreference) (q.v.).
+
+3. 释义,
+
+   锚  a heavy metal object, usually shaped like a cross with curved arms, on astrong rope or chain, that is dropped from a boat into the water to prevent theboat from moving away
+
+4. 拓展
+
+   近义词，
+
+   kelleg n.[船]锚
+
+   backer patron 靠山
+
+   nail 钉住
+
+   同根词，
+
+   [anchorage](javascript:void(0);) 锚地；下锚；停泊税
+
+   [anchorman](javascript:void(0);) 末棒运动员；新闻节目主持人
+
+   [anchorperson](javascript:void(0);) 新闻节目主持人
+
+**Pitfall**/ˈpɪt.fɑːl/ 陷阱
+
+1. 助记,
+
+   pit+fall
+
+   pit,深坑，fall,掉落。掉落深坑，引申词义陷阱。
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
+
+3. 释义,
+
+   陷阱 a likely mistake or problem in a situation
+
+4. 拓展
+
+   [deficiency](javascript:void(0);) 缺陷
+
+   defect 缺点
+
+   trap\ [mesh](javascript:void(0);) 陷阱
 
 ## 13. Design Improvements to Your Machine to Get Around Your Problems
 
