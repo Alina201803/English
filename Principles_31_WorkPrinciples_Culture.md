@@ -3503,6 +3503,122 @@ nitty-gritty/ˌnɪt.iˈɡrɪt.i/
 3. 定义：the basic facts of a situation  基本事实 本质
 
 
+mediocrity/ˌmiː.diˈɒk.rə.ti/ 
+
+1. 助记：
+   medius,中间的，ocris,山峰，锯齿状高山，后词义进一步贬义化，形容平庸的，差劲的。
+   mediocre【普通的，平庸的】 + -ity表名词。
+2. 词源：
+   etymology
+   early 15c., "moderation; intermediate state or amount," from Middle French médiocrité and directly from Latin mediocritatem (nominative mediocritas) "a middle state, middling condition, medium," from mediocris (see mediocre). Neutral at first; disparaging sense began to predominate from late 16c. The meaning "person of mediocre abilities or attainments" is from 1690s. Before the tinge of disparagement crept in, another name for the Golden Mean was golden mediocrity.
+3. 定义：
+   1. the quality of being not very good 平庸
+   2. a person that is not very good at something or not very good at anything in particular, or something that is not very good平庸之人
+
+cue/kjuː/
+
+1. 助记：暗示，来自拉丁语quando,何时，
+              台球杆，来自 queue,尾巴。
+2. 词源：
+   etymology
+   "stage direction," 1550s, from Q, which was used 16c., 17c. in stage plays to indicate actors' entrances, probably as an abbreviation of Latin quando "when" (from PIE root *kwo-, stem of relative and interrogative pronouns) or a similar Latin adverb. Shakespeare's printed texts have it as both Q and cue.
+3. 定义：
+   1. a word or action in a play or film that is used as a signal by a performer to begin saying or doing something（戲劇或電影中用來暗示演員開始說或做某事的）尾白，提示
+   2. a signal for someone to do something暗示；號
+4. 拓展：
+   1. cue（提示）：戏剧脚本中的提示标志
+      在16和17世纪时，在西方戏剧的脚本上，往往有表示提醒演员说话或上场的提示符号Q，Q是拉丁单词quando（=英语中的when）的缩写。后来，这个符号逐渐演变为单词cue，其发音跟Q一样。词义也逐渐扩展，不仅可以用来表示戏剧中的提示，还可以表示任何提示。
+      cue：n.提示，暗示，线索v.给……暗示
+      miscue：[mɪs'kjʊ] n. 撞歪；失误vi. 撞歪；错过提示
+   2. queue [kjuː] n.队列；长队；辫子，vi.排队；排队等候，vt.将…梳成辫子；使…排队。这个单词实际与单词cue [kjuː] n.提示；线索，vt.给…暗示，互为异体（qu-中的q发k音），本意是尾巴（狐狸的尾巴被小白兔看到啦）。尾巴能卷曲，队列能蜿蜒。Please queue up to register.请排队挂号。 
+
+reverberate/rɪˈvɜː.bər.eɪt/ 
+
+1. 助记：re-回 + verber-震动 + -ate表动词 → 重新震动 → 起回声。
+2. 词源：
+   etymology
+   1570s, "beat back, drive back, force back," from Latin reverberatus, past participle of reverberare "strike back, repel, cause to rebound" (see reverberation). Meaning "re-echo" is from 1590s. Earlier verb was reverberen (early 15c.). Related: Reverberated; reverberating.
+3. 定义：
+   1. If a loud, deep sound reverberates, it continues to be heard around an area, so that the area seems to shake.回声 回响 v.
+   2. If an event or idea reverberates somewhere, it has an effect on everyone or everything in a place or group.震撼 产生广泛影响 v.
+
+leeway/ˈliː.weɪ/ 
+
+1. 助记：lee【背风处】 + way【方向，道路】。原指由强风所致的偏航，现主要用于比喻义自由活动的空间，回旋余地。
+2. 词源：
+   etymology
+   also lee-way, 1660s, "sideways drift of a ship in her course caused by wind, deviation from true course by drifting to leeward," from lee + way (n.). Applied to loss of progress in general from 1827. Figurative meaning "extra space" is by 1835.
+3. 定义：
+   1. freedom to act within particular limits自由空間，自由度，餘地
+   2. an amount or period of time that has been lost or wasted富餘時間，多餘時間；浪費的時間
+4. 拓展：leeway（余裕）：航海时受风影响产生的偏移
+   英语单词leeway原本是个航海术语，由lee（下风处）+way（途径）组成，指的是船只在航行时，受风力影响，向下风方向产生的偏移。在航行时，必须预先想到船只可能产生的这种偏移，预先留出余裕，以免船只与下风方向的其他物体发生碰撞。因此，leeway一词便产生了“余裕，回旋余地”的含义。现在，该词已经广泛应用于日常生活和工作场景中。
+   leeway：['liːweɪ] n.余裕，回旋余地；偏航
+
+there is one way to skin a cat 达到目的方法不止一种
+
+    There are many versions of this proverb, which suggests there are always several ways to do something. Charles Kingsley used one old British form in Westward Ho! in 1855:“there are more ways of killing a cat than choking it with cream”. Other versions include “there are more ways of killing a cat than by choking it with butter”, and “there are more ways of killing a dog than choking him with pudding”. The earliest version appears as far back as 1678, in the second edition of John Ray’s collection of English proverbs, in which he gives it as “there are more ways to kill a dog than hanging”.
+
+    Writers have pointed to its use in the southern states of the US in reference to the catfish, often abbreviated to cat, a fish that is indeed usually skinned in preparing it for eating. However, it looks very much from the multiple versions of the saying, their wide distribution and their age, that this is just a local application of the proverb.  俗语中 cat 是对catfish 鲶鱼的缩写，鲶鱼需要剥去皮才能吃
+flesh/fleʃ/ 
+
+1. 助记：可能来自PIE*pleik, 撕，剥，词源同flay. 即剥皮，肉体。比较carnal, corium。
+2. 词源：
+   etymology
+   Old English flæsc "flesh, meat, muscular parts of animal bodies; body (as opposed to soul)," also "living creatures," also "near kindred" (a sense now obsolete except in phrase flesh and blood), common West and North Germanic (compare Old Frisian flesk, Middle Low German vlees, German Fleisch "flesh," Old Norse flesk "pork, bacon"), which is of uncertain origin; according to Watkins, perhaps from Proto-Germanic *flaiskjan "piece of meat torn off," from PIE *pleik- "to tear."
+3. 定义： the soft part of the body of a person or animal that is between the skin and the bones, or the soft inside part of a fruit or vegetable:肉体/果肉
+4. 拓展：
+   1. **neither fish nor flesh**非驴非马；不伦不类。马丁•路德的宗教改革之后所兴起的新教徒多为普通百姓，他们吃荤食肉，而王室贵族为主的天主教徒主张吃素吃鱼（鱼那时被视作素食）。一些“骑墙派”教徒则不愿意明确表白自己的信仰，被形容为neither fish nor flesh。The toy is neither fish nor flesh. 
+   2. **pound of flesh**虽合法却不合理的要求。莎翁作品《威尼斯商人》中，贪婪的商人夏洛克在与其有隙的安东尼奥的合同中规定如果对方失约就要从他身上割下“a pound of flesh”，结果安东尼奥因故确实无法执行合同了，最后安东尼奥的朋友在法庭上要求夏洛克只许割一磅肉，不能多不能少也不能流一滴血而胜诉。
+
+ninja/ˈnɪn.dʒə/
+
+1. 助记：来自日语 忍者
+2. 词源：来自日语 最终来自汉语 
+3. 定义：a Japanese fighter, especially in the past, who moves and acts without being seen and usually carries a short sword（尤指舊時的）忍者，日本武士
+
+reciprocal/rɪˈsɪp.rə.kəl/
+
+1. 助记：rec-向后 + proc-往前 + -al形容词后缀。引申词义互惠的，互利的。
+2. 词源：
+   etymology
+   1560s, with -al (1) + stem of Latin reciprocus "returning the same way, alternating," from pre-Latin *reco-proco-, from *recus (from re- "back;" see re-, + -cus, adjective formation) + *procus (from pro- "forward;" see pro-, + -cus. Related: Reciprocally. The noun meaning "that which is reciprocal" (to another) is from 1560s.
+3. 定义：
+   1. A reciprocal action or arrangement involves two people or groups of people who behave in the same way or agree to help each other and give each other advantages.相互的；互惠的；報答的
+   2. (mathematics) one of a pair of numbers whose product is 1倒数
+4. 拓展：
+   reciprocal [rɪ'sɪprək(ə)l] n. [数] 倒数；互相起作用的事物 adj. 互惠的；倒数的。拆分为rec+i+proc+al，rec-实际是re前缀+已经消逝的古拉丁语形容词后缀-cus，表back，-i-起连接作用，proc-是pro-前+cus，表forth，后缀-al表形容词和名词。因此，reciprocal就是“returning the same way”。
+
+stereotype/ˈster.i.ə.taɪp/ 
+
+1. 助记：
+   stereo-,固定的，坚固的，type,印刷，打印。原指一种印刷方法，引申词义刻板印象，模式化观念等
+   stereo- 
+   = solid, firm; three-dimensional; stereophonic, 表示“坚固，三维，立体”等，原始印欧语形式为*ster-(stiff, rigid, firm, strong.)。
+2. 词源：
+   etymology
+   1798, "method of printing from a plate," from French stéréotype (adj.) "printed by means of a solid plate of type," from Greek stereos "solid" (see stereo-) + French type "type" (see type (n.)). Meaning "a stereotype plate" is from 1817. Meaning "image perpetuated without change" is first recorded 1850, from the verb in this sense. Meaning "preconceived and oversimplified notion of characteristics typical of a person or group" is recorded from 1922.
+3. 定义：a set idea that people have about what someone or something is like, especially an idea that is wrong（尤指錯誤的）刻板印象，老套俗見，成見
+4. 拓展：stereotype（刻板印象）：不可更改的固定印版
+   19世纪初期，铅版印刷术问世。铅版印刷术以活字版为原型，将其复制为铅版，不仅可以提高印版的耐印力，而且可以用于异地或多台印刷机印刷。用于铅版印刷的铅版就是stereotype，它来自法语，由stereo（固定的）和type（版），字面意思就是“固定的印版”，因为它是一大块固定的铅版，不像活字版那样可以拆开，里面的内容自然也不能修改。因此stereotype就衍生出“难以更改的刻板印象”之意。
+   stereotype：['stɛrɪətaɪp] n.刻板印象，陈规，老套，陈词滥调，铅版
+   stereotypical：[,steriə'tipikl] adj. 老一套的；陈规的
+
+enchant/ɪnˈtʃɑːnt/ 
+
+1. 助记：en-进入，使 + chant-唱歌，念咒 ；chant 圣歌
+2. 词源：
+   etymology
+   late 14c., literal and figurative, from Old French enchanter "bewitch, charm, cast a spell" (12c.), from Latin incantare "to enchant, fix a spell upon," from in- "upon, into" (from PIE root *en "in") + cantare "to sing" (from PIE root *kan- "to sing"). Or perhaps a back-formation from enchantment.
+3. 定义：to attract or please someone very much使心醉，使迷惑； 用魔法迷惑
+4. 拓展：chant（圣歌）：古罗马宗教活动中的反复吟唱
+   英语单词chant来自拉丁语cantare，是canere（唱）的反复形式，指的是古罗马宗教活动中反复吟唱的活动，既用来赞颂神灵，又用于修炼内心，类似于中国佛教的和尚们打坐诵经。做名词时，chant表示反复吟唱的“圣歌”。这种圣歌的特点是内容简短，适合反复吟唱，一个短短的词也能咿咿呀呀地唱上半天，并且通常没有伴奏，所以听起来十分单调乏味，如著名的Gregorian chant（格里高利圣歌）就是这样一种圣歌，相传为教皇格里高利所著。
+   中国有句歇后语，小和尚念经——有口无心。西方的僧侣们在吟唱这种chant时，有时候也会装模作样、有口无心，因此英语中出现了一个与chant同源的单词cant，用来形容僧侣故作虔诚地吟唱chant，引申为并非发自内心的话，如客套话、乞丐故作可怜的的乞讨声。后来又产生了“黑话”的含义。
+   除此以外，英语单词enchant也与“吟唱”有关，不过不是“唱歌”，而是“念咒语”。enchant由en（into, upon）+chant（吟唱）构成，字面意思就是“对着……念咒语、施展魔法”，从而控制人的思想，使其迷住。
+   chant：[tʃɑːnt]n.反复吟唱的圣歌，赞美诗v.吟唱，诵念
+   canticle：['kæntɪk(ə)l] n. 颂歌；圣歌
+
+
 ## 11. Perceive and Don’t Tolerate Problems
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
