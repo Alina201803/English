@@ -3363,7 +3363,72 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
    secret
 
+<<<<<<< HEAD
    tips
+=======
+vague/veɪɡ/
+
+1. 助记：
+   vag 流浪者；vag-漫游 + -ue → 漫游而思想不集中 → 含糊的。
+   vagary vag-漫游 + -ary名词后缀 → 思想漫游 → 妄想。狂想 奇特行为n.
+2. 词源：
+   etymology
+   "uncertain as to specifics," 1540s, from Middle French vague "empty, vacant; wild, uncultivated; wandering" (13c.), from Latin vagus "strolling, wandering, rambling," figuratively "vacillating, uncertain," of unknown origin. Related: Vagueness.
+3. 定义：
+   1. not clearly expressed, known, described, or decided(表达或感知)含糊的, 不明确的, 不清楚的
+   2. not clear in shape, or not clearly seen模糊的,不清楚的,朦胧的
+
+implicit/ɪmˈplɪs.ɪt/
+
+1. 助记：im-进 + plic-折叠 + it → 重叠表达 → 含蓄的。
+   plic- pli- ply = fold, 表示“重叠，折叠
+   complicate com-全部 + plic-折叠 + -ate表动词 → 全部重叠起来 → 弄复杂 
+   explicit ex-出 + plic-折叠 + it → [说话]不重叠的 → 直截了当的。
+2. 词源：
+   etymology
+   1590s, "implied, resting on inference," from Middle French implicite and directly from Latin implicitus, later variant of implicatus "entangled, confused, involved," past participle of implicare "entangle, involve," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plicare "to fold" (from PIE root *plek- "to plait"). From c. 1600 as "resulting from perfect confidence (in authority), unquestioning" (especially of faith).
+3. 定义:suggested but not communicated directly不言明[含蓄]的；
+
+gravitate/ˈɡræv·ɪˌteɪt/
+
+1. 助记：grave【重】 + itale → 变重
+2. 词源：
+   etymology
+   1640s, "exert weight; move downward" (obsolete), from Modern Latin gravitare (16c. in scientific writing), from Latin gravitas "heaviness, weight," from gravis "heavy" (from PIE root *gwere-(1) "heavy"). Meaning "be affected by gravity" is from 1690s. Figurative sense "be strongly attracted to, have a natural tendency toward" is from 1670s. Related: Gravitated; gravitating. The classical Latin verb was gravare "to make heavy, burden, oppress, aggravate."
+3. 定义：to be attracted to or move toward something受重力作用； 被吸引
+4. 拓展：gravity（重力）：物体的“沉重”属性
+   英语单词gravity和gravitation都源自拉丁语gravis（=grave，沉重的），都含有“重力、地心引力”的含义，因此很多人都区分不了这两个单词之间的细微差异。其实，通过词源分析，两者之间的差异一目了然。gravity直接来自拉丁语名词gravitas，是gravis的名词形式，本意就是“沉重性、严重性”，13世纪进入法语，15世纪进入英语。当时并没有“重力、地心引力”的含义，因为那时候人们还没有“重力”和“万有引力”的概念，光知道物体有“沉重”这种性质。
+   直到16世纪末期，科学家伽利略才首次提出了“重力”或“万有引力”的概念，并通过著名的比萨斜塔实验向大众演示了重力的作用过程。这个时候，科学家才有了“引力”这个概念，并在17世纪40年代创造了动词gravitate，用来表示“引力作用”，而它的名词形式自然就是gravitation。
+   这么看，gravity和gravitation之间的差异就很明显了：gravity是grave（沉重的）的名词形式，意思是“沉重性、严重性”，后来万有引力概念诞生后，在非专业场合可以表示“重力、万有引力”，但同时保留了“沉重性、严重性”之意。而gravitation出现在万有引力概念诞生之后，是动词gravitate（引力作用）的名词形式，专门用来表示“重力、万有引力”，不表示“沉重性、严重性”。
+   grav-：沉重
+   gravity：['ɡrævəti] n. 重力，地心引力；严重性；庄严
+   grave：[ɡrev] adj. 重大的；严肃的；黯淡的n. 墓穴，坟墓；死亡vt. 雕刻；铭记
+   gravid：['grævɪd] adj. 妊娠的；怀孕的。字面意思指身子变沉重
+   gravitate：['ɡrævɪtet] vi. 受引力作用；被吸引
+   gravitation：[,ɡrævɪ'teʃən] n. 重力；万有引力；地心吸力
+
+expedient/ɪkˈspiː.di.ənt/
+
+1. 助记：ex-出 + ped-脚 + -ient → 能把脚跨出去 → 方便的
+2. 词源：
+   etymology
+   late 14c., "advantageous, fit, proper to a purpose," from Old French expedient "useful, beneficial" (14c.) or directly from Latin expedientem (nominative expediens) "beneficial," present participle of expedire "make fit or ready, prepare" (see expedite). The noun meaning "a device adopted in an exigency, that which serves to advance a desired result" is from 1650s. Related: Expediential; expedientially (both 19c.).
+3. 定义：helpful or useful in a particular situation, but sometimes not morally acceptable方便的，便利的，有利的
+
+prerequisite/ˌpriːˈrek.wɪ.zɪt/ 
+
+1. 助记：
+   pre-预先 + requisite【必需品】 → 先决条件。
+   re-再 + quis-寻找 + -ite → 一再寻求的 → 必要的。
+2. 词源：
+   etymology
+   1630s (n.) "something required beforehand," 1650s (adj.), "required beforehand," both from pre- + requisite.
+   mid-15c., from Latin requisitus, past participle of requirere (see require). As a noun from c. 1600.
+3. 定义：something that must exist or happen before something else can exist or happen先决条件，前提，必要条件
+
+
+## 11. Perceive and Don’t Tolerate Problems
+>>>>>>> upstream/master
 
 **Thorough** /ˈθɝː.ə/ 彻底的
 
@@ -3527,13 +3592,254 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 4. 拓展
 
+<<<<<<< HEAD
+   [deficiency](javascript:void(0);) 缺陷
+
+   defect 缺点
+=======
+   complete 彻底的
+
+   radical 根本的
+
+
+
+
+Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
+
+1. 助记,
+
+   pin+point
+
+   pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
+
+   **Etymology**
+
+   also pin-point, "point of a pin," 1849, **from [pin](https://www.etymonline.com/word/pin?ref=etymonline_crossreference) (n.) + [point](https://www.etymonline.com/word/point?ref=etymonline_crossreference) (n.).** Taken into aeronautics in sense "place identified from the air," hence verb meaning "locate precisely" (1917), which originally was aviators' slang. Related: Pinpointed; pinpointing. As an adjective, "performed with precisional accuracy," 1944, originally of aerial bombing.
+
+3. 释义,
+
+   准确指出 to find out or saythe exact position in space or time of something
+
+4. 拓展
+
+   vt.查明；精确地找到；准确描述
+
+   [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
+
+   adj.精确的；详尽的
+
+   [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
+
+   n.针尖；精确位置；极小之物
+
+   [needlepoint](javascript:void(0);) / [fingerling](javascript:void(0);)
+
+**Gobbledegook** /ˈɡɑː.bəl.di.ɡuːk/ 官样文章
+
+1. 助记,
+
+   gobble+degook
+
+   来自1944年美国德克萨斯州国会议员Maury Maverick杜撰的一个词，模仿公鸡叫的声音来讽刺当时过于冗长的官样文章。同时，值得注意的是，他本人是maverick这个词的原创者Maverick的孙子。
+
+2. 词源,
+
+   **OED Origin**
+
+   1940s (originally US): probably imitating a **turkey's gobble**.
+
+   **Etymology**
+
+   also gobbledegook, "the overinvolved, pompous talk of officialdom" [Klein], 1944, American English, first used by U.S. Rep. Maury Maverick, D.-Texas, (1895-1954), a grandson of the original [maverick](https://www.etymonline.com/word/maverick?ref=etymonline_crossreference)and chairman of U.S. Smaller War Plants Corporation during World War II, in a memo dated March 30, 1944, banning "gobbledygook language" and mock-threateaning, "anyone using the wordsactivation or implementation will be shot." Maverick said he made up the word in imitation of turkey noise. Another word for it, coined about the same time, was bafflegab (1952).
+
+3. 释义,
+
+   官样文章 language, especially used in official letters, forms, and statements, that seemsdifficult or to mean nothing because you do not understand it
+
+4. 拓展
+
+   [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 12. Diagnose Problems to Get at Their Root Causes
+
+**Anchor** /ˈæŋ.kɚ/ 锚
+
+1. 助记,
+
+   同ankle, 弯钩，脚踝，锚。
+
+   anc-,ang-,ank,-unc- 
+   这组词根都源自原始印欧语*ang-/*ank- ="to bend"表示弯或钩状.
+
+   在医学词汇中：anchylo-, ancylo-特指“弯曲、粘连”.
+
+2. 词源,
+
+   **OED Origin**
+
+   Old English ancor, ancra, via Latin from Greek ankura; reinforced in Middle English by Old French ancre. The current form is from anchora, an erroneous Latin spelling. The verb (from Old French ancrer) dates from Middle English.
+
+   **Etymology**
+
+   "device for securing ships to the ground under the water by means of cables," Old English ancor, borrowed 9c. from Latin ancora "an anchor," from or cognate with Greek ankyra "an anchor, a hook," from PIE root *ang-/*ank- **"to bend" (see [angle](https://www.etymonline.com/word/angle?ref=etymonline_crossreference) (n.)).**
+
+   A very early borrowing into English and said to be the only Latin nautical term used in the Germanic languages (German Anker, Swedish ankar, etc.). The unetymological -ch- emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for [anchorman](https://www.etymonline.com/word/anchorman?ref=etymonline_crossreference) (q.v.).
+
+3. 释义,
+
+   锚  a heavy metal object, usually shaped like a cross with curved arms, on astrong rope or chain, that is dropped from a boat into the water to prevent theboat from moving away
+
+4. 拓展
+
+   近义词，
+
+   kelleg n.[船]锚
+
+   backer patron 靠山
+
+   nail 钉住
+
+   同根词，
+
+   [anchorage](javascript:void(0);) 锚地；下锚；停泊税
+
+   [anchorman](javascript:void(0);) 末棒运动员；新闻节目主持人
+
+   [anchorperson](javascript:void(0);) 新闻节目主持人
+
+**Pitfall**/ˈpɪt.fɑːl/ 陷阱
+
+1. 助记,
+
+   pit+fall
+
+   pit,深坑，fall,掉落。掉落深坑，引申词义陷阱。
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
+
+3. 释义,
+
+   陷阱 a likely mistake or problem in a situation
+
+4. 拓展
+
    [deficiency](javascript:void(0);) 缺陷
 
    defect 缺点
 
    trap\ [mesh](javascript:void(0);) 陷阱
 
+
+
 ## 13. Design Improvements to Your Machine to Get Around Your Problems
+
+**Visceral** /ˈvɪs.ər.əl/ 本能的
+
+1. 助记,
+
+   viscer+al
+
+   viscer-内脏，al-表示...的－－发自内心，发自肺腑，本能的。
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1570s, "affecting inward feelings," from Middle French viscéral and directly from Medieval Latinvisceralis "internal," from Latin viscera, plural of viscus **"internal organ, inner parts of the body," of unknown origin.** The bowels were regarded as the seat of emotion. The figurative sense vanished after 1640 and the literal sense is first recorded in 1794. The figurative sense was revived 1940s in arts criticism.
+
+3. 释义,
+
+   本能的 literary based on deep feeling and emotional reactions rather than on reason orthought
+
+4. 拓展
+
+   [visceral organs](javascript:void(0);)内脏；脏器（visceral organ的复数形式）
+
+   [visceral fat](javascript:void(0);)内脏脂肪
+
+**Stimulate** /ˈstɪm.jə.leɪt/ 激发
+
+1. 助记,
+
+   stimul+ate
+
+   stimul-刺=prick，ate-表动词,造成。--使...刺激，激发
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘sting, afflict’): from Latin stimulat- **‘urged, goaded’, from the verb stimulare.**
+
+   **Etymology**
+
+   1610s, "rouse to action," from Latin stimulatus, past participle of stimulare (see [stimulation](https://www.etymonline.com/word/stimulation?ref=etymonline_crossreference)). Related: Stimulated; stimulating.
+
+3. 释义,
+
+   激发  to encourage something to grow, develop, or become active
+
+4. 拓展
+
+   [fan](javascript:void(0);) 煽动
+
+   power 激励
+
+   needle 刺激
+
+   activate 刺激
+
+**Outspoken** /ˌaʊtˈspoʊ.kən/ 直言不讳的
+
+1. 助记,
+
+   out+spoken
+
+   out-,向外，spoken,说，说出。引申词义直率的，坦诚的。
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   "given to speaking freely," 1808, originally Scottish, **from [out](https://www.etymonline.com/word/out?ref=etymonline_crossreference) (adv.) + [-spoken](https://www.etymonline.com/word/-spoken?ref=etymonline_crossreference).** "The pa. pple. has here a resultant force, as in 'well spoken', 'well read'." [OED]. Related: Outspokenly; outspokenness.
+
+3. 释义,
+
+   直言不讳的 expressing strong opinions very directly without worrying if other people areoffended
+
+4. 拓展
+
+   honest 诚实的
+
+   transparent 透明的，显然的
 
 
 
