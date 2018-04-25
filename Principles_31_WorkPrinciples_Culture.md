@@ -3205,6 +3205,59 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 ## 11. Perceive and Don’t Tolerate Problems
 
+#### prod/prɒd/
+
+1. 助记：来自中古英语 brodden,刺，戳，来自 Proto-Germanicbruzdaz,刺，硬毛，来自 PIEbhars,刺，硬毛，词源同 bur,barley,brad.
+2. 词源：
+   etymology
+   1530s, "to poke with a stick," of uncertain origin; possibly [Barnhart] a variant of brod, from Middle English brodden "to goad," from Old Norse broddr "shaft, spike" (see brad), or perhaps imitative [OED]. Figurative sense is recorded from 1871. Related: Prodded; prodding
+3. 定义：
+   1. to push something or someone with your finger or with a pointed object 戳 刺
+   2. to encourage someone to take action, especially when they are being slow or unwilling 刺激 激励
+
+#### stamper/'stæmpə/ 
+
+1. 助记：stamp【印】 + -er 打印器 印章
+   stamp- 表示“踩、踏”，最终的原始印欧语形式为*sta-(stand)
+   stamp 
+   n. 印, 邮票, 打印器, 戳子, 图章, 印花税票, 标志, 特征, 类型, 跺脚 vt. 盖章于, 顿足, 贴上邮票, 铭刻, 捣碎, 扑灭 vi. 捣碎, 跺脚
+2. 词源：
+   etymology
+   mid-15c., "instrument for crushing, stamping tool," from stamp (v.). Especially "instrument for making impressions" (1570s). Meaning "downward thrust or blow with the foot, act of stamping" is from 1580s. Sense of "official mark or imprint" (to certify that duty has been paid on what has been printed or written) dates from 1540s; transferred 1837 to designed, pre-printed adhesive labels issued by governments to serve the same purpose as impressed stamps. German Stempel "rubber stamp, brand, postmark" represents a diminutive form. Stamp-collecting is from 1862
+3. 定义：a workman whose job is to form or cut out by applying a mold or die (either by hand or by operating a stamping machine)打印者，模压工，压模
+
+#### embarrassment/ɪmˈbær.əs.mənt/ 
+
+1. 助记：em-进入 + barr-阻止 + -ass → 阻碍。不让进 使人困境 尴尬
+   bar-,barr- = bar, barrier, 表示棍子引申为“栏”，来源于拉丁语。
+   embarrass【使困窘】 + -ment名词后缀。
+2. 词源：
+   etymology
+   1670s, "state of being impeded, obstructed, or entangled" (of affairs, etc.), from embarrass + -ment, or from French embarrassement, from embarrasser.
+   As "a mental state of unease," from 1774. Meaning "thing which embarrasses" is from 1729. Earlier words expressing much the same idea include baishment "embarrassment, confusion" (late 14c.); baishednesse (mid-15c.).
+3. 定义：the feeling of being embarrassed, or something that makes you feel embarrassed 窘境 尴尬
+
+#### syndrome/ˈsɪn.drəʊm/ 
+
+1. 助记：syn-一起 + drom-(=run)跑 + -e。一起出现的 引申为 并发症
+   drome- = run, 表示“跑”。drome 也有飞机场的意思 飞机滑行的跑到
+2. 词源：
+   etymology
+   "a number of symptoms occurring together," 1540s, from medical Latin, from Greek syndrome "concurrence of symptoms, concourse of people," from syndromos "place where several roads meet," literally "a running together," from syn- "with" (see syn-) + dromos "a running, course" (see dromedary). Psychological sense is from 1955.
+3. 定义：a combination of medical problems that shows the existence of a particular disease or mental condition
+   并发症
+
+#### deviation/ˌdiːviˈeɪʃən/ 
+
+1. 助记：
+   de-偏离 + via-道路 + -ate表动词 → 偏离道路 → 越轨。
+   vi- = way, 表示“道路”。weigh原指“承重、运输”。
+2. 词源：
+   etymology
+   1630s, from Late Latin deviatus, past participle of deviare "to turn aside, turn out of the way," from Latin phrase de via, from de "off" (see de-) + via "way" (see via). Related: Deviated; deviating. The noun meaning "sexual pervert" is attested from 1912.
+3. 定义：a difference from what is usual or expected背离 偏离
+
+
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
 
 1. 助记,
@@ -3594,6 +3647,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
 <<<<<<< HEAD
    [deficiency](javascript:void(0);) 缺陷
+
 
    defect 缺点
 =======
