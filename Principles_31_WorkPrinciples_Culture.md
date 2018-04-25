@@ -3667,13 +3667,78 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
 
 
+#### monitior/ˈmɒnɪtə(r)/
 
+1. 助记：
+   monit-警告 + -or表人 → 警告者 引申词义学长，班长，监督员等，后也用于指显示屏，监视器等。
+   monit- = warn, 表示“警告  
+2. 词源：
+   etymology
+   monitor (n.) - 16世纪40年代，"senior pupil at a school charged with keeping order, etc."，源自拉丁语monitor "one who reminds, admonishes, or checks"，also "an overseer, instructor, guide, teacher"，monere "to admonish, warn, advise" 的动作执行者名词，源自PIE moneyo-，词根men- (1) "to think" 的后缀形式（使役） (memini "I remember，I am mindful of"，mens "mind" 的词源)，源自PIE词根*men- (1) "to think"。
+3. 定义：
+   1. display consisting of a device that takes signals from a computer and displays them on a CRT screen监视器, 监听器; 检测器
+   2. someone who gives a warning so that a mistake can be avoided学长，班长，监督员
+4. 拓展：money（金钱）：警告者朱诺
+   在罗马神话中，天后朱诺（Juno）曾多次警告罗马人即将出现的危险，帮助他们渡过难关。因此罗马人把她看作是罗马的警告女神，尊称她为“Juno Moneta”（警告者朱诺），单词moneta就是“警告者”、“监视者”的意思，来自拉丁语动词monere（警告）。
+   罗马人为Juno Moneta建了一座神庙，后来又把第一个造币厂设在了神庙里，希望女神能守护他们的财富。因为货币最早是在Juno Moneta神庙铸造出来的，所以罗马人就用moneta来表示货币，英语中的money（钱）和mint（造币厂）都是源自“moneta”这个单词，而单词monetary（货币的）更是保留了moneta的拼写形式。
+   与此同源的英语单词还有：monitor（监视器）、monitory（训诫的）、monition（忠告）、monument（纪念碑）等。
+   money：['mʌnɪ]n.钱，货币，财富
+   mint： [mɪnt] n.薄荷，造币厂vt.铸造，铸币
+   monetary： ['mʌnɪt(ə)rɪ] adj.货币的，财政的
+   monitor： ['mɔnɪtɚ] n. 监视器；监听器；监控器；显示屏；班长vt. 监控
+   monitory： ['mɑnə,tori] adj. 训戒的n. 告诫书
+   monition：[mə'nɪʃ(ə)n] n. 忠告；法庭传票；宗教法庭的诫谕
+   monument： ['mɑnjumənt] n. 纪念碑；历史遗迹；不朽的作品vt. 为…树碑
 
+#### interface/ˈɪntəfeɪs/
 
+1. 助记：inter-在内，在中间，相互 + face【脸】即 n. 分界面, 接触面, 界面
+2. 词源：
+   etymology
+   interface (n.) - 1874，"a plane surface regarded as the common boundary of two bodies"，源自inter- + face (n.)。现代用法可能是大约1960的重造词; McLuhan使用它表示 "place of interaction between two systems" (1962) and the computer sense "apparatus to connect two devices" 始于1964。作为动词始于1967。同根词：Interfaced; interfacing。
+3. 定义：
+   1. (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system交互程序 交互面
+   2. (computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)接口
 
+#### memo/memə/
 
+1. 助记：
+   memorandum的缩写 
+   memor-记 + andum东西 → [帮助]记的东西 → 备忘录。
+2. 词源：
+   etymology
+   memorandum (n.) - 15世纪早期，源自拉丁语memorandum "(thing) to be remembered"，memorandus "worthy of remembrance, noteworthy" 的中性单数，memorare "to call to mind" 的动形词，源自memor "mindful of" (参看：memory)。最初指写在便签顶部的字，16世纪40年代开始代表便签本身。拉丁语复数是memoranda。比较agenda。
+3. 定义： a written proposal or reminder备忘录 便笺
 
+#### transition/trænˈzɪʃn/
 
+1. 助记：
+   trans- 表示“横过，越过，转变”。
+   it- = go, 表示“行走”，希腊语的io对应拉丁语的eo，意思都为'go',eo的完成分词为itus,由此演变出词根it.英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为ion表示移动，中文翻译为离子.
+   trans-交换 + it-走 + -ion名词后缀 → 交换走 → 过渡。
+   其他例子 exit  ex-出 + it-走 → 走出 , 出口
+2. 词源：
+   etymology
+   transition (n.) - 15世纪中期，源自拉丁语transitionem (主格 transitio) "a going across or over"，transire "go or cross over" 的过去分词词干的动作名词 (参见transient)。
+3. 定义：the act of passing from one state or place to the next过渡; 转变; 变迁；变革
+
+#### nook /nʊk/
+
+1. 助记：词源不详。可能同 neck,弯，转，脖子。引申词义拐角处，小角落。
+2. 词源：
+   etymology
+   nook (n.) - 大约1300，noke，词源不确定。可能和挪威语方言nokke "hook, bent figure" 有关，或和古英语hnecca "neck" 有关，但含义演变过程未知。
+3. 定义：a sheltered and secluded place角落,凹处;隐蔽处
+
+#### propel /prəˈpe/
+
+1. 助记：
+   pro- 表示“向前，在前”，变体包括pur-, por-。
+   pel- = drive, push, 表示“驱动，推”，来自拉丁语的pel-, puls- 意为 to drive ,它们的变形为peal-。filt-引申为过滤。
+2. 词源：
+   etymology
+   propel (v.) - 15世纪中期，"to drive away, expel"，源自拉丁语propellere "push forward, drive forward, drive forth; move, impel"，源自pro "forward" (参看：pro-) + pellere "to push, drive" (源自PIE词根*pel- (5) "to thrust, strike, drive")。含义 "to drive onward, cause to move forward" 始于17世纪50年代。同根词：Propelled; propelling。
+3. 定义：cause to move forward with force推进; 推动
 
 
 
