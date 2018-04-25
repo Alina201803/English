@@ -3907,6 +3907,99 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    transparent 透明的，显然的
 
 
+**Durable** /ˈdʊr.ə.bəl/ 持久的
+
+1. 助记,
+
+    dur+able
+
+   dur-坚硬的，持久的，able-能的。来自拉丁语durus, 硬，词源同endure, tree.引申义持久的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the sense ‘steadfast’): via Old French from Latin durabilis, **from durare ‘to last’ (see duration)**.
+
+   **Etymology**
+
+   late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," **from durare "to harden," from durus "hard,"** from PIE *dru-ro-, suffixed variant form of root [*deru-](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference) "be firm, solid, steadfast." Durable goods attested from 1930.
+
+3. 释义,
+
+   持久的 able to last a long time without becoming damaged
+
+4. 拓展
+
+   adj.耐用的，持久的
+
+   [continued](javascript:void(0);) / [sustained](javascript:void(0);) / [service](javascript:void(0);) / [lasting](javascript:void(0);)
+
+   n.耐用品
+
+   hardgoods
+
+**Pervasive** /pɚˈveɪ.sɪv/ 遍布的
+
+1. 助记,
+
+   per+vas+ive
+
+   per-全部+vas-走+ive--全部到处走--弥漫，渗透，遍布的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 18th century: from Latin pervas- **‘passed through’** (from the verb pervadere) + -ive.
+
+   **Etymology**
+
+   1750, from Latin pervas-, past participle stem of pervadere (see [pervade](https://www.etymonline.com/word/pervade?ref=etymonline_crossreference)) + [-ive](https://www.etymonline.com/word/-ive?ref=etymonline_crossreference).
+
+   1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "through") + **vadere "to go" (see [vamoose](https://www.etymonline.com/word/vamoose?ref=etymonline_crossreference)).** Related: Pervaded; pervading.
+
+3. 释义,
+
+   遍布的  present or noticeable in every part of a thing or place
+
+4. 拓展
+
+   [widespread](javascript:void(0);) 遍布的
+
+   [universal](javascript:void(0);) 通用的，宇宙的
+
+   ruling 流行的
+
+   generalized 遍布的
+
+**Biannual** /baɪˈæn.ju.əl/ 一年两次的
+
+1. 助记,
+
+   bi+ann+ual
+
+   前缀bi-, 二. 词根ann, 年，见anniversary.
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   also bi-annual; "occurring every six months, twice a year," 1837; **see [bi-](https://www.etymonline.com/word/bi-?ref=etymonline_crossreference) + [annual](https://www.etymonline.com/word/annual?ref=etymonline_crossreference) (adj.). Distinguished in sense from [biennial](https://www.etymonline.com/word/biennial?ref=etymonline_crossreference),** but the distinction is etymologically arbitrary. Related:Biannually; bi-annually.
+
+3. 释义,
+
+   一年两次的 happening twice a year
+
+4. 拓展
+
+   =semiannual
+
+   biannual=bi+annual
+
+   semiannual=semi+annual
 
 ## 14. Do What You Set Out to Do
 
