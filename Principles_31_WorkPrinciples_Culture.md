@@ -4055,6 +4055,111 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    semiannual=semi+annual
 
+
+
+**Pyramid** /ˈpɪr.ə.mɪd/ 使…成金字塔状
+
+1. 助记,
+
+   pyr+a+mid
+
+   pyr-火+e=fire,表示火，火葬堆材
+
+   来自希腊语pyramis,金字塔，来自埃及语pimar,金字塔。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the geometrical sense): via Latin from Greek puramis, **puramid**-, of unknown ultimate origin.
+
+   **Etymology**
+
+   1550s (earlier in Latin form piramis, late 14c.), from French pyramide (Old French piramide "obelisk, stela," 12c.), from Latin pyramides, plural of pyramis "one of the pyramids of Egypt," from Greekpyramis (plural pyramides) "a pyramid," apparently an alteration of Egyptian pimar "pyramid."
+
+   Greek pyramis also meant "kind of cake of roasted wheat-grains preserved in honey," and in this sense is said to derive from pyros "wheat" on the model of sesamis. According to some old sources the Egyptian pyramids were so called from their resemblance to the form of the cake, but Beekes points out that "the form of the cake is actually unknown."
+
+   Financial sense is from 1911. Related: Pyramidal.
+
+3. 释义,
+
+   使…成金字塔状 a pile of things that has the shape of a pyramid
+
+4. 拓展
+
+   [advance](javascript:void(0);) 渐增；上涨
+
+   to go up 成金字塔状上涨
+
+**Janitorial** /dʒæn.ɪˈtɔː.ri.əl/ 管理的
+
+1. 助记,
+
+   jan+itor+ial
+
+   janus, Janus => janitor,门神雅努斯，看门人， janitorial 引申为管理的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century: from Latin, from **janua ‘door**’.
+
+   **Etymology**
+
+   1869, from [janitor](https://www.etymonline.com/word/janitor?ref=etymonline_crossreference) + [-ial](https://www.etymonline.com/word/-ial?ref=etymonline_crossreference).
+
+   1580s, "an usher in a school," later **"doorkeeper**" (1620s), from Latin ianitor "doorkeeper, porter," from ianua "door, entrance, gate," from ianus "arched passageway, arcade" (**see [Janus](https://www.etymonline.com/word/Janus?ref=etymonline_crossreference)) + agent suffix-tor. Meaning "caretaker of a building**, man employed to see that rooms are kept clean and in order" first recorded 1708. Fem. forms were janitress (1806), janitrix (1818).
+
+3. 释义,
+
+   管理的 relating to the job of being a janitor (= a person employed to look after a largebuilding)
+
+4. 拓展
+
+   January（一月）：双面门神雅努斯
+   在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。
+   古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。
+
+   **英语中表示“看门人”的单词Janitor也是源自Janus。**
+   Janus：['dʒeinəs] n.雅努斯，两面神
+   Janus-faced：伪善的，口是心非的，有双面孔的
+   January：['dʒænjʊ(ə)rɪ] n.一月
+
+**Visionary** /ˈvɪʒ.er.i/ 想象的
+
+1. 助记,
+
+   vis+ion+ary
+
+   vis-看，看见 +ion,表看得见的--视野、想象
+
+   +ary 表幻想的，想象的
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (denoting a supernatural apparition): **via Old French from Latin visio(n-), from videre ‘to see’.**
+
+   **Etymology**
+
+   "able to see visions," 1650s (earlier "perceived in a vision," 1640s), **from [vision](https://www.etymonline.com/word/vision?ref=etymonline_crossreference) + [-ary](https://www.etymonline.com/word/-ary?ref=etymonline_crossreference).** Meaning "impractical" is attested from 1727. The noun is attested from 1702, from the adjective; originally "one who indulges in impractical fantasies."
+
+3. 释义,
+
+   想象的 a person who has the ability to imagine how a country, society, industry, etc. willdevelop in the future and to plan in a suitable way
+
+4. 拓展
+
+   dreamy 梦想的
+
+   adream 做梦的
+
+   daydreamer 空想家
+
+   fancie 空想者  
+
 ## 14. Do What You Set Out to Do
 
 
