@@ -3205,6 +3205,60 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 ## 11. Perceive and Don’t Tolerate Problems
 
+#### trajectory/trəˈdʒek.tər.i/
+
+1. 助记：tra-穿过 + ject-扔 + -ory表名词 → 扔进去 → 弹道。
+   ject- = throw, cast, 表示“投掷，扔”，来自拉丁语。
+   例如：
+   abject ab-离开 + ject-抛 →抛掉 →可怜，绝望无助的
+   project pro-向前 + ject-扔 → 向前扔 → 目标;项目。
+2. 词源：
+   etymology
+   "path described by a body moving under the influence of given forces," 1690s, from Modern Latin trajectorium, from trajectorius "of or pertaining to throwing across," from Latin traiectus "thrown over or across," past participle of traicere "throw across, shoot across," from Latin trans "across, beyond" (see trans-) + icere, combining form of iacere "to throw" (from PIE root *ye- "to throw, impel"). Middle French and Middle English had trajectorie as "end of a funnel," from Latin traiectorium.
+3. 定义：the curved path that an object follows after it has been thrown or shot into the air 轨道
+
+#### custom/ˈkʌs.təm/ 
+
+1. 助记：词源同self, idiom. 即形成自己的习惯。对进口商品惯常性的征收一定的税金或费用并最终形成专门的政府机构，词义由惯例引申为海关。
+2. 词源：
+   etymology
+   c. 1200, "habitual practice," from Old French costume "custom, habit, practice; clothes, dress" (12c., Modern French coutume), from Vulgar Latin *consuetumen, from Latin consuetudinem (nominative consuetudo) "habit, usage, way, practice, tradition, familiarity," from consuetus, past participle of consuescere "accustom," from com-, intensive prefix (see com-), + suescere "become used to, accustom oneself," related to sui, genitive of suus "oneself," from PIE *swe- "oneself" (see idiom). Replaced Old English þeaw. Sense of a "regular" toll or tax on goods is early 14c. The native word here is toll.
+3. 定义：a short, cylinder-shaped piece of cork, plastic, or rubber that is put into the top of a bottle, especially a wine bottle, to close it:  习俗 惯例 ；海关
+4. 拓展：custom（海关）：外地商人向当地领主缴纳通行税的惯例
+   英语单词custom含有“习俗”和“海关、关税”两个意思。这两个意思是怎么联系在一起的呢？原来，custom的本意是“习俗、惯例”，之所以含有“海关、关税”之意，是因为缴纳关税原本是一种惯例。
+   外地商人向当地领主缴纳保护费的做法是一种历史悠长的惯例。早在古希腊时代，雅典成为爱琴海沿岸的商贸中心。外地商人为了保障自己在当地的贸易权利和利益，就向雅典城邦当局赠送礼物。后来，雅典以使用其港口为名，正式向来往商品征收一定比例的费用。
+   在英国，外地商人进入某地进行商贸活动时，需要向当地领主缴纳一项customary tolls（例行通行税）。因此，英语单词custom便衍生了“关税”的含义，通常采用复数形式。后来custom又可以用来表示征收关税的场所，即海关。
+   custom：['kʌstəm] n.习俗，惯例；关税，海关；经常光顾，老顾客adj.定做的，定制的
+   customer：['kʌstəmə] n.（老）顾客，海关工作人员
+   customary：['kʌstə'mɛri] adj.惯例的，通常的
+
+#### cork/kɔːk/ 
+
+1. 助记：来自PIE*sker, 砍，切，词源同shear, carnal. 即切下来的树皮所做。
+2. 词源：
+   etymology
+   c. 1300, "the light, elastic outer bark of a species of oak tree native to Iberia and North Africa, used for many purposes," from Spanish alcorque "cork sole," probably from earlier Spanish corcho, from Latin quercus "oak" (see Quercus) or cortex (genitive corticis) "bark" (see corium).
+3. 定义：a short, cylinder-shaped piece of cork, plastic, or rubber that is put into the top of a bottle, especially a wine bottle, to close it:软木塞, 软木树, 软木 （保存红酒用的软木塞）
+
+#### anonymous/əˈnɒn.ɪ.məs/ 
+
+1. 助记：an-无，没有 + onym-名字 + -ous → 没有名字 → 无名的。anonym n. 假名, 化名, 匿名者
+2. 词源：
+   etymology
+   c. 1600, "without a name;" 1670s, "published under no name, of unknown authorship," from Late Latin anonymus, from Greek anonymos "without a name," from an- "without" (see an- (1)) + onyma, Æolic dialectal form of onoma "name" (from PIE root *no-men- "name").
+3. 定义：made or done by someone whose name is not known or not made public 匿名的
+
+#### gloss/ɡlɒs/ 
+
+1. 助记：词源同glass, glow. 可以想象玻璃的光泽
+2. 词源：
+   etymology
+   glistening smoothness, luster," 1530s, probably from Scandinavian (compare Icelandic glossi "a spark, a flame," related to glossa "to flame"), or obsolete Dutch gloos "a glowing," from Middle High German glos; probably ultimately from the same source as English glow (v.). Superficial lustrous smoothness due to the nature of the material (unlike polish, which is artificial).
+3. 定义： 
+   1. a smooth, shiny appearance on the surface of something光彩 光泽
+   2. paint that produces a smooth, shiny appearance on a surface 使光彩  掩盖 
+
+
 #### prod/prɒd/
 
 1. 助记：来自中古英语 brodden,刺，戳，来自 Proto-Germanicbruzdaz,刺，硬毛，来自 PIEbhars,刺，硬毛，词源同 bur,barley,brad.
@@ -3417,8 +3471,9 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    secret
 
 <<<<<<< HEAD
-   tips
-=======
+
+ tips
+
 vague/veɪɡ/
 
 1. 助记：
@@ -3480,9 +3535,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 3. 定义：something that must exist or happen before something else can exist or happen先决条件，前提，必要条件
 
 
-## 11. Perceive and Don’t Tolerate Problems
->>>>>>> upstream/master
-
+## 
 **Thorough** /ˈθɝː.ə/ 彻底的
 
 1. 助记,
@@ -3648,9 +3701,8 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 <<<<<<< HEAD
    [deficiency](javascript:void(0);) 缺陷
 
+  defect 缺点
 
-   defect 缺点
-=======
    complete 彻底的
 
    radical 根本的
@@ -3795,82 +3847,6 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 3. 定义：cause to move forward with force推进; 推动
 
 
-
-
-## 12. Diagnose Problems to Get at Their Root Causes
-
-**Anchor** /ˈæŋ.kɚ/ 锚
-
-1. 助记,
-
-   同ankle, 弯钩，脚踝，锚。
-
-   anc-,ang-,ank,-unc- 
-   这组词根都源自原始印欧语*ang-/*ank- ="to bend"表示弯或钩状.
-
-   在医学词汇中：anchylo-, ancylo-特指“弯曲、粘连”.
-
-2. 词源,
-
-   **OED Origin**
-
-   Old English ancor, ancra, via Latin from Greek ankura; reinforced in Middle English by Old French ancre. The current form is from anchora, an erroneous Latin spelling. The verb (from Old French ancrer) dates from Middle English.
-
-   **Etymology**
-
-   "device for securing ships to the ground under the water by means of cables," Old English ancor, borrowed 9c. from Latin ancora "an anchor," from or cognate with Greek ankyra "an anchor, a hook," from PIE root *ang-/*ank- **"to bend" (see [angle](https://www.etymonline.com/word/angle?ref=etymonline_crossreference) (n.)).**
-
-   A very early borrowing into English and said to be the only Latin nautical term used in the Germanic languages (German Anker, Swedish ankar, etc.). The unetymological -ch- emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for [anchorman](https://www.etymonline.com/word/anchorman?ref=etymonline_crossreference) (q.v.).
-
-3. 释义,
-
-   锚  a heavy metal object, usually shaped like a cross with curved arms, on astrong rope or chain, that is dropped from a boat into the water to prevent theboat from moving away
-
-4. 拓展
-
-   近义词，
-
-   kelleg n.[船]锚
-
-   backer patron 靠山
-
-   nail 钉住
-
-   同根词，
-
-   [anchorage](javascript:void(0);) 锚地；下锚；停泊税
-
-   [anchorman](javascript:void(0);) 末棒运动员；新闻节目主持人
-
-   [anchorperson](javascript:void(0);) 新闻节目主持人
-
-**Pitfall**/ˈpɪt.fɑːl/ 陷阱
-
-1. 助记,
-
-   pit+fall
-
-   pit,深坑，fall,掉落。掉落深坑，引申词义陷阱。
-
-2. 词源,
-
-   **OED Origin**
-
-   **Etymology**
-
-   c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
-
-3. 释义,
-
-   陷阱 a likely mistake or problem in a situation
-
-4. 拓展
-
-   [deficiency](javascript:void(0);) 缺陷
-
-   defect 缺点
-
-   trap\ [mesh](javascript:void(0);) 陷阱
 
 
 
