@@ -3874,16 +3874,6 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## 12. Diagnose Problems to Get at Their Root Causes
 
 **Anchor** /ˈæŋ.kɚ/ 锚
