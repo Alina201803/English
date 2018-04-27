@@ -4207,6 +4207,122 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    fancie 空想者  
 
+**Warrant**/ˈwɔːr.ənt/ 使...有正当理由
+
+1. 助记,
+
+   war+rant
+
+   war-ward-wer=to protect,表示保护、守卫
+
+   warrant <===> guarantee ( gu- <--->w- ).
+
+   war + r(花) + ant => warrant. 蚂蚁为保护蚂蚁窝四周的花儿而战是有正当理由的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the senses ‘protector’ and ‘safeguard’, also, as a verb, **‘keep safe from danger**’): from variants of Old French guarant (noun), guarantir (verb), of Germanic origin; compare with guarantee.
+
+   **Etymology**
+
+   c. 1200, "protector, defender," from Old North French warant "defender; surety, pledge; justifying evidence" (Old French garant), from Frankish *warand, **from Proto-Germanic *war- "to warn, guard, protect"** (source also of Old High German werento "guarantor," noun use of present participle ofweren "to authorize, warrant;" German gewähren "to grant"), from PIE root [*wer-](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference) (4) "to cover."
+
+   Sense evolved via notion of "permission from a superior which protects one from blame or responsibility" (early 14c.) to "document conveying authority" (1510s). A warrant officer in the military is one who holds office by warrant (as from a government department), rather than by commission (from a head of state).
+
+3. 释义,
+
+   使有正当理由 to make a particular activity necessary
+
+4. 拓展
+
+   n.根据；证明；正当理由；委任状
+
+   [authentication](javascript:void(0);) / [certification](javascript:void(0);) / [demonstration](javascript:void(0);) / [foundation](javascript:void(0);) / [proof](javascript:void(0);)
+
+   vt.保证；担保；批准；辩解
+
+   [assure](javascript:void(0);) / [undertake](javascript:void(0);) / [confirm](javascript:void(0);)
+
+   warranted](javascript:void(0);) 保证的；担保的
+
+   [warranty](javascript:void(0);) 保证；担保；授权；（正当）理由
+
+   [warrantee](javascript:void(0);) 被保证人；被担保人
+
+   [warranter](javascript:void(0);) 担保人
+
+   [warrantor](javascript:void(0);) 保证人；担保人
+
+   [warranted](javascript:void(0);) 批准（warrant的过去分词）；授权
+
+
+**Perpetual** /pɚˈpetʃ.u.əl/ 使持续
+
+1. 助记,
+
+   per+pet+ual
+
+   per-全部，完全，贯穿+ pet=seek,追寻、寻求，延伸为使之永久的，使之持续的
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French perpetuel, from Latin perpetualis, **from perpetuus ‘continuing throughout’**, from perpes, perpet- ‘continuous’.
+
+   **Etymology**
+
+   mid-14c., from Old French perpetuel "without end" (12c.) and directly from Latin perpetualis"universal," in Medieval Latin "permanent," from perpetuus "continuous, universal," from perpetis, genitive of Old Latin perpes "lasting," probably **from per "through" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "through") + root of petere "to seek, go to, aim at"** (from PIE root [*pet-](https://www.etymonline.com/word/*pet-?ref=etymonline_crossreference) "to rush, to fly"). Related: Perpetually. Perpetual motion is attested from 1590s.
+
+3. 释义,
+
+   使持续 continuing for ever in the same way
+
+4. 拓展
+
+   permanent
+
+    ceaseless
+
+   loud
+
+
+
+ **vulnerability** /ˌvʌl·nər·əˈbɪl·ət̬·i/ 易损性
+
+1. 助记,
+
+   vulner+ability
+
+   vulner=wound,表创伤 +ability表名词，能…性质，引申为弱点，易损性
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 17th century: from late Latin vulnerabilis, from Latin vulnerare ‘to wound’, **from vulnus ‘wound’.**
+
+   **Etymology**
+
+   1767, noun from [vulnerable](https://www.etymonline.com/word/vulnerable?ref=etymonline_crossreference) (q.v.).
+
+   c. 1600, from Late Latin vulnerabilis "wounding," from Latin vulnerare "to wound, hurt, injure, maim," from vulnus (genitive vulneris) "wound," perhaps related to vellere "pluck, to tear" (see [svelte](https://www.etymonline.com/word/svelte?ref=etymonline_crossreference)), or from PIE *wele-nes-, from *wele- (2) "to strike, wound" (see [Valhalla](https://www.etymonline.com/word/Valhalla?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   易损性 the state of being vulnerable or exposed
+
+4. 拓展
+
+   n.易损性；弱点
+
+   [weakness](javascript:void(0);) 
+
+   failing
+
+
 ## 14. Do What You Set Out to Do
 
 
