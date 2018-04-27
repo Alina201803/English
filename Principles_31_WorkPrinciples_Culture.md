@@ -4,10 +4,6 @@
 
 ## 1. Trust in Radical Truth and Radical Transparency
 
-Grace 
-
-### 2018-04-10
-
 #### **Support**
 
 UK /səˈpɔ:t/ US /səˈpɔ:rt/
@@ -528,6 +524,10 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义： illegal, bad, or dishonest behaviour, especially by people in positions of power   腐败;贪污;受贿 n.
 
 
+
+
+
+
 ####  eliminate/iˈlɪm.ɪ.neɪt/ 
 
 1. 助记：e-出 + limin-限制 + -ate表动词 → [赶]出门槛 → 删除。
@@ -539,6 +539,10 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    1. to remove or take away someone or something消除，剔除，根除
    2. to defeat someone so that they cannot continue in a competition淘汰
    3. to murder someone 消灭;干掉
+
+
+
+
 
 
 
@@ -569,6 +573,8 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    n.[assertion](javascript:void(0);) 断言，声明；主张，要求；坚持
 
    vt.[assert](javascript:void(0);) 维护，坚持；断言；主张；声称
+
+   ​
 
 
 
@@ -617,6 +623,8 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    [imperfective](javascript:void(0);) 未完成体；未完成体动词
 
    [imperfectness](javascript:void(0);) 不完全；缺点
+
+
 
 
 
@@ -1256,7 +1264,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    im-进 + ple-（ = full, fill, 表示“满，填满”）+ -ment表名词 → 进入满 → 完成
 2. 词源：
    etymology
-   <!-- mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements. -->
+   mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements. 
 3. 定义：
    the act of putting a plan into action or of starting to use something 成就； 贯彻
 
@@ -3470,11 +3478,9 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
    secret
 
-<<<<<<< HEAD
 
- tips
 
-vague/veɪɡ/
+**vague/**veɪɡ/
 
 1. 助记：
    vag 流浪者；vag-漫游 + -ue → 漫游而思想不集中 → 含糊的。
@@ -3486,7 +3492,11 @@ vague/veɪɡ/
    1. not clearly expressed, known, described, or decided(表达或感知)含糊的, 不明确的, 不清楚的
    2. not clear in shape, or not clearly seen模糊的,不清楚的,朦胧的
 
-implicit/ɪmˈplɪs.ɪt/
+
+
+
+
+**implicit**/ɪmˈplɪs.ɪt/
 
 1. 助记：im-进 + plic-折叠 + it → 重叠表达 → 含蓄的。
    plic- pli- ply = fold, 表示“重叠，折叠
@@ -3497,7 +3507,11 @@ implicit/ɪmˈplɪs.ɪt/
    1590s, "implied, resting on inference," from Middle French implicite and directly from Latin implicitus, later variant of implicatus "entangled, confused, involved," past participle of implicare "entangle, involve," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plicare "to fold" (from PIE root *plek- "to plait"). From c. 1600 as "resulting from perfect confidence (in authority), unquestioning" (especially of faith).
 3. 定义:suggested but not communicated directly不言明[含蓄]的；
 
-gravitate/ˈɡræv·ɪˌteɪt/
+
+
+
+
+**gravitate**/ˈɡræv·ɪˌteɪt/
 
 1. 助记：grave【重】 + itale → 变重
 2. 词源：
@@ -3698,7 +3712,6 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
 4. 拓展
 
-<<<<<<< HEAD
    [deficiency](javascript:void(0);) 缺陷
 
   defect 缺点
@@ -3967,9 +3980,11 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    n.耐用品
 
-<<<<<<< HEAD
+   ​
+
 ## 12. Diagnose Problems to Get at Their Root Causes
-=======
+
+
    hardgoods
 
 **Pervasive** /pɚˈveɪ.sɪv/ 遍布的
@@ -3991,21 +4006,19 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    1750, from Latin pervas-, past participle stem of pervadere (see [pervade](https://www.etymonline.com/word/pervade?ref=etymonline_crossreference)) + [-ive](https://www.etymonline.com/word/-ive?ref=etymonline_crossreference).
 
    1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "through") + **vadere "to go" (see [vamoose](https://www.etymonline.com/word/vamoose?ref=etymonline_crossreference)).** Related: Pervaded; pervading.
->>>>>>> ebfcd24f10758adb2b1f8845d3ee2849863fbd4c
+3.  释义,
 
-3. 释义,
+    遍布的  present or noticeable in every part of a thing or place
 
-   遍布的  present or noticeable in every part of a thing or place
+4.  拓展
 
-4. 拓展
+    [widespread](javascript:void(0);) 遍布的
 
-   [widespread](javascript:void(0);) 遍布的
+    [universal](javascript:void(0);) 通用的，宇宙的
 
-   [universal](javascript:void(0);) 通用的，宇宙的
+    ruling 流行的
 
-   ruling 流行的
-
-   generalized 遍布的
+    generalized 遍布的
 
 **Biannual** /baɪˈæn.ju.əl/ 一年两次的
 
