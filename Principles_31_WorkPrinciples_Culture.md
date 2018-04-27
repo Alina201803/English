@@ -3550,6 +3550,79 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
 
 ## 
+#### monitior/ˈmɒnɪtə(r)/
+
+1. 助记：
+   monit-警告 + -or表人 → 警告者 引申词义学长，班长，监督员等，后也用于指显示屏，监视器等。
+   monit- = warn, 表示“警告  
+2. 词源：
+   etymology
+   monitor (n.) - 16世纪40年代，"senior pupil at a school charged with keeping order, etc."，源自拉丁语monitor "one who reminds, admonishes, or checks"，also "an overseer, instructor, guide, teacher"，monere "to admonish, warn, advise" 的动作执行者名词，源自PIE moneyo-，词根men- (1) "to think" 的后缀形式（使役） (memini "I remember，I am mindful of"，mens "mind" 的词源)，源自PIE词根*men- (1) "to think"。
+3. 定义：
+   1. display consisting of a device that takes signals from a computer and displays them on a CRT screen监视器, 监听器; 检测器
+   2. someone who gives a warning so that a mistake can be avoided学长，班长，监督员
+4. 拓展：money（金钱）：警告者朱诺
+   在罗马神话中，天后朱诺（Juno）曾多次警告罗马人即将出现的危险，帮助他们渡过难关。因此罗马人把她看作是罗马的警告女神，尊称她为“Juno Moneta”（警告者朱诺），单词moneta就是“警告者”、“监视者”的意思，来自拉丁语动词monere（警告）。
+   罗马人为Juno Moneta建了一座神庙，后来又把第一个造币厂设在了神庙里，希望女神能守护他们的财富。因为货币最早是在Juno Moneta神庙铸造出来的，所以罗马人就用moneta来表示货币，英语中的money（钱）和mint（造币厂）都是源自“moneta”这个单词，而单词monetary（货币的）更是保留了moneta的拼写形式。
+   与此同源的英语单词还有：monitor（监视器）、monitory（训诫的）、monition（忠告）、monument（纪念碑）等。
+   money：['mʌnɪ]n.钱，货币，财富
+   mint： [mɪnt] n.薄荷，造币厂vt.铸造，铸币
+   monetary： ['mʌnɪt(ə)rɪ] adj.货币的，财政的
+   monitor： ['mɔnɪtɚ] n. 监视器；监听器；监控器；显示屏；班长vt. 监控
+   monitory： ['mɑnə,tori] adj. 训戒的n. 告诫书
+   monition：[mə'nɪʃ(ə)n] n. 忠告；法庭传票；宗教法庭的诫谕
+   monument： ['mɑnjumənt] n. 纪念碑；历史遗迹；不朽的作品vt. 为…树碑
+
+#### interface/ˈɪntəfeɪs/
+
+1. 助记：inter-在内，在中间，相互 + face【脸】即 n. 分界面, 接触面, 界面
+2. 词源：
+   etymology
+   interface (n.) - 1874，"a plane surface regarded as the common boundary of two bodies"，源自inter- + face (n.)。现代用法可能是大约1960的重造词; McLuhan使用它表示 "place of interaction between two systems" (1962) and the computer sense "apparatus to connect two devices" 始于1964。作为动词始于1967。同根词：Interfaced; interfacing。
+3. 定义：
+   1. (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system交互程序 交互面
+   2. (computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)接口
+
+#### memo/memə/
+
+1. 助记：
+   memorandum的缩写 
+   memor-记 + andum东西 → [帮助]记的东西 → 备忘录。
+2. 词源：
+   etymology
+   memorandum (n.) - 15世纪早期，源自拉丁语memorandum "(thing) to be remembered"，memorandus "worthy of remembrance, noteworthy" 的中性单数，memorare "to call to mind" 的动形词，源自memor "mindful of" (参看：memory)。最初指写在便签顶部的字，16世纪40年代开始代表便签本身。拉丁语复数是memoranda。比较agenda。
+3. 定义： a written proposal or reminder备忘录 便笺
+
+#### transition/trænˈzɪʃn/
+
+1. 助记：
+   trans- 表示“横过，越过，转变”。
+   it- = go, 表示“行走”，希腊语的io对应拉丁语的eo，意思都为'go',eo的完成分词为itus,由此演变出词根it.英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为ion表示移动，中文翻译为离子.
+   trans-交换 + it-走 + -ion名词后缀 → 交换走 → 过渡。
+   其他例子 exit  ex-出 + it-走 → 走出 , 出口
+2. 词源：
+   etymology
+   transition (n.) - 15世纪中期，源自拉丁语transitionem (主格 transitio) "a going across or over"，transire "go or cross over" 的过去分词词干的动作名词 (参见transient)。
+3. 定义：the act of passing from one state or place to the next过渡; 转变; 变迁；变革
+
+#### nook /nʊk/
+
+1. 助记：词源不详。可能同 neck,弯，转，脖子。引申词义拐角处，小角落。
+2. 词源：
+   etymology
+   nook (n.) - 大约1300，noke，词源不确定。可能和挪威语方言nokke "hook, bent figure" 有关，或和古英语hnecca "neck" 有关，但含义演变过程未知。
+3. 定义：a sheltered and secluded place角落,凹处;隐蔽处
+
+#### propel /prəˈpe/
+
+1. 助记：
+   pro- 表示“向前，在前”，变体包括pur-, por-。
+   pel- = drive, push, 表示“驱动，推”，来自拉丁语的pel-, puls- 意为 to drive ,它们的变形为peal-。filt-引申为过滤。
+2. 词源：
+   etymology
+   propel (v.) - 15世纪中期，"to drive away, expel"，源自拉丁语propellere "push forward, drive forward, drive forth; move, impel"，源自pro "forward" (参看：pro-) + pellere "to push, drive" (源自PIE词根*pel- (5) "to thrust, strike, drive")。含义 "to drive onward, cause to move forward" 始于17世纪50年代。同根词：Propelled; propelling。
+3. 定义：cause to move forward with force推进; 推动
+
 **Thorough** /ˈθɝː.ə/ 彻底的
 
 1. 助记,
@@ -3640,6 +3713,38 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 4. 拓展
 
    [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
+
+   dividend/ˈdɪv.ɪ.dend/ 
+
+   1. 助记：
+      di-分开 + vid-切 + end → 分享的股息
+      divide,分开。用于经济学术语指红利，股息。
+   2. 词源：
+      etymology
+      late 15c., from Middle French dividende "a number divided by another," from Latin dividendum "thing to be divided," neuter gerundive of dividere (see divide (v.)). Mathematical sense is from 1540s. Meaning "portion of interest on a loan, stock, etc." is from 1620s. Related: Dividends.
+   3. 定义：(a part of) the profit of a company that is paid to the people who own shares in 股息
+   4. 拓展：
+      bonus（红利）：股票持有人除股息之外的更多收益
+      1733年，英国第一家证券交易所在一家名叫乔纳森的咖啡馆成立。1802年获得英国政府的正式批准。这家证券交易所即为现在伦敦证券交易所的前身。早期人们对股票还不熟悉，为了劝说人们购买股票，证券交易商会大力向人们解释购买股票的各种收益。其中最基本的一项收益是“股息”（dividend），即股票持有人可以按照预定的比率，根据所购买的股份从所投资的公司的盈利中获得收益，就像从银行存款中获得固定比率的利息一样。
+      另外，与银行存款不一样，在派发股息之后，如果公司还有盈余，股票持有人还有可能进一步瓜分盈余，获得更多收益。当时，英语中并没有一个对应单词用来表示这种股息之外的更多收益。于是证券交易商们借用了拉丁语中的bonus一词。该词的本意是“好处”（good），英语中表示“好”的词根bene就与此同源。从此以后，bonus一词就成为了对这种更多收益的称呼，中文一般翻译为“红利”。
+      “股息”（dividend）和“红利”（bonus）的区别在于：股息是预先确定收益率的，而红利是没有固定收益率的，可以上下浮动。股份公司在派息分红时，首先按照固定收益率向优先股股东发放股息；发完股息后，如果还有盈余，则还可以在扣除企业发展积累金后进一步向普通股东发放红利。
+      现在，bonus一词早已经超越了股票领域，用来泛指固定收益外的各种更多收益，如奖金、给退伍军人发放的一次性费用等，甚至还成为了贿赂的暗语，相当于我们中国人说的“意思意思”。
+      bonus：['bəʊnəs] n.奖金，红利，津贴，额外收益
+      dividend：['dɪvɪdend] n.股息，被除数
+
+   session/ˈseʃ.ən/ 
+
+   1. 助记：sess-=sed坐 + -ion名词后缀。坐着的期间引申为
+      期间, 开庭期, 会议, 学期
+   2. 词源：
+      etymology
+      late 14c., "periodical sitting of a court," from Old French session "act or state of sitting; assembly," from Latin sessionem (nominative sessio) "act of sitting; a seat; loitering; a session," noun of action from past participle stem of sedere "to sit," from PIE root *sed- (1) "to sit." Sense of "period set aside for some activity" is first recorded 1920, in bull session, probably from quarter sessions courts (see quarter (n.)). Musical sense of "recording occasion in a studio" is from 1927.
+   3. 定义：
+      1. a formal meeting or series of meetings of an organization such as a parliament or a law court开庭期
+      2. a period of time or meeting arranged for a particular activity （进行某活动连续的）一段时间
+      3. at a college, any of the periods of time that a teaching year or day is divided into, or the teaching year itself学期
+
+   ​
 
 
 
@@ -3786,81 +3891,30 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
 
 
-#### monitior/ˈmɒnɪtə(r)/
+#### granular/ˈɡræn.jə.lər/ 
 
-1. 助记：
-   monit-警告 + -or表人 → 警告者 引申词义学长，班长，监督员等，后也用于指显示屏，监视器等。
-   monit- = warn, 表示“警告  
+1. 助记：gran-=grain颗粒 + -ule小 → 小颗粒。
+   granule【颗粒】 + -ar 引申为细化的 
 2. 词源：
    etymology
-   monitor (n.) - 16世纪40年代，"senior pupil at a school charged with keeping order, etc."，源自拉丁语monitor "one who reminds, admonishes, or checks"，also "an overseer, instructor, guide, teacher"，monere "to admonish, warn, advise" 的动作执行者名词，源自PIE moneyo-，词根men- (1) "to think" 的后缀形式（使役） (memini "I remember，I am mindful of"，mens "mind" 的词源)，源自PIE词根*men- (1) "to think"。
-3. 定义：
-   1. display consisting of a device that takes signals from a computer and displays them on a CRT screen监视器, 监听器; 检测器
-   2. someone who gives a warning so that a mistake can be avoided学长，班长，监督员
-4. 拓展：money（金钱）：警告者朱诺
-   在罗马神话中，天后朱诺（Juno）曾多次警告罗马人即将出现的危险，帮助他们渡过难关。因此罗马人把她看作是罗马的警告女神，尊称她为“Juno Moneta”（警告者朱诺），单词moneta就是“警告者”、“监视者”的意思，来自拉丁语动词monere（警告）。
-   罗马人为Juno Moneta建了一座神庙，后来又把第一个造币厂设在了神庙里，希望女神能守护他们的财富。因为货币最早是在Juno Moneta神庙铸造出来的，所以罗马人就用moneta来表示货币，英语中的money（钱）和mint（造币厂）都是源自“moneta”这个单词，而单词monetary（货币的）更是保留了moneta的拼写形式。
-   与此同源的英语单词还有：monitor（监视器）、monitory（训诫的）、monition（忠告）、monument（纪念碑）等。
-   money：['mʌnɪ]n.钱，货币，财富
-   mint： [mɪnt] n.薄荷，造币厂vt.铸造，铸币
-   monetary： ['mʌnɪt(ə)rɪ] adj.货币的，财政的
-   monitor： ['mɔnɪtɚ] n. 监视器；监听器；监控器；显示屏；班长vt. 监控
-   monitory： ['mɑnə,tori] adj. 训戒的n. 告诫书
-   monition：[mə'nɪʃ(ə)n] n. 忠告；法庭传票；宗教法庭的诫谕
-   monument： ['mɑnjumənt] n. 纪念碑；历史遗迹；不朽的作品vt. 为…树碑
+   1790, from Late Latin granulum "granule, a little grain," diminutive of Latin granum "grain, seed" (from PIE root *gre-no- "grain") + -ar. Replaced granulous (late 14c.). Related: Granularity.
+3. 定义：made of, or seeming like, granules颗粒状的
 
-#### interface/ˈɪntəfeɪs/
+#### weed/wiːd/
 
-1. 助记：inter-在内，在中间，相互 + face【脸】即 n. 分界面, 接触面, 界面
+1. 助记：词源不详
 2. 词源：
    etymology
-   interface (n.) - 1874，"a plane surface regarded as the common boundary of two bodies"，源自inter- + face (n.)。现代用法可能是大约1960的重造词; McLuhan使用它表示 "place of interaction between two systems" (1962) and the computer sense "apparatus to connect two devices" 始于1964。作为动词始于1967。同根词：Interfaced; interfacing。
-3. 定义：
-   1. (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system交互程序 交互面
-   2. (computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)接口
+   "plant not valued for use or beauty," Old English weod, uueod "grass, herb, weed," from Proto-Germanic *weud- (source also of Old Saxon wiod, East Frisian wiud), of unknown origin. Also applied to trees that grow abundantly. Meaning "tobacco" is from c. 1600; that of "marijuana" is from 1920s. The chemical weed-killer is attested by 1885.
+3. 定义：any wild plant that grows in an unwanted place, especially in a garden or field where it prevents the cultivated plants from growing freely 杂草 荒草
 
-#### memo/memə/
+#### pitfall/ˈpɪt.fɔːl/
 
-1. 助记：
-   memorandum的缩写 
-   memor-记 + andum东西 → [帮助]记的东西 → 备忘录。
+1. 助记：pit【深坑】凹陷 + fall【掉落】。引申词义陷阱。
 2. 词源：
    etymology
-   memorandum (n.) - 15世纪早期，源自拉丁语memorandum "(thing) to be remembered"，memorandus "worthy of remembrance, noteworthy" 的中性单数，memorare "to call to mind" 的动形词，源自memor "mindful of" (参看：memory)。最初指写在便签顶部的字，16世纪40年代开始代表便签本身。拉丁语复数是memoranda。比较agenda。
-3. 定义： a written proposal or reminder备忘录 便笺
-
-#### transition/trænˈzɪʃn/
-
-1. 助记：
-   trans- 表示“横过，越过，转变”。
-   it- = go, 表示“行走”，希腊语的io对应拉丁语的eo，意思都为'go',eo的完成分词为itus,由此演变出词根it.英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为ion表示移动，中文翻译为离子.
-   trans-交换 + it-走 + -ion名词后缀 → 交换走 → 过渡。
-   其他例子 exit  ex-出 + it-走 → 走出 , 出口
-2. 词源：
-   etymology
-   transition (n.) - 15世纪中期，源自拉丁语transitionem (主格 transitio) "a going across or over"，transire "go or cross over" 的过去分词词干的动作名词 (参见transient)。
-3. 定义：the act of passing from one state or place to the next过渡; 转变; 变迁；变革
-
-#### nook /nʊk/
-
-1. 助记：词源不详。可能同 neck,弯，转，脖子。引申词义拐角处，小角落。
-2. 词源：
-   etymology
-   nook (n.) - 大约1300，noke，词源不确定。可能和挪威语方言nokke "hook, bent figure" 有关，或和古英语hnecca "neck" 有关，但含义演变过程未知。
-3. 定义：a sheltered and secluded place角落,凹处;隐蔽处
-
-#### propel /prəˈpe/
-
-1. 助记：
-   pro- 表示“向前，在前”，变体包括pur-, por-。
-   pel- = drive, push, 表示“驱动，推”，来自拉丁语的pel-, puls- 意为 to drive ,它们的变形为peal-。filt-引申为过滤。
-2. 词源：
-   etymology
-   propel (v.) - 15世纪中期，"to drive away, expel"，源自拉丁语propellere "push forward, drive forward, drive forth; move, impel"，源自pro "forward" (参看：pro-) + pellere "to push, drive" (源自PIE词根*pel- (5) "to thrust, strike, drive")。含义 "to drive onward, cause to move forward" 始于17世纪50年代。同根词：Propelled; propelling。
-3. 定义：cause to move forward with force推进; 推动
-
-
-
+   c. 1300, "concealed hole," a type of animal trap, from pit (n.1) + fall (n.). Extended sense of "any hidden danger" is first recorded early 15c.
+3. 定义：a likely mistake or problem in a situation 陷阱 圈套
 
 
 ## 13. Design Improvements to Your Machine to Get Around Your Problems
@@ -4006,11 +4060,11 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    1750, from Latin pervas-, past participle stem of pervadere (see [pervade](https://www.etymonline.com/word/pervade?ref=etymonline_crossreference)) + [-ive](https://www.etymonline.com/word/-ive?ref=etymonline_crossreference).
 
    1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "through") + **vadere "to go" (see [vamoose](https://www.etymonline.com/word/vamoose?ref=etymonline_crossreference)).** Related: Pervaded; pervading.
-3.  释义,
+3. 释义,
 
     遍布的  present or noticeable in every part of a thing or place
 
-4.  拓展
+4. 拓展
 
     [widespread](javascript:void(0);) 遍布的
 
