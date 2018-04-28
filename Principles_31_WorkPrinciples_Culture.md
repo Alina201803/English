@@ -3917,6 +3917,157 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 3. 定义：a likely mistake or problem in a situation 陷阱 圈套
 
 
+#### proximate/ˈprɒksɪmət/
+
+1. 助记：proxim-接近 + -ate
+   proxim- = close, near, 表示“接近，靠近”；-im为最高级后缀。
+   例子：approximate 
+   ap-一再 + proximate【将临的，近似的】 → 不断靠近 → 接近的。
+2. 词源：
+   etymology
+   "neighboring," 1590s (implied in proximately), from Late Latin proximatus, past participle of proximare "to draw near," from proximus "nearest, next; most direct; adjoining," figuratively "latest, most recent; next, following; most faithful," superlative of prope "near" (see propinquity).
+3. 定义:closest in degree or order (space or time) especially in a chain of causes and effects近邻的，最接近的
+
+#### component/kəmˈpəʊ.nənt/
+
+1. 助记：com-共同 + pon-放 + -ent → 共同的放到一起 → 组成的。元件, 组件, 成分
+2. 词源：
+   etymology
+   1640s, "constituent part or element" (earlier "one of a group of persons," 1560s), from Latin componentem (nominative componens), present participle of componere "to put together, to collect a whole from several parts," from com "with, together" (see com-) + ponere "to place" (see position (n.)). Related: Componential.
+3. 定义：a part that combines with other parts to form something bigger 成分； 零件
+
+#### drag/dræɡ/
+
+1. 助记：来自PIE*dhragh, 拉，词源同draw, tractor。
+2. 词源：
+   etymology
+   Sense of "annoying, boring person or thing" is 1813, perhaps from the notion of something that must be dragged as an impediment. Sense of "women's clothing worn by a man" is said to be 1870 theater slang, from the sensation of long skirts trailing on the floor (another guess is Yiddish trogn "to wear," from German tragen); drag queen is from 1941.
+3. 定义：to move something by pulling it along a surface, usually the ground拖 拉 
+4. 拓展：drag [dræg] v.拖累；拖拉；拖曳，n.拖；拖累，B：draw [drɔː] vt.画；拉；吸引，vi 拉；拖。A来自古北欧语，B来自古英语，二者同源（源头是原始日耳曼语），只不过在古英语中，硬音g变成了w音。参考tug [tʌg] n.拖船；拖曳；苦干，vi.用力拉和tow [təʊ] n.拖；拖曳所用之绳，v.拖；牵引；曳。 
+
+#### trivial/ˈtrɪv.i.əl/
+
+1. 助记：tri-三 + vi-路 + -al表形容词 → 三条路 → 没有一个目标 → 琐碎的。
+2. 词源：
+   etymology
+   "ordinary" (1580s); "insignificant, trifling" (1590s), from Latin trivialis "common, commonplace, vulgar," literally "of or belonging to the crossroads," from trivium "place where three roads meet," in transferred use, "an open place, a public place," from tri- "three" (see three) + via "road" (see via). The sense connection is "public," hence "common, commonplace."
+3. 定义：having little value or importance琐碎的 微小的
+4. 拓展：trivia（琐事）：妇女们在三岔路口的闲聊
+   中国有句古话，叫做“三个女人一台戏”，意思是三个女人凑一块就会叽叽喳喳地闲聊开，热闹得像唱戏一样。古代罗马人想必对此也深有体会。他们认为，三条道路汇集之地，必然会有妇女聚集在一起叽叽喳喳扯些家长里短的琐碎之事。英语单词trivia就反映了古人的这种观念。该词来自拉丁语trivium，由tri（three，三）+via（way，道路）构成，字面意思就是三条道路汇聚之地。因此单词trivia的本意就是妇女们在路口闲聊所说的事，自然是无关紧要的琐事。
+   trivia： ['trɪvɪə] n. 琐事
+   trivial： ['trɪvɪəl] adj.琐碎的，无关紧要的
+
+#### synthesis/ˈsɪn.θə.sɪs/
+
+1. 助记：syn-一起 + thes-放 + is → 放在一起 → 合成。
+2. 词源：
+   etymology
+   1610s, "deductive reasoning," from Latin synthesis "collection, set, suit of clothes, composition (of a medication)," from Greek synthesis "composition, a putting together," from syntithenai "put together, combine," from syn- "together" (see syn-) + tithenai "to put, to place," from reduplicated form of PIE root *dhe- "to set, put." From 1733 as "a combination of parts into a whole." Earlier borrowed in Middle English as sintecis (mid-15c.). Plural syntheses.
+3. 定义：the production of a substance from simpler materials after a chemical reaction合成物
+
+#### issue/ˈɪʃ.uː/
+
+1. 助记：来自古法语issue , 出口，出去，来自拉丁语exire , 出去，词源同exit , ion . 由向外走出引申问题，议题，期刊，发行等多种词义。
+2. 词源：
+   etymology
+   c. 1300, "an exit," from Old French issue "a way out, a going out, exit; final event," from fem. past participle of issir "to go out," from Latin exire "go out, go forth; become public; flow, gush, pour forth" (source also of Italian uscire, Catalan exir), from ex- "out" (see ex-) + ire "to go," from PIE root *ei- "to go."
+3. 定义：a subject or problem that people are thinking and talking about问题 议题
+
+#### execute /ˈek.sɪ.kjuːt/
+
+1. 助记：ex-向外 + sec-跟随 + -ute，即执行命令。
+   secut-,sequ-,su- = follow, 表示“跟随
+   例：Consecutive con-全部 + secu-跟随 + -tive表形容词 → 一个接一个跟随。连续的，连贯的
+2. 词源：
+   etymology
+   late 14c. "to carry into effect" (transitive, mostly in law with reference to warrants, sentences, etc.), also "carry out or accomplish a course of action" (intransitive), from Old French executer (14c.), from Medieval Latin executare, from Latin execut-/exsecut-, past participle stem of exequi/exsequi "to follow out, to follow to the grave," figuratively "to follow, follow after, accompany, follow up, prosecute, carry out, enforce; execute, accomplish; punish, avenge," from ex- "out" (see ex-) + sequi "follow" (from PIE root *sekw- (1) "to follow"). Meaning "to inflict capital punishment" is from late 15c., from earlier legal sense "perform judgment or sentence on" (early 15c.). Related: Executed; executing.
+3. 定义：to do or perform something, especially in a planned way执行 履行
+
+#### mechanic/məˈkæn.ɪk/
+
+1. 助记：来自拉丁mechanicus , 机械师，来自machina , 机械，引擎，工具，词源同machine。
+2. 词源：
+   etymology
+   "manual laborer," late 14c., from Latin mechanicus, from Greek mekhanikos "an engineer," noun use of adjective meaning "full of resources, inventive, ingenious," from mekhane "device," from PIE *magh-ana- "that which enables," from root *magh- "to be able, have power." Sense of "one who is employed in manual labor, a handicraft worker, an artisan" (chief sense through early 19c.) is attested from 1560s. Sense of "skilled workman who is concerned with making or repair of machinery" is from 1660s, but not the main sense until the rise of the automobile.
+3. 定义：someone whose job is repairing the engines of vehicles and other machines技工，机修工
+4. 拓展：单词A：mechanic [mɪ'kænɪk] n.技工，机修工，adj.手工的，单词B：machine [mə'ʃiːn] n. 机械；机构，vt. 用机器制造。二者明显有关系，但为啥拼写中ch的读音不同呢？因为，虽然都是希腊词源，但mechanic是英语经由拉丁语借自希腊语，ch的读音保留了/k/音，但machine经由法语，ch音腭音化为/ʃ/。
+
+#### sort/sɔːt/
+
+1. 助记:
+   来自古法语 sorte,种类，类别，来自拉丁语 sors,类别，分类，命运，抽签，来自 PIE*ser,安排，排列，词源同 series,insert。
+   sort- = kind, 表示“种类”。
+2. 词源：
+   etymology
+   late 14c., "group of people, animals, etc.; kind or variety of person or animal," from Old French sorte "class, kind," from Latin sortem (nominative sors) "lot; fate, destiny; share, portion; rank, category; sex, class, oracular response, prophecy," from PIE root *ser- (2) "to line up."
+3. 定义：a group of things that are of the same type or that share similar qualities分类，类别； 品质
+4. 拓展：sorcery（巫术）：西方古代的抽签占卜术
+   在古代西方，有一种常见的占卜方法，就是使用刻在石头、木片、纸片、骰子上的符号、图形、或文字，通过随机抽取、翻取、投掷等方式来达到占卜的目的。这种占卜工具在拉丁语中被称为sors，属格形式为sortis。使用这种工具进行占卜的人则称为sortarius。单语单词sorcery（巫术）和sorcerer（巫师）都来源于此。同源词还有sort（种类）、sortilege（抽签占卜）。
+   sorcery：['sɔːs(ə)rɪ] n.巫术，魔法
+   sorcerer：['sɔːs(ə)rə] n.男巫师，男魔法师
+   sorceress：['sɔrsərəs]n.女巫师，女魔法师
+   sort：[sɔrt] n.种类v.分类，排序
+   sortilege： ['sɔːtɪlɪdʒ]n.巫术，占卜，抽签占卜
+
+#### violate/ˈvaɪ.ə.leɪt/
+
+1. 助记：词源同violence , 暴力，引申词义违背，违反。
+2. 词源：
+   etymology
+   early 15c., "to break" (an oath, etc.), from Latin violatus, past participle of violare "treat with violence, dishonor, outrage" (see violation). Sense of "ravish" is first recorded mid-15c. Related: Violated; violating.
+3. 定义：to break or act against something, especially a law, agreement, principle, or something that should be treated with respect违反； 妨碍
+
+
+#### monday morning quarterback
+
+1. 助记： 美国俚语 Monday morning quarterback文字直译是星期一早上的四分卫,词组意思一般指的是“放马后炮的人 ,事后诸葛亮”——周末打完比赛,周一早上谁都要评论一下昨天的四分卫应该怎么怎么样,所以管这帮放马后炮的人叫做Monday morning quarterback。
+2. 定义：someone who says how an event or problem should have been dealt with by others after it has already been dealt with 事后诸葛亮
+3. 拓展：
+         周日晚上的美式足球比赛（Sunday night football）是全国转播黄金档次，收视人口也最多。隔天星期一早上的下课时间、上班空档，许多球迷聊起前一晚的比赛，这时往往有人会大放厥词说「如果我是四分卫就会怎么做」、「当时要用什么战术」...等等「马后抱」行为，「星期一早晨的四分卫」就是指那些「在事后放马后抱的人」，也可以间称 “Monday morning QB”。还有另一个俚语也跟星期有关，许多男球迷在星期天晚上因为收看球赛，而冷落老婆的行为，也造成特有的「周日夜寡妇」”Sunday night widow” 族群。
+          四分卫算是整个球队的主帅，在场上的指挥调度全都得听quarterback 的。通常在每次攻击时球一定是先传到 quarterback 手上，之後他会迅速後退，再决定是要自己传球(pass)，还是把球再交给其它球员跑阵 (rush)，还是要自己偷袭 (quarterbacksneak)。所以四分卫一定要头脑灵活而且在场上时要眼观四面耳听八方，但更重要的是他必须有很强壮的手臂，这样子传球才能传得远，但除此之外还要很准确，这样子才不会把球传到对方手。
+4. 应用：
+   Peyton:“If I were Andrew, I would not screw up this project by that awful decision.”
+   Tom:“Come on. Don’t be a Monday morning QB. You’re just a two-month newbie.”
+   裴顿：「如果我是安祖鲁，我就不会让糟糕的决策搞砸专案。」
+   汤姆：「得了吧，别放马后抱了，你才只是刚来两个月的菜鸟。」
+
+
+#### kink/kɪŋk/
+
+1. 助记：来自瑞典语 kink,绳结，来自 Proto-Germanickenk,弯，转，来自 PIEgengh,弯，转，编织，词源同 hook,cinch,precinct.
+2. 词源：
+   etymology
+   1670s, "knot-like contraction or short twist in a rope, thread, hair, etc., originally a nautical term, from Dutch kink "twist（搓，捻） in a rope" (also found in French and Swedish), which is probably related to Old Norse kikna "to bend backwards, sink at the knees" as if under a burden (see kick (v.)). Figurative sense of "odd notion, mental twist, whim" first recorded in American English, 1803, in writings of Thomas Jefferson; specifically "a sexual perversion, fetish, paraphilia" is by 1973 (by 1965 as "sexually abnormal person").
+3. 定义：an unwanted twist or bend in a wire, rope, pipe, etc. that is usually straight 绳结  
+
+
+#### terrific/təˈrɪf.ɪk/
+
+1. 助记：terr-恐惧 + iflc带来 → 带来可怕 → 好到了让人害怕的地步 → 极好的。
+2. 词源：
+   etymology
+   1660s, "frightening," from Latin terrificus "causing terror or fear, frightful," from terrere "fill with fear" (see terrible) + combining form of facere "to make" (from PIE root *dhe- "to set, put"). Weakened sensed of "very great, severe" (as in terrific headache) appeared 1809; inverted colloquial sense of "excellent" began 1888. Related: Terrifically.
+3. 定义：very good 极好的
+
+
+#### ample/ˈæm.pəl/
+
+1. 助记;ampl- = large, 表示“大”。ample 引申为 大量的 充足的 丰富的
+2. 词源：
+   etymology
+   mid-15c., "great, abundant," especially "sufficient for any purpose," from Old French ample "large, wide, vast, great" (12c.), from Latin amplus "large, spacious; abundant, numerous; magnificent, distinguished," which is related to ampla "handle, grip; opportunity," from Proto-Italic *amlo- "seizable," from a PIE root meaning "to grab" that also is postulated as the source of amare "to love" 
+3. 定义：more than enough大量的 充足的
+
+
+#### adverse/ˈæd.vɜːs/
+
+1. 助记：ad-去，往 + vers-转 + e → 转走的，对着干的 引申为不利的 敌对的 相反的 
+2. 词源：
+   etymology
+   late 14c., "contrary, opposing," from Old French advers, earlier avers (13c., Modern French adverse) "antagonistic, unfriendly, contrary, foreign" (as in gent avers "infidel race"), from Latin adversus "turned against, turned toward, fronting, facing," figuratively "hostile, adverse, unfavorable," past participle of advertere "to turn toward," from ad "to" (see ad-) + vertere "to turn, turn back; be turned; convert, transform, translate; be changed" (from PIE root *wer- (2) "to turn, bend"). For distinction of use, see averse. Related: Adversely.
+3. 定义：having a negative or harmful effect on something
+   不利的 敌对的 
+
 ## 13. Design Improvements to Your Machine to Get Around Your Problems
 
 **Visceral** /ˈvɪs.ər.əl/ 本能的
