@@ -3714,7 +3714,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
 
-   dividend/ˈdɪv.ɪ.dend/ 
+   **dividend/**ˈdɪv.ɪ.dend/ 
 
    1. 助记：
       di-分开 + vid-切 + end → 分享的股息
@@ -3732,7 +3732,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
       bonus：['bəʊnəs] n.奖金，红利，津贴，额外收益
       dividend：['dɪvɪdend] n.股息，被除数
 
-   session/ˈseʃ.ən/ 
+   **session**/ˈseʃ.ən/ 
 
    1. 助记：sess-=sed坐 + -ion名词后缀。坐着的期间引申为
       期间, 开庭期, 会议, 学期
