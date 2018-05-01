@@ -4068,6 +4068,66 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 3. 定义：having a negative or harmful effect on something
    不利的 敌对的 
 
+#### emerge/ɪˈmɜːdʒ/
+
+1. 助记：e-出 + merg-沉没 + e → 沉的东西出现 → 浮现。
+   immerge  im- 在内，进入 + merge 沉，没 即 隐没 浸入
+2. 词源：
+   etymology
+   1560s, from Middle French émerger and directly from Latin emergere "bring forth, bring to light," intransitively "arise out or up, come forth, come up, come out, rise," from assimilated form of ex "out" (see ex-) + mergere "to dip, sink" (see merge). The notion is of rising from a liquid by virtue of buoyancy. Related: Emerged; emerging.
+3. 定义：to appear by coming out of something or out from behind something出现，浮现
+4. 例句：The chilling facts behind this veil of silence were slow to emerge.沉默背后的骇人真相慢慢显露出来。
+
+#### insanity/ɪnˈsæn.ə.ti/
+
+1. 助记：
+   in-不 + sane心智健全的 健康的
+   insane 精神失常 + -ity表名词
+2. 词源：
+   etymology
+   1580s, "state of being insane, seriously impaired state of mental functioning," from Latin insanitatem (nominative insanitas) "unhealthfulness, unsoundness, disease," noun of quality from insanus "mad, insane; outrageous, excessive" (see insane). Meaning "extreme folly" is from 1844. The Latin abstract noun was insania ""unsoundness of mind, madness, frenzy."
+3. 定义：the condition of being seriously mentally ill疯狂； 精神失常
+4. 例句：
+   1. Phillips murdered his wife, but got off on a plea of insanity菲利普斯谋杀了他的妻子，但以精神错乱为由逃脱了惩罚。
+   2. The insanity which ran in his family haunted him
+      家族遗传的精神错乱困扰着他。
+
+#### suboptimal/ˌsʌbˈɒptɪməl/
+
+1. 助记：sub 下面的 + optimal 最优的 优化的
+2. 词源：
+   etymology
+   also sub-optimal, 1901, from sub- + optimal.
+   "most favorable," 1890, from Latin optimus (see optimum).
+3. 定义：below the highest level or standard, or not done in the best way possible未达最佳标准的； 不最理想的
+4. 例句：This led to a suboptimal equilibrium of dirty floors and resentful cohabitants.这样便形成了一种不太理想的平衡:地板脏兮兮的,而住在屋里的人相互怨怼.
+
+#### inventory/ˈɪn.vən.tər.i/
+
+1. 助记：in-进入，使 + vent-来，来到 + -ory表名词，即来到，到达，引申词义找到，发现，后用于指发现的存货，清单等。
+2. 词源：
+   etymology
+   early 15c., from Old French inventoire "detailed list of goods, a catalogue" (15c., Modern French inventaire), from Medieval Latin inventorium, alteration of Late Latin inventarium "list of what is found," from Latin inventus, past participle of invenire "to find, discover, ascertain" (see invention).
+3. 定义：a detailed list of all the things in a place存货清单 财产目录
+4. 例句an inventory of the museum's contents博物馆馆藏清单
+
+   ​
+
+#### disenfranchise/ˌdɪs.ɪnˈfræn.tʃaɪz/
+
+1. 助记：dis 不 en-进入，使 + franchise选举权 公民权  即剥夺...的权利 
+   franchise =  franch自由 + -ise 
+   franch 来自古法语 franc,非奴役的，自由的，来自拉丁语 francus,法兰克人，自由人，词源同 Frank.其原词义即使享有自由权，后引申词义选举权，特许经销权等。
+2. 词源：
+   etymology
+   "deprive of civil or electoral privileges," 1640s, from dis- + enfranchise. 
+   early 15c., "grant (someone) the status or privilege of citizenship, admit to membership in a town," from Old French enfranchiss-, present participle stem of enfranchir "to set or make free; grant a franchise to;" from en- "make, put in" (see en- (1)) + franc "free" (see franchise (n.)). Generally with reference to voting privileges after c. 1700. Related: Enfranchised; enfranchisement.
+3. 定义：to take away power or opportunities, especially the right to vote, from a person or group即剥夺...的权利 
+4. 例句：.
+   White supremacists[səˈpreməsists] devise new Methods: To disenfranchise Negroes.
+   白人至上论者想出新的方法以剥夺黑人的公民权。
+
+
 ## 13. Design Improvements to Your Machine to Get Around Your Problems
 
 **Visceral** /ˈvɪs.ər.əl/ 本能的
