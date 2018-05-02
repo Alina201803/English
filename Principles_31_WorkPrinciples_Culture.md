@@ -4245,7 +4245,81 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    n.耐用品
 
-   ​
+   #### visceral/ˈvɪsərəl/
+
+   1. 助记：来自viscera 内脏 脏腑
+   2. 词源：
+      etymology
+      1570s, "affecting inward feelings," from Middle French viscéral and directly from Medieval Latin visceralis "internal," from Latin viscera, plural of viscus "internal organ, inner parts of the body," of unknown origin. The bowels were regarded as the seat of emotion. The figurative sense vanished after 1640 and the literal sense is first recorded in 1794. The figurative sense was revived 1940s in arts criticism.
+   3. 定义： obtained through intuition rather than from reasoning or observation发自内心的 
+   4. 例句：She had a visceral dislike of all things foreign
+                 凡是外国的东西，她都打心眼儿里讨厌。
+      ​
+
+   #### diagnosis/daɪəgˈnəʊsɪs/
+
+   1. 助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
+   2. 词源：
+      etymology
+      1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+   3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
+   4. 例句：.
+      She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
+
+   #### precise/prɪˈsaɪs/
+
+   1. 助记：pre在……前的,预先+cise切→预先切好的→精确的
+   2. 词源：
+      etynology
+      mid-15c., from Middle French précis "condensed, cut short" (14c.) and directly from Medieval Latin precisus, from Latin praecisus "abrupt, abridged, cut off," past participle of praecidere "to cut off, shorten," from prae "before" (see pre-) + -cidere, combining form of caedere "to cut" (from PIE root *kae-id- "to strike"). For Latin vowel change, see acquisition. Related: Precisely (late 14c.).
+   3. 定义：sharply exact or accurate or delimited; 精确的
+   4. 例句：.
+      I seem to remember giving you very precise instructions
+      我好像记得给过你非常明确的指示。
+
+
+   #### durable/ˈdjʊərəbl/
+
+   1. 助记：dur-坚硬 + -able表形容词
+   2. 词源：
+      etymology
+      late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+   3. 定义：existing for a long time持久的 耐用的
+   4. 例句：negotiations for a durable peace为持久和平而进行的谈判
+
+   #### pervasive/pəˈveɪsɪv/
+
+   1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
+      vas- vad- = go
+      pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
+      evade v. e-出 + vad-走 + e → 走出去 → 逃避。
+      invade v.in-进入 + vad-走 侵入 侵略
+   2. 词源：
+      etymology
+      1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
+      1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
+   3. 定义：spread throughout 蔓延的 遍布的
+   4. 例句：
+      She lives with a pervasive sense of guilt.
+      她生活在深深的愧疚之中。
+
+
+   #### biannual/baɪˈænjuə/
+
+   1. 助记：bi- 表示“两个，两”。
+      annual n. 年刊, 年报 a. 每年的, 一年一次的, 全年的, 一年生的
+      ann- enn- = year 
+      annalist 编年史作者 triennial 每三年一次
+   2. 词源：
+      etymology
+      also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+      late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+   3. 定义： occurring or payable twice each year 两年一次
+   4. 例句：
+      I have to make a biannual report next Monday
+      下周一我得作半年度报告
+
+
 
 ## 12. Diagnose Problems to Get at Their Root Causes
 
