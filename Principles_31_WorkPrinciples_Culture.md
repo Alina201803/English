@@ -4534,9 +4534,219 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    failing
 
 
+**Ninja** /ˈnɪn.dʒə/ 忍者
+
+1. 助记,
+
+   spy
+
+2. 词源,
+
+   **OED Origin**
+
+   Japanese, literally ‘spy’.
+
+   **Etymology**
+
+3. 释义,
+
+   忍者、日本武士 a Japanese fighter, especially in the past, who moves and acts without beingseen and usually carries a short sword
+
+4. 拓展
+
+   [teenage mutant ninja turtle](javascript:void(0);)忍者神龟（美国动画电影）
+
+ **Politburo**  /ˈpɑː.lɪtˌbjʊr.oʊ/  政治局
+
+1. 助记,
+
+   polit+buro
+
+   来自polit-,政治，词源同polity,-byuro,局，办公室，词源同bureau.
+
+   来自俄罗斯语politbyuro,政治局.
+
+2. 词源,
+
+   **OED Origin**
+
+   From Russian politbyuro, **from polit(icheskoe) byuro ‘political bureau’.**
+
+   **Etymology**
+
+   "highest policy-making committee of the U.S.S.R.," 1927, from Russian politbyuro, contracted frompoliticheskoe byuro "**political bureau**."
+
+3. 释义,
+
+   （共产党执政国家的）政治局 the main government group in a Communist country, which makes all theimportant decisions
+
+4. 拓展
+
+   P politburo 政治局
+
+   politburo member政治局委员
+
+   the Politburo 政治局
+
+ **Orchestrate** /ˈɔːr.kə.streɪt/
+
+1. 助记,
+
+   ori-,orig-,ort- 
+   = rise, begin, 表示“升起，开始”，来自拉丁语。
+
+   orche*是同源词，基本含义是舞蹈。原始印欧语形式为*ergh。
+
+   来自orchestra,管弦乐，-ate,使。即编排管弦乐曲，引申词义组织，安排。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: from orchestra, perhaps suggested by French orchestrer.
+
+   **Etymology**
+
+   "to compose or arrange (music) for an orchestra," 1855, back-formation from [orchestration](https://www.etymonline.com/word/orchestration?ref=etymonline_crossreference). The figurative sense is attested from 1883. Related: Orchestrated; orchestrating.
+
+3. 释义,
+
+   为管弦乐队改编（或创作） to arrange or write a piece of music so that it can be played by an orchestra
+
+4. 拓展
+
+   orchestra（管弦乐队）：古希腊剧场中歌舞队所在位置
+   英语单词orchestra通常被译为“管弦乐队”，然而这个单词中既没有“管”、也没有“弦”，也没有“乐队”。实际上，它的本意不是表示一群人，而是表示这一群人所处的位置。它来自希腊语orkhestra，由orkheisthai（舞蹈）+tra（地点）组合而成，指的是古希腊剧场中歌舞队所在位置。在古罗马时期，该词指的是剧场前排为议员及其他高官保留的位置。后来，剧场从露天的变成了室内的，歌舞队变成了乐队，orchestra也随之变为表示剧场中乐队所在位置。直到18世纪后，该词才被用来表示在该位置演奏的乐队。由于在剧场中演出的一般是管弦乐队，所以中文译为“管弦乐队”。
+   orchestra：['ɔːkɪstrə] n.管弦乐队，乐队演奏处，剧场前排座位
+   orchestral：[ɔr'kɛstrəl] adj. 管弦乐的；管弦乐队的
+   orchestrate：['ɔrkɪstret] vt. 把…编成管弦乐曲；精心安排；把…协调地结合起来vi. 编管弦乐曲
+   orchestration：[,ɔkɛs'treʃən] n. 管弦乐编曲；和谐
+
 ## 14. Do What You Set Out to Do
 
+**Scribble** /ˈskrɪb.əl/ 乱涂乱写
 
+1. 助记,
+
+   scrib+b+le
+
+   scrib=write,写+b+le=反复写--乱写
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from medieval Latin scribillare, **diminutive of Latin scribere ‘write’**.
+
+   **Etymology**
+
+   mid-15c., from Medieval Latin scribillare, diminutive of Latin scribere **"to write"** (from PIE root[*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut"). Related: Scribbled; scribbling. The noun, **"hurried or careless writing,"** is 1570s, from the verb.
+
+3. 释义
+
+   乱涂乱写 to write or draw something quickly or carelessly
+
+4. 拓展
+
+   scrawl 潦草的写
+
+   [scribbler](javascript:void(0);) 三流作家；小文人；潦草书写的人
+
+**Manuscript** /ˈmæn.jə.skrɪpt/ 手稿
+
+1. 助记,
+
+   manu+script
+
+   manu=hand,表示手+script=write,表示写，手写的稿件--手稿
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: from medieval Latin manuscriptus, **from manu ‘by hand’ + scriptus ‘written’ (past participle of scribere).**
+
+   **Etymology**
+
+   "document or book written by hand," 1590s (adj.), c. 1600 (n.), from Medieval Latin manuscriptum"document written by hand," from Latin manu scriptus **"written by hand,"** from manu, ablative ofmanus "hand" (from PIE root [*man-](https://www.etymonline.com/word/*man-?ref=etymonline_crossreference) (2) "hand") + scriptus (neuter scriptum), past participle ofscribere "to write" (from PIE root [*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut"). Abbreviation is MS, plural MSS.
+
+3. 释义
+
+   手稿 the original copy of a book or article before it is printed
+
+4. 拓展
+
+   scribe（写）：古代用铭刻的方式来写字
+   古代，在墨水发明之前，人们都是用铭刻的方式来写字的，即用尖刻之物在竹简、木板、泥版、蜡板等书写材料上刻画。所以在英语单词中，表示“写”的单词scribe及由此衍生的词根scribe-还含有“刻”的含义。如inscribe，既表示“题写”，也表示“铭记”。英语单词scribe来自拉丁语scribere，本意是“刻”。与它同源的单词有：script（脚本）、prescribe（开处方）、describe（描述）、manuscript（手稿）等。
+   而英语中表示“写”的更常用单词write来自古日耳曼语，本意是scratch（刮擦）。
+   scrib-/script：写，刻
+   scribe：[skraɪb] v.写，记，划n.抄写员，作家，划线器
+   script：[skrɪpt] n. 脚本；手迹；书写用的字母vt. 把…改编为剧本vi. 写电影脚本
+   inscribe：[ɪn'skraɪb] vt.题写，铭记，铭刻
+   inscription：n.题词，铭文，刻印
+   prescribe：[prɪ'skraɪb] vi. 规定；开药方vt. 规定；开处方
+   prescription：[prɪ'skrɪpʃən] n. 药方；指示adj. 凭处方方可购买的
+   describe： [dɪ'skraɪb] vt. 描述，形容；描绘
+   description：[dɪ'skrɪpʃən] n. 描述，描写；类型；说明书
+
+**Fraction** /ˈfræk.ʃən/ 小部分
+
+1. 助记,
+
+   fract+ion
+   fract=break,表示打碎 ion-表名词，行为、动作、状态或过程，引申为打碎为一个个小小的部分。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from ecclesiastical Latin fractio(n-) ‘breaking (bread)’, from Latin frangere ‘to break’.
+
+   **Etymology**
+
+   late 14c., originally in the mathematical sense, from Anglo-French fraccioun (Old French fraccion, "a breaking," 12c., Modern French fraction) and directly from Late Latin fractionem (nominative fractio) "a breaking," especially into pieces, in Medieval Latin "a fragment, portion," noun of action from past participle stem of Latin frangere "to break (something) in pieces, shatter, fracture," from Proto-Italic*frang-, from a nasalized variant of PIE root [*bhreg-](https://www.etymonline.com/word/*bhreg-?ref=etymonline_crossreference) "to break." Meaning "a breaking or dividing" in English is from early 15c.; sense of "broken off piece, fragment," is from c. 1600.
+
+3. 释义
+
+   小部分 a number that results from dividing one whole number by another
+
+4. 拓展
+
+   [score](javascript:void(0);)  分数
+
+   marks 标注
+
+   proportion 成比例的
+
+   portion 部分
+
+**Stumble** /ˈstʌm.bəl/ 蹒跚而行
+
+1. 助记,
+
+   来自stum,树桩-被树桩绊倒-踉跄-蹒跚而行
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (as a verb): from Old Norse, from the Germanic base of **stammer.**
+
+   **Etymology**
+
+   c. 1300, "to trip or miss one's footing" (physically or morally), probably from a Scandinavian source (compare dialectal Norwegian stumla, Swedish stambla "to stumble"), probably from a variant of the Proto-Germanic base *stam-, source of Old English stamerian "**to stammer**," German stumm, Dutchstom "dumb, silent." Possibly influenced in form by stumpen "to stumble," but the -b- may be purely euphonious. Meaning "to come (upon) by chance" is attested from 1550s. Related: Stumbled;stumbling. Stumbling-block first recorded 1526 (Tindale), used in Romans xiv.13, where usually it translates Greek skandalon.
+
+3. 释义
+
+   蹒跚而行 to walk in a way that does not seem controlled
+
+4. 拓展
+
+   [hesitate](javascript:void(0);) / [stand at](javascript:void(0);) 犹豫、踌躇
+
+   [puzzle](javascript:void(0);) / [baffle](javascript:void(0);) 困惑
+
+   [trip](javascript:void(0);) 绊倒、蹒跚而行
 
 
 
