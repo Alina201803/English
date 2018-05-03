@@ -4280,28 +4280,28 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    #### durable/ˈdjʊərəbl/
 
-   1. 助记：dur-坚硬 + -able表形容词
-   2. 词源：
-      etymology
-      late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
-   3. 定义：existing for a long time持久的 耐用的
-   4. 例句：negotiations for a durable peace为持久和平而进行的谈判
+1.    助记：dur-坚硬 + -able表形容词
+2.    词源：
+         etymology
+         late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+      3. 定义：existing for a long time持久的 耐用的
+      4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
-   #### pervasive/pəˈveɪsɪv/
+      #### pervasive/pəˈveɪsɪv/
 
-   1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
-      vas- vad- = go
-      pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
-      evade v. e-出 + vad-走 + e → 走出去 → 逃避。
-      invade v.in-进入 + vad-走 侵入 侵略
-   2. 词源：
-      etymology
-      1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
-      1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
-   3. 定义：spread throughout 蔓延的 遍布的
-   4. 例句：
-      She lives with a pervasive sense of guilt.
-      她生活在深深的愧疚之中。
+      1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
+         vas- vad- = go
+         pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
+         evade v. e-出 + vad-走 + e → 走出去 → 逃避。
+         invade v.in-进入 + vad-走 侵入 侵略
+      2. 词源：
+         etymology
+         1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
+         1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
+      3. 定义：spread throughout 蔓延的 遍布的
+      4. 例句：
+         She lives with a pervasive sense of guilt.
+         她生活在深深的愧疚之中。
 
 
    #### biannual/baɪˈænjuə/
@@ -4311,13 +4311,100 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       ann- enn- = year 
       annalist 编年史作者 triennial 每三年一次
    2. 词源：
-      etymology
-      also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-      late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
-   3. 定义： occurring or payable twice each year 两年一次
-   4. 例句：
-      I have to make a biannual report next Monday
-      下周一我得作半年度报告
+         etymology
+         also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+         late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+      3. 定义： occurring or payable twice each year 两年一次
+      4. 例句：
+         I have to make a biannual report next Monday
+         下周一我得作半年度报告
+
+
+#### vicarious/vɪˈkeəriəs/
+
+1. 助记：vicar n. ,代理人 +ious引申为间接的 感同身受的 
+   vic-,vice- 表示“改变、交流”，引申为“副职”或“代理“ 
+   举例：vicepresident 副校长 vicepremier 副首相
+2. 词源：
+   etymology
+   1630s, "taking the place of another," from Latin vicarius "that supplies a place; substituted, delegated," from vicis "a change, exchange, interchange; succession, alternation, substitution," from PIE root *weik- (2) "to bend, to wind."
+3. 定义：
+   experienced at secondhand 二手的 间接体验的
+   suffered or done by one person as a substitute for another代理的
+4. 例句：
+   Lots of people use television as their vicarious form of social life
+   许多人从电视中间接感受社会生活。
+   the vicarious pleasure that parents get from their children's success
+   父母因子女的成功而得到的如同身受的快乐
+
+#### prototype/ˈprəʊtətaɪp/
+
+1. 助记：
+   proto-原始 , 第一 + type → 原始模式 → 原型。
+   proto- = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”，来自于古希腊
+   举例：protist 原生生物  protohuman 早期原始人
+   type n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式 vi. 打字 vt. 作为代表, 测定类型, 用打字机打
+2. 词源：
+   etymology
+   c. 1600, from French prototype (16c.) and directly from Medieval Latin prototypus "original, primitive," from Greek prototypon "a first or primitive form," noun use of neuter singular of prototypos "original, primitive," from protos "first" (see proto-) + typos "impression, mold, pattern" (see type (n.)). In English from 1590s as prototypon.
+3. 定义：a standard or typical example原型，雏形，蓝本
+4. 例句：
+   the prototype of the modern bicycle
+   现代自行车的雏形
+   This is the prototype for future school buildings. 
+   这是未来的学校建筑的蓝本.
+5. 拓展：
+   proto-（第一）：变化多端的海中老人普罗透斯
+   普罗透斯（Proteus）是希腊神话中的一个早期海神，荷马史诗中所说的“海中老人”之一。他有预测未来的神通，但只向能逮住他的人透露预言。为了避免被人逮住，他拥有随意改变自己形状的神力。他居住在尼罗河三角洲海岸外的法罗斯岛上，以放牧海兽为生。
+   根据荷马史诗的记载，参加特洛伊战争的斯巴达国王墨涅拉奥斯（Menelaus）从特洛伊启程回国前触犯了神灵，被困在法罗斯岛上。在这里他遇到了普罗透斯的女儿。后者向他透露了普罗透斯的秘密，还告诉他制服普罗透斯的诀窍。于是，墨涅拉奥斯带着手下，身披海豹皮，悄悄接近普罗透斯，趁他瞌睡时，突然抓住他，任凭他千变万化也不松手。普罗透斯最后没办法，只好变回原形投降，向墨涅拉奥斯透露了他所需要的预言。
+   普罗透斯的名字Proteus非常有意思，它来自希腊语protos（第一）。古话说，一生二，二生四，四生万物，Proteus这个名字就暗示着他能够千变万化。英语词根proto-（第一、最初）就来源于此。由Proteus衍生出形容词protean，意思是“千变万化的”。
+   proto-：第一，最初
+   Proteus：['prəʊtɪəs] n. 多变的人；普罗透斯（希腊海神）；变形杆菌属
+   protean： ['prəʊtɪən; prəʊ'tiːən] adj.千变万化的，一人分饰多角的，变形虫的
+   protocol：['protə'kɔl] n. 协议；草案；礼仪v. 拟定。本意为“第一页”
+
+#### spontaneous/spɒnˈteɪniəs/
+
+1. 助记：spont-承诺，引申为行动 + -aneous表形容词，发自内心的承诺 → 自发的。
+   spond-,spons-,spous- = promise, 表示“承诺”，来自拉丁语
+2. 词源：
+   etymology
+   1650s, "occurring without external stimulus," from Late Latin spontaneus "willing, of one's free will," from Latin (sua) sponte "of one's own accord, willingly," a word of uncertain origin. Related: Spontaneously; spontaneousness. Used earlier of persons and characters, with a sense "acting of one's own accord" (c. 1200). Spontaneous combustion first attested 1795. Spontaneous generation (the phrase, not the feat) attested from 1650s.
+3. 定义： happening or arising without apparent external cause 自然的 自发的
+4. 例句：
+   spontaneous outpourings of praise
+   一片自然迸发的赞美声
+   She laughed spontaneously.
+   她不由得笑了。
+   a spontaneous offer of help
+   主动提出帮助
+5. 拓展：
+   spouse（配偶）：古希腊人的签约祭神习俗
+   古希腊人在签订协议时都喜欢请神灵来做见证，方式就是在签订协议的同时祭奠神灵，最常用的祭奠方式就是奠酒，即把酒洒在地上请神灵享用。在希腊语中表示“奠酒”的单词是sponde，该词因而衍生出“承诺、立约”的含义。sponde进入拉丁语后演变为spondere，立约人则称为sponsus。古人结婚其实就是签订婚约然后举行婚礼，所以签订婚约的人也被称为sponsus。英语单词spouse（配偶）就来源于此，本意就是“签订了婚约的人”。与它同源的单词有sponsor（赞助者、举办者）等。
+   spouse：[spaʊz; -s] n.配偶，vt.和……结婚
+   spousal：['spaʊz(ə)l] adj.结婚的n.婚礼，结婚仪式
+   sponsor：['spɒnsə] n.赞助者，举办者，保证人vt.赞
+
+#### criteria/kraɪ'tɪərɪə/
+
+1. 助记：crit-判断 + eria。 判断用的标准
+2. 词源：
+   etymology
+   1660s, from Latinized form of Greek kriterion "means for judging, standard," from krites "judge," from PIE root *krei- "to sieve," thus "discriminate, distinguish." Used in English as a Greek word from 1610s.
+3. 定义：A criterion is a factor on which you judge or decide something 标准 准则
+4. 例句：
+   It is hard to make out what criteria are used
+   很难弄清楚使用的是什么样的标准。
+
+#### to start from scratch
+
+从零开始 
+
+she built up this company from scrath 她白手起家创办了这家公司 
+
+The new paint wont adhere to the walls so I'll have to strip it all off and start from scratch.
+
+新涂的油漆粘不住墙壁，因此我得把它全部刮掉，重新刷过。
 
 
 
