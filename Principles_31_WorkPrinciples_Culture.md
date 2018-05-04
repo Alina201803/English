@@ -3945,7 +3945,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 3. 定义：to move something by pulling it along a surface, usually the ground拖 拉 
 4. 拓展：drag [dræg] v.拖累；拖拉；拖曳，n.拖；拖累，B：draw [drɔː] vt.画；拉；吸引，vi 拉；拖。A来自古北欧语，B来自古英语，二者同源（源头是原始日耳曼语），只不过在古英语中，硬音g变成了w音。参考tug [tʌg] n.拖船；拖曳；苦干，vi.用力拉和tow [təʊ] n.拖；拖曳所用之绳，v.拖；牵引；曳。 
 
-#### trivial/ˈtrɪv.i.əl/
+#### **trivial**/ˈtrɪv.i.əl/
 
 1. 助记：tri-三 + vi-路 + -al表形容词 → 三条路 → 没有一个目标 → 琐碎的。
 2. 词源：
@@ -3957,7 +3957,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    trivia： ['trɪvɪə] n. 琐事
    trivial： ['trɪvɪəl] adj.琐碎的，无关紧要的
 
-#### synthesis/ˈsɪn.θə.sɪs/
+**synthesis**/ˈsɪn.θə.sɪs/
 
 1. 助记：syn-一起 + thes-放 + is → 放在一起 → 合成。
 2. 词源：
@@ -3965,7 +3965,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    1610s, "deductive reasoning," from Latin synthesis "collection, set, suit of clothes, composition (of a medication)," from Greek synthesis "composition, a putting together," from syntithenai "put together, combine," from syn- "together" (see syn-) + tithenai "to put, to place," from reduplicated form of PIE root *dhe- "to set, put." From 1733 as "a combination of parts into a whole." Earlier borrowed in Middle English as sintecis (mid-15c.). Plural syntheses.
 3. 定义：the production of a substance from simpler materials after a chemical reaction合成物
 
-#### issue/ˈɪʃ.uː/
+#### **issue**/ˈɪʃ.uː/
 
 1. 助记：来自古法语issue , 出口，出去，来自拉丁语exire , 出去，词源同exit , ion . 由向外走出引申问题，议题，期刊，发行等多种词义。
 2. 词源：
@@ -3973,7 +3973,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    c. 1300, "an exit," from Old French issue "a way out, a going out, exit; final event," from fem. past participle of issir "to go out," from Latin exire "go out, go forth; become public; flow, gush, pour forth" (source also of Italian uscire, Catalan exir), from ex- "out" (see ex-) + ire "to go," from PIE root *ei- "to go."
 3. 定义：a subject or problem that people are thinking and talking about问题 议题
 
-#### execute /ˈek.sɪ.kjuːt/
+#### **execute** /ˈek.sɪ.kjuːt/
 
 1. 助记：ex-向外 + sec-跟随 + -ute，即执行命令。
    secut-,sequ-,su- = follow, 表示“跟随
@@ -4090,7 +4090,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 4. 例句：
    1. Phillips murdered his wife, but got off on a plea of insanity菲利普斯谋杀了他的妻子，但以精神错乱为由逃脱了惩罚。
    2. The insanity which ran in his family haunted him
-      家族遗传的精神错乱困扰着他。
+      家族遗传的精神错乱困扰着
+   3. 他。
 
 #### suboptimal/ˌsʌbˈɒptɪməl/
 
@@ -4248,14 +4249,16 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    #### visceral/ˈvɪsərəl/
 
    1. 助记：来自viscera 内脏 脏腑
+
    2. 词源：
       etymology
       1570s, "affecting inward feelings," from Middle French viscéral and directly from Medieval Latin visceralis "internal," from Latin viscera, plural of viscus "internal organ, inner parts of the body," of unknown origin. The bowels were regarded as the seat of emotion. The figurative sense vanished after 1640 and the literal sense is first recorded in 1794. The figurative sense was revived 1940s in arts criticism.
-   3. 定义： obtained through intuition rather than from reasoning or observation发自内心的 
-   4. 例句：She had a visceral dislike of all things foreign
-                 凡是外国的东西，她都打心眼儿里讨厌。
-      ​
 
+   3. 定义： obtained through intuition rather than from reasoning or observation发自内心的 
+
+   4. 例句：She had a visceral dislike of all things foreign
+
+         ​
    #### diagnosis/daɪəgˈnəʊsɪs/
 
    1. 助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
@@ -4287,21 +4290,23 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
-      #### pervasive/pəˈveɪsɪv/
 
-      1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
-         vas- vad- = go
-         pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
-         evade v. e-出 + vad-走 + e → 走出去 → 逃避。
-         invade v.in-进入 + vad-走 侵入 侵略
-      2. 词源：
-         etymology
-         1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
-         1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
-      3. 定义：spread throughout 蔓延的 遍布的
-      4. 例句：
-         She lives with a pervasive sense of guilt.
-         她生活在深深的愧疚之中。
+
+#### pervasive/pəˈveɪsɪv/
+
+ 1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
+     vas- vad- = go
+     pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
+     evade v. e-出 + vad-走 + e → 走出去 → 逃避。
+     invade v.in-进入 + vad-走 侵入 侵略
+  2. 词源：
+     etymology
+     1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
+     1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
+  3. 定义：spread throughout 蔓延的 遍布的
+  4. 例句：
+     She lives with a pervasive sense of guilt.
+     她生活在深深的愧疚之中。
 
 
    #### biannual/baɪˈænjuə/
