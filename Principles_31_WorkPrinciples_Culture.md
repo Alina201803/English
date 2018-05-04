@@ -4263,38 +4263,38 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    #### diagnosis/daɪəgˈnəʊsɪs/
 
-   1. 助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
-   2. 词源：
-      etymology
-      1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
-   3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
-   4. 例句：.
-      She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
+1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
+2.    词源：
+         etymology
+         1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+      3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
+      4. 例句：.
+         She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
 
-   #### precise/prɪˈsaɪs/
+      #### precise/prɪˈsaɪs/
 
-   1. 助记：pre在……前的,预先+cise切→预先切好的→精确的
-   2. 词源：
-      etynology
-      mid-15c., from Middle French précis "condensed, cut short" (14c.) and directly from Medieval Latin precisus, from Latin praecisus "abrupt, abridged, cut off," past participle of praecidere "to cut off, shorten," from prae "before" (see pre-) + -cidere, combining form of caedere "to cut" (from PIE root *kae-id- "to strike"). For Latin vowel change, see acquisition. Related: Precisely (late 14c.).
-   3. 定义：sharply exact or accurate or delimited; 精确的
-   4. 例句：.
-      I seem to remember giving you very precise instructions
-      我好像记得给过你非常明确的指示。
+      1. 助记：pre在……前的,预先+cise切→预先切好的→精确的
+      2. 词源：
+         etynology
+         mid-15c., from Middle French précis "condensed, cut short" (14c.) and directly from Medieval Latin precisus, from Latin praecisus "abrupt, abridged, cut off," past participle of praecidere "to cut off, shorten," from prae "before" (see pre-) + -cidere, combining form of caedere "to cut" (from PIE root *kae-id- "to strike"). For Latin vowel change, see acquisition. Related: Precisely (late 14c.).
+      3. 定义：sharply exact or accurate or delimited; 精确的
+      4. 例句：.
+         I seem to remember giving you very precise instructions
+         我好像记得给过你非常明确的指示。
 
 
    #### durable/ˈdjʊərəbl/
 
 1.    助记：dur-坚硬 + -able表形容词
 2.    词源：
-         etymology
-         late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+            etymology
+            late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
 
       #### pervasive/pəˈveɪsɪv/
-    
+
       1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
          vas- vad- = go
          pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
@@ -4318,26 +4318,26 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
      pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
      evade v. e-出 + vad-走 + e → 走出去 → 逃避。
      invade v.in-进入 + vad-走 侵入 侵略
-  2. 词源：
-     etymology
-     1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
-     1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
-  3. 定义：spread throughout 蔓延的 遍布的
-  4. 例句：
-     She lives with a pervasive sense of guilt.
-     她生活在深深的愧疚之中。
+ 2. 词源：
+      etymology
+      1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
+      1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
+ 3. 定义：spread throughout 蔓延的 遍布的
+ 4. 例句：
+      She lives with a pervasive sense of guilt.
+      她生活在深深的愧疚之中。
 
 
    #### biannual/baɪˈænjuə/
 
-   1. 助记：bi- 表示“两个，两”。
+1.    助记：bi- 表示“两个，两”。
       annual n. 年刊, 年报 a. 每年的, 一年一次的, 全年的, 一年生的
       ann- enn- = year 
       annalist 编年史作者 triennial 每三年一次
-   2. 词源：
-         etymology
-         also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-         late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+2.    词源：
+            etymology
+            also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+            late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
       3. 定义： occurring or payable twice each year 两年一次
       4. 例句：
          I have to make a biannual report next Monday
@@ -4430,6 +4430,79 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
 
 新涂的油漆粘不住墙壁，因此我得把它全部刮掉，重新刷过。
 
+#### iteration/ˌɪtəˈreɪʃn/
+
+1. 助记：
+   iter-重复 + -ate
+   iter- 来自拉丁语 iterare,重复，再次，来自 PIE*i,那个，那里，词源同 idem,item,-ter,比较级后缀。引申词义反复，反复声明
+2. 词源：
+   etymology
+   late 15c., from Latin iterationem (nominative iteratio) "a repetition," noun of action from past participle stem of iterare "do again, repeat," from iterum "again," from PIE *i-tero-, from pronominal root *i- (see yon).
+3. 定义：
+   1.  (computer science) a single execution of a set of instructions that are to be repeated 循环
+   2.  doing or saying again; a repeated performance重复
+4. 例句：
+   An iteration procedure can be used to determine the eigenvalue. 
+   迭代方法可用来确定特征值.
+
+#### solely/ˈsəʊlli/
+
+1. 助记：
+   sole【仅有的】 + -ly副词后缀
+   sole- = alone, 表示“独自、自己”，=be used to 习惯。
+2. 词源：
+   etymology
+   "single, alone, having no husband or wife; one and only, singular, unique," late 14c., from Old French soul "only, alone, just," from Latin solus "alone, only, single, sole; forsaken; extraordinary," of unknown origin, perhaps related to se "oneself," from PIE reflexive root *swo- (see so).
+3. 定义：without any others being included or involved 唯一地 单独地 只是 仅仅
+4. 例句：.
+   Remember, happiness doesn't depend upon who you are or what you have; it depends solely upon what you think.--Dale Carnegie 
+   请记住，幸福不在于你是谁或者你拥有什么，而仅仅取决于你的心态！
+
+#### schedule/ˈʃedju:l/
+
+1. 助记：
+   来自拉丁语 schedula,小纸条，来自希腊语 skhizein,切，分开，来自 PIE*skei,切，分，词源同shed,science,scythe.词义由小纸条引申词义便笺，便条，日程表等。
+   skei 
+   原始印欧语词根*skei, =to cut, split, divide, separate, 表示“劈开，分开”。
+2. 词源：
+   etymology
+   late 14c., sedule, cedule "ticket, label, slip of paper with writing on it," from Old French cedule (Modern French cédule), from Late Latin schedula "strip of paper" (in Medieval Latin also "a note, schedule"), diminutive of Latin scheda, scida "one of the strips forming a papyrus sheet," from Greek skhida "splinter," from stem of skhizein "to cleave, split" (see shed (v.)). Also from the Latin word are Spanish cédula, German Zettel.
+3. 定义： a temporally organized plan for matters to be attended to时刻表，进度表 明细表
+4. 例句：.
+   It is the mother who is expected to reorganize her busy schedule. 
+   应该让母亲来重新安排自己紧张的日程。
+
+#### budget/ˈbʌdʒɪt/
+
+1. 助记：来自拉丁词bulga, 皮袋子，钱夹。词源同ball, 膨胀，鼓起，球。预算来自钱夹比喻义。比较 bourse, 钱夹，股票交易所。
+2. 词源：
+   etymology
+   early 15c., bouget, "leather pouch, small bag or sack," from Middle French bougette, diminutive of Old French bouge "leather bag, wallet, pouch," from Latin bulga "leather bag," a word of Gaulish origin (compare Old Irish bolg "bag," Breton bolc'h "flax pod"), from PIE *bhelgh- "to swell," extended form of root *bhel- (2) "to blow, swell."
+3. 定义：a sum of money allocated for a particular purpose 预算
+4. 例句：.
+   Buying budget-priced furniture needn't mean compromising on quality or style. 
+   买价钱经济的家具并不意味着就要牺牲质量和样式。
+5. 拓展：budget（预算）：装财务预算书的皮包
+   英语单词budget源自法语bougette（小钱包），是古法语bouge（钱包）的指小形式。后缀-et表示“小”，如widget（小部件、小工具）、closet（小房间）、bullet（子弹，小球）。
+   单词budget原本表示小钱包，后来泛指任何尺寸的钱包，尤其是皮质的钱包。那么，它的意思是如何从“皮包”变成“预算”的呢？原来，在过去，英国财政大臣到议会提请审批财政预算时，通常将预算材料事先装在一个皮包中，在会场上再从皮包中掏出来。所以当时的人们就用“open the budget”（打开皮包拿出预算材料）来表示“提出预算”。时间长了，budget一词的意思就逐渐从“装预算材料的皮包”转变为“预算”本身了。
+   budget： ['bʌdʒɪt] n.预算，预算费vt.把……编入预算vi.编制预算adj.廉价的
+
+#### agenda/əˈdʒendə/
+
+1. 助记：
+   ag-做 + enda表示复数 → 做的事情 → 议程。
+   ag- = do, act, 表示“做,代理做”，来源于拉丁语”agere” 意思是”actor”( 按照预先决定的角色) 行动。
+   举例：
+   agent ag-做 + -ent表人或物 → 做的人 → 代理人。
+   agile ag-做 + ile，引申词义做的快的，敏捷的。
+2. 词源：
+   etymology
+   1650s, from Latin agenda, literally "things to be done," neuter plural of agendus, gerundive of agere "to do" (from PIE root *ag- "to drive, draw out or forth, move"). Originally theological (opposed to matters of belief), sense of "items of business to be done at a meeting" first attested 1882. "If a singular is required (=one item of the agenda) it is now agendum, the former singular agend being obsolete" [Fowler].
+3. 定义：
+   a temporally organized plan for matters to be attended to待议诸事项一览表 议事日程
+4. 例句：
+   Never before has a summit had such a crowded agenda
+   以前从来没有一次峰会的日程排得这么满。
 
 
 ## 12. Diagnose Problems to Get at Their Root Causes
