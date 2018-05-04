@@ -4258,7 +4258,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    4. 例句：She had a visceral dislike of all things foreign
 
-         ​
+       凡是外国的东西，她都打心眼儿里讨厌。
+
+
    #### diagnosis/daɪəgˈnəʊsɪs/
 
    1. 助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
@@ -4289,6 +4291,23 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
          late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
+
+
+      #### pervasive/pəˈveɪsɪv/
+    
+      1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
+         vas- vad- = go
+         pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
+         evade v. e-出 + vad-走 + e → 走出去 → 逃避。
+         invade v.in-进入 + vad-走 侵入 侵略
+      2. 词源：
+         etymology
+         1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
+         1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
+      3. 定义：spread throughout 蔓延的 遍布的
+      4. 例句：
+         She lives with a pervasive sense of guilt.
+         她生活在深深的愧疚之中。
 
 
 
@@ -4700,9 +4719,103 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
    failing
 
 
+**Ninja** /ˈnɪn.dʒə/ 忍者
+
+1. 助记,
+
+   spy
+
+2. 词源,
+
+   **OED Origin**
+
+   Japanese, literally ‘spy’.
+
+   **Etymology**
+
+3. 释义,
+
+   忍者、日本武士 a Japanese fighter, especially in the past, who moves and acts without beingseen and usually carries a short sword
+
+4. 拓展
+
+   [teenage mutant ninja turtle](javascript:void(0);)忍者神龟（美国动画电影）
+
+ **Politburo**  /ˈpɑː.lɪtˌbjʊr.oʊ/  政治局
+
+1. 助记,
+
+   polit+buro
+
+   来自polit-,政治，词源同polity,-byuro,局，办公室，词源同bureau.
+
+   来自俄罗斯语politbyuro,政治局.
+
+2. 词源,
+
+   **OED Origin**
+
+   From Russian politbyuro, **from polit(icheskoe) byuro ‘political bureau’.**
+
+   **Etymology**
+
+   "highest policy-making committee of the U.S.S.R.," 1927, from Russian politbyuro, contracted frompoliticheskoe byuro "**political bureau**."
+
+3. 释义,
+
+   （共产党执政国家的）政治局 the main government group in a Communist country, which makes all theimportant decisions
+
+4. 拓展
+
+   P politburo 政治局
+
+   politburo member政治局委员
+
+   the Politburo 政治局
+
+ **Orchestrate** /ˈɔːr.kə.streɪt/
+
+1. 助记,
+
+   ori-,orig-,ort- 
+   = rise, begin, 表示“升起，开始”，来自拉丁语。
+
+   orche*是同源词，基本含义是舞蹈。原始印欧语形式为*ergh。
+
+   来自orchestra,管弦乐，-ate,使。即编排管弦乐曲，引申词义组织，安排。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: from orchestra, perhaps suggested by French orchestrer.
+
+   **Etymology**
+
+   "to compose or arrange (music) for an orchestra," 1855, back-formation from [orchestration](https://www.etymonline.com/word/orchestration?ref=etymonline_crossreference). The figurative sense is attested from 1883. Related: Orchestrated; orchestrating.
+
+3. 释义,
+
+   为管弦乐队改编（或创作） to arrange or write a piece of music so that it can be played by an orchestra
+
+4. 拓展
+
+   orchestra（管弦乐队）：古希腊剧场中歌舞队所在位置
+   英语单词orchestra通常被译为“管弦乐队”，然而这个单词中既没有“管”、也没有“弦”，也没有“乐队”。实际上，它的本意不是表示一群人，而是表示这一群人所处的位置。它来自希腊语orkhestra，由orkheisthai（舞蹈）+tra（地点）组合而成，指的是古希腊剧场中歌舞队所在位置。在古罗马时期，该词指的是剧场前排为议员及其他高官保留的位置。后来，剧场从露天的变成了室内的，歌舞队变成了乐队，orchestra也随之变为表示剧场中乐队所在位置。直到18世纪后，该词才被用来表示在该位置演奏的乐队。由于在剧场中演出的一般是管弦乐队，所以中文译为“管弦乐队”。
+   orchestra：['ɔːkɪstrə] n.管弦乐队，乐队演奏处，剧场前排座位
+   orchestral：[ɔr'kɛstrəl] adj. 管弦乐的；管弦乐队的
+   orchestrate：['ɔrkɪstret] vt. 把…编成管弦乐曲；精心安排；把…协调地结合起来vi. 编管弦乐曲
+   orchestration：[,ɔkɛs'treʃən] n. 管弦乐编曲；和谐
+
 ## 14. Do What You Set Out to Do
 
 **Scribble** /ˈskrɪb.əl/ 乱涂乱写
+
+
+1. 助记,
+
+   scrib+b+le
+
 
 1. 助记,
 
@@ -4814,13 +4927,300 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
 
    trip 绊倒、蹒跚而行
 
-## 
 
 
+**Manuscript** /ˈmæn.jə.skrɪpt/ 手稿
+
+1. 助记,
+
+   manu+script
+
+   manu=hand,表示手+script=write,表示写，手写的稿件--手稿
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: from medieval Latin manuscriptus, **from manu ‘by hand’ + scriptus ‘written’ (past participle of scribere).**
+
+   **Etymology**
+
+   "document or book written by hand," 1590s (adj.), c. 1600 (n.), from Medieval Latin manuscriptum"document written by hand," from Latin manu scriptus **"written by hand,"** from manu, ablative ofmanus "hand" (from PIE root [*man-](https://www.etymonline.com/word/*man-?ref=etymonline_crossreference) (2) "hand") + scriptus (neuter scriptum), past participle ofscribere "to write" (from PIE root [*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut"). Abbreviation is MS, plural MSS.
+
+3. 释义
+
+   手稿 the original copy of a book or article before it is printed
+
+4. 拓展
+
+   scribe（写）：古代用铭刻的方式来写字
+   古代，在墨水发明之前，人们都是用铭刻的方式来写字的，即用尖刻之物在竹简、木板、泥版、蜡板等书写材料上刻画。所以在英语单词中，表示“写”的单词scribe及由此衍生的词根scribe-还含有“刻”的含义。如inscribe，既表示“题写”，也表示“铭记”。英语单词scribe来自拉丁语scribere，本意是“刻”。与它同源的单词有：script（脚本）、prescribe（开处方）、describe（描述）、manuscript（手稿）等。
+   而英语中表示“写”的更常用单词write来自古日耳曼语，本意是scratch（刮擦）。
+   scrib-/script：写，刻
+   scribe：[skraɪb] v.写，记，划n.抄写员，作家，划线器
+   script：[skrɪpt] n. 脚本；手迹；书写用的字母vt. 把…改编为剧本vi. 写电影脚本
+   inscribe：[ɪn'skraɪb] vt.题写，铭记，铭刻
+   inscription：n.题词，铭文，刻印
+   prescribe：[prɪ'skraɪb] vi. 规定；开药方vt. 规定；开处方
+   prescription：[prɪ'skrɪpʃən] n. 药方；指示adj. 凭处方方可购买的
+   describe： [dɪ'skraɪb] vt. 描述，形容；描绘
+   description：[dɪ'skrɪpʃən] n. 描述，描写；类型；说明书
+
+**Fraction** /ˈfræk.ʃən/ 小部分
+
+1. 助记,
+
+   fract+ion
+   fract=break,表示打碎 ion-表名词，行为、动作、状态或过程，引申为打碎为一个个小小的部分。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from ecclesiastical Latin fractio(n-) ‘breaking (bread)’, from Latin frangere ‘to break’.
+
+   **Etymology**
+
+   late 14c., originally in the mathematical sense, from Anglo-French fraccioun (Old French fraccion, "a breaking," 12c., Modern French fraction) and directly from Late Latin fractionem (nominative fractio) "a breaking," especially into pieces, in Medieval Latin "a fragment, portion," noun of action from past participle stem of Latin frangere "to break (something) in pieces, shatter, fracture," from Proto-Italic*frang-, from a nasalized variant of PIE root [*bhreg-](https://www.etymonline.com/word/*bhreg-?ref=etymonline_crossreference) "to break." Meaning "a breaking or dividing" in English is from early 15c.; sense of "broken off piece, fragment," is from c. 1600.
+
+3. 释义
+
+   小部分 a number that results from dividing one whole number by another
+
+4. 拓展
+
+   [score](javascript:void(0);)  分数
+
+   marks 标注
+
+   proportion 成比例的
+
+   portion 部分
+
+**Stumble** /ˈstʌm.bəl/ 蹒跚而行
+
+1. 助记,
+
+   来自stum,树桩-被树桩绊倒-踉跄-蹒跚而行
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (as a verb): from Old Norse, from the Germanic base of **stammer.**
+
+   **Etymology**
+
+   c. 1300, "to trip or miss one's footing" (physically or morally), probably from a Scandinavian source (compare dialectal Norwegian stumla, Swedish stambla "to stumble"), probably from a variant of the Proto-Germanic base *stam-, source of Old English stamerian "**to stammer**," German stumm, Dutchstom "dumb, silent." Possibly influenced in form by stumpen "to stumble," but the -b- may be purely euphonious. Meaning "to come (upon) by chance" is attested from 1550s. Related: Stumbled;stumbling. Stumbling-block first recorded 1526 (Tindale), used in Romans xiv.13, where usually it translates Greek skandalon.
+
+3. 释义
+
+   蹒跚而行 to walk in a way that does not seem controlled
+
+4. 拓展
+
+   [hesitate](javascript:void(0);) / [stand at](javascript:void(0);) 犹豫、踌躇
+
+   [puzzle](javascript:void(0);) / [baffle](javascript:void(0);) 困惑
+
+   [trip](javascript:void(0);) 绊倒、蹒跚而行
+
+**Thorny** /ˈθɔːr.ni/ 棘手的
+
+1. 助记,
+
+   thorn+y
+
+   来自 thorn,刺，y-表形容词
+
+   引申词义多刺的，棘手的，麻烦的
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   Old English þornig; **see [thorn](https://www.etymonline.com/word/thorn?ref=etymonline_crossreference) + [-y](https://www.etymonline.com/word/-y?ref=etymonline_crossreference) (2).** Figurative sense is attested from mid-14c. Related:Thorniness. Similar formation in Dutch doornig, German dornig. The figurative image is widespread; Greek had akanthologos as a nickname for a quibbler, literally "thorn-gathering," and akanthobates, nickname for a grammarian (fem. akanthobatis).
+
+3. 释义
+
+   棘手的  A thorny problem or subject is difficult to deal with
+
+4. 拓展
+
+   adj.多刺的；痛苦的；令人苦恼的
+
+   [painful](javascript:void(0);) / [bitter](javascript:void(0);) / [hurt](javascript:void(0);)
+
+**Coordinate** /koʊˈɔːr.dən.eɪt/ 协调
+
+1. 助记,
+
+   co+ordin+ate
+
+   co-, 共同+ordin-顺序+ate表名词--共同顺序--协调一致
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century (in the senses ‘of the same rank’ and ‘place in the same rank’): **from co- ‘together’ + Latin ordinare (from ordo ‘order’), on the pattern of subordinate.**
+
+   **Etymology**
+
+   1640s, "of the same order, belonging to the same rank or degree," from Medieval Latin coordinatus, past participle of coordinare "to set in order, arrange," from assimilated form of com "with, together" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + ordinatio "arrangement," **from ordo "row, rank, series, arrangement"** (see [order](https://www.etymonline.com/word/order?ref=etymonline_crossreference) (n.)). Meaning "involving coordination" is from 1769. Related: Coordinance.
+
+3. 释义
+
+   协调 also co-ordinate to make many different things work effectively as a whole
+
+4. 拓展
+
+   近义词
+
+   paratactic 并列的
+
+   tantamount 同等的
+
+   restructure 调整
+
+   sort 排序
+
+   concert 使协调
+
+**Frustrate** /ˈfrʌs.treɪt/ 灰心挫败
+
+1. 助记,
+
+   frus+trate
+
+   frus=fraud,欺骗，伤害,引申为使得灰心、挫败。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin frustrat- **‘disappointed’,** from the verb frustrare, from **frustra ‘in vain’**.
+
+   **Etymology**
+
+   mid-15c., from Latin frustratus, past participle of frustrari "to deceive, disappoint, make vain," fromfrustra (adv.) **"in vain, in error," related to fraus "injury, harm" (see [fraud](https://www.etymonline.com/word/fraud?ref=etymonline_crossreference))**. Related: [Frustrated](https://www.etymonline.com/word/Frustrated?ref=etymonline_crossreference);frustrating.
+
+3. 释义
+
+   灰心挫败 to make someone feel annoyed or less confident because they cannot achievewhat they want
+
+4. 拓展
+
+   近义词
+
+   defeat 击败
+
+   discomfit 挫败
+
+   founder失败
+
+   come to naught 失败
+
+   thwarted挫败的
+
+   unprofitable 无益的
 
 ## 15. Use Tools and Protocols to Shape How Work Is Done
 
+**Intellectual** /ˌɪn.t̬əlˈek.tʃu.əl/ 理智的
 
+1. 助记,
+
+   intellect+ual
+
+   intellect-智力出众+ual-的，智慧的，理智的
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin intellectualis, **from intellectus ‘understanding’**, from intellegere ‘understand’ (see intelligent).
+
+   **Etymology**
+
+   late 14c., "grasped by the understanding" (rather than by the senses), from Old French intellectuel(13c.) and directly from Latin intellectualis "relating to the understanding," from intellectus"discernment, understanding," noun use of past participle of intelligere "to understand, discern" (see[intelligence](https://www.etymonline.com/word/intelligence?ref=etymonline_crossreference)).
+
+   Sense of "characterized by a high degree of intellect" is from 1819. Meaning "**appealing to or engaging the mental powers**" is from 1834. Intellectual property "products of the intellect" is attested from 1845. Adjective formations in the sense "of or pertaining to the intellect" included intellective (early 15c.), intellectile (1670s).
+
+3. 释义
+
+   理智的 relating to your ability to think and understand things, especially complicatedideas
+
+4. 拓展
+
+   intelligence（智力）：辨识并从中选择的能力
+   在现代科学中，“智力”（intelligence）是一个很复杂的概念。它到底包含哪些能力，如何测量，如何培养，到现在一直充满争论。但古代西方人可没想得这么复杂，他们所说的intelligence很简单，就是辨识、区分事物从而做出正确选择的能力。英语单词intelligence来自拉丁语intelligere，由inter（在其中）+legere（选择）构成，字面意思就是“从中选择”。由此可见，intelligence的基本含义就是能帮助人辨识事物、做出明智选择和决策的东西。因此，intelligence还可以表示“情报”，因为情报可以帮助人们做出明智选择和决策。我们常说的“商业智能”（business intelligence）就很好地体现了intelligence的基本含义，它的实质就是通过对信息的分析处理，获取到某种intelligence，这种intelligence既可以理解为“情报”，也可以理解为“智能”或“智慧”。
+   单词intellect与intelligence同源，都可以表示“智力”，不同的是，intellect还可以用来表示“知识分子”。
+   intelligence：[ɪn'telɪdʒ(ə)ns] n.智力，理解力，智能，情报
+   intellect：['ɪntəlekt] n.智力，理解力，知识分子，智力高的人
+   intellectual：[,ɪntə'lɛktʃuəl] adj.智力的，聪明的，理智的n.知识分子，凭理智做事者
+
+**Behavioural** /bɪˈheɪ.vjɚ.əl/ 行为的
+
+1. 助记,
+
+   behave+iour+al
+
+   behave-行为规矩+iour-一个人拥有的动作+al--引申为举止，行为的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from behave, on the pattern of demeanour, and influenced by obsolete haviour from have.
+
+   **Etymology**
+
+   1927, in psychology, from [behavior](https://www.etymonline.com/word/behavior?ref=etymonline_crossreference) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (1).
+
+   late 14c., "grasped by the understanding" (rather than by the senses), from Old French intellectuel(13c.) and directly from Latin intellectualis "relating to the understanding," from intellectus"discernment, understanding," noun use of past participle of intelligere "to understand, discern" (see[intelligence](https://www.etymonline.com/word/intelligence?ref=etymonline_crossreference)).
+
+   Sense of "characterized by a high degree of intellect" is from 1819. Meaning "appealing to or engaging the mental powers" is from 1834. Intellectual property "products of the intellect" is attested from 1845. Adjective formations in the sense "of or pertaining to the intellect" included intellective (early 15c.), 
+
+3. 释义
+
+   行为的 relating to behaviour
+
+4. 拓展
+
+   [behavioral science](javascript:void(0);)行为科学
+
+   [behavioral economics](javascript:void(0);)行为经济学（经济学的一个范畴，研究实际决策程序对最后作出决策的影响）
+
+   [behavioral intention](javascript:void(0);)行为意向；行为意图
+
+**Embed** /ɪmˈbed.ɪd/ 嵌入
+
+1. 助记,
+
+   em+bed
+
+   em-进入+bed(床、范围)--进入范围--安置，嵌入
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1778, "to lay in a bed (of surrounding matter)," **from [em-](https://www.etymonline.com/word/em-?ref=etymonline_crossreference) (1) + [bed](https://www.etymonline.com/word/bed?ref=etymonline_crossreference) (n.)**. Originally a geological term, in reference to fossils in rock; figurative sense is by 1835; meaning "place (a journalist) within a military unit at war" is from 2003 and the Iraq war. Related: Embedded; embedding.
+
+3. 释义
+
+   嵌入 fixed into the surface of something
+
+4. 拓展
+
+   rear 树立、裁种
+
+   bed 嵌入、裁种
 
 
 
