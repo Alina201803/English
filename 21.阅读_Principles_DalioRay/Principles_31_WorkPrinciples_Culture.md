@@ -4286,11 +4286,16 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    #### durable/ˈdjʊərəbl/
 
 1.    助记：dur-坚硬 + -able表形容词
+
 2.    词源：
-               etymology
-               late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+              etymology
+              late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+
       3. 定义：existing for a long time持久的 耐用的
+
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
+
+       ​
 
 
       #### pervasive/pəˈveɪsɪv/
@@ -4509,7 +4514,7 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
 
 1. 助记：
     bureau-办公室 + cracy-统治
-   来自拉丁词burra, 羊毛，粗糙的布，桌布。代指办公室。词源同bur, 芒刺，形容布粗糙。
+      来自拉丁词burra, 羊毛，粗糙的布，桌布。代指办公室。词源同bur, 芒刺，形容布粗糙。
 2. 词源：
    etymology
    government by bureaus," especially "tyrannical officialdom," excessive multiplication of administrative bureaus and concentration of power in them, in reference to their tendency to interfere in private matters and be inefficient and inflexible, 1818, from French bureaucratie, coined by French economist Jean Claude Marie Vincent de Gournay (1712-1759) on model of democratie, aristocratie, from bureau "office," literally "desk" (see bureau) + Greek suffix -kratia denoting "power of" (see -cracy).
@@ -5371,6 +5376,66 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
    rear 树立、裁种
 
    bed 嵌入、裁种
+
+
+
+
+Convert** /kənˈvɝːt/ 转换
+
+1. 助记,
+
+   con+vent
+
+   con-, 共同。-vert, 转，词源同versus, invert.共同转--转换、皈依。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the sense ‘turn round, send in a different direction’): from Old French convertir, based on Latin convertere **‘turn about’, from con- ‘altogether’ + vertere ‘turn’**.
+
+   **Etymology**
+
+   1560s, "person whose faith has been changed from one religion to another," **from [convert](https://www.etymonline.com/word/convert?ref=etymonline_crossreference) (v.). Earlier was convers (early 14c.)**, from Old French converse (n.). General (non-religious) sense of "person converted from one opinion or practice to another" is from 1640s.
+
+3. 释义
+
+   转换 to (cause something or someone to) change in form or character
+
+4. 拓展
+
+   [transform](javascript:void(0);) 使转化
+
+   shift 转变
+
+   idolater 皈依者
+
+**Symbiosis** /ˌsɪm.baɪˈoʊ.sɪs/ 共栖
+
+1. 助记,
+
+   sym+bio+sis
+
+   sym-,一起，共同，-bio,生命，词源同 biology,生物学，-sis,表状态。引申为共生的，共栖。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: modern Latin, from Greek sumbiōsis ‘a living together’, from sumbioun **‘live together’, from sumbios ‘companion’.**
+
+   **Etymology**
+
+   1876, as a biological term, "union for life of two different organisms based on mutually benefit," from Greek symbiosis "a living together," from symbioun **"live together,"** from symbios "(one) living together (with another), partner, companion, husband or wife," from assimilated form of syn-**"together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + bios "life" (from PIE root [*gwei-](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) "to live").** Given a wider (non-biological) sense by 1921. An earlier sense of "communal or social life" is found in 1620s. A back-formed verbsymbiose is recorded from 1960.
+
+3. 释义
+
+   共生的 specialized biology  a relationship between two types of animal or plant in which each provides for the other the conditions necessary for its continued existence
+
+4. 拓展
+
+   [symbiotic](javascript:void(0);) [生态] 共生的；共栖的
+
 
 
 
