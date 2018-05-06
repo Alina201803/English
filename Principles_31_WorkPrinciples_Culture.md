@@ -4,10 +4,6 @@
 
 ## 1. Trust in Radical Truth and Radical Transparency
 
-Grace 
-
-### 2018-04-10
-
 #### **Support**
 
 UK /səˈpɔ:t/ US /səˈpɔ:rt/
@@ -528,6 +524,10 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 3. 定义： illegal, bad, or dishonest behaviour, especially by people in positions of power   腐败;贪污;受贿 n.
 
 
+
+
+
+
 ####  eliminate/iˈlɪm.ɪ.neɪt/ 
 
 1. 助记：e-出 + limin-限制 + -ate表动词 → [赶]出门槛 → 删除。
@@ -539,6 +539,10 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    1. to remove or take away someone or something消除，剔除，根除
    2. to defeat someone so that they cannot continue in a competition淘汰
    3. to murder someone 消灭;干掉
+
+
+
+
 
 
 
@@ -569,6 +573,8 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    n.[assertion](javascript:void(0);) 断言，声明；主张，要求；坚持
 
    vt.[assert](javascript:void(0);) 维护，坚持；断言；主张；声称
+
+   ​
 
 
 
@@ -617,6 +623,8 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    [imperfective](javascript:void(0);) 未完成体；未完成体动词
 
    [imperfectness](javascript:void(0);) 不完全；缺点
+
+
 
 
 
@@ -1256,7 +1264,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    im-进 + ple-（ = full, fill, 表示“满，填满”）+ -ment表名词 → 进入满 → 完成
 2. 词源：
    etymology
-   <!-- mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements. -->
+   mid-15c., "supplementary payment, amount needed to complete repayment," from Late Latin implementem "a filling up" (as with provisions), from Latin implere "to fill, fill up, make full; fatten; fulfill, satisfy," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plere "to fill" (from PIE root *pele- (1) "to fill"). Sense of "workman's tool, utensil of a trade, things necessary to do work" is 1530s. The underlying connection of the senses is "whatever may supply a want, that which fills up a need." Related: Implemental; implements. 
 3. 定义：
    the act of putting a plan into action or of starting to use something 成就； 贯彻
 
@@ -3204,11 +3212,126 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 ## 11. Perceive and Don’t Tolerate Problems
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
+**Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
+=======
+
+#### trajectory/trəˈdʒek.tər.i/
+
+1. 助记：tra-穿过 + ject-扔 + -ory表名词 → 扔进去 → 弹道。
+   ject- = throw, cast, 表示“投掷，扔”，来自拉丁语。
+   例如：
+   abject ab-离开 + ject-抛 →抛掉 →可怜，绝望无助的
+   project pro-向前 + ject-扔 → 向前扔 → 目标;项目。
+2. 词源：
+   etymology
+   "path described by a body moving under the influence of given forces," 1690s, from Modern Latin trajectorium, from trajectorius "of or pertaining to throwing across," from Latin traiectus "thrown over or across," past participle of traicere "throw across, shoot across," from Latin trans "across, beyond" (see trans-) + icere, combining form of iacere "to throw" (from PIE root *ye- "to throw, impel"). Middle French and Middle English had trajectorie as "end of a funnel," from Latin traiectorium.
+3. 定义：the curved path that an object follows after it has been thrown or shot into the air 轨道
+
+#### custom/ˈkʌs.təm/ 
+
+1. 助记：词源同self, idiom. 即形成自己的习惯。对进口商品惯常性的征收一定的税金或费用并最终形成专门的政府机构，词义由惯例引申为海关。
+2. 词源：
+   etymology
+   c. 1200, "habitual practice," from Old French costume "custom, habit, practice; clothes, dress" (12c., Modern French coutume), from Vulgar Latin *consuetumen, from Latin consuetudinem (nominative consuetudo) "habit, usage, way, practice, tradition, familiarity," from consuetus, past participle of consuescere "accustom," from com-, intensive prefix (see com-), + suescere "become used to, accustom oneself," related to sui, genitive of suus "oneself," from PIE *swe- "oneself" (see idiom). Replaced Old English þeaw. Sense of a "regular" toll or tax on goods is early 14c. The native word here is toll.
+3. 定义：a short, cylinder-shaped piece of cork, plastic, or rubber that is put into the top of a bottle, especially a wine bottle, to close it:  习俗 惯例 ；海关
+4. 拓展：custom（海关）：外地商人向当地领主缴纳通行税的惯例
+   英语单词custom含有“习俗”和“海关、关税”两个意思。这两个意思是怎么联系在一起的呢？原来，custom的本意是“习俗、惯例”，之所以含有“海关、关税”之意，是因为缴纳关税原本是一种惯例。
+   外地商人向当地领主缴纳保护费的做法是一种历史悠长的惯例。早在古希腊时代，雅典成为爱琴海沿岸的商贸中心。外地商人为了保障自己在当地的贸易权利和利益，就向雅典城邦当局赠送礼物。后来，雅典以使用其港口为名，正式向来往商品征收一定比例的费用。
+   在英国，外地商人进入某地进行商贸活动时，需要向当地领主缴纳一项customary tolls（例行通行税）。因此，英语单词custom便衍生了“关税”的含义，通常采用复数形式。后来custom又可以用来表示征收关税的场所，即海关。
+   custom：['kʌstəm] n.习俗，惯例；关税，海关；经常光顾，老顾客adj.定做的，定制的
+   customer：['kʌstəmə] n.（老）顾客，海关工作人员
+   customary：['kʌstə'mɛri] adj.惯例的，通常的
+
+#### cork/kɔːk/ 
+
+1. 助记：来自PIE*sker, 砍，切，词源同shear, carnal. 即切下来的树皮所做。
+2. 词源：
+   etymology
+   c. 1300, "the light, elastic outer bark of a species of oak tree native to Iberia and North Africa, used for many purposes," from Spanish alcorque "cork sole," probably from earlier Spanish corcho, from Latin quercus "oak" (see Quercus) or cortex (genitive corticis) "bark" (see corium).
+3. 定义：a short, cylinder-shaped piece of cork, plastic, or rubber that is put into the top of a bottle, especially a wine bottle, to close it:软木塞, 软木树, 软木 （保存红酒用的软木塞）
+
+#### anonymous/əˈnɒn.ɪ.məs/ 
+
+1. 助记：an-无，没有 + onym-名字 + -ous → 没有名字 → 无名的。anonym n. 假名, 化名, 匿名者
+2. 词源：
+   etymology
+   c. 1600, "without a name;" 1670s, "published under no name, of unknown authorship," from Late Latin anonymus, from Greek anonymos "without a name," from an- "without" (see an- (1)) + onyma, Æolic dialectal form of onoma "name" (from PIE root *no-men- "name").
+3. 定义：made or done by someone whose name is not known or not made public 匿名的
+
+#### gloss/ɡlɒs/ 
+
+1. 助记：词源同glass, glow. 可以想象玻璃的光泽
+2. 词源：
+   etymology
+   glistening smoothness, luster," 1530s, probably from Scandinavian (compare Icelandic glossi "a spark, a flame," related to glossa "to flame"), or obsolete Dutch gloos "a glowing," from Middle High German glos; probably ultimately from the same source as English glow (v.). Superficial lustrous smoothness due to the nature of the material (unlike polish, which is artificial).
+3. 定义： 
+   1. a smooth, shiny appearance on the surface of something光彩 光泽
+   2. paint that produces a smooth, shiny appearance on a surface 使光彩  掩盖 
+
+
+#### prod/prɒd/
+
+1. 助记：来自中古英语 brodden,刺，戳，来自 Proto-Germanicbruzdaz,刺，硬毛，来自 PIEbhars,刺，硬毛，词源同 bur,barley,brad.
+2. 词源：
+   etymology
+   1530s, "to poke with a stick," of uncertain origin; possibly [Barnhart] a variant of brod, from Middle English brodden "to goad," from Old Norse broddr "shaft, spike" (see brad), or perhaps imitative [OED]. Figurative sense is recorded from 1871. Related: Prodded; prodding
+3. 定义：
+   1. to push something or someone with your finger or with a pointed object 戳 刺
+   2. to encourage someone to take action, especially when they are being slow or unwilling 刺激 激励
+
+#### stamper/'stæmpə/ 
+
+1. 助记：stamp【印】 + -er 打印器 印章
+   stamp- 表示“踩、踏”，最终的原始印欧语形式为*sta-(stand)
+   stamp 
+   n. 印, 邮票, 打印器, 戳子, 图章, 印花税票, 标志, 特征, 类型, 跺脚 vt. 盖章于, 顿足, 贴上邮票, 铭刻, 捣碎, 扑灭 vi. 捣碎, 跺脚
+2. 词源：
+   etymology
+   mid-15c., "instrument for crushing, stamping tool," from stamp (v.). Especially "instrument for making impressions" (1570s). Meaning "downward thrust or blow with the foot, act of stamping" is from 1580s. Sense of "official mark or imprint" (to certify that duty has been paid on what has been printed or written) dates from 1540s; transferred 1837 to designed, pre-printed adhesive labels issued by governments to serve the same purpose as impressed stamps. German Stempel "rubber stamp, brand, postmark" represents a diminutive form. Stamp-collecting is from 1862
+3. 定义：a workman whose job is to form or cut out by applying a mold or die (either by hand or by operating a stamping machine)打印者，模压工，压模
+
+#### embarrassment/ɪmˈbær.əs.mənt/ 
+
+1. 助记：em-进入 + barr-阻止 + -ass → 阻碍。不让进 使人困境 尴尬
+   bar-,barr- = bar, barrier, 表示棍子引申为“栏”，来源于拉丁语。
+   embarrass【使困窘】 + -ment名词后缀。
+2. 词源：
+   etymology
+   1670s, "state of being impeded, obstructed, or entangled" (of affairs, etc.), from embarrass + -ment, or from French embarrassement, from embarrasser.
+   As "a mental state of unease," from 1774. Meaning "thing which embarrasses" is from 1729. Earlier words expressing much the same idea include baishment "embarrassment, confusion" (late 14c.); baishednesse (mid-15c.).
+3. 定义：the feeling of being embarrassed, or something that makes you feel embarrassed 窘境 尴尬
+
+#### syndrome/ˈsɪn.drəʊm/ 
+
+1. 助记：syn-一起 + drom-(=run)跑 + -e。一起出现的 引申为 并发症
+   drome- = run, 表示“跑”。drome 也有飞机场的意思 飞机滑行的跑到
+2. 词源：
+   etymology
+   "a number of symptoms occurring together," 1540s, from medical Latin, from Greek syndrome "concurrence of symptoms, concourse of people," from syndromos "place where several roads meet," literally "a running together," from syn- "with" (see syn-) + dromos "a running, course" (see dromedary). Psychological sense is from 1955.
+3. 定义：a combination of medical problems that shows the existence of a particular disease or mental condition
+   并发症
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+#### deviation/ˌdiːviˈeɪʃən/ 
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+=======
+1. 助记：
+   de-偏离 + via-道路 + -ate表动词 → 偏离道路 → 越轨。
+   vi- = way, 表示“道路”。weigh原指“承重、运输”。
+2. 词源：
+   etymology
+   1630s, from Late Latin deviatus, past participle of deviare "to turn aside, turn out of the way," from Latin phrase de via, from de "off" (see de-) + via "way" (see via). Related: Deviated; deviating. The noun meaning "sexual pervert" is attested from 1912.
+3. 定义：a difference from what is usual or expected背离 偏离
+
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
 
 1. 助记,
 
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
    loco+mov+ive
 
    loco-地方+mov-移动的+引申为移动地方，火车头、机车头
@@ -3266,6 +3389,51 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    同义词
 
    crack
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
+   split
+
+
+**Syndrome** /ˈsɪn.droʊm/ 综合症
+
+1. 助记,
+
+   syn+drom+e
+
+   syn-,一起，-drom,跑，词源同 dromedary,hippodrome.引申比喻义并发、综合症状，症候群等。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century: modern Latin, from Greek sundromē, **from sun- ‘together’ + dramein ‘to run’.**
+
+   **Etymology**
+
+   "a number of symptoms occurring together," 1540s, from medical Latin, from Greek syndrome"concurrence of symptoms, concourse of people," from syndromos "place where several roads meet," literally "a running together," **from syn- "with" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + dromos "a running, course" (see[dromedary](https://www.etymonline.com/word/dromedary?ref=etymonline_crossreference)).** Psychological sense is from 1955.
+
+3. 释义,
+
+   综合症 a combination of medical problems that shows the existence of a particulardisease or mental condition
+
+4. 拓展
+
+   [severe acute respiratory syndrome](javascript:void(0);)严重急性呼吸系统综合症
+
+   [irritable bowel syndrome](javascript:void(0);)[医]肠道易激综合症
+
+   [nephrotic syndrome](javascript:void(0);)肾病综合征；肾病症候群
+
+**Deviation** /ˌdiːviˈeɪʃən/ 偏差
+
+1. 助记,
+
+   de+via+tion
+
+   de- "off"偏离 + via "way" 道路=> devi- "turn aside, off the way" + -ation => deviation.
+
+   => turn out of the way.偏离道理，越轨，偏差
+=======
 
    split
 
@@ -3363,20 +3531,216 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
    secret
 
-   tips
 
-**Thorough** /ˈθɝː.ə/ 彻底的
+
+**vague/**veɪɡ/
+
+1. 助记：
+   vag 流浪者；vag-漫游 + -ue → 漫游而思想不集中 → 含糊的。
+   vagary vag-漫游 + -ary名词后缀 → 思想漫游 → 妄想。狂想 奇特行为n.
+2. 词源：
+   etymology
+   "uncertain as to specifics," 1540s, from Middle French vague "empty, vacant; wild, uncultivated; wandering" (13c.), from Latin vagus "strolling, wandering, rambling," figuratively "vacillating, uncertain," of unknown origin. Related: Vagueness.
+3. 定义：
+   1. not clearly expressed, known, described, or decided(表达或感知)含糊的, 不明确的, 不清楚的
+   2. not clear in shape, or not clearly seen模糊的,不清楚的,朦胧的
+
+
+
+
+
+**implicit**/ɪmˈplɪs.ɪt/
+
+1. 助记：im-进 + plic-折叠 + it → 重叠表达 → 含蓄的。
+   plic- pli- ply = fold, 表示“重叠，折叠
+   complicate com-全部 + plic-折叠 + -ate表动词 → 全部重叠起来 → 弄复杂 
+   explicit ex-出 + plic-折叠 + it → [说话]不重叠的 → 直截了当的。
+2. 词源：
+   etymology
+   1590s, "implied, resting on inference," from Middle French implicite and directly from Latin implicitus, later variant of implicatus "entangled, confused, involved," past participle of implicare "entangle, involve," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + plicare "to fold" (from PIE root *plek- "to plait"). From c. 1600 as "resulting from perfect confidence (in authority), unquestioning" (especially of faith).
+3. 定义:suggested but not communicated directly不言明[含蓄]的；
+
+
+
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+2. 词源,
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   **OED Origin**
+
+   Late Middle English: via French from medieval Latin deviatio(n-), from Latin deviare (see deviate).
+=======
+**gravitate**/ˈɡræv·ɪˌteɪt/
+
+1. 助记：grave【重】 + itale → 变重
+2. 词源：
+   etymology
+   1640s, "exert weight; move downward" (obsolete), from Modern Latin gravitare (16c. in scientific writing), from Latin gravitas "heaviness, weight," from gravis "heavy" (from PIE root *gwere-(1) "heavy"). Meaning "be affected by gravity" is from 1690s. Figurative sense "be strongly attracted to, have a natural tendency toward" is from 1670s. Related: Gravitated; gravitating. The classical Latin verb was gravare "to make heavy, burden, oppress, aggravate."
+3. 定义：to be attracted to or move toward something受重力作用； 被吸引
+4. 拓展：gravity（重力）：物体的“沉重”属性
+   英语单词gravity和gravitation都源自拉丁语gravis（=grave，沉重的），都含有“重力、地心引力”的含义，因此很多人都区分不了这两个单词之间的细微差异。其实，通过词源分析，两者之间的差异一目了然。gravity直接来自拉丁语名词gravitas，是gravis的名词形式，本意就是“沉重性、严重性”，13世纪进入法语，15世纪进入英语。当时并没有“重力、地心引力”的含义，因为那时候人们还没有“重力”和“万有引力”的概念，光知道物体有“沉重”这种性质。
+   直到16世纪末期，科学家伽利略才首次提出了“重力”或“万有引力”的概念，并通过著名的比萨斜塔实验向大众演示了重力的作用过程。这个时候，科学家才有了“引力”这个概念，并在17世纪40年代创造了动词gravitate，用来表示“引力作用”，而它的名词形式自然就是gravitation。
+   这么看，gravity和gravitation之间的差异就很明显了：gravity是grave（沉重的）的名词形式，意思是“沉重性、严重性”，后来万有引力概念诞生后，在非专业场合可以表示“重力、万有引力”，但同时保留了“沉重性、严重性”之意。而gravitation出现在万有引力概念诞生之后，是动词gravitate（引力作用）的名词形式，专门用来表示“重力、万有引力”，不表示“沉重性、严重性”。
+   grav-：沉重
+   gravity：['ɡrævəti] n. 重力，地心引力；严重性；庄严
+   grave：[ɡrev] adj. 重大的；严肃的；黯淡的n. 墓穴，坟墓；死亡vt. 雕刻；铭记
+   gravid：['grævɪd] adj. 妊娠的；怀孕的。字面意思指身子变沉重
+   gravitate：['ɡrævɪtet] vi. 受引力作用；被吸引
+   gravitation：[,ɡrævɪ'teʃən] n. 重力；万有引力；地心吸力
+
+expedient/ɪkˈspiː.di.ənt/
+
+1. 助记：ex-出 + ped-脚 + -ient → 能把脚跨出去 → 方便的
+2. 词源：
+   etymology
+   late 14c., "advantageous, fit, proper to a purpose," from Old French expedient "useful, beneficial" (14c.) or directly from Latin expedientem (nominative expediens) "beneficial," present participle of expedire "make fit or ready, prepare" (see expedite). The noun meaning "a device adopted in an exigency, that which serves to advance a desired result" is from 1650s. Related: Expediential; expedientially (both 19c.).
+3. 定义：helpful or useful in a particular situation, but sometimes not morally acceptable方便的，便利的，有利的
+
+prerequisite/ˌpriːˈrek.wɪ.zɪt/ 
+
+1. 助记：
+   pre-预先 + requisite【必需品】 → 先决条件。
+   re-再 + quis-寻找 + -ite → 一再寻求的 → 必要的。
+2. 词源：
+   etymology
+   1630s (n.) "something required beforehand," 1650s (adj.), "required beforehand," both from pre- + requisite.
+   mid-15c., from Latin requisitus, past participle of requirere (see require). As a noun from c. 1600.
+3. 定义：something that must exist or happen before something else can exist or happen先决条件，前提，必要条件
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+   **Etymology**
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   1640s, noun of action from [deviate](https://www.etymonline.com/word/deviate?ref=etymonline_crossreference) (v.). Statistical sense is from 1858. Related: Deviational.
+
+   1630s, from Late Latin deviatus, past participle of deviare "to turn aside, turn out of the way," from Latin phrase de via, **from de "off" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + via "way" (see [via](https://www.etymonline.com/word/via?ref=etymonline_crossreference)).** Related: Deviated; deviating. The noun meaning "sexual pervert" is attested from 1912.
+
+3. 释义,
+
+   偏差 a difference from what is usual or expected
+
+4. 拓展
+
+   differences 偏差、差异
+
+   error 误差、过失
+
+
+**Recipe**/ˈres.ə.pi/ 食谱
 
 1. 助记,
 
+   re+cipe
+=======
+## 
+#### monitior/ˈmɒnɪtə(r)/
+
+1. 助记：
+   monit-警告 + -or表人 → 警告者 引申词义学长，班长，监督员等，后也用于指显示屏，监视器等。
+   monit- = warn, 表示“警告  
+2. 词源：
+   etymology
+   monitor (n.) - 16世纪40年代，"senior pupil at a school charged with keeping order, etc."，源自拉丁语monitor "one who reminds, admonishes, or checks"，also "an overseer, instructor, guide, teacher"，monere "to admonish, warn, advise" 的动作执行者名词，源自PIE moneyo-，词根men- (1) "to think" 的后缀形式（使役） (memini "I remember，I am mindful of"，mens "mind" 的词源)，源自PIE词根*men- (1) "to think"。
+3. 定义：
+   1. display consisting of a device that takes signals from a computer and displays them on a CRT screen监视器, 监听器; 检测器
+   2. someone who gives a warning so that a mistake can be avoided学长，班长，监督员
+4. 拓展：money（金钱）：警告者朱诺
+   在罗马神话中，天后朱诺（Juno）曾多次警告罗马人即将出现的危险，帮助他们渡过难关。因此罗马人把她看作是罗马的警告女神，尊称她为“Juno Moneta”（警告者朱诺），单词moneta就是“警告者”、“监视者”的意思，来自拉丁语动词monere（警告）。
+   罗马人为Juno Moneta建了一座神庙，后来又把第一个造币厂设在了神庙里，希望女神能守护他们的财富。因为货币最早是在Juno Moneta神庙铸造出来的，所以罗马人就用moneta来表示货币，英语中的money（钱）和mint（造币厂）都是源自“moneta”这个单词，而单词monetary（货币的）更是保留了moneta的拼写形式。
+   与此同源的英语单词还有：monitor（监视器）、monitory（训诫的）、monition（忠告）、monument（纪念碑）等。
+   money：['mʌnɪ]n.钱，货币，财富
+   mint： [mɪnt] n.薄荷，造币厂vt.铸造，铸币
+   monetary： ['mʌnɪt(ə)rɪ] adj.货币的，财政的
+   monitor： ['mɔnɪtɚ] n. 监视器；监听器；监控器；显示屏；班长vt. 监控
+   monitory： ['mɑnə,tori] adj. 训戒的n. 告诫书
+   monition：[mə'nɪʃ(ə)n] n. 忠告；法庭传票；宗教法庭的诫谕
+   monument： ['mɑnjumənt] n. 纪念碑；历史遗迹；不朽的作品vt. 为…树碑
+
+#### interface/ˈɪntəfeɪs/
+
+1. 助记：inter-在内，在中间，相互 + face【脸】即 n. 分界面, 接触面, 界面
+2. 词源：
+   etymology
+   interface (n.) - 1874，"a plane surface regarded as the common boundary of two bodies"，源自inter- + face (n.)。现代用法可能是大约1960的重造词; McLuhan使用它表示 "place of interaction between two systems" (1962) and the computer sense "apparatus to connect two devices" 始于1964。作为动词始于1967。同根词：Interfaced; interfacing。
+3. 定义：
+   1. (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system交互程序 交互面
+   2. (computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)接口
+
+#### memo/memə/
+
+1. 助记：
+   memorandum的缩写 
+   memor-记 + andum东西 → [帮助]记的东西 → 备忘录。
+2. 词源：
+   etymology
+   memorandum (n.) - 15世纪早期，源自拉丁语memorandum "(thing) to be remembered"，memorandus "worthy of remembrance, noteworthy" 的中性单数，memorare "to call to mind" 的动形词，源自memor "mindful of" (参看：memory)。最初指写在便签顶部的字，16世纪40年代开始代表便签本身。拉丁语复数是memoranda。比较agenda。
+3. 定义： a written proposal or reminder备忘录 便笺
+
+#### transition/trænˈzɪʃn/
+
+1. 助记：
+   trans- 表示“横过，越过，转变”。
+   it- = go, 表示“行走”，希腊语的io对应拉丁语的eo，意思都为'go',eo的完成分词为itus,由此演变出词根it.英国电磁学家迈克尔.法拉第发现粒子在电解时会定向移动，便取名为ion表示移动，中文翻译为离子.
+   trans-交换 + it-走 + -ion名词后缀 → 交换走 → 过渡。
+   其他例子 exit  ex-出 + it-走 → 走出 , 出口
+2. 词源：
+   etymology
+   transition (n.) - 15世纪中期，源自拉丁语transitionem (主格 transitio) "a going across or over"，transire "go or cross over" 的过去分词词干的动作名词 (参见transient)。
+3. 定义：the act of passing from one state or place to the next过渡; 转变; 变迁；变革
+
+#### nook /nʊk/
+
+1. 助记：词源不详。可能同 neck,弯，转，脖子。引申词义拐角处，小角落。
+2. 词源：
+   etymology
+   nook (n.) - 大约1300，noke，词源不确定。可能和挪威语方言nokke "hook, bent figure" 有关，或和古英语hnecca "neck" 有关，但含义演变过程未知。
+3. 定义：a sheltered and secluded place角落,凹处;隐蔽处
+
+#### propel /prəˈpe/
+
+1. 助记：
+   pro- 表示“向前，在前”，变体包括pur-, por-。
+   pel- = drive, push, 表示“驱动，推”，来自拉丁语的pel-, puls- 意为 to drive ,它们的变形为peal-。filt-引申为过滤。
+2. 词源：
+   etymology
+   propel (v.) - 15世纪中期，"to drive away, expel"，源自拉丁语propellere "push forward, drive forward, drive forth; move, impel"，源自pro "forward" (参看：pro-) + pellere "to push, drive" (源自PIE词根*pel- (5) "to thrust, strike, drive")。含义 "to drive onward, cause to move forward" 始于17世纪50年代。同根词：Propelled; propelling。
+3. 定义：cause to move forward with force推进; 推动
+
+**Thorough** /ˈθɝː.ə/ 彻底的
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+   re-,向后，往回，-cip,抓住，词源同 receive,participate.引申词义食谱，秘诀。
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   de- "off"偏离 + via "way" 道路=> devi- "turn aside, off the way" + -ation => deviation.
+
+   => turn out of the way.偏离道理，越轨，偏差
+=======
    through
 
    来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
 
 2. 词源,
 
    **OED Origin**
 
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   Late Middle English: from Latin, literally ‘receive!’ (first used as an instruction in medical prescriptions), imperative of recipere.
+
+   **Etymology**
+
+   1580s, "medical prescription," from Middle French récipé (15c.), from Latin recipe "take!," second person imperative singular of recipere "to take" (see [receive](https://www.etymonline.com/word/receive?ref=etymonline_crossreference)); word written by physicians at the head of prescriptions. Figurative use from 1640s. Meaning "instructions for preparing food" first recorded 1743. The original sense survives only in the pharmacist's abbreviation Rx.
+
+3. 释义,
+
+   食谱 a set of instructions telling you how to prepare and cook food, including a listof what food is needed for this
+
+4. 拓展
+
+   secret
+=======
    Old English thuruh, **alteration of thurh ‘through’**. Original use was as an adverb and preposition, in senses of through. The adjective dates from the late 15th century, when it also had the sense ‘that goes or extends through something’, surviving in thoroughfare.
 
    **Etymology**
@@ -3392,8 +3756,19 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    complete 彻底的
 
    radical 根本的
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
 
+   tips
 
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+**Thorough** /ˈθɝː.ə/ 彻底的
+
+1. 助记,
+
+   through
+
+   来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
+=======
 **Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1. 助记,
@@ -3401,11 +3776,29 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    pin+point
 
    pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
 
 2. 词源,
 
    **OED Origin**
 
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   Old English thuruh, **alteration of thurh ‘through’**. Original use was as an adverb and preposition, in senses of through. The adjective dates from the late 15th century, when it also had the sense ‘that goes or extends through something’, surviving in thoroughfare.
+
+   **Etymology**
+
+   c. 1300, adjectival use of Old English þuruh (adv.) "from end to end, from side to side," stressed variant of þurh (adv., prep.); **see [through](https://www.etymonline.com/word/through?ref=etymonline_crossreference). Related: thoroughly; thoroughness.**
+
+3. 释义,
+
+   彻底的 complete, very great, or very much
+
+4. 拓展
+
+   complete 彻底的
+
+   radical 根本的
+=======
    Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
 
    **Etymology**
@@ -3421,6 +3814,291 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    vt.查明；精确地找到；准确描述
 
    [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
+
+   adj.精确的；详尽的
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+   [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+**Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
+
+1. 助记,
+
+   pin+point
+
+   pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
+=======
+   n.针尖；精确位置；极小之物
+
+   [needlepoint](javascript:void(0);) / [fingerling](javascript:void(0);)
+
+**Gobbledegook** /ˈɡɑː.bəl.di.ɡuːk/ 官样文章
+
+1. 助记,
+
+   gobble+degook
+
+   来自1944年美国德克萨斯州国会议员Maury Maverick杜撰的一个词，模仿公鸡叫的声音来讽刺当时过于冗长的官样文章。同时，值得注意的是，他本人是maverick这个词的原创者Maverick的孙子。
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+2. 词源,
+
+   **OED Origin**
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
+
+   **Etymology**
+
+   also pin-point, "point of a pin," 1849, **from [pin](https://www.etymonline.com/word/pin?ref=etymonline_crossreference) (n.) + [point](https://www.etymonline.com/word/point?ref=etymonline_crossreference) (n.).** Taken into aeronautics in sense "place identified from the air," hence verb meaning "locate precisely" (1917), which originally was aviators' slang. Related: Pinpointed; pinpointing. As an adjective, "performed with precisional accuracy," 1944, originally of aerial bombing.
+
+3. 释义,
+
+   准确指出 to find out or saythe exact position in space or time of something
+
+4. 拓展
+
+   vt.查明；精确地找到；准确描述
+
+   [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
+
+   adj.精确的；详尽的
+
+   [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
+=======
+   1940s (originally US): probably imitating a **turkey's gobble**.
+
+   **Etymology**
+
+   also gobbledegook, "the overinvolved, pompous talk of officialdom" [Klein], 1944, American English, first used by U.S. Rep. Maury Maverick, D.-Texas, (1895-1954), a grandson of the original [maverick](https://www.etymonline.com/word/maverick?ref=etymonline_crossreference)and chairman of U.S. Smaller War Plants Corporation during World War II, in a memo dated March 30, 1944, banning "gobbledygook language" and mock-threateaning, "anyone using the wordsactivation or implementation will be shot." Maverick said he made up the word in imitation of turkey noise. Another word for it, coined about the same time, was bafflegab (1952).
+
+3. 释义,
+
+   官样文章 language, especially used in official letters, forms, and statements, that seemsdifficult or to mean nothing because you do not understand it
+
+4. 拓展
+
+   [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
+
+   **dividend/**ˈdɪv.ɪ.dend/ 
+
+   1. 助记：
+      di-分开 + vid-切 + end → 分享的股息
+      divide,分开。用于经济学术语指红利，股息。
+   2. 词源：
+      etymology
+      late 15c., from Middle French dividende "a number divided by another," from Latin dividendum "thing to be divided," neuter gerundive of dividere (see divide (v.)). Mathematical sense is from 1540s. Meaning "portion of interest on a loan, stock, etc." is from 1620s. Related: Dividends.
+   3. 定义：(a part of) the profit of a company that is paid to the people who own shares in 股息
+   4. 拓展：
+      bonus（红利）：股票持有人除股息之外的更多收益
+      1733年，英国第一家证券交易所在一家名叫乔纳森的咖啡馆成立。1802年获得英国政府的正式批准。这家证券交易所即为现在伦敦证券交易所的前身。早期人们对股票还不熟悉，为了劝说人们购买股票，证券交易商会大力向人们解释购买股票的各种收益。其中最基本的一项收益是“股息”（dividend），即股票持有人可以按照预定的比率，根据所购买的股份从所投资的公司的盈利中获得收益，就像从银行存款中获得固定比率的利息一样。
+      另外，与银行存款不一样，在派发股息之后，如果公司还有盈余，股票持有人还有可能进一步瓜分盈余，获得更多收益。当时，英语中并没有一个对应单词用来表示这种股息之外的更多收益。于是证券交易商们借用了拉丁语中的bonus一词。该词的本意是“好处”（good），英语中表示“好”的词根bene就与此同源。从此以后，bonus一词就成为了对这种更多收益的称呼，中文一般翻译为“红利”。
+      “股息”（dividend）和“红利”（bonus）的区别在于：股息是预先确定收益率的，而红利是没有固定收益率的，可以上下浮动。股份公司在派息分红时，首先按照固定收益率向优先股股东发放股息；发完股息后，如果还有盈余，则还可以在扣除企业发展积累金后进一步向普通股东发放红利。
+      现在，bonus一词早已经超越了股票领域，用来泛指固定收益外的各种更多收益，如奖金、给退伍军人发放的一次性费用等，甚至还成为了贿赂的暗语，相当于我们中国人说的“意思意思”。
+      bonus：['bəʊnəs] n.奖金，红利，津贴，额外收益
+      dividend：['dɪvɪdend] n.股息，被除数
+
+   **session**/ˈseʃ.ən/ 
+
+   1. 助记：sess-=sed坐 + -ion名词后缀。坐着的期间引申为
+      期间, 开庭期, 会议, 学期
+   2. 词源：
+      etymology
+      late 14c., "periodical sitting of a court," from Old French session "act or state of sitting; assembly," from Latin sessionem (nominative sessio) "act of sitting; a seat; loitering; a session," noun of action from past participle stem of sedere "to sit," from PIE root *sed- (1) "to sit." Sense of "period set aside for some activity" is first recorded 1920, in bull session, probably from quarter sessions courts (see quarter (n.)). Musical sense of "recording occasion in a studio" is from 1927.
+   3. 定义：
+      1. a formal meeting or series of meetings of an organization such as a parliament or a law court开庭期
+      2. a period of time or meeting arranged for a particular activity （进行某活动连续的）一段时间
+      3. at a college, any of the periods of time that a teaching year or day is divided into, or the teaching year itself学期
+
+   ​
+
+
+
+## 12. Diagnose Problems to Get at Their Root Causes
+
+**Anchor** /ˈæŋ.kɚ/ 锚
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+   n.针尖；精确位置；极小之物
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   [needlepoint](javascript:void(0);) / [fingerling](javascript:void(0);)
+
+**Gobbledegook** /ˈɡɑː.bəl.di.ɡuːk/ 官样文章
+
+1. 助记,
+
+   gobble+degook
+
+   来自1944年美国德克萨斯州国会议员Maury Maverick杜撰的一个词，模仿公鸡叫的声音来讽刺当时过于冗长的官样文章。同时，值得注意的是，他本人是maverick这个词的原创者Maverick的孙子。
+=======
+   同ankle, 弯钩，脚踝，锚。
+
+   anc-,ang-,ank,-unc- 
+   这组词根都源自原始印欧语*ang-/*ank- ="to bend"表示弯或钩状.
+
+   在医学词汇中：anchylo-, ancylo-特指“弯曲、粘连”.
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+2. 词源,
+
+   **OED Origin**
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   1940s (originally US): probably imitating a **turkey's gobble**.
+
+   **Etymology**
+
+   also gobbledegook, "the overinvolved, pompous talk of officialdom" [Klein], 1944, American English, first used by U.S. Rep. Maury Maverick, D.-Texas, (1895-1954), a grandson of the original [maverick](https://www.etymonline.com/word/maverick?ref=etymonline_crossreference)and chairman of U.S. Smaller War Plants Corporation during World War II, in a memo dated March 30, 1944, banning "gobbledygook language" and mock-threateaning, "anyone using the wordsactivation or implementation will be shot." Maverick said he made up the word in imitation of turkey noise. Another word for it, coined about the same time, was bafflegab (1952).
+
+3. 释义,
+
+   官样文章 language, especially used in official letters, forms, and statements, that seemsdifficult or to mean nothing because you do not understand it
+
+4. 拓展
+
+   =bureaucratese
+
+
+ **Pros**  /prəuz/ 赞同者      
+
+1. 助记,
+
+   professional (n.) 的缩写。作为形容词最初记录于1915 (in golfing's pro shop)。
+=======
+   Old English ancor, ancra, via Latin from Greek ankura; reinforced in Middle English by Old French ancre. The current form is from anchora, an erroneous Latin spelling. The verb (from Old French ancrer) dates from Middle English.
+
+   **Etymology**
+
+   "device for securing ships to the ground under the water by means of cables," Old English ancor, borrowed 9c. from Latin ancora "an anchor," from or cognate with Greek ankyra "an anchor, a hook," from PIE root *ang-/*ank- **"to bend" (see [angle](https://www.etymonline.com/word/angle?ref=etymonline_crossreference) (n.)).**
+
+   A very early borrowing into English and said to be the only Latin nautical term used in the Germanic languages (German Anker, Swedish ankar, etc.). The unetymological -ch- emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for [anchorman](https://www.etymonline.com/word/anchorman?ref=etymonline_crossreference) (q.v.).
+
+3. 释义,
+
+   锚  a heavy metal object, usually shaped like a cross with curved arms, on astrong rope or chain, that is dropped from a boat into the water to prevent theboat from moving away
+
+4. 拓展
+
+   近义词，
+
+   kelleg n.[船]锚
+
+   backer patron 靠山
+
+   nail 钉住
+
+   同根词，
+
+   [anchorage](javascript:void(0);) 锚地；下锚；停泊税
+
+   [anchorman](javascript:void(0);) 末棒运动员；新闻节目主持人
+
+   [anchorperson](javascript:void(0);) 新闻节目主持人
+
+**Pitfall**/ˈpɪt.fɑːl/ 陷阱
+
+1. 助记,
+
+   pit+fall
+
+   pit,深坑，fall,掉落。掉落深坑，引申词义陷阱。
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+2. 词源,
+
+   **OED Origin**
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   Late Middle English (as a noun): from Latin, literally ‘for, on behalf of’.
+
+   **Etymology**
+
+   "a consideration or argument in favor," c. 1400, from Latin pro "on behalf of, in place of, before, for, in exchange for, just as," from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "in front of, before, first, chief." Pro and con is short for pro and contra (c. 1400) "for and against" (Latin pro et contra).
+
+3. 释义,
+
+   赞成者  supporting or agreeing with something
+
+4. 拓展
+
+   [pros and cons](javascript:void(0);)正反两方面；赞成者和反对者
+
+ **Violate** /ˈvaɪ.ə.leɪt/ 违背    
+
+1. 助记,
+
+   viol+ate
+
+   viol-暴力,野蛮,ate-造成--违背\违反
+=======
+   **Etymology**
+
+   c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
+
+3. 释义,
+
+   陷阱 a likely mistake or problem in a situation
+
+4. 拓展
+
+   [deficiency](javascript:void(0);) 缺陷
+
+  defect 缺点
+
+   complete 彻底的
+
+   radical 根本的
+
+
+
+
+Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
+
+1. 助记,
+
+   pin+point
+
+   pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+2. 词源,
+
+   **OED Origin**
+
+<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+   Late Middle English: from Latin violat- ‘treated violently’, from the verb violare.
+
+   **Etymology**
+
+   early 15c., "to break" (an oath, etc.), from Latin violatus, past participle of violare "treat with violence, dishonor, outrage" (see [violation](https://www.etymonline.com/word/violation?ref=etymonline_crossreference)). Sense of "ravish" is first recorded mid-15c. Related: Violated; violating.
+
+3. 释义,
+
+   违背 to break or act against something, especially a law, agreement, principle, or something that should be treated with respect
+
+4. 拓展
+
+   act against
+
+=======
+   Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
+
+   **Etymology**
+
+   also pin-point, "point of a pin," 1849, **from [pin](https://www.etymonline.com/word/pin?ref=etymonline_crossreference) (n.) + [point](https://www.etymonline.com/word/point?ref=etymonline_crossreference) (n.).** Taken into aeronautics in sense "place identified from the air," hence verb meaning "locate precisely" (1917), which originally was aviators' slang. Related: Pinpointed; pinpointing. As an adjective, "performed with precisional accuracy," 1944, originally of aerial bombing.
+
+3. 释义,
+
+   准确指出 to find out or saythe exact position in space or time of something
+
+4. 拓展
+
+   vt.查明；精确地找到；准确描述
+
+   [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
+>>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
 
    adj.精确的；详尽的
 
@@ -3454,78 +4132,1579 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 4. 拓展
 
-   =bureaucratese
+   [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
 
 
- **Pros**  /prəuz/ 赞同者      
+#### granular/ˈɡræn.jə.lər/ 
 
-1. 助记,
+1. 助记：gran-=grain颗粒 + -ule小 → 小颗粒。
+   granule【颗粒】 + -ar 引申为细化的 
+2. 词源：
+   etymology
+   1790, from Late Latin granulum "granule, a little grain," diminutive of Latin granum "grain, seed" (from PIE root *gre-no- "grain") + -ar. Replaced granulous (late 14c.). Related: Granularity.
+3. 定义：made of, or seeming like, granules颗粒状的
 
-   professional (n.) 的缩写。作为形容词最初记录于1915 (in golfing's pro shop)。
+#### weed/wiːd/
 
-2. 词源,
+1. 助记：词源不详
+2. 词源：
+   etymology
+   "plant not valued for use or beauty," Old English weod, uueod "grass, herb, weed," from Proto-Germanic *weud- (source also of Old Saxon wiod, East Frisian wiud), of unknown origin. Also applied to trees that grow abundantly. Meaning "tobacco" is from c. 1600; that of "marijuana" is from 1920s. The chemical weed-killer is attested by 1885.
+3. 定义：any wild plant that grows in an unwanted place, especially in a garden or field where it prevents the cultivated plants from growing freely 杂草 荒草
 
-   **OED Origin**
+#### pitfall/ˈpɪt.fɔːl/
 
-   Late Middle English (as a noun): from Latin, literally ‘for, on behalf of’.
-
-   **Etymology**
-
-   "a consideration or argument in favor," c. 1400, from Latin pro "on behalf of, in place of, before, for, in exchange for, just as," from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "in front of, before, first, chief." Pro and con is short for pro and contra (c. 1400) "for and against" (Latin pro et contra).
-
-3. 释义,
-
-   赞成者  supporting or agreeing with something
-
-4. 拓展
-
-   [pros and cons](javascript:void(0);)正反两方面；赞成者和反对者
-
- **Violate** /ˈvaɪ.ə.leɪt/ 违背    
-
-1. 助记,
-
-   viol+ate
-
-   viol-暴力,野蛮,ate-造成--违背\违反
-
-2. 词源,
-
-   **OED Origin**
-
-   Late Middle English: from Latin violat- ‘treated violently’, from the verb violare.
-
-   **Etymology**
-
-   early 15c., "to break" (an oath, etc.), from Latin violatus, past participle of violare "treat with violence, dishonor, outrage" (see [violation](https://www.etymonline.com/word/violation?ref=etymonline_crossreference)). Sense of "ravish" is first recorded mid-15c. Related: Violated; violating.
-
-3. 释义,
-
-   违背 to break or act against something, especially a law, agreement, principle, or something that should be treated with respect
-
-4. 拓展
-
-   act against
+1. 助记：pit【深坑】凹陷 + fall【掉落】。引申词义陷阱。
+2. 词源：
+   etymology
+   c. 1300, "concealed hole," a type of animal trap, from pit (n.1) + fall (n.). Extended sense of "any hidden danger" is first recorded early 15c.
+3. 定义：a likely mistake or problem in a situation 陷阱 圈套
 
 
+#### proximate/ˈprɒksɪmət/
+
+1. 助记：proxim-接近 + -ate
+   proxim- = close, near, 表示“接近，靠近”；-im为最高级后缀。
+   例子：approximate 
+   ap-一再 + proximate【将临的，近似的】 → 不断靠近 → 接近的。
+2. 词源：
+   etymology
+   "neighboring," 1590s (implied in proximately), from Late Latin proximatus, past participle of proximare "to draw near," from proximus "nearest, next; most direct; adjoining," figuratively "latest, most recent; next, following; most faithful," superlative of prope "near" (see propinquity).
+3. 定义:closest in degree or order (space or time) especially in a chain of causes and effects近邻的，最接近的
+
+#### component/kəmˈpəʊ.nənt/
+
+1. 助记：com-共同 + pon-放 + -ent → 共同的放到一起 → 组成的。元件, 组件, 成分
+2. 词源：
+   etymology
+   1640s, "constituent part or element" (earlier "one of a group of persons," 1560s), from Latin componentem (nominative componens), present participle of componere "to put together, to collect a whole from several parts," from com "with, together" (see com-) + ponere "to place" (see position (n.)). Related: Componential.
+3. 定义：a part that combines with other parts to form something bigger 成分； 零件
+
+#### drag/dræɡ/
+
+1. 助记：来自PIE*dhragh, 拉，词源同draw, tractor。
+2. 词源：
+   etymology
+   Sense of "annoying, boring person or thing" is 1813, perhaps from the notion of something that must be dragged as an impediment. Sense of "women's clothing worn by a man" is said to be 1870 theater slang, from the sensation of long skirts trailing on the floor (another guess is Yiddish trogn "to wear," from German tragen); drag queen is from 1941.
+3. 定义：to move something by pulling it along a surface, usually the ground拖 拉 
+4. 拓展：drag [dræg] v.拖累；拖拉；拖曳，n.拖；拖累，B：draw [drɔː] vt.画；拉；吸引，vi 拉；拖。A来自古北欧语，B来自古英语，二者同源（源头是原始日耳曼语），只不过在古英语中，硬音g变成了w音。参考tug [tʌg] n.拖船；拖曳；苦干，vi.用力拉和tow [təʊ] n.拖；拖曳所用之绳，v.拖；牵引；曳。 
+
+#### **trivial**/ˈtrɪv.i.əl/
+
+1. 助记：tri-三 + vi-路 + -al表形容词 → 三条路 → 没有一个目标 → 琐碎的。
+2. 词源：
+   etymology
+   "ordinary" (1580s); "insignificant, trifling" (1590s), from Latin trivialis "common, commonplace, vulgar," literally "of or belonging to the crossroads," from trivium "place where three roads meet," in transferred use, "an open place, a public place," from tri- "three" (see three) + via "road" (see via). The sense connection is "public," hence "common, commonplace."
+3. 定义：having little value or importance琐碎的 微小的
+4. 拓展：trivia（琐事）：妇女们在三岔路口的闲聊
+   中国有句古话，叫做“三个女人一台戏”，意思是三个女人凑一块就会叽叽喳喳地闲聊开，热闹得像唱戏一样。古代罗马人想必对此也深有体会。他们认为，三条道路汇集之地，必然会有妇女聚集在一起叽叽喳喳扯些家长里短的琐碎之事。英语单词trivia就反映了古人的这种观念。该词来自拉丁语trivium，由tri（three，三）+via（way，道路）构成，字面意思就是三条道路汇聚之地。因此单词trivia的本意就是妇女们在路口闲聊所说的事，自然是无关紧要的琐事。
+   trivia： ['trɪvɪə] n. 琐事
+   trivial： ['trɪvɪəl] adj.琐碎的，无关紧要的
+
+**synthesis**/ˈsɪn.θə.sɪs/
+
+1. 助记：syn-一起 + thes-放 + is → 放在一起 → 合成。
+2. 词源：
+   etymology
+   1610s, "deductive reasoning," from Latin synthesis "collection, set, suit of clothes, composition (of a medication)," from Greek synthesis "composition, a putting together," from syntithenai "put together, combine," from syn- "together" (see syn-) + tithenai "to put, to place," from reduplicated form of PIE root *dhe- "to set, put." From 1733 as "a combination of parts into a whole." Earlier borrowed in Middle English as sintecis (mid-15c.). Plural syntheses.
+3. 定义：the production of a substance from simpler materials after a chemical reaction合成物
+
+#### **issue**/ˈɪʃ.uː/
+
+1. 助记：来自古法语issue , 出口，出去，来自拉丁语exire , 出去，词源同exit , ion . 由向外走出引申问题，议题，期刊，发行等多种词义。
+2. 词源：
+   etymology
+   c. 1300, "an exit," from Old French issue "a way out, a going out, exit; final event," from fem. past participle of issir "to go out," from Latin exire "go out, go forth; become public; flow, gush, pour forth" (source also of Italian uscire, Catalan exir), from ex- "out" (see ex-) + ire "to go," from PIE root *ei- "to go."
+3. 定义：a subject or problem that people are thinking and talking about问题 议题
+
+#### **execute** /ˈek.sɪ.kjuːt/
+
+1. 助记：ex-向外 + sec-跟随 + -ute，即执行命令。
+   secut-,sequ-,su- = follow, 表示“跟随
+   例：Consecutive con-全部 + secu-跟随 + -tive表形容词 → 一个接一个跟随。连续的，连贯的
+2. 词源：
+   etymology
+   late 14c. "to carry into effect" (transitive, mostly in law with reference to warrants, sentences, etc.), also "carry out or accomplish a course of action" (intransitive), from Old French executer (14c.), from Medieval Latin executare, from Latin execut-/exsecut-, past participle stem of exequi/exsequi "to follow out, to follow to the grave," figuratively "to follow, follow after, accompany, follow up, prosecute, carry out, enforce; execute, accomplish; punish, avenge," from ex- "out" (see ex-) + sequi "follow" (from PIE root *sekw- (1) "to follow"). Meaning "to inflict capital punishment" is from late 15c., from earlier legal sense "perform judgment or sentence on" (early 15c.). Related: Executed; executing.
+3. 定义：to do or perform something, especially in a planned way执行 履行
+
+#### mechanic/məˈkæn.ɪk/
+
+1. 助记：来自拉丁mechanicus , 机械师，来自machina , 机械，引擎，工具，词源同machine。
+2. 词源：
+   etymology
+   "manual laborer," late 14c., from Latin mechanicus, from Greek mekhanikos "an engineer," noun use of adjective meaning "full of resources, inventive, ingenious," from mekhane "device," from PIE *magh-ana- "that which enables," from root *magh- "to be able, have power." Sense of "one who is employed in manual labor, a handicraft worker, an artisan" (chief sense through early 19c.) is attested from 1560s. Sense of "skilled workman who is concerned with making or repair of machinery" is from 1660s, but not the main sense until the rise of the automobile.
+3. 定义：someone whose job is repairing the engines of vehicles and other machines技工，机修工
+4. 拓展：单词A：mechanic [mɪ'kænɪk] n.技工，机修工，adj.手工的，单词B：machine [mə'ʃiːn] n. 机械；机构，vt. 用机器制造。二者明显有关系，但为啥拼写中ch的读音不同呢？因为，虽然都是希腊词源，但mechanic是英语经由拉丁语借自希腊语，ch的读音保留了/k/音，但machine经由法语，ch音腭音化为/ʃ/。
+
+#### sort/sɔːt/
+
+1. 助记:
+   来自古法语 sorte,种类，类别，来自拉丁语 sors,类别，分类，命运，抽签，来自 PIE*ser,安排，排列，词源同 series,insert。
+   sort- = kind, 表示“种类”。
+2. 词源：
+   etymology
+   late 14c., "group of people, animals, etc.; kind or variety of person or animal," from Old French sorte "class, kind," from Latin sortem (nominative sors) "lot; fate, destiny; share, portion; rank, category; sex, class, oracular response, prophecy," from PIE root *ser- (2) "to line up."
+3. 定义：a group of things that are of the same type or that share similar qualities分类，类别； 品质
+4. 拓展：sorcery（巫术）：西方古代的抽签占卜术
+   在古代西方，有一种常见的占卜方法，就是使用刻在石头、木片、纸片、骰子上的符号、图形、或文字，通过随机抽取、翻取、投掷等方式来达到占卜的目的。这种占卜工具在拉丁语中被称为sors，属格形式为sortis。使用这种工具进行占卜的人则称为sortarius。单语单词sorcery（巫术）和sorcerer（巫师）都来源于此。同源词还有sort（种类）、sortilege（抽签占卜）。
+   sorcery：['sɔːs(ə)rɪ] n.巫术，魔法
+   sorcerer：['sɔːs(ə)rə] n.男巫师，男魔法师
+   sorceress：['sɔrsərəs]n.女巫师，女魔法师
+   sort：[sɔrt] n.种类v.分类，排序
+   sortilege： ['sɔːtɪlɪdʒ]n.巫术，占卜，抽签占卜
+
+#### violate/ˈvaɪ.ə.leɪt/
+
+1. 助记：词源同violence , 暴力，引申词义违背，违反。
+2. 词源：
+   etymology
+   early 15c., "to break" (an oath, etc.), from Latin violatus, past participle of violare "treat with violence, dishonor, outrage" (see violation). Sense of "ravish" is first recorded mid-15c. Related: Violated; violating.
+3. 定义：to break or act against something, especially a law, agreement, principle, or something that should be treated with respect违反； 妨碍
 
 
-## 12. Diagnose Problems to Get at Their Root Causes
+#### monday morning quarterback
 
+1. 助记： 美国俚语 Monday morning quarterback文字直译是星期一早上的四分卫,词组意思一般指的是“放马后炮的人 ,事后诸葛亮”——周末打完比赛,周一早上谁都要评论一下昨天的四分卫应该怎么怎么样,所以管这帮放马后炮的人叫做Monday morning quarterback。
+2. 定义：someone who says how an event or problem should have been dealt with by others after it has already been dealt with 事后诸葛亮
+3. 拓展：
+         周日晚上的美式足球比赛（Sunday night football）是全国转播黄金档次，收视人口也最多。隔天星期一早上的下课时间、上班空档，许多球迷聊起前一晚的比赛，这时往往有人会大放厥词说「如果我是四分卫就会怎么做」、「当时要用什么战术」...等等「马后抱」行为，「星期一早晨的四分卫」就是指那些「在事后放马后抱的人」，也可以间称 “Monday morning QB”。还有另一个俚语也跟星期有关，许多男球迷在星期天晚上因为收看球赛，而冷落老婆的行为，也造成特有的「周日夜寡妇」”Sunday night widow” 族群。
+          四分卫算是整个球队的主帅，在场上的指挥调度全都得听quarterback 的。通常在每次攻击时球一定是先传到 quarterback 手上，之後他会迅速後退，再决定是要自己传球(pass)，还是把球再交给其它球员跑阵 (rush)，还是要自己偷袭 (quarterbacksneak)。所以四分卫一定要头脑灵活而且在场上时要眼观四面耳听八方，但更重要的是他必须有很强壮的手臂，这样子传球才能传得远，但除此之外还要很准确，这样子才不会把球传到对方手。
+4. 应用：
+   Peyton:“If I were Andrew, I would not screw up this project by that awful decision.”
+   Tom:“Come on. Don’t be a Monday morning QB. You’re just a two-month newbie.”
+   裴顿：「如果我是安祖鲁，我就不会让糟糕的决策搞砸专案。」
+   汤姆：「得了吧，别放马后抱了，你才只是刚来两个月的菜鸟。」
+
+
+#### kink/kɪŋk/
+
+1. 助记：来自瑞典语 kink,绳结，来自 Proto-Germanickenk,弯，转，来自 PIEgengh,弯，转，编织，词源同 hook,cinch,precinct.
+2. 词源：
+   etymology
+   1670s, "knot-like contraction or short twist in a rope, thread, hair, etc., originally a nautical term, from Dutch kink "twist（搓，捻） in a rope" (also found in French and Swedish), which is probably related to Old Norse kikna "to bend backwards, sink at the knees" as if under a burden (see kick (v.)). Figurative sense of "odd notion, mental twist, whim" first recorded in American English, 1803, in writings of Thomas Jefferson; specifically "a sexual perversion, fetish, paraphilia" is by 1973 (by 1965 as "sexually abnormal person").
+3. 定义：an unwanted twist or bend in a wire, rope, pipe, etc. that is usually straight 绳结  
+
+
+#### terrific/təˈrɪf.ɪk/
+
+1. 助记：terr-恐惧 + iflc带来 → 带来可怕 → 好到了让人害怕的地步 → 极好的。
+2. 词源：
+   etymology
+   1660s, "frightening," from Latin terrificus "causing terror or fear, frightful," from terrere "fill with fear" (see terrible) + combining form of facere "to make" (from PIE root *dhe- "to set, put"). Weakened sensed of "very great, severe" (as in terrific headache) appeared 1809; inverted colloquial sense of "excellent" began 1888. Related: Terrifically.
+3. 定义：very good 极好的
+
+
+#### ample/ˈæm.pəl/
+
+1. 助记;ampl- = large, 表示“大”。ample 引申为 大量的 充足的 丰富的
+2. 词源：
+   etymology
+   mid-15c., "great, abundant," especially "sufficient for any purpose," from Old French ample "large, wide, vast, great" (12c.), from Latin amplus "large, spacious; abundant, numerous; magnificent, distinguished," which is related to ampla "handle, grip; opportunity," from Proto-Italic *amlo- "seizable," from a PIE root meaning "to grab" that also is postulated as the source of amare "to love" 
+3. 定义：more than enough大量的 充足的
+
+
+#### adverse/ˈæd.vɜːs/
+
+1. 助记：ad-去，往 + vers-转 + e → 转走的，对着干的 引申为不利的 敌对的 相反的 
+2. 词源：
+   etymology
+   late 14c., "contrary, opposing," from Old French advers, earlier avers (13c., Modern French adverse) "antagonistic, unfriendly, contrary, foreign" (as in gent avers "infidel race"), from Latin adversus "turned against, turned toward, fronting, facing," figuratively "hostile, adverse, unfavorable," past participle of advertere "to turn toward," from ad "to" (see ad-) + vertere "to turn, turn back; be turned; convert, transform, translate; be changed" (from PIE root *wer- (2) "to turn, bend"). For distinction of use, see averse. Related: Adversely.
+3. 定义：having a negative or harmful effect on something
+   不利的 敌对的 
+
+#### emerge/ɪˈmɜːdʒ/
+
+1. 助记：e-出 + merg-沉没 + e → 沉的东西出现 → 浮现。
+   immerge  im- 在内，进入 + merge 沉，没 即 隐没 浸入
+2. 词源：
+   etymology
+   1560s, from Middle French émerger and directly from Latin emergere "bring forth, bring to light," intransitively "arise out or up, come forth, come up, come out, rise," from assimilated form of ex "out" (see ex-) + mergere "to dip, sink" (see merge). The notion is of rising from a liquid by virtue of buoyancy. Related: Emerged; emerging.
+3. 定义：to appear by coming out of something or out from behind something出现，浮现
+4. 例句：The chilling facts behind this veil of silence were slow to emerge.沉默背后的骇人真相慢慢显露出来。
+
+#### insanity/ɪnˈsæn.ə.ti/
+
+1. 助记：
+   in-不 + sane心智健全的 健康的
+   insane 精神失常 + -ity表名词
+2. 词源：
+   etymology
+   1580s, "state of being insane, seriously impaired state of mental functioning," from Latin insanitatem (nominative insanitas) "unhealthfulness, unsoundness, disease," noun of quality from insanus "mad, insane; outrageous, excessive" (see insane). Meaning "extreme folly" is from 1844. The Latin abstract noun was insania ""unsoundness of mind, madness, frenzy."
+3. 定义：the condition of being seriously mentally ill疯狂； 精神失常
+4. 例句：
+   1. Phillips murdered his wife, but got off on a plea of insanity菲利普斯谋杀了他的妻子，但以精神错乱为由逃脱了惩罚。
+   2. The insanity which ran in his family haunted him
+      家族遗传的精神错乱困扰着
+   3. 他。
+
+#### suboptimal/ˌsʌbˈɒptɪməl/
+
+1. 助记：sub 下面的 + optimal 最优的 优化的
+2. 词源：
+   etymology
+   also sub-optimal, 1901, from sub- + optimal.
+   "most favorable," 1890, from Latin optimus (see optimum).
+3. 定义：below the highest level or standard, or not done in the best way possible未达最佳标准的； 不最理想的
+4. 例句：This led to a suboptimal equilibrium of dirty floors and resentful cohabitants.这样便形成了一种不太理想的平衡:地板脏兮兮的,而住在屋里的人相互怨怼.
+
+#### inventory/ˈɪn.vən.tər.i/
+
+1. 助记：in-进入，使 + vent-来，来到 + -ory表名词，即来到，到达，引申词义找到，发现，后用于指发现的存货，清单等。
+2. 词源：
+   etymology
+   early 15c., from Old French inventoire "detailed list of goods, a catalogue" (15c., Modern French inventaire), from Medieval Latin inventorium, alteration of Late Latin inventarium "list of what is found," from Latin inventus, past participle of invenire "to find, discover, ascertain" (see invention).
+3. 定义：a detailed list of all the things in a place存货清单 财产目录
+4. 例句an inventory of the museum's contents博物馆馆藏清单
+
+   ​
+
+#### disenfranchise/ˌdɪs.ɪnˈfræn.tʃaɪz/
+
+1. 助记：dis 不 en-进入，使 + franchise选举权 公民权  即剥夺...的权利 
+   franchise =  franch自由 + -ise 
+   franch 来自古法语 franc,非奴役的，自由的，来自拉丁语 francus,法兰克人，自由人，词源同 Frank.其原词义即使享有自由权，后引申词义选举权，特许经销权等。
+2. 词源：
+   etymology
+   "deprive of civil or electoral privileges," 1640s, from dis- + enfranchise. 
+   early 15c., "grant (someone) the status or privilege of citizenship, admit to membership in a town," from Old French enfranchiss-, present participle stem of enfranchir "to set or make free; grant a franchise to;" from en- "make, put in" (see en- (1)) + franc "free" (see franchise (n.)). Generally with reference to voting privileges after c. 1700. Related: Enfranchised; enfranchisement.
+3. 定义：to take away power or opportunities, especially the right to vote, from a person or group即剥夺...的权利 
+4. 例句：.
+   White supremacists[səˈpreməsists] devise new Methods: To disenfranchise Negroes.
+   白人至上论者想出新的方法以剥夺黑人的公民权。
 
 
 ## 13. Design Improvements to Your Machine to Get Around Your Problems
 
+**Visceral** /ˈvɪs.ər.əl/ 本能的
 
+1. 助记,
+
+   viscer+al
+
+   viscer-内脏，al-表示...的－－发自内心，发自肺腑，本能的。
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1570s, "affecting inward feelings," from Middle French viscéral and directly from Medieval Latinvisceralis "internal," from Latin viscera, plural of viscus **"internal organ, inner parts of the body," of unknown origin.** The bowels were regarded as the seat of emotion. The figurative sense vanished after 1640 and the literal sense is first recorded in 1794. The figurative sense was revived 1940s in arts criticism.
+
+3. 释义,
+
+   本能的 literary based on deep feeling and emotional reactions rather than on reason orthought
+
+4. 拓展
+
+   [visceral organs](javascript:void(0);)内脏；脏器（visceral organ的复数形式）
+
+   [visceral fat](javascript:void(0);)内脏脂肪
+
+**Stimulate** /ˈstɪm.jə.leɪt/ 激发
+
+1. 助记,
+
+   stimul+ate
+
+   stimul-刺=prick，ate-表动词,造成。--使...刺激，激发
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century (in the sense ‘sting, afflict’): from Latin stimulat- **‘urged, goaded’, from the verb stimulare.**
+
+   **Etymology**
+
+   1610s, "rouse to action," from Latin stimulatus, past participle of stimulare (see [stimulation](https://www.etymonline.com/word/stimulation?ref=etymonline_crossreference)). Related: Stimulated; stimulating.
+
+3. 释义,
+
+   激发  to encourage something to grow, develop, or become active
+
+4. 拓展
+
+   [fan](javascript:void(0);) 煽动
+
+   power 激励
+
+   needle 刺激
+
+   activate 刺激
+
+**Outspoken** /ˌaʊtˈspoʊ.kən/ 直言不讳的
+
+1. 助记,
+
+   out+spoken
+
+   out-,向外，spoken,说，说出。引申词义直率的，坦诚的。
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   "given to speaking freely," 1808, originally Scottish, **from [out](https://www.etymonline.com/word/out?ref=etymonline_crossreference) (adv.) + [-spoken](https://www.etymonline.com/word/-spoken?ref=etymonline_crossreference).** "The pa. pple. has here a resultant force, as in 'well spoken', 'well read'." [OED]. Related: Outspokenly; outspokenness.
+
+3. 释义,
+
+   直言不讳的 expressing strong opinions very directly without worrying if other people areoffended
+
+4. 拓展
+
+   honest 诚实的
+
+   transparent 透明的，显然的
+
+
+**Durable** /ˈdʊr.ə.bəl/ 持久的
+
+1. 助记,
+
+    dur+able
+
+   dur-坚硬的，持久的，able-能的。来自拉丁语durus, 硬，词源同endure, tree.引申义持久的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the sense ‘steadfast’): via Old French from Latin durabilis, **from durare ‘to last’ (see duration)**.
+
+   **Etymology**
+
+   late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," **from durare "to harden," from durus "hard,"** from PIE *dru-ro-, suffixed variant form of root [*deru-](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference) "be firm, solid, steadfast." Durable goods attested from 1930.
+
+3. 释义,
+
+   持久的 able to last a long time without becoming damaged
+
+4. 拓展
+
+   adj.耐用的，持久的
+
+   [continued](javascript:void(0);) / [sustained](javascript:void(0);) / [service](javascript:void(0);) / [lasting](javascript:void(0);)
+
+   n.耐用品
+
+   #### visceral/ˈvɪsərəl/
+
+   1. 助记：来自viscera 内脏 脏腑
+
+   2. 词源：
+      etymology
+      1570s, "affecting inward feelings," from Middle French viscéral and directly from Medieval Latin visceralis "internal," from Latin viscera, plural of viscus "internal organ, inner parts of the body," of unknown origin. The bowels were regarded as the seat of emotion. The figurative sense vanished after 1640 and the literal sense is first recorded in 1794. The figurative sense was revived 1940s in arts criticism.
+
+   3. 定义： obtained through intuition rather than from reasoning or observation发自内心的 
+
+   4. 例句：She had a visceral dislike of all things foreign
+
+       凡是外国的东西，她都打心眼儿里讨厌。
+
+
+   #### diagnosis/daɪəgˈnəʊsɪs/
+
+1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
+2.    词源：
+            etymology
+            1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+      3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
+      4. 例句：.
+         She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
+
+      #### precise/prɪˈsaɪs/
+
+      1. 助记：pre在……前的,预先+cise切→预先切好的→精确的
+      2. 词源：
+         etynology
+         mid-15c., from Middle French précis "condensed, cut short" (14c.) and directly from Medieval Latin precisus, from Latin praecisus "abrupt, abridged, cut off," past participle of praecidere "to cut off, shorten," from prae "before" (see pre-) + -cidere, combining form of caedere "to cut" (from PIE root *kae-id- "to strike"). For Latin vowel change, see acquisition. Related: Precisely (late 14c.).
+      3. 定义：sharply exact or accurate or delimited; 精确的
+      4. 例句：.
+         I seem to remember giving you very precise instructions
+         我好像记得给过你非常明确的指示。
+
+
+   #### durable/ˈdjʊərəbl/
+
+1.    助记：dur-坚硬 + -able表形容词
+2.    词源：
+               etymology
+               late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+      3. 定义：existing for a long time持久的 耐用的
+      4. 例句：negotiations for a durable peace为持久和平而进行的谈判
+
+
+      #### pervasive/pəˈveɪsɪv/
+    
+      1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
+         vas- vad- = go
+         pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
+         evade v. e-出 + vad-走 + e → 走出去 → 逃避。
+         invade v.in-进入 + vad-走 侵入 侵略
+      2. 词源：
+         etymology
+         1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
+         1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
+      3. 定义：spread throughout 蔓延的 遍布的
+      4. 例句：
+         She lives with a pervasive sense of guilt.
+         她生活在深深的愧疚之中。
+
+
+#### pervasive/pəˈveɪsɪv/
+
+ 1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
+     vas- vad- = go
+     pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
+     evade v. e-出 + vad-走 + e → 走出去 → 逃避。
+     invade v.in-进入 + vad-走 侵入 侵略
+ 2. 词源：
+      etymology
+      1750, from Latin pervas-, past participle stem of pervadere (see pervade) + -ive.
+      1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root *per- (1) "forward," hence "through") + vadere "to go" (see vamoose). Related: Pervaded; pervading.
+ 3. 定义：spread throughout 蔓延的 遍布的
+ 4. 例句：
+      She lives with a pervasive sense of guilt.
+      她生活在深深的愧疚之中。
+
+
+   #### biannual/baɪˈænjuə/
+
+1.    助记：bi- 表示“两个，两”。
+      annual n. 年刊, 年报 a. 每年的, 一年一次的, 全年的, 一年生的
+      ann- enn- = year 
+      annalist 编年史作者 triennial 每三年一次
+2.    词源：
+               etymology
+               also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+               late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+      3. 定义： occurring or payable twice each year 两年一次
+      4. 例句：
+         I have to make a biannual report next Monday
+         下周一我得作半年度报告
+
+
+#### vicarious/vɪˈkeəriəs/
+
+1. 助记：vicar n. ,代理人 +ious引申为间接的 感同身受的 
+   vic-,vice- 表示“改变、交流”，引申为“副职”或“代理“ 
+   举例：vicepresident 副校长 vicepremier 副首相
+2. 词源：
+   etymology
+   1630s, "taking the place of another," from Latin vicarius "that supplies a place; substituted, delegated," from vicis "a change, exchange, interchange; succession, alternation, substitution," from PIE root *weik- (2) "to bend, to wind."
+3. 定义：
+   experienced at secondhand 二手的 间接体验的
+   suffered or done by one person as a substitute for another代理的
+4. 例句：
+   Lots of people use television as their vicarious form of social life
+   许多人从电视中间接感受社会生活。
+   the vicarious pleasure that parents get from their children's success
+   父母因子女的成功而得到的如同身受的快乐
+
+#### prototype/ˈprəʊtətaɪp/
+
+1. 助记：
+   proto-原始 , 第一 + type → 原始模式 → 原型。
+   proto- = first, source, parent, preceding, earliest form, original, basic，表示“最初的，原始的，第一的”，来自于古希腊
+   举例：protist 原生生物  protohuman 早期原始人
+   type n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式 vi. 打字 vt. 作为代表, 测定类型, 用打字机打
+2. 词源：
+   etymology
+   c. 1600, from French prototype (16c.) and directly from Medieval Latin prototypus "original, primitive," from Greek prototypon "a first or primitive form," noun use of neuter singular of prototypos "original, primitive," from protos "first" (see proto-) + typos "impression, mold, pattern" (see type (n.)). In English from 1590s as prototypon.
+3. 定义：a standard or typical example原型，雏形，蓝本
+4. 例句：
+   the prototype of the modern bicycle
+   现代自行车的雏形
+   This is the prototype for future school buildings. 
+   这是未来的学校建筑的蓝本.
+5. 拓展：
+   proto-（第一）：变化多端的海中老人普罗透斯
+   普罗透斯（Proteus）是希腊神话中的一个早期海神，荷马史诗中所说的“海中老人”之一。他有预测未来的神通，但只向能逮住他的人透露预言。为了避免被人逮住，他拥有随意改变自己形状的神力。他居住在尼罗河三角洲海岸外的法罗斯岛上，以放牧海兽为生。
+   根据荷马史诗的记载，参加特洛伊战争的斯巴达国王墨涅拉奥斯（Menelaus）从特洛伊启程回国前触犯了神灵，被困在法罗斯岛上。在这里他遇到了普罗透斯的女儿。后者向他透露了普罗透斯的秘密，还告诉他制服普罗透斯的诀窍。于是，墨涅拉奥斯带着手下，身披海豹皮，悄悄接近普罗透斯，趁他瞌睡时，突然抓住他，任凭他千变万化也不松手。普罗透斯最后没办法，只好变回原形投降，向墨涅拉奥斯透露了他所需要的预言。
+   普罗透斯的名字Proteus非常有意思，它来自希腊语protos（第一）。古话说，一生二，二生四，四生万物，Proteus这个名字就暗示着他能够千变万化。英语词根proto-（第一、最初）就来源于此。由Proteus衍生出形容词protean，意思是“千变万化的”。
+   proto-：第一，最初
+   Proteus：['prəʊtɪəs] n. 多变的人；普罗透斯（希腊海神）；变形杆菌属
+   protean： ['prəʊtɪən; prəʊ'tiːən] adj.千变万化的，一人分饰多角的，变形虫的
+   protocol：['protə'kɔl] n. 协议；草案；礼仪v. 拟定。本意为“第一页”
+
+#### spontaneous/spɒnˈteɪniəs/
+
+1. 助记：spont-承诺，引申为行动 + -aneous表形容词，发自内心的承诺 → 自发的。
+   spond-,spons-,spous- = promise, 表示“承诺”，来自拉丁语
+2. 词源：
+   etymology
+   1650s, "occurring without external stimulus," from Late Latin spontaneus "willing, of one's free will," from Latin (sua) sponte "of one's own accord, willingly," a word of uncertain origin. Related: Spontaneously; spontaneousness. Used earlier of persons and characters, with a sense "acting of one's own accord" (c. 1200). Spontaneous combustion first attested 1795. Spontaneous generation (the phrase, not the feat) attested from 1650s.
+3. 定义： happening or arising without apparent external cause 自然的 自发的
+4. 例句：
+   spontaneous outpourings of praise
+   一片自然迸发的赞美声
+   She laughed spontaneously.
+   她不由得笑了。
+   a spontaneous offer of help
+   主动提出帮助
+5. 拓展：
+   spouse（配偶）：古希腊人的签约祭神习俗
+   古希腊人在签订协议时都喜欢请神灵来做见证，方式就是在签订协议的同时祭奠神灵，最常用的祭奠方式就是奠酒，即把酒洒在地上请神灵享用。在希腊语中表示“奠酒”的单词是sponde，该词因而衍生出“承诺、立约”的含义。sponde进入拉丁语后演变为spondere，立约人则称为sponsus。古人结婚其实就是签订婚约然后举行婚礼，所以签订婚约的人也被称为sponsus。英语单词spouse（配偶）就来源于此，本意就是“签订了婚约的人”。与它同源的单词有sponsor（赞助者、举办者）等。
+   spouse：[spaʊz; -s] n.配偶，vt.和……结婚
+   spousal：['spaʊz(ə)l] adj.结婚的n.婚礼，结婚仪式
+   sponsor：['spɒnsə] n.赞助者，举办者，保证人vt.赞
+
+#### criteria/kraɪ'tɪərɪə/
+
+1. 助记：crit-判断 + eria。 判断用的标准
+2. 词源：
+   etymology
+   1660s, from Latinized form of Greek kriterion "means for judging, standard," from krites "judge," from PIE root *krei- "to sieve," thus "discriminate, distinguish." Used in English as a Greek word from 1610s.
+3. 定义：A criterion is a factor on which you judge or decide something 标准 准则
+4. 例句：
+   It is hard to make out what criteria are used
+   很难弄清楚使用的是什么样的标准。
+
+#### to start from scratch
+
+从零开始 
+
+she built up this company from scrath 她白手起家创办了这家公司 
+
+The new paint wont adhere to the walls so I'll have to strip it all off and start from scratch.
+
+新涂的油漆粘不住墙壁，因此我得把它全部刮掉，重新刷过。
+
+#### iteration/ˌɪtəˈreɪʃn/
+
+1. 助记：
+   iter-重复 + -ate
+   iter- 来自拉丁语 iterare,重复，再次，来自 PIE*i,那个，那里，词源同 idem,item,-ter,比较级后缀。引申词义反复，反复声明
+2. 词源：
+   etymology
+   late 15c., from Latin iterationem (nominative iteratio) "a repetition," noun of action from past participle stem of iterare "do again, repeat," from iterum "again," from PIE *i-tero-, from pronominal root *i- (see yon).
+3. 定义：
+   1.  (computer science) a single execution of a set of instructions that are to be repeated 循环
+   2.  doing or saying again; a repeated performance重复
+4. 例句：
+   An iteration procedure can be used to determine the eigenvalue. 
+   迭代方法可用来确定特征值.
+
+#### solely/ˈsəʊlli/
+
+1. 助记：
+   sole【仅有的】 + -ly副词后缀
+   sole- = alone, 表示“独自、自己”，=be used to 习惯。
+2. 词源：
+   etymology
+   "single, alone, having no husband or wife; one and only, singular, unique," late 14c., from Old French soul "only, alone, just," from Latin solus "alone, only, single, sole; forsaken; extraordinary," of unknown origin, perhaps related to se "oneself," from PIE reflexive root *swo- (see so).
+3. 定义：without any others being included or involved 唯一地 单独地 只是 仅仅
+4. 例句：.
+   Remember, happiness doesn't depend upon who you are or what you have; it depends solely upon what you think.--Dale Carnegie 
+   请记住，幸福不在于你是谁或者你拥有什么，而仅仅取决于你的心态！
+
+#### schedule/ˈʃedju:l/
+
+1. 助记：
+   来自拉丁语 schedula,小纸条，来自希腊语 skhizein,切，分开，来自 PIE*skei,切，分，词源同shed,science,scythe.词义由小纸条引申词义便笺，便条，日程表等。
+   skei 
+   原始印欧语词根*skei, =to cut, split, divide, separate, 表示“劈开，分开”。
+2. 词源：
+   etymology
+   late 14c., sedule, cedule "ticket, label, slip of paper with writing on it," from Old French cedule (Modern French cédule), from Late Latin schedula "strip of paper" (in Medieval Latin also "a note, schedule"), diminutive of Latin scheda, scida "one of the strips forming a papyrus sheet," from Greek skhida "splinter," from stem of skhizein "to cleave, split" (see shed (v.)). Also from the Latin word are Spanish cédula, German Zettel.
+3. 定义： a temporally organized plan for matters to be attended to时刻表，进度表 明细表
+4. 例句：.
+   It is the mother who is expected to reorganize her busy schedule. 
+   应该让母亲来重新安排自己紧张的日程。
+
+#### budget/ˈbʌdʒɪt/
+
+1. 助记：来自拉丁词bulga, 皮袋子，钱夹。词源同ball, 膨胀，鼓起，球。预算来自钱夹比喻义。比较 bourse, 钱夹，股票交易所。
+2. 词源：
+   etymology
+   early 15c., bouget, "leather pouch, small bag or sack," from Middle French bougette, diminutive of Old French bouge "leather bag, wallet, pouch," from Latin bulga "leather bag," a word of Gaulish origin (compare Old Irish bolg "bag," Breton bolc'h "flax pod"), from PIE *bhelgh- "to swell," extended form of root *bhel- (2) "to blow, swell."
+3. 定义：a sum of money allocated for a particular purpose 预算
+4. 例句：.
+   Buying budget-priced furniture needn't mean compromising on quality or style. 
+   买价钱经济的家具并不意味着就要牺牲质量和样式。
+5. 拓展：budget（预算）：装财务预算书的皮包
+   英语单词budget源自法语bougette（小钱包），是古法语bouge（钱包）的指小形式。后缀-et表示“小”，如widget（小部件、小工具）、closet（小房间）、bullet（子弹，小球）。
+   单词budget原本表示小钱包，后来泛指任何尺寸的钱包，尤其是皮质的钱包。那么，它的意思是如何从“皮包”变成“预算”的呢？原来，在过去，英国财政大臣到议会提请审批财政预算时，通常将预算材料事先装在一个皮包中，在会场上再从皮包中掏出来。所以当时的人们就用“open the budget”（打开皮包拿出预算材料）来表示“提出预算”。时间长了，budget一词的意思就逐渐从“装预算材料的皮包”转变为“预算”本身了。
+   budget： ['bʌdʒɪt] n.预算，预算费vt.把……编入预算vi.编制预算adj.廉价的
+
+#### agenda/əˈdʒendə/
+
+1. 助记：
+   ag-做 + enda表示复数 → 做的事情 → 议程。
+   ag- = do, act, 表示“做,代理做”，来源于拉丁语”agere” 意思是”actor”( 按照预先决定的角色) 行动。
+   举例：
+   agent ag-做 + -ent表人或物 → 做的人 → 代理人。
+   agile ag-做 + ile，引申词义做的快的，敏捷的。
+2. 词源：
+   etymology
+   1650s, from Latin agenda, literally "things to be done," neuter plural of agendus, gerundive of agere "to do" (from PIE root *ag- "to drive, draw out or forth, move"). Originally theological (opposed to matters of belief), sense of "items of business to be done at a meeting" first attested 1882. "If a singular is required (=one item of the agenda) it is now agendum, the former singular agend being obsolete" [Fowler].
+3. 定义：
+   a temporally organized plan for matters to be attended to待议诸事项一览表 议事日程
+4. 例句：
+   Never before has a summit had such a crowded agenda
+   以前从来没有一次峰会的日程排得这么满。
+
+
+#### bureaucracy/bjʊəˈrɒkrəsi/
+
+1. 助记：
+    bureau-办公室 + cracy-统治
+      来自拉丁词burra, 羊毛，粗糙的布，桌布。代指办公室。词源同bur, 芒刺，形容布粗糙。
+2. 词源：
+   etymology
+   government by bureaus," especially "tyrannical officialdom," excessive multiplication of administrative bureaus and concentration of power in them, in reference to their tendency to interfere in private matters and be inefficient and inflexible, 1818, from French bureaucratie, coined by French economist Jean Claude Marie Vincent de Gournay (1712-1759) on model of democratie, aristocratie, from bureau "office," literally "desk" (see bureau) + Greek suffix -kratia denoting "power of" (see -cracy).
+3. 定义：Bureaucracy refers to all the rules and procedures followed by government departments and similar organizations, especially when you think that these are complicated and cause long delays.官僚主义
+4. 例句：.
+   People usually complain about having to deal with too much bureaucracy. 
+   人们经常抱怨不得不应付太多的官僚主义现象。
+5. 拓展：
+   bureau（局）：用来覆盖写字台的桌布
+   英语单词bureau来自法语，来自burel（糙羊毛布）。由于人们以前往往在写字台上铺上一层burel，因此这种桌布就被称为bureau。后来bureau被用来表示“办公桌”，再往后用来表示“办公室”，最后用来表示政府中的一个部门，即中文中的“局”或“处”。由它衍生的单词bureaucracy表示“官僚作风、官僚机构”。
+   bureau： ['bjʊərəʊ] n.局，处，办公室，办公桌
+   bureaucracy： [,bjʊ(ə)'rɒkrəsɪ] n.官僚作风，官僚机构，官僚政治
+   bureaucrat：['bjʊrəkræt] n. 官僚；官僚主义者
+   bureaucratic： [,bjʊrə'krætɪk] adj. 官僚的；官僚政治的
+
+#### sufficient/səˈfɪʃnt/
+
+1. 助记：
+   suffice【使足够，足以】 + -ent形容词后缀。
+   suf-在下面 + fic-做 + e → 在下面先做好 → 充足。
+   fice- = make, do, 表示“做，制作”，来自拉丁语。
+2. 词源:
+   etymology
+   early 14c., from Old French soficient "satisfactory," or directly from Latin sufficientem (nominative sufficiens) "adequate," present participle of sufficere "to supply as a substitute," from sub "up to" (see sub-) + combining form of facere "to make, to do" (from PIE root *dhe- "to set, put").
+3. 定义：If something is sufficient for a particular purpose, there is enough of it for the purpose.足够的 充足的
+4. 例句：The money to build the power station ought to have been sufficient. 
+   建设电站的资金本该足够了。
+
+#### rotate/rəʊˈteɪt/
+
+1. 助记：
+   rot-转 + -ate表形容词。rot- = wheel, 表示“轮子，转”。
+   -ate  表动词，“做，造成”
+   rotund  rot-转(圆) + und → 圆的 , 胖的
+2. 词源：
+   etymology
+   1550s, from Latin rotationem (nominative rotatio) "a turning about in a circle," noun of action from past participle stem of rotare "turn round, revolve, whirl about, roll," from PIE *ret- "to run, roll"
+3. 定义：
+   1. When something rotates or when you rotate it, it turns with a circular movement旋转 转动
+   2. If people or things rotate, or if someone rotates them, they take it in turns to do a particular job or serve a particular purpose.轮流;（使）轮换
+4. 例句：
+   1. Rotate the head clockwise and counterclockwise按顺时针方向转动头部，然后再逆时针旋转。
+   2. he members of the club can rotate and one person can do all the preparation for the evening... 
+      俱乐部的成员可以轮流工作，而且一个人就能做好晚上的所有准备工作。
+
+
+#### detect/dɪˈtekt/
+
+1. 助记：
+   de-不，非，使相反 + tect-覆盖，即揭开覆盖，查明。
+   tect- = cover, 表示“盖上”。
+   举例：protect   pro-在前面 + tect-盖 → 在前面盖上 → 保护。
+2. 词源：
+   etymology
+   early 15c., from Latin detectus, past participle of detegere "uncover, expose," figuratively "discover, reveal, disclose," from de- "un-, off" (see de-) + tegere "to cover," from PIE root *(s)teg- "to cover." Related: Detected; detecting.
+3. 定义：To detect something means to find it or discover that it is present somewhere by using equipment or making an investigation 发现 查出 测出
+4. 例句：We are trying to detect and understand how the climates change. 
+   我们正努力探寻并理解气候是如何变化的。
+
+#### allocation/ˌæləˈkeɪʃn/
+
+1. 助记：
+   allocate 分配 + -ion表名词 
+   al-一再 + loc-地方 + -ate表动词 → 不断送给地方 → 分配[东西]。
+2. 词源：
+   etymology
+   mid-15c., "authorization," from Middle French allocacion, from Medieval Latin allocationem (nominative allocatio), noun of action from past participle stem of allocare "allocate, allot," from assimilated form of Latin ad "to" (see ad-) + locare "to place," from locus "a place" (see locus).
+3. 定义：The allocation of something is the decision that it should be given to a particular person or used for a particular purpose. 分配  分派
+4. 例句：
+   His sons quarrelled bitterly over the allocation of family resources... 
+   他的儿子们为家产如何分配而吵得很凶。
+
+## 12. Diagnose Problems to Get at Their Root Causes
+
+
+   hardgoods
+
+**Pervasive** /pɚˈveɪ.sɪv/ 遍布的
+
+1. 助记,
+
+   per+vas+ive
+
+   per-全部+vas-走+ive--全部到处走--弥漫，渗透，遍布的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 18th century: from Latin pervas- **‘passed through’** (from the verb pervadere) + -ive.
+
+   **Etymology**
+
+   1750, from Latin pervas-, past participle stem of pervadere (see [pervade](https://www.etymonline.com/word/pervade?ref=etymonline_crossreference)) + [-ive](https://www.etymonline.com/word/-ive?ref=etymonline_crossreference).
+
+   1650s, from Latin pervadere "spread or go through," from per "through" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "through") + **vadere "to go" (see [vamoose](https://www.etymonline.com/word/vamoose?ref=etymonline_crossreference)).** Related: Pervaded; pervading.
+3. 释义,
+
+    遍布的  present or noticeable in every part of a thing or place
+
+4. 拓展
+
+    [widespread](javascript:void(0);) 遍布的
+
+    [universal](javascript:void(0);) 通用的，宇宙的
+
+    ruling 流行的
+
+    generalized 遍布的
+
+**Biannual** /baɪˈæn.ju.əl/ 一年两次的
+
+1. 助记,
+
+   bi+ann+ual
+
+   前缀bi-, 二. 词根ann, 年，见anniversary.
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   also bi-annual; "occurring every six months, twice a year," 1837; **see [bi-](https://www.etymonline.com/word/bi-?ref=etymonline_crossreference) + [annual](https://www.etymonline.com/word/annual?ref=etymonline_crossreference) (adj.). Distinguished in sense from [biennial](https://www.etymonline.com/word/biennial?ref=etymonline_crossreference),** but the distinction is etymologically arbitrary. Related:Biannually; bi-annually.
+
+3. 释义,
+
+   一年两次的 happening twice a year
+
+4. 拓展
+
+   =semiannual
+
+   biannual=bi+annual
+
+   semiannual=semi+annual
+
+
+
+**Pyramid** /ˈpɪr.ə.mɪd/ 使…成金字塔状
+
+1. 助记,
+
+   pyr+a+mid
+
+   pyr-火+e=fire,表示火，火葬堆材
+
+   来自希腊语pyramis,金字塔，来自埃及语pimar,金字塔。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English (in the geometrical sense): via Latin from Greek puramis, **puramid**-, of unknown ultimate origin.
+
+   **Etymology**
+
+   1550s (earlier in Latin form piramis, late 14c.), from French pyramide (Old French piramide "obelisk, stela," 12c.), from Latin pyramides, plural of pyramis "one of the pyramids of Egypt," from Greekpyramis (plural pyramides) "a pyramid," apparently an alteration of Egyptian pimar "pyramid."
+
+   Greek pyramis also meant "kind of cake of roasted wheat-grains preserved in honey," and in this sense is said to derive from pyros "wheat" on the model of sesamis. According to some old sources the Egyptian pyramids were so called from their resemblance to the form of the cake, but Beekes points out that "the form of the cake is actually unknown."
+
+   Financial sense is from 1911. Related: Pyramidal.
+
+3. 释义,
+
+   使…成金字塔状 a pile of things that has the shape of a pyramid
+
+4. 拓展
+
+   [advance](javascript:void(0);) 渐增；上涨
+
+   to go up 成金字塔状上涨
+
+**Janitorial** /dʒæn.ɪˈtɔː.ri.əl/ 管理的
+
+1. 助记,
+
+   jan+itor+ial
+
+   janus, Janus => janitor,门神雅努斯，看门人， janitorial 引申为管理的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century: from Latin, from **janua ‘door**’.
+
+   **Etymology**
+
+   1869, from [janitor](https://www.etymonline.com/word/janitor?ref=etymonline_crossreference) + [-ial](https://www.etymonline.com/word/-ial?ref=etymonline_crossreference).
+
+   1580s, "an usher in a school," later **"doorkeeper**" (1620s), from Latin ianitor "doorkeeper, porter," from ianua "door, entrance, gate," from ianus "arched passageway, arcade" (**see [Janus](https://www.etymonline.com/word/Janus?ref=etymonline_crossreference)) + agent suffix-tor. Meaning "caretaker of a building**, man employed to see that rooms are kept clean and in order" first recorded 1708. Fem. forms were janitress (1806), janitrix (1818).
+
+3. 释义,
+
+   管理的 relating to the job of being a janitor (= a person employed to look after a largebuilding)
+
+4. 拓展
+
+   January（一月）：双面门神雅努斯
+   在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。
+   古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。
+
+   **英语中表示“看门人”的单词Janitor也是源自Janus。**
+   Janus：['dʒeinəs] n.雅努斯，两面神
+   Janus-faced：伪善的，口是心非的，有双面孔的
+   January：['dʒænjʊ(ə)rɪ] n.一月
+
+**Visionary** /ˈvɪʒ.er.i/ 想象的
+
+1. 助记,
+
+   vis+ion+ary
+
+   vis-看，看见 +ion,表看得见的--视野、想象
+
+   +ary 表幻想的，想象的
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (denoting a supernatural apparition): **via Old French from Latin visio(n-), from videre ‘to see’.**
+
+   **Etymology**
+
+   "able to see visions," 1650s (earlier "perceived in a vision," 1640s), **from [vision](https://www.etymonline.com/word/vision?ref=etymonline_crossreference) + [-ary](https://www.etymonline.com/word/-ary?ref=etymonline_crossreference).** Meaning "impractical" is attested from 1727. The noun is attested from 1702, from the adjective; originally "one who indulges in impractical fantasies."
+
+3. 释义,
+
+   想象的 a person who has the ability to imagine how a country, society, industry, etc. willdevelop in the future and to plan in a suitable way
+
+4. 拓展
+
+   dreamy 梦想的
+
+   adream 做梦的
+
+   daydreamer 空想家
+
+   fancie 空想者  
+
+**Warrant**/ˈwɔːr.ənt/ 使...有正当理由
+
+1. 助记,
+
+   war+rant
+
+   war-ward-wer=to protect,表示保护、守卫
+
+   warrant <===> guarantee ( gu- <--->w- ).
+
+   war + r(花) + ant => warrant. 蚂蚁为保护蚂蚁窝四周的花儿而战是有正当理由的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the senses ‘protector’ and ‘safeguard’, also, as a verb, **‘keep safe from danger**’): from variants of Old French guarant (noun), guarantir (verb), of Germanic origin; compare with guarantee.
+
+   **Etymology**
+
+   c. 1200, "protector, defender," from Old North French warant "defender; surety, pledge; justifying evidence" (Old French garant), from Frankish *warand, **from Proto-Germanic *war- "to warn, guard, protect"** (source also of Old High German werento "guarantor," noun use of present participle ofweren "to authorize, warrant;" German gewähren "to grant"), from PIE root [*wer-](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference) (4) "to cover."
+
+   Sense evolved via notion of "permission from a superior which protects one from blame or responsibility" (early 14c.) to "document conveying authority" (1510s). A warrant officer in the military is one who holds office by warrant (as from a government department), rather than by commission (from a head of state).
+
+3. 释义,
+
+   使有正当理由 to make a particular activity necessary
+
+4. 拓展
+
+   n.根据；证明；正当理由；委任状
+
+   [authentication](javascript:void(0);) / [certification](javascript:void(0);) / [demonstration](javascript:void(0);) / [foundation](javascript:void(0);) / [proof](javascript:void(0);)
+
+   vt.保证；担保；批准；辩解
+
+   [assure](javascript:void(0);) / [undertake](javascript:void(0);) / [confirm](javascript:void(0);)
+
+   warranted](javascript:void(0);) 保证的；担保的
+
+   [warranty](javascript:void(0);) 保证；担保；授权；（正当）理由
+
+   [warrantee](javascript:void(0);) 被保证人；被担保人
+
+   [warranter](javascript:void(0);) 担保人
+
+   [warrantor](javascript:void(0);) 保证人；担保人
+
+   [warranted](javascript:void(0);) 批准（warrant的过去分词）；授权
+
+
+**Perpetual** /pɚˈpetʃ.u.əl/ 使持续
+
+1. 助记,
+
+   per+pet+ual
+
+   per-全部，完全，贯穿+ pet=seek,追寻、寻求，延伸为使之永久的，使之持续的
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French perpetuel, from Latin perpetualis, **from perpetuus ‘continuing throughout’**, from perpes, perpet- ‘continuous’.
+
+   **Etymology**
+
+   mid-14c., from Old French perpetuel "without end" (12c.) and directly from Latin perpetualis"universal," in Medieval Latin "permanent," from perpetuus "continuous, universal," from perpetis, genitive of Old Latin perpes "lasting," probably **from per "through" (from PIE root [*per-](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference) (1) "forward," hence "through") + root of petere "to seek, go to, aim at"** (from PIE root [*pet-](https://www.etymonline.com/word/*pet-?ref=etymonline_crossreference) "to rush, to fly"). Related: Perpetually. Perpetual motion is attested from 1590s.
+
+3. 释义,
+
+   使持续 continuing for ever in the same way
+
+4. 拓展
+
+   permanent
+
+    ceaseless
+
+   loud
+
+
+
+ **vulnerability** /ˌvʌl·nər·əˈbɪl·ət̬·i/ 易损性
+
+1. 助记,
+
+   vulner+ability
+
+   vulner=wound,表创伤 +ability表名词，能…性质，引申为弱点，易损性
+
+2. 词源,
+
+   **OED Origin**
+
+   Early 17th century: from late Latin vulnerabilis, from Latin vulnerare ‘to wound’, **from vulnus ‘wound’.**
+
+   **Etymology**
+
+   1767, noun from [vulnerable](https://www.etymonline.com/word/vulnerable?ref=etymonline_crossreference) (q.v.).
+
+   c. 1600, from Late Latin vulnerabilis "wounding," from Latin vulnerare "to wound, hurt, injure, maim," from vulnus (genitive vulneris) "wound," perhaps related to vellere "pluck, to tear" (see [svelte](https://www.etymonline.com/word/svelte?ref=etymonline_crossreference)), or from PIE *wele-nes-, from *wele- (2) "to strike, wound" (see [Valhalla](https://www.etymonline.com/word/Valhalla?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   易损性 the state of being vulnerable or exposed
+
+4. 拓展
+
+   n.易损性；弱点
+
+   [weakness](javascript:void(0);) 
+
+   failing
+
+
+**Ninja** /ˈnɪn.dʒə/ 忍者
+
+1. 助记,
+
+   spy
+
+2. 词源,
+
+   **OED Origin**
+
+   Japanese, literally ‘spy’.
+
+   **Etymology**
+
+3. 释义,
+
+   忍者、日本武士 a Japanese fighter, especially in the past, who moves and acts without beingseen and usually carries a short sword
+
+4. 拓展
+
+   [teenage mutant ninja turtle](javascript:void(0);)忍者神龟（美国动画电影）
+
+ **Politburo**  /ˈpɑː.lɪtˌbjʊr.oʊ/  政治局
+
+1. 助记,
+
+   polit+buro
+
+   来自polit-,政治，词源同polity,-byuro,局，办公室，词源同bureau.
+
+   来自俄罗斯语politbyuro,政治局.
+
+2. 词源,
+
+   **OED Origin**
+
+   From Russian politbyuro, **from polit(icheskoe) byuro ‘political bureau’.**
+
+   **Etymology**
+
+   "highest policy-making committee of the U.S.S.R.," 1927, from Russian politbyuro, contracted frompoliticheskoe byuro "**political bureau**."
+
+3. 释义,
+
+   （共产党执政国家的）政治局 the main government group in a Communist country, which makes all theimportant decisions
+
+4. 拓展
+
+   P politburo 政治局
+
+   politburo member政治局委员
+
+   the Politburo 政治局
+
+ **Orchestrate** /ˈɔːr.kə.streɪt/
+
+1. 助记,
+
+   ori-,orig-,ort- 
+   = rise, begin, 表示“升起，开始”，来自拉丁语。
+
+   orche*是同源词，基本含义是舞蹈。原始印欧语形式为*ergh。
+
+   来自orchestra,管弦乐，-ate,使。即编排管弦乐曲，引申词义组织，安排。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: from orchestra, perhaps suggested by French orchestrer.
+
+   **Etymology**
+
+   "to compose or arrange (music) for an orchestra," 1855, back-formation from [orchestration](https://www.etymonline.com/word/orchestration?ref=etymonline_crossreference). The figurative sense is attested from 1883. Related: Orchestrated; orchestrating.
+
+3. 释义,
+
+   为管弦乐队改编（或创作） to arrange or write a piece of music so that it can be played by an orchestra
+
+4. 拓展
+
+   orchestra（管弦乐队）：古希腊剧场中歌舞队所在位置
+   英语单词orchestra通常被译为“管弦乐队”，然而这个单词中既没有“管”、也没有“弦”，也没有“乐队”。实际上，它的本意不是表示一群人，而是表示这一群人所处的位置。它来自希腊语orkhestra，由orkheisthai（舞蹈）+tra（地点）组合而成，指的是古希腊剧场中歌舞队所在位置。在古罗马时期，该词指的是剧场前排为议员及其他高官保留的位置。后来，剧场从露天的变成了室内的，歌舞队变成了乐队，orchestra也随之变为表示剧场中乐队所在位置。直到18世纪后，该词才被用来表示在该位置演奏的乐队。由于在剧场中演出的一般是管弦乐队，所以中文译为“管弦乐队”。
+   orchestra：['ɔːkɪstrə] n.管弦乐队，乐队演奏处，剧场前排座位
+   orchestral：[ɔr'kɛstrəl] adj. 管弦乐的；管弦乐队的
+   orchestrate：['ɔrkɪstret] vt. 把…编成管弦乐曲；精心安排；把…协调地结合起来vi. 编管弦乐曲
+   orchestration：[,ɔkɛs'treʃən] n. 管弦乐编曲；和谐
 
 ## 14. Do What You Set Out to Do
 
+**Scribble** /ˈskrɪb.əl/ 乱涂乱写
+
+
+1. 助记,
+
+   scrib+b+le
+
+
+1. 助记,
+
+   scrib+b+le
+
+   scrib=write,写+b+le=反复写--乱写
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from medieval Latin scribillare, **diminutive of Latin scribere ‘write’**.
+
+   **Etymology**
+
+   mid-15c., from Medieval Latin scribillare, diminutive of Latin scribere **"to write"** (from PIE root[*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut"). Related: Scribbled; scribbling. The noun, **"hurried or careless writing,"** is 1570s, from the verb.
+
+3. 释义
+
+   乱涂乱写 to write or draw something quickly or carelessly
+
+4. 拓展
+
+   scrawl 潦草的写
+
+   scribbler 三流作家；小文人；潦草书写的人
+
+**Manuscript** /ˈmæn.jə.skrɪpt/ 手稿
+
+1. 助记,
+
+   manu+script
+
+   manu=hand,表示手+script=write,表示写，手写的稿件--手稿
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: from medieval Latin manuscriptus, **from manu ‘by hand’ + scriptus ‘written’ (past participle of scribere).**
+
+   **Etymology**
+
+   "document or book written by hand," 1590s (adj.), c. 1600 (n.), from Medieval Latin manuscriptum"document written by hand," from Latin manu scriptus **"written by hand,"** from manu, ablative ofmanus "hand" (from PIE root [*man-](https://www.etymonline.com/word/*man-?ref=etymonline_crossreference)(2) "hand") + scriptus (neuter scriptum), past participle ofscribere "to write" (from PIE root [*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut"). Abbreviation is MS, plural MSS.
+
+3. 释义
+
+   手稿 the original copy of a book or article before it is printed
+
+4. 拓展
+
+   scribe（写）：古代用铭刻的方式来写字 古代，在墨水发明之前，人们都是用铭刻的方式来写字的，即用尖刻之物在竹简、木板、泥版、蜡板等书写材料上刻画。所以在英语单词中，表示“写”的单词scribe及由此衍生的词根scribe-还含有“刻”的含义。如inscribe，既表示“题写”，也表示“铭记”。英语单词scribe来自拉丁语scribere，本意是“刻”。与它同源的单词有：script（脚本）、prescribe（开处方）、describe（描述）、manuscript（手稿）等。 而英语中表示“写”的更常用单词write来自古日耳曼语，本意是scratch（刮擦）。 scrib-/script：写，刻 scribe：[skraɪb] v.写，记，划n.抄写员，作家，划线器 script：[skrɪpt] n. 脚本；手迹；书写用的字母vt. 把…改编为剧本vi. 写电影脚本 inscribe：[ɪn'skraɪb] vt.题写，铭记，铭刻 inscription：n.题词，铭文，刻印 prescribe：[prɪ'skraɪb] vi. 规定；开药方vt. 规定；开处方 prescription：[prɪ'skrɪpʃən] n. 药方；指示adj. 凭处方方可购买的 describe： [dɪ'skraɪb] vt. 描述，形容；描绘 description：[dɪ'skrɪpʃən] n. 描述，描写；类型；说明书
+
+**Fraction** /ˈfræk.ʃən/ 小部分
+
+1. 助记,
+
+   fract+ion fract=break,表示打碎 ion-表名词，行为、动作、状态或过程，引申为打碎为一个个小小的部分。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from ecclesiastical Latin fractio(n-) ‘breaking (bread)’, from Latin frangere ‘to break’.
+
+   **Etymology**
+
+   late 14c., originally in the mathematical sense, from Anglo-French fraccioun (Old French fraccion, "a breaking," 12c., Modern French fraction) and directly from Late Latin fractionem (nominative fractio) "a breaking," especially into pieces, in Medieval Latin "a fragment, portion," noun of action from past participle stem of Latin frangere "to break (something) in pieces, shatter, fracture," from Proto-Italic*frang-, from a nasalized variant of PIE root [*bhreg-](https://www.etymonline.com/word/*bhreg-?ref=etymonline_crossreference) "to break." Meaning "a breaking or dividing" in English is from early 15c.; sense of "broken off piece, fragment," is from c. 1600.
+
+3. 释义
+
+   小部分 a number that results from dividing one whole number by another
+
+4. 拓展
+
+   score 分数
+
+   marks 标注
+
+   proportion 成比例的
+
+   portion 部分
+
+**Stumble** /ˈstʌm.bəl/ 蹒跚而行
+
+1. 助记,
+
+   来自stum,树桩-被树桩绊倒-踉跄-蹒跚而行
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (as a verb): from Old Norse, from the Germanic base of **stammer.**
+
+   **Etymology**
+
+   c. 1300, "to trip or miss one's footing" (physically or morally), probably from a Scandinavian source (compare dialectal Norwegian stumla, Swedish stambla "to stumble"), probably from a variant of the Proto-Germanic base *stam-, source of Old English stamerian "**to stammer**," German stumm, Dutchstom "dumb, silent." Possibly influenced in form by stumpen "to stumble," but the -b- may be purely euphonious. Meaning "to come (upon) by chance" is attested from 1550s. Related: Stumbled;stumbling. Stumbling-block first recorded 1526 (Tindale), used in Romans xiv.13, where usually it translates Greek skandalon.
+
+3. 释义
+
+   蹒跚而行 to walk in a way that does not seem controlled
+
+4. 拓展
+
+   hesitate / stand at 犹豫、踌躇
+
+   puzzle / baffle 困惑
+
+   trip 绊倒、蹒跚而行
 
 
 
+**Manuscript** /ˈmæn.jə.skrɪpt/ 手稿
+
+1. 助记,
+
+   manu+script
+
+   manu=hand,表示手+script=write,表示写，手写的稿件--手稿
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 16th century: from medieval Latin manuscriptus, **from manu ‘by hand’ + scriptus ‘written’ (past participle of scribere).**
+
+   **Etymology**
+
+   "document or book written by hand," 1590s (adj.), c. 1600 (n.), from Medieval Latin manuscriptum"document written by hand," from Latin manu scriptus **"written by hand,"** from manu, ablative ofmanus "hand" (from PIE root [*man-](https://www.etymonline.com/word/*man-?ref=etymonline_crossreference) (2) "hand") + scriptus (neuter scriptum), past participle ofscribere "to write" (from PIE root [*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut"). Abbreviation is MS, plural MSS.
+
+3. 释义
+
+   手稿 the original copy of a book or article before it is printed
+
+4. 拓展
+
+   scribe（写）：古代用铭刻的方式来写字
+   古代，在墨水发明之前，人们都是用铭刻的方式来写字的，即用尖刻之物在竹简、木板、泥版、蜡板等书写材料上刻画。所以在英语单词中，表示“写”的单词scribe及由此衍生的词根scribe-还含有“刻”的含义。如inscribe，既表示“题写”，也表示“铭记”。英语单词scribe来自拉丁语scribere，本意是“刻”。与它同源的单词有：script（脚本）、prescribe（开处方）、describe（描述）、manuscript（手稿）等。
+   而英语中表示“写”的更常用单词write来自古日耳曼语，本意是scratch（刮擦）。
+   scrib-/script：写，刻
+   scribe：[skraɪb] v.写，记，划n.抄写员，作家，划线器
+   script：[skrɪpt] n. 脚本；手迹；书写用的字母vt. 把…改编为剧本vi. 写电影脚本
+   inscribe：[ɪn'skraɪb] vt.题写，铭记，铭刻
+   inscription：n.题词，铭文，刻印
+   prescribe：[prɪ'skraɪb] vi. 规定；开药方vt. 规定；开处方
+   prescription：[prɪ'skrɪpʃən] n. 药方；指示adj. 凭处方方可购买的
+   describe： [dɪ'skraɪb] vt. 描述，形容；描绘
+   description：[dɪ'skrɪpʃən] n. 描述，描写；类型；说明书
+
+**Fraction** /ˈfræk.ʃən/ 小部分
+
+1. 助记,
+
+   fract+ion
+   fract=break,表示打碎 ion-表名词，行为、动作、状态或过程，引申为打碎为一个个小小的部分。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: via Old French from ecclesiastical Latin fractio(n-) ‘breaking (bread)’, from Latin frangere ‘to break’.
+
+   **Etymology**
+
+   late 14c., originally in the mathematical sense, from Anglo-French fraccioun (Old French fraccion, "a breaking," 12c., Modern French fraction) and directly from Late Latin fractionem (nominative fractio) "a breaking," especially into pieces, in Medieval Latin "a fragment, portion," noun of action from past participle stem of Latin frangere "to break (something) in pieces, shatter, fracture," from Proto-Italic*frang-, from a nasalized variant of PIE root [*bhreg-](https://www.etymonline.com/word/*bhreg-?ref=etymonline_crossreference) "to break." Meaning "a breaking or dividing" in English is from early 15c.; sense of "broken off piece, fragment," is from c. 1600.
+
+3. 释义
+
+   小部分 a number that results from dividing one whole number by another
+
+4. 拓展
+
+   [score](javascript:void(0);)  分数
+
+   marks 标注
+
+   proportion 成比例的
+
+   portion 部分
+
+**Stumble** /ˈstʌm.bəl/ 蹒跚而行
+
+1. 助记,
+
+   来自stum,树桩-被树桩绊倒-踉跄-蹒跚而行
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (as a verb): from Old Norse, from the Germanic base of **stammer.**
+
+   **Etymology**
+
+   c. 1300, "to trip or miss one's footing" (physically or morally), probably from a Scandinavian source (compare dialectal Norwegian stumla, Swedish stambla "to stumble"), probably from a variant of the Proto-Germanic base *stam-, source of Old English stamerian "**to stammer**," German stumm, Dutchstom "dumb, silent." Possibly influenced in form by stumpen "to stumble," but the -b- may be purely euphonious. Meaning "to come (upon) by chance" is attested from 1550s. Related: Stumbled;stumbling. Stumbling-block first recorded 1526 (Tindale), used in Romans xiv.13, where usually it translates Greek skandalon.
+
+3. 释义
+
+   蹒跚而行 to walk in a way that does not seem controlled
+
+4. 拓展
+
+   [hesitate](javascript:void(0);) / [stand at](javascript:void(0);) 犹豫、踌躇
+
+   [puzzle](javascript:void(0);) / [baffle](javascript:void(0);) 困惑
+
+   [trip](javascript:void(0);) 绊倒、蹒跚而行
+
+**Thorny** /ˈθɔːr.ni/ 棘手的
+
+1. 助记,
+
+   thorn+y
+
+   来自 thorn,刺，y-表形容词
+
+   引申词义多刺的，棘手的，麻烦的
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   Old English þornig; **see [thorn](https://www.etymonline.com/word/thorn?ref=etymonline_crossreference) + [-y](https://www.etymonline.com/word/-y?ref=etymonline_crossreference) (2).** Figurative sense is attested from mid-14c. Related:Thorniness. Similar formation in Dutch doornig, German dornig. The figurative image is widespread; Greek had akanthologos as a nickname for a quibbler, literally "thorn-gathering," and akanthobates, nickname for a grammarian (fem. akanthobatis).
+
+3. 释义
+
+   棘手的  A thorny problem or subject is difficult to deal with
+
+4. 拓展
+
+   adj.多刺的；痛苦的；令人苦恼的
+
+   [painful](javascript:void(0);) / [bitter](javascript:void(0);) / [hurt](javascript:void(0);)
+
+**Coordinate** /koʊˈɔːr.dən.eɪt/ 协调
+
+1. 助记,
+
+   co+ordin+ate
+
+   co-, 共同+ordin-顺序+ate表名词--共同顺序--协调一致
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 17th century (in the senses ‘of the same rank’ and ‘place in the same rank’): **from co- ‘together’ + Latin ordinare (from ordo ‘order’), on the pattern of subordinate.**
+
+   **Etymology**
+
+   1640s, "of the same order, belonging to the same rank or degree," from Medieval Latin coordinatus, past participle of coordinare "to set in order, arrange," from assimilated form of com "with, together" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + ordinatio "arrangement," **from ordo "row, rank, series, arrangement"** (see [order](https://www.etymonline.com/word/order?ref=etymonline_crossreference) (n.)). Meaning "involving coordination" is from 1769. Related: Coordinance.
+
+3. 释义
+
+   协调 also co-ordinate to make many different things work effectively as a whole
+
+4. 拓展
+
+   近义词
+
+   paratactic 并列的
+
+   tantamount 同等的
+
+   restructure 调整
+
+   sort 排序
+
+   concert 使协调
+
+**Frustrate** /ˈfrʌs.treɪt/ 灰心挫败
+
+1. 助记,
+
+   frus+trate
+
+   frus=fraud,欺骗，伤害,引申为使得灰心、挫败。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin frustrat- **‘disappointed’,** from the verb frustrare, from **frustra ‘in vain’**.
+
+   **Etymology**
+
+   mid-15c., from Latin frustratus, past participle of frustrari "to deceive, disappoint, make vain," fromfrustra (adv.) **"in vain, in error," related to fraus "injury, harm" (see [fraud](https://www.etymonline.com/word/fraud?ref=etymonline_crossreference))**. Related: [Frustrated](https://www.etymonline.com/word/Frustrated?ref=etymonline_crossreference);frustrating.
+
+3. 释义
+
+   灰心挫败 to make someone feel annoyed or less confident because they cannot achievewhat they want
+
+4. 拓展
+
+   近义词
+
+   defeat 击败
+
+   discomfit 挫败
+
+   founder失败
+
+   come to naught 失败
+
+   thwarted挫败的
+
+   unprofitable 无益的
 
 ## 15. Use Tools and Protocols to Shape How Work Is Done
 
+**Intellectual** /ˌɪn.t̬əlˈek.tʃu.əl/ 理智的
+
+1. 助记,
+
+   intellect+ual
+
+   intellect-智力出众+ual-的，智慧的，理智的
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin intellectualis, **from intellectus ‘understanding’**, from intellegere ‘understand’ (see intelligent).
+
+   **Etymology**
+
+   late 14c., "grasped by the understanding" (rather than by the senses), from Old French intellectuel(13c.) and directly from Latin intellectualis "relating to the understanding," from intellectus"discernment, understanding," noun use of past participle of intelligere "to understand, discern" (see[intelligence](https://www.etymonline.com/word/intelligence?ref=etymonline_crossreference)).
+
+   Sense of "characterized by a high degree of intellect" is from 1819. Meaning "**appealing to or engaging the mental powers**" is from 1834. Intellectual property "products of the intellect" is attested from 1845. Adjective formations in the sense "of or pertaining to the intellect" included intellective (early 15c.), intellectile (1670s).
+
+3. 释义
+
+   理智的 relating to your ability to think and understand things, especially complicatedideas
+
+4. 拓展
+
+   intelligence（智力）：辨识并从中选择的能力
+   在现代科学中，“智力”（intelligence）是一个很复杂的概念。它到底包含哪些能力，如何测量，如何培养，到现在一直充满争论。但古代西方人可没想得这么复杂，他们所说的intelligence很简单，就是辨识、区分事物从而做出正确选择的能力。英语单词intelligence来自拉丁语intelligere，由inter（在其中）+legere（选择）构成，字面意思就是“从中选择”。由此可见，intelligence的基本含义就是能帮助人辨识事物、做出明智选择和决策的东西。因此，intelligence还可以表示“情报”，因为情报可以帮助人们做出明智选择和决策。我们常说的“商业智能”（business intelligence）就很好地体现了intelligence的基本含义，它的实质就是通过对信息的分析处理，获取到某种intelligence，这种intelligence既可以理解为“情报”，也可以理解为“智能”或“智慧”。
+   单词intellect与intelligence同源，都可以表示“智力”，不同的是，intellect还可以用来表示“知识分子”。
+   intelligence：[ɪn'telɪdʒ(ə)ns] n.智力，理解力，智能，情报
+   intellect：['ɪntəlekt] n.智力，理解力，知识分子，智力高的人
+   intellectual：[,ɪntə'lɛktʃuəl] adj.智力的，聪明的，理智的n.知识分子，凭理智做事者
+
+**Behavioural** /bɪˈheɪ.vjɚ.əl/ 行为的
+
+1. 助记,
+
+   behave+iour+al
+
+   behave-行为规矩+iour-一个人拥有的动作+al--引申为举止，行为的。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from behave, on the pattern of demeanour, and influenced by obsolete haviour from have.
+
+   **Etymology**
+
+   1927, in psychology, from [behavior](https://www.etymonline.com/word/behavior?ref=etymonline_crossreference) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (1).
+
+   late 14c., "grasped by the understanding" (rather than by the senses), from Old French intellectuel(13c.) and directly from Latin intellectualis "relating to the understanding," from intellectus"discernment, understanding," noun use of past participle of intelligere "to understand, discern" (see[intelligence](https://www.etymonline.com/word/intelligence?ref=etymonline_crossreference)).
+
+   Sense of "characterized by a high degree of intellect" is from 1819. Meaning "appealing to or engaging the mental powers" is from 1834. Intellectual property "products of the intellect" is attested from 1845. Adjective formations in the sense "of or pertaining to the intellect" included intellective (early 15c.), 
+
+3. 释义
+
+   行为的 relating to behaviour
+
+4. 拓展
+
+   [behavioral science](javascript:void(0);)行为科学
+
+   [behavioral economics](javascript:void(0);)行为经济学（经济学的一个范畴，研究实际决策程序对最后作出决策的影响）
+
+   [behavioral intention](javascript:void(0);)行为意向；行为意图
+
+**Embed** /ɪmˈbed.ɪd/ 嵌入
+
+1. 助记,
+
+   em+bed
+
+   em-进入+bed(床、范围)--进入范围--安置，嵌入
+
+2. 词源,
+
+   **OED Origin**
+
+   **Etymology**
+
+   1778, "to lay in a bed (of surrounding matter)," **from [em-](https://www.etymonline.com/word/em-?ref=etymonline_crossreference) (1) + [bed](https://www.etymonline.com/word/bed?ref=etymonline_crossreference) (n.)**. Originally a geological term, in reference to fossils in rock; figurative sense is by 1835; meaning "place (a journalist) within a military unit at war" is from 2003 and the Iraq war. Related: Embedded; embedding.
+
+3. 释义
+
+   嵌入 fixed into the surface of something
+
+4. 拓展
+
+   rear 树立、裁种
+
+   bed 嵌入、裁种
+
+
+**Lieutenant** /luːˈten.ənt/ 中尉、助理
+
+1. 助记,
+
+   lieu+tenant
+
+   lieu-场所\代替+tenant-承租人、占用
+
+   来自古法语lieu tenant,替代，副职，引申词义代替，助理，副职官员，陆军中尉等。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Old French (**see lieu, tenant**).
+
+   **Etymology**
+
+   late 14c., "one who takes the place of another," from Old French lieu tenant "substitute, deputy," literally "place holder" (14c.), from lieu "**place" (see [lieu](https://www.etymonline.com/word/lieu?ref=etymonline_crossreference)) + tenant, present participle of tenir "to hold," from PIE root [*ten-](https://www.etymonline.com/word/*ten-?ref=etymonline_crossreference) "to stretch."** The notion is of a "substitute" for higher authority.
+
+   Specific military sense of "army officer next in rank to a captain and commanding the company in his absence" is from 1570s. Pronunciation with lef- is common in Britain, and spellings to reflect it date back to 14c., but the origin of this is a mystery (OED rejects suggestion that it comes from old confusion of -u- and -v-).
+
+3. 释义
+
+   助理 an assistant with power to act when his superior is absent
+
+4. 拓展
+
+   lieutenant（中尉）：代理指挥官职位的军官
+   英语单词lieutenant来自法语短语lieu tenant，由lieu（代替）和tenant（持有人）组成，字面意思就是“代替行使指挥权的人”，指的是在战场上当指挥官牺牲或受伤而无法指挥时，代替行使指挥权的人。16世纪70年代后用来表示中尉军衔，仅次于上尉（captain）。
+   lieutenant：[lef'tenənt] n.中尉，副官，助理人员
+   lieutenancy：[lef'tenənsɪ] n. 代理官员；中尉之军衔
+   tenant：['tɛnənt] n. 承租人；房客；佃户；居住者vt. 租借
+
+**Convert** /kənˈvɝːt/ 转换
+
+1. 助记,
+
+   con+vent
+
+   con-, 共同。-vert, 转，词源同versus, invert.共同转--转换、皈依。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English (in the sense ‘turn round, send in a different direction’): from Old French convertir, based on Latin convertere **‘turn about’, from con- ‘altogether’ + vertere ‘turn’**.
+
+   **Etymology**
+
+   1560s, "person whose faith has been changed from one religion to another," **from [convert](https://www.etymonline.com/word/convert?ref=etymonline_crossreference) (v.). Earlier was convers (early 14c.)**, from Old French converse (n.). General (non-religious) sense of "person converted from one opinion or practice to another" is from 1640s.
+
+3. 释义
+
+   转换 to (cause something or someone to) change in form or character
+
+4. 拓展
+
+   [transform](javascript:void(0);) 使转化
+
+   shift 转变
+
+   idolater 皈依者
+
+**Symbiosis** /ˌsɪm.baɪˈoʊ.sɪs/ 共栖
+
+1. 助记,
+
+   sym+bio+sis
+
+   sym-,一起，共同，-bio,生命，词源同 biology,生物学，-sis,表状态。引申为共生的，共栖。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late 19th century: modern Latin, from Greek sumbiōsis ‘a living together’, from sumbioun **‘live together’, from sumbios ‘companion’.**
+
+   **Etymology**
+
+   1876, as a biological term, "union for life of two different organisms based on mutually benefit," from Greek symbiosis "a living together," from symbioun **"live together,"** from symbios "(one) living together (with another), partner, companion, husband or wife," from assimilated form of syn-**"together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference)) + bios "life" (from PIE root [*gwei-](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) "to live").** Given a wider (non-biological) sense by 1921. An earlier sense of "communal or social life" is found in 1620s. A back-formed verbsymbiose is recorded from 1960.
+
+3. 释义
+
+   共生的 specialized biology  a relationship between two types of animal or plant in which each provides for the other the conditions necessary for its continued existence
+
+4. 拓展
+
+   [symbiotic](javascript:void(0);) [生态] 共生的；共栖的
 
 
 
