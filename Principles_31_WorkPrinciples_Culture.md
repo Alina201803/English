@@ -4265,8 +4265,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
-         etymology
-         1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+            etymology
+            1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
       3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
       4. 例句：.
          She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
@@ -4287,8 +4287,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1.    助记：dur-坚硬 + -able表形容词
 2.    词源：
-            etymology
-            late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+               etymology
+               late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
@@ -4335,9 +4335,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       ann- enn- = year 
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
-            etymology
-            also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-            late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+               etymology
+               also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+               late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
       3. 定义： occurring or payable twice each year 两年一次
       4. 例句：
          I have to make a biannual report next Monday
@@ -4504,6 +4504,83 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
    Never before has a summit had such a crowded agenda
    以前从来没有一次峰会的日程排得这么满。
 
+
+#### bureaucracy/bjʊəˈrɒkrəsi/
+
+1. 助记：
+    bureau-办公室 + cracy-统治
+   来自拉丁词burra, 羊毛，粗糙的布，桌布。代指办公室。词源同bur, 芒刺，形容布粗糙。
+2. 词源：
+   etymology
+   government by bureaus," especially "tyrannical officialdom," excessive multiplication of administrative bureaus and concentration of power in them, in reference to their tendency to interfere in private matters and be inefficient and inflexible, 1818, from French bureaucratie, coined by French economist Jean Claude Marie Vincent de Gournay (1712-1759) on model of democratie, aristocratie, from bureau "office," literally "desk" (see bureau) + Greek suffix -kratia denoting "power of" (see -cracy).
+3. 定义：Bureaucracy refers to all the rules and procedures followed by government departments and similar organizations, especially when you think that these are complicated and cause long delays.官僚主义
+4. 例句：.
+   People usually complain about having to deal with too much bureaucracy. 
+   人们经常抱怨不得不应付太多的官僚主义现象。
+5. 拓展：
+   bureau（局）：用来覆盖写字台的桌布
+   英语单词bureau来自法语，来自burel（糙羊毛布）。由于人们以前往往在写字台上铺上一层burel，因此这种桌布就被称为bureau。后来bureau被用来表示“办公桌”，再往后用来表示“办公室”，最后用来表示政府中的一个部门，即中文中的“局”或“处”。由它衍生的单词bureaucracy表示“官僚作风、官僚机构”。
+   bureau： ['bjʊərəʊ] n.局，处，办公室，办公桌
+   bureaucracy： [,bjʊ(ə)'rɒkrəsɪ] n.官僚作风，官僚机构，官僚政治
+   bureaucrat：['bjʊrəkræt] n. 官僚；官僚主义者
+   bureaucratic： [,bjʊrə'krætɪk] adj. 官僚的；官僚政治的
+
+#### sufficient/səˈfɪʃnt/
+
+1. 助记：
+   suffice【使足够，足以】 + -ent形容词后缀。
+   suf-在下面 + fic-做 + e → 在下面先做好 → 充足。
+   fice- = make, do, 表示“做，制作”，来自拉丁语。
+2. 词源:
+   etymology
+   early 14c., from Old French soficient "satisfactory," or directly from Latin sufficientem (nominative sufficiens) "adequate," present participle of sufficere "to supply as a substitute," from sub "up to" (see sub-) + combining form of facere "to make, to do" (from PIE root *dhe- "to set, put").
+3. 定义：If something is sufficient for a particular purpose, there is enough of it for the purpose.足够的 充足的
+4. 例句：The money to build the power station ought to have been sufficient. 
+   建设电站的资金本该足够了。
+
+#### rotate/rəʊˈteɪt/
+
+1. 助记：
+   rot-转 + -ate表形容词。rot- = wheel, 表示“轮子，转”。
+   -ate  表动词，“做，造成”
+   rotund  rot-转(圆) + und → 圆的 , 胖的
+2. 词源：
+   etymology
+   1550s, from Latin rotationem (nominative rotatio) "a turning about in a circle," noun of action from past participle stem of rotare "turn round, revolve, whirl about, roll," from PIE *ret- "to run, roll"
+3. 定义：
+   1. When something rotates or when you rotate it, it turns with a circular movement旋转 转动
+   2. If people or things rotate, or if someone rotates them, they take it in turns to do a particular job or serve a particular purpose.轮流;（使）轮换
+4. 例句：
+   1. Rotate the head clockwise and counterclockwise按顺时针方向转动头部，然后再逆时针旋转。
+   2. he members of the club can rotate and one person can do all the preparation for the evening... 
+      俱乐部的成员可以轮流工作，而且一个人就能做好晚上的所有准备工作。
+
+
+#### detect/dɪˈtekt/
+
+1. 助记：
+   de-不，非，使相反 + tect-覆盖，即揭开覆盖，查明。
+   tect- = cover, 表示“盖上”。
+   举例：protect   pro-在前面 + tect-盖 → 在前面盖上 → 保护。
+2. 词源：
+   etymology
+   early 15c., from Latin detectus, past participle of detegere "uncover, expose," figuratively "discover, reveal, disclose," from de- "un-, off" (see de-) + tegere "to cover," from PIE root *(s)teg- "to cover." Related: Detected; detecting.
+3. 定义：To detect something means to find it or discover that it is present somewhere by using equipment or making an investigation 发现 查出 测出
+4. 例句：We are trying to detect and understand how the climates change. 
+   我们正努力探寻并理解气候是如何变化的。
+
+#### allocation/ˌæləˈkeɪʃn/
+
+1. 助记：
+   allocate 分配 + -ion表名词 
+   al-一再 + loc-地方 + -ate表动词 → 不断送给地方 → 分配[东西]。
+2. 词源：
+   etymology
+   mid-15c., "authorization," from Middle French allocacion, from Medieval Latin allocationem (nominative allocatio), noun of action from past participle stem of allocare "allocate, allot," from assimilated form of Latin ad "to" (see ad-) + locare "to place," from locus "a place" (see locus).
+3. 定义：The allocation of something is the decision that it should be given to a particular person or used for a particular purpose. 分配  分派
+4. 例句：
+   His sons quarrelled bitterly over the allocation of family resources... 
+   他的儿子们为家产如何分配而吵得很凶。
 
 ## 12. Diagnose Problems to Get at Their Root Causes
 
