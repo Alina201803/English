@@ -4265,8 +4265,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
-            etymology
-            1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+               etymology
+               1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
       3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
       4. 例句：.
          She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
@@ -4287,8 +4287,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1.    助记：dur-坚硬 + -able表形容词
 2.    词源：
-               etymology
-               late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                  etymology
+                  late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
@@ -4335,9 +4335,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       ann- enn- = year 
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
-               etymology
-               also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-               late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                  etymology
+                  also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                  late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
       3. 定义： occurring or payable twice each year 两年一次
       4. 例句：
          I have to make a biannual report next Monday
@@ -4581,6 +4581,96 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
 4. 例句：
    His sons quarrelled bitterly over the allocation of family resources... 
    他的儿子们为家产如何分配而吵得很凶。
+
+vulnerability/ˌvʌlnərə'bɪlətɪ/
+
+1. 助记：vulner-创伤 + -ability名词后缀
+   vulner- = wound, 表示“创伤”。
+2. 词源：
+   etymology
+   c. 1600, from Late Latin vulnerabilis "wounding," from Latin vulnerare "to wound, hurt, injure, maim," from vulnus (genitive vulneris) "wound," perhaps related to vellere "pluck, to tear" (see svelte), or from PIE *wele-nes-, from *wele- (2) "to strike, wound" (see Valhalla).
+3. 定义：
+   1. Someone who is vulnerable is weak and without protection, with the result that they are easily hurt physically or emotionally.脆弱的;易受伤害的
+   2. If a person, animal, or plant is vulnerable to a disease, they are more likely to get it than other people, animals, or plants. 易感染（某种疾病）的；易患病的
+4. 例句：
+   His vulnerability makes him even more lovable
+   他的脆弱反倒让他更加讨人喜欢
+
+audit/ˈɔ:dɪt/
+
+1. 助记：aud-听 + it → 旁听。坐在旁边听 引申 查账审计
+   audi-,audit- = hear, 表示“听”，来源于拉丁语。
+   Audiphone audi-听 + phone 助听器
+   audient aud-听 + it → 旁听。听众
+2. 词源：
+   etymology
+   early 15c., "official examination of accounts," from Latin auditus "a hearing, a listening," past participle of audire "to hear" (from PIE root *au- "to perceive"). Official examination of accounts originally was an oral procedure. Also formerly used in a sense "official audience, judicial hearing or examination" (1590s).
+3. 定义：
+   1. When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly.审计，查账 v.
+   2. an inspection of the accounting procedures and records by a trained accountant or CPA审计
+4. 例句：Each year they audit our accounts and certify them as being true and fair.他们每年对我们进行账务审核，以确保其真实无误。
+
+consultant/kənˈsʌltənt/
+
+1. 助记：
+   consult【协商】 + -ant表名词
+   con-强调 + sult-=sul-带来，召集，即召集到一起协商事务。
+2. 词源：
+   etymology
+   1690s, "person who consults an oracle," from consult + -ant. In medicine, "physician called in by the attending physician to give consultation in a case," by 1872 (perhaps from French, where it was in use by 1867); general meaning "one qualified to give professional advice" is first attested 1893 in a Sherlock Holmes story. Related: Consultancy (1955).
+3. 定义：A consultant is a person who gives expert advice to a person or organization on a particular subject.顾问
+4. 例句：
+   He set up shop as an independent PR consultant
+   他自己开公司，做起了独立公共关系顾问。
+5. 拓展：consul（领事）：古罗马时期的共同执政官
+   英语单词consul来自拉丁语，原本指的是古罗马时期的共同执政官，人数一般为两名。关于consul的拼写有两种解释，一种认为来自consulere（to take counsel，咨询），缘自执政官需要向元老院征求意见；另一种解释认为consul由con+sal/sell/sedl构成，表示“坐在一起”，缘自执政官数量一般为两人或以上，需彼此协调，共同执政。
+   历史上，除古罗马以外，还有一些时期，在一些国家曾经出现以consul（执政官）作为国家元首的情况，如拿破仑建立的法兰西共和国就以三名consul共同执政，但拿破仑作为“第一执政”独揽大权。
+   中世纪后期，国际商贸日益兴隆。在同一个地方经商的外国商人为了协调解决彼此的商业争议，自行组织起来，推举一位或多位人士担任仲裁人，负责仲裁彼此的商务争议。这种仲裁人也被称为consul，中文译为“领事”。之所以称为consul，是因为他的产生和职责和古代执政官一样，都是由众人推选出的，负责仲裁。后来，领事变成了由政府派遣，但其称谓consul一直没变。
+   英语单词consult（咨询）的词源与consul相同，本意就是“商量、征求意见”。
+   consul： ['kɒns(ə)l] n.领事，（古罗马）执政官
+   consular： ['kɒnsjʊlə] adj.领事的
+   consulate： ['kɒnsjʊlət] n.领事，领事馆，领事职位，领事任期
+   consult： [kən'sʌlt] vt. 查阅；商量；向…请教vi. 请教；商议；当顾问
+   consultant： [kən'sʌltənt] n. 顾问；咨询者；会诊医生
+   consultation：[,kɑnsl'teʃən] n. 咨询；磋商；会诊；讨论会
+   consultative： [kən'sʌltətɪv] adj. 咨询的
+
+augment/ɔ:gˈment/
+
+1. 助记：aug- = increase, 表示“增加”，来源于拉丁语。auth-引申为产生，创造。
+   aug-增加 + -ment表名词。
+2. 词源：
+   etymology
+   late 14c., "become more severe;" c. 1400, "to make larger; become larger," from Old French augmenter "increase, enhance" (14c.), from Late Latin augmentare "to increase," from Latin augmentum "an increase, growth," from augere "to increase, make big, enlarge, enrich," from PIE root *aug- (1) "to increase." Related: Augmented; augmenting. As a noun from early 15c.
+3. 定义：To augment something means to make it larger, stronger, or more effective by adding something to it.增加；增大
+4. 例句：.
+   They hit upon another idea to augment their income
+   他们又想出一个增加收入的办法。
+5. 拓展：auction（拍卖）：古罗马竞拍女奴的做法
+   拍卖源于古罗马，最早用于拍卖女奴。当时还没有拍卖槌，以鞭子抽地三下作为成交的标志。当拍卖年轻貌美的女奴时，竞拍场面往往火爆异常。竞拍人激动得青筋暴起，眼珠发红，挥舞着胳臂竞相加价。
+   英语单词auction一词就来源于拍卖女奴时的这种竞相加价行为。该词来自拉丁语auctionem，表示“加价”。auctionem来自augere（增加）。英语中表示“增加”的词根aug-就源于此。
+   aug-/auct：增加
+   auction： ['ɔːkʃ(ə)n] n.v.拍卖，竞买
+   auctioneer： [ɔːkʃə'nɪə] n.拍卖商vt.拍卖
+   augment： [ɔːg'ment] n.v.增大，增加
+   augmentation：[,ɔgmɛn'teʃən] n. 增加，增大；增加物
+
+descend/dɪˈsend/
+
+1. 助记：de-向下  + scend-爬 → 向下爬  下降
+   scend-爬
+   transcend trans-超过 + scend → 爬过去 → 超越。
+   ascent a- + scent-爬 → 往上爬 → 上升
+2. 词源：
+   etymology
+   c. 1300, from Old French descendre (10c.) "descend, dismount; fall into; originate in," from Latin descendere "come down, descend, sink," from de- "down" (see de-) + scandere "to climb," from PIE root *skand- "jump" (see scan (v.)). Sense of "originate" is late 14c. in English. Related: Descended; descending.
+3. 定义：
+   1. If you descend or if you descend a staircase, you move downwards from a higher to a lower level.下来;下降;走下
+   2. When a mood or atmosphere descends on a place or on the people there, it affects them by spreading among them. (情绪、气氛等)降临，笼罩
+4. 例句：
+   As you descend, suddenly you see at last the hidden waterfall. 一直往下走，最终你会突然看到那条隐秘的瀑布。
+   She's got too much dignity to descend to writing anonymous letters.她是个自尊心很强的人，绝不会自贬身份去写匿名信。
+
 
 ## 12. Diagnose Problems to Get at Their Root Causes
 
