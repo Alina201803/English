@@ -4265,8 +4265,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
-               etymology
-               1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+                  etymology
+                  1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
       3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
       4. 例句：.
          She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
@@ -4289,11 +4289,11 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 2.    词源：
 
-                  etymology
-                  late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
-
-              etymology
-              late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                     etymology
+                     late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+          
+                 etymology
+                 late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
 
       3. 定义：existing for a long time持久的 耐用的
 
@@ -4344,9 +4344,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       ann- enn- = year 
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
-                  etymology
-                  also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-                  late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                     etymology
+                     also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                     late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
       3. 定义： occurring or payable twice each year 两年一次
       4. 例句：
          I have to make a biannual report next Monday
@@ -5375,6 +5375,103 @@ descend/dɪˈsend/
    thwarted挫败的
 
    unprofitable 无益的
+
+#### irony/ˈaɪrən/
+
+1. 助记：
+   iron- = speak, 表示“说”。和verb同源。  iron-第二个意思为 
+   -y 表名词，加在形容词或以r结尾的单词后。
+2. 词源：
+   etymology
+   "figure of speech in which the intended meaning is the opposite of the literal meaning" (usually covert sarcasm under a serious or friendly pretense), c. 1500, from Latin ironia, from Greek eironeia "dissimulation, assumed ignorance," from eiron "dissembler," perhaps related to eirein "to speak," from PIE *wer-yo-, suffixed form of root *were- (3) "to speak" (see verb). Used in Greek of affected ignorance, especially that of Socrates, as a method of exposing an antagonist's ignorance by pretending to modestly seek information or instruction from him. Thus sometimes in English in the sense "simulated ignorance."
+3. 定义：Irony is a subtle form of humour which involves saying things that you do not mean.反语;冷嘲
+4. 例句：
+   There is a delicious irony in all this. 
+   这一切中包含了一种绝妙的讽刺。
+   The phrase is loaded with irony. 
+   此语满含讽刺意味。
+5. 拓展：来自拉丁语 ironia,来自希腊语 eiron,装糊涂，假装无知，可能来自 eirein,说，言语，词源同verb,verbal.主要用于古希腊哲学家苏格拉底的哲学思想和辩证手法，苏格拉底在与人们辩论的时候，常常先承认自己的无知和对方观点的正确，然后通过举例来引起对方的思考并最终让对方承认自己的错误。由于这种假装无知的辩证手法，引申词义反讽，讽刺。
+
+
+#### relentless/rɪˈlentləs/
+
+1. 助记：re-一再 + lent-松 → 一再松开。
+              less 表形容词，“无…的，不…的”，和单词loss同源。
+               引申为 不懈的  不间断的 未减轻的 
+2. 词源：
+   etymology
+   1590s, from relent + -less. Related: Relentlessly; relentlessness.
+   late 14c., "to melt, soften, dissolve," from re- + Latin lentus "slow, viscous, supple" (see lithe), perhaps on model of Old French rallentir. Sense of "become less harsh or cruel" first recorded 1520s. The notion probably is of a hard heart melting with pity. Related: Relented; relenting.
+3. 定义：
+   1. Something bad that is relentless never stops or never becomes less intense. 不停的;不懈的;不间断的；未减轻的
+   2. Someone who is relentless is determined to do something and refuses to give up, even if what they are doing is unpleasant or cruel. 坚韧的;不屈不挠的
+4. 例句：
+   The pressure now was relentless. 
+   压力现在没完没了。
+   Relentless in his pursuit of quality, his technical ability was remarkable...对质量孜孜不倦的追求使他的技能出类拔萃。
+
+#### glamour/ˈglæmə(r)/
+
+1. 助记：来自grammar的拼写变体，来自grammar的古义，神秘学。引申义着迷，魅惑，魅力。
+2. 词源：
+   etymology
+   1720, Scottish, "magic, enchantment" (especially in phrase to cast the glamor), a variant of Scottish gramarye "magic, enchantment, spell," said to be an alteration of English grammar (q.v.) in a specialized use of that word's medieval sense of "any sort of scholarship, especially occult learning," the latter sense attested from c. 1500 in English but said to have been more common in Medieval Latin. Popularized in English by the writings of Sir Walter Scott (1771-1832). Sense of "magical beauty, alluring charm" first recorded 1840. As that quality of attractiveness especially associated with Hollywood, high-fashion, celebrity, etc., by 1939.
+3. 定义：Glamour is the quality of being more attractive, exciting, or interesting than ordinary people or things.魅力；吸引力；诱惑力
+4. 例句：
+   1. She is a perfect incarnation of glamour她是魅力的完美化身。
+   2. hopeful young actors and actresses dazzled by the glamour of Hollywood 
+      为好莱坞的魅力神魂颠倒、怀抱希望的年轻演员
+5. 拓展：glamour（魔力）：充满魔力的拉丁语法
+   英语单词glamour（魔力）与grammar（语法）有很大关系，拥有相同的词源。在中世纪，大部分欧洲人都不识字，只有少数僧侣才会读写拉丁语。因此，普通百姓对这些能读书写字的僧侣们抱有一种敬畏之心，将他们当初掌握了神奇魔力的术士，将他们所使用的拉丁语言文字当成魔咒。
+   在拉丁语中，表示“语法”的单词是grammaria，英语单词grammar就来源于此。由于不识字的普通百姓将拉丁语看做是一种魔咒，因此原本表示“语法、文法”的单词grammaria自然就衍生出“魔力、魔法”的含义，并因此产生了另外一个单词gramary/gramarye，表示魔术、魔法。到了苏格兰人的嘴中，gramary被说成了glamer、glamor或glamour，最后又回到英语中，变成了英语单词glamour，表示“魔力、魅力”。
+   grammar：['græmə] n.语法，文法，语法书
+   glamour：['glæmə] n.魔力，魅力vt.迷惑，迷住
+   gramary：['græməri] n.魔术，魔法
+
+#### fraction/ˈfrækʃn/
+
+1. 助记: fract-折断 + -ion表名词  一小部分 些微 片段 碎片；分数
+   fric-frag-fract- = break, , 表示“打碎”，来源于拉丁语，最终来源于原始印欧词根*bhreg，表示打碎、打破。附:根据格林定律原始印欧语[bh]对应拉丁语[f],对应日耳曼语(英语)b。
+   举例：fracture fract-折断 + -ure名词后缀 → 断的状态 → 骨折。
+   fragment frag-折断 + -ment表名词. 即破开的部分，碎片。
+2. 词源：
+   etymology
+   late 14c., originally in the mathematical sense, from Anglo-French fraccioun (Old French fraccion, "a breaking," 12c., Modern French fraction) and directly from Late Latin fractionem (nominative fractio) "a breaking," especially into pieces, in Medieval Latin "a fragment, portion," noun of action from past participle stem of Latin frangere "to break (something) in pieces, shatter, fracture," from Proto-Italic *frang-, from a nasalized variant of PIE root *bhreg- "to break." Meaning "a breaking or dividing" in English is from early 15c.; sense of "broken off piece, fragment," is from c. 1600.
+3. 定义：
+   1. A fraction of something is a tiny amount or proportion of it.碎片 
+   2. A fraction is a number that can be expressed as a proportion of two whole numbers. For example, ½ and ⅓ are both fractions.分数
+4. 例句：.
+   1. If a stranger stops you, just wind the window down a fraction. 
+      如果有陌生人拦你的车，把车窗摇下一点点就行。
+   2. The crop represents a tiny fraction of U.S. production. 
+      农作物仅占美国出产物极小的一部分。
+5. 拓展：suffrage（选举权）：通过叫喊声或碎瓦片来表决
+   英语单词suffrage来自拉丁语suffragium（投票、投票权），该词由sub（下面）+fragor（碰撞、叫喊、喧闹）构成，意思是在底下大声喊叫，通过声音来表示赞同，就像我们现在举手表示赞同一样。还有一种说法认为，fragor表示碎瓦片，意思是用碎瓦片来进行投票。不管是叫喊声还是碎瓦片，fragor都与frangere（破碎）有关，而frangere正是英语词根frag-（破碎）的词源，含有词根frag-的单词有：fragment碎片、fragile易碎的、fraction分数等。
+   该词进入英语后，最初表示“投票”。在美国1787年的宪法中，这个单词首次用来表示“选举权”。
+   frag-：破碎
+   suffrage：['sʌfrɪdʒ] n.选举权，投票，参政权
+   suffragette：[,sʌfrə'dʒet] n.支持妇女选举权的妇女
+   fragment： ['fræɡmənt] n. 碎片；片断或不完整部分vt. 使成碎片vi. 破碎或裂开
+   fragile：['frædʒəl] adj. 脆的；易碎的
+   fraction：['frækʃən] n. 分数；部分；小部分；稍微
+
+#### mundane/mʌnˈdeɪn/
+
+1. 助记：来自mundus , 宇宙，世界，秩序，整洁。引申词义单调的，平凡的 寻常的 平淡的
+2. 词源：
+   etymology
+   mid-15c., "of this world," from Old French mondain "of this world, worldly, earthly, secular;" also "pure, clean; noble, generous" (12c.), from Late Latin mundanus "belonging to the world" (as distinct from the Church), in classical Latin "a citizen of the world, cosmopolite," from mundus "universe, world," literally "clean, elegant"; used as a translation of Greek kosmos (see cosmos) in its Pythagorean sense of "the physical universe" (the original sense of the Greek word was "orderly arrangement").
+3. 定义：Something that is mundane is very ordinary and not at all interesting or unusual.平凡的;单调的
+4. 例句：
+   Be willing to do even mundane tasks. 
+   即使平凡的工作也乐意承担。
+   .the mundane realities of life. 
+   平淡的现实生活
+   Her London life was sedate, almost mundane. 
+   她在伦敦的生活平淡无奇，几乎有些枯燥。
+
+
+
 
 ## 15. Use Tools and Protocols to Shape How Work Is Done
 
