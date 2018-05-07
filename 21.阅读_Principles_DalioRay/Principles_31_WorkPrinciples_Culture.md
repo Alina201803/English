@@ -3212,10 +3212,10 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 ## 11. Perceive and Don’t Tolerate Problems
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
 
 **Locomotive** /ˌloʊ.kəˈmoʊ.t̬ɪv/ 火车头         
-=======
+
 
 #### trajectory/trəˈdʒek.tər.i/
 
@@ -3312,12 +3312,15 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    "a number of symptoms occurring together," 1540s, from medical Latin, from Greek syndrome "concurrence of symptoms, concourse of people," from syndromos "place where several roads meet," literally "a running together," from syn- "with" (see syn-) + dromos "a running, course" (see dromedary). Psychological sense is from 1955.
 3. 定义：a combination of medical problems that shows the existence of a particular disease or mental condition
    并发症
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
 #### deviation/ˌdiːviˈeɪʃən/ 
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
-=======
+
+
+#### deviation/ˌdiːviˈeɪʃən/ 
+
+
 1. 助记：
    de-偏离 + via-道路 + -ate表动词 → 偏离道路 → 越轨。
    vi- = way, 表示“道路”。weigh原指“承重、运输”。
@@ -3331,7 +3334,6 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 1. 助记,
 
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
    loco+mov+ive
 
    loco-地方+mov-移动的+引申为移动地方，火车头、机车头
@@ -3389,7 +3391,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    同义词
 
    crack
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
 
    split
 
@@ -3433,7 +3435,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
    de- "off"偏离 + via "way" 道路=> devi- "turn aside, off the way" + -ation => deviation.
 
    => turn out of the way.偏离道理，越轨，偏差
-=======
+
 
    split
 
@@ -3562,15 +3564,15 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 
 
 
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
 
 2. 词源,
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
    **OED Origin**
 
    Late Middle English: via French from medieval Latin deviatio(n-), from Latin deviare (see deviate).
-=======
+
+
 **gravitate**/ˈɡræv·ɪˌteɪt/
 
 1. 助记：grave【重】 + itale → 变重
@@ -3607,11 +3609,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    1630s (n.) "something required beforehand," 1650s (adj.), "required beforehand," both from pre- + requisite.
    mid-15c., from Latin requisitus, past participle of requirere (see require). As a noun from c. 1600.
 3. 定义：something that must exist or happen before something else can exist or happen先决条件，前提，必要条件
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
    **Etymology**
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
    1640s, noun of action from [deviate](https://www.etymonline.com/word/deviate?ref=etymonline_crossreference) (v.). Statistical sense is from 1858. Related: Deviational.
 
    1630s, from Late Latin deviatus, past participle of deviare "to turn aside, turn out of the way," from Latin phrase de via, **from de "off" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + via "way" (see [via](https://www.etymonline.com/word/via?ref=etymonline_crossreference)).** Related: Deviated; deviating. The noun meaning "sexual pervert" is attested from 1912.
@@ -3632,8 +3634,8 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 1. 助记,
 
    re+cipe
-=======
-## 
+
+
 #### monitior/ˈmɒnɪtə(r)/
 
 1. 助记：
@@ -3708,25 +3710,29 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 3. 定义：cause to move forward with force推进; 推动
 
 **Thorough** /ˈθɝː.ə/ 彻底的
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
    re-,向后，往回，-cip,抓住，词源同 receive,participate.引申词义食谱，秘诀。
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
    de- "off"偏离 + via "way" 道路=> devi- "turn aside, off the way" + -ation => deviation.
 
    => turn out of the way.偏离道理，越轨，偏差
-=======
+
    through
 
    来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
+
+1. 助记,
+
+   through
+
+   来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
 
 2. 词源,
 
    **OED Origin**
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
    Late Middle English: from Latin, literally ‘receive!’ (first used as an instruction in medical prescriptions), imperative of recipere.
 
    **Etymology**
@@ -3740,7 +3746,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 4. 拓展
 
    secret
-=======
+
    Old English thuruh, **alteration of thurh ‘through’**. Original use was as an adverb and preposition, in senses of through. The adjective dates from the late 15th century, when it also had the sense ‘that goes or extends through something’, surviving in thoroughfare.
 
    **Etymology**
@@ -3756,11 +3762,10 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    complete 彻底的
 
    radical 根本的
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
    tips
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
 **Thorough** /ˈθɝː.ə/ 彻底的
 
 1. 助记,
@@ -3768,7 +3773,9 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    through
 
    来自 through 拼写变体或表强调，引申词义彻底的，完全的等。
-=======
+
+
+
 **Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1. 助记,
@@ -3776,13 +3783,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    pin+point
 
    pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
 
 2. 词源,
 
    **OED Origin**
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
    Old English thuruh, **alteration of thurh ‘through’**. Original use was as an adverb and preposition, in senses of through. The adjective dates from the late 15th century, when it also had the sense ‘that goes or extends through something’, surviving in thoroughfare.
 
    **Etymology**
@@ -3798,7 +3803,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    complete 彻底的
 
    radical 根本的
-=======
+
    Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
 
    **Etymology**
@@ -3816,11 +3821,10 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
 
    adj.精确的；详尽的
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
 
    [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
 **Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1. 助记,
@@ -3828,7 +3832,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    pin+point
 
    pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
-=======
+
+
+   [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
+
+
    n.针尖；精确位置；极小之物
 
    [needlepoint](javascript:void(0);) / [fingerling](javascript:void(0);)
@@ -3840,13 +3848,13 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    gobble+degook
 
    来自1944年美国德克萨斯州国会议员Maury Maverick杜撰的一个词，模仿公鸡叫的声音来讽刺当时过于冗长的官样文章。同时，值得注意的是，他本人是maverick这个词的原创者Maverick的孙子。
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
 2. 词源,
 
    **OED Origin**
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
    Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
 
    **Etymology**
@@ -3866,7 +3874,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    adj.精确的；详尽的
 
    [accurate](javascript:void(0);) / [precise](javascript:void(0);) / [mathematical](javascript:void(0);) / [strict](javascript:void(0);) / [rigid](javascript:void(0);)
-=======
+
    1940s (originally US): probably imitating a **turkey's gobble**.
 
    **Etymology**
@@ -3918,11 +3926,10 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 ## 12. Diagnose Problems to Get at Their Root Causes
 
 **Anchor** /ˈæŋ.kɚ/ 锚
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
    n.针尖；精确位置；极小之物
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
    [needlepoint](javascript:void(0);) / [fingerling](javascript:void(0);)
 
 **Gobbledegook** /ˈɡɑː.bəl.di.ɡuːk/ 官样文章
@@ -3932,20 +3939,23 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    gobble+degook
 
    来自1944年美国德克萨斯州国会议员Maury Maverick杜撰的一个词，模仿公鸡叫的声音来讽刺当时过于冗长的官样文章。同时，值得注意的是，他本人是maverick这个词的原创者Maverick的孙子。
-=======
+
+
+1. 助记,
+
    同ankle, 弯钩，脚踝，锚。
 
    anc-,ang-,ank,-unc- 
    这组词根都源自原始印欧语*ang-/*ank- ="to bend"表示弯或钩状.
 
    在医学词汇中：anchylo-, ancylo-特指“弯曲、粘连”.
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
 2. 词源,
 
    **OED Origin**
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
    1940s (originally US): probably imitating a **turkey's gobble**.
 
    **Etymology**
@@ -3966,7 +3976,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 1. 助记,
 
    professional (n.) 的缩写。作为形容词最初记录于1915 (in golfing's pro shop)。
-=======
+
    Old English ancor, ancra, via Latin from Greek ankura; reinforced in Middle English by Old French ancre. The current form is from anchora, an erroneous Latin spelling. The verb (from Old French ancrer) dates from Middle English.
 
    **Etymology**
@@ -4004,13 +4014,13 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    pit+fall
 
    pit,深坑，fall,掉落。掉落深坑，引申词义陷阱。
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
 2. 词源,
 
    **OED Origin**
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
    Late Middle English (as a noun): from Latin, literally ‘for, on behalf of’.
 
    **Etymology**
@@ -4032,7 +4042,7 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
    viol+ate
 
    viol-暴力,野蛮,ate-造成--违背\违反
-=======
+
    **Etymology**
 
    c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
@@ -4061,13 +4071,13 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    pin+point
 
    pin,针，point,点。=> alsopin-point, "point of a pin"比喻像针一样精细的指出
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
 2. 词源,
 
    **OED Origin**
 
-<<<<<<< HEAD:Principles_31_WorkPrinciples_Culture.md
+
    Late Middle English: from Latin violat- ‘treated violently’, from the verb violare.
 
    **Etymology**
@@ -4082,7 +4092,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
    act against
 
-=======
+
    Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun.
 
    **Etymology**
@@ -4098,7 +4108,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    vt.查明；精确地找到；准确描述
 
    [assure oneself](javascript:void(0);) / [ascertain](javascript:void(0);)
->>>>>>> upstream/master:21.阅读_Principles_DalioRay/Principles_31_WorkPrinciples_Culture.md
+
 
    adj.精确的；详尽的
 
@@ -4509,8 +4519,13 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
+
             etymology
             1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+
+               etymology
+               1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+
       3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
       4. 例句：.
          She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
@@ -4530,6 +4545,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
    #### durable/ˈdjʊərəbl/
 
 1.    助记：dur-坚硬 + -able表形容词
+
 2.    词源：
                etymology
                late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
@@ -4539,6 +4555,25 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
       #### pervasive/pəˈveɪsɪv/
     
+
+
+2.    词源：
+
+                  etymology
+                  late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+
+              etymology
+              late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+
+      3. 定义：existing for a long time持久的 耐用的
+
+      4. 例句：negotiations for a durable peace为持久和平而进行的谈判
+
+       ​
+
+
+      #### pervasive/pəˈveɪsɪv/
+
       1. 助记：per-全部 + vas-走 + -ive 遍布的 弥漫的 
          vas- vad- = go
          pervade v.per-全部 + vad-走 + e走 → 全部走遍 → 蔓延。
@@ -4552,6 +4587,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       4. 例句：
          She lives with a pervasive sense of guilt.
          她生活在深深的愧疚之中。
+
 
 #### pervasive/pəˈveɪsɪv/
 
@@ -4577,9 +4613,15 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       ann- enn- = year 
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
+
                etymology
                also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
                late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+
+                  etymology
+                  also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                  late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+
       3. 定义： occurring or payable twice each year 两年一次
       4. 例句：
          I have to make a biannual report next Monday
@@ -4824,6 +4866,97 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
    His sons quarrelled bitterly over the allocation of family resources... 
    他的儿子们为家产如何分配而吵得很凶。
 
+
+vulnerability/ˌvʌlnərə'bɪlətɪ/
+
+1. 助记：vulner-创伤 + -ability名词后缀
+   vulner- = wound, 表示“创伤”。
+2. 词源：
+   etymology
+   c. 1600, from Late Latin vulnerabilis "wounding," from Latin vulnerare "to wound, hurt, injure, maim," from vulnus (genitive vulneris) "wound," perhaps related to vellere "pluck, to tear" (see svelte), or from PIE *wele-nes-, from *wele- (2) "to strike, wound" (see Valhalla).
+3. 定义：
+   1. Someone who is vulnerable is weak and without protection, with the result that they are easily hurt physically or emotionally.脆弱的;易受伤害的
+   2. If a person, animal, or plant is vulnerable to a disease, they are more likely to get it than other people, animals, or plants. 易感染（某种疾病）的；易患病的
+4. 例句：
+   His vulnerability makes him even more lovable
+   他的脆弱反倒让他更加讨人喜欢
+
+audit/ˈɔ:dɪt/
+
+1. 助记：aud-听 + it → 旁听。坐在旁边听 引申 查账审计
+   audi-,audit- = hear, 表示“听”，来源于拉丁语。
+   Audiphone audi-听 + phone 助听器
+   audient aud-听 + it → 旁听。听众
+2. 词源：
+   etymology
+   early 15c., "official examination of accounts," from Latin auditus "a hearing, a listening," past participle of audire "to hear" (from PIE root *au- "to perceive"). Official examination of accounts originally was an oral procedure. Also formerly used in a sense "official audience, judicial hearing or examination" (1590s).
+3. 定义：
+   1. When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly.审计，查账 v.
+   2. an inspection of the accounting procedures and records by a trained accountant or CPA审计
+4. 例句：Each year they audit our accounts and certify them as being true and fair.他们每年对我们进行账务审核，以确保其真实无误。
+
+consultant/kənˈsʌltənt/
+
+1. 助记：
+   consult【协商】 + -ant表名词
+   con-强调 + sult-=sul-带来，召集，即召集到一起协商事务。
+2. 词源：
+   etymology
+   1690s, "person who consults an oracle," from consult + -ant. In medicine, "physician called in by the attending physician to give consultation in a case," by 1872 (perhaps from French, where it was in use by 1867); general meaning "one qualified to give professional advice" is first attested 1893 in a Sherlock Holmes story. Related: Consultancy (1955).
+3. 定义：A consultant is a person who gives expert advice to a person or organization on a particular subject.顾问
+4. 例句：
+   He set up shop as an independent PR consultant
+   他自己开公司，做起了独立公共关系顾问。
+5. 拓展：consul（领事）：古罗马时期的共同执政官
+   英语单词consul来自拉丁语，原本指的是古罗马时期的共同执政官，人数一般为两名。关于consul的拼写有两种解释，一种认为来自consulere（to take counsel，咨询），缘自执政官需要向元老院征求意见；另一种解释认为consul由con+sal/sell/sedl构成，表示“坐在一起”，缘自执政官数量一般为两人或以上，需彼此协调，共同执政。
+   历史上，除古罗马以外，还有一些时期，在一些国家曾经出现以consul（执政官）作为国家元首的情况，如拿破仑建立的法兰西共和国就以三名consul共同执政，但拿破仑作为“第一执政”独揽大权。
+   中世纪后期，国际商贸日益兴隆。在同一个地方经商的外国商人为了协调解决彼此的商业争议，自行组织起来，推举一位或多位人士担任仲裁人，负责仲裁彼此的商务争议。这种仲裁人也被称为consul，中文译为“领事”。之所以称为consul，是因为他的产生和职责和古代执政官一样，都是由众人推选出的，负责仲裁。后来，领事变成了由政府派遣，但其称谓consul一直没变。
+   英语单词consult（咨询）的词源与consul相同，本意就是“商量、征求意见”。
+   consul： ['kɒns(ə)l] n.领事，（古罗马）执政官
+   consular： ['kɒnsjʊlə] adj.领事的
+   consulate： ['kɒnsjʊlət] n.领事，领事馆，领事职位，领事任期
+   consult： [kən'sʌlt] vt. 查阅；商量；向…请教vi. 请教；商议；当顾问
+   consultant： [kən'sʌltənt] n. 顾问；咨询者；会诊医生
+   consultation：[,kɑnsl'teʃən] n. 咨询；磋商；会诊；讨论会
+   consultative： [kən'sʌltətɪv] adj. 咨询的
+
+augment/ɔ:gˈment/
+
+1. 助记：aug- = increase, 表示“增加”，来源于拉丁语。auth-引申为产生，创造。
+   aug-增加 + -ment表名词。
+2. 词源：
+   etymology
+   late 14c., "become more severe;" c. 1400, "to make larger; become larger," from Old French augmenter "increase, enhance" (14c.), from Late Latin augmentare "to increase," from Latin augmentum "an increase, growth," from augere "to increase, make big, enlarge, enrich," from PIE root *aug- (1) "to increase." Related: Augmented; augmenting. As a noun from early 15c.
+3. 定义：To augment something means to make it larger, stronger, or more effective by adding something to it.增加；增大
+4. 例句：.
+   They hit upon another idea to augment their income
+   他们又想出一个增加收入的办法。
+5. 拓展：auction（拍卖）：古罗马竞拍女奴的做法
+   拍卖源于古罗马，最早用于拍卖女奴。当时还没有拍卖槌，以鞭子抽地三下作为成交的标志。当拍卖年轻貌美的女奴时，竞拍场面往往火爆异常。竞拍人激动得青筋暴起，眼珠发红，挥舞着胳臂竞相加价。
+   英语单词auction一词就来源于拍卖女奴时的这种竞相加价行为。该词来自拉丁语auctionem，表示“加价”。auctionem来自augere（增加）。英语中表示“增加”的词根aug-就源于此。
+   aug-/auct：增加
+   auction： ['ɔːkʃ(ə)n] n.v.拍卖，竞买
+   auctioneer： [ɔːkʃə'nɪə] n.拍卖商vt.拍卖
+   augment： [ɔːg'ment] n.v.增大，增加
+   augmentation：[,ɔgmɛn'teʃən] n. 增加，增大；增加物
+
+descend/dɪˈsend/
+
+1. 助记：de-向下  + scend-爬 → 向下爬  下降
+   scend-爬
+   transcend trans-超过 + scend → 爬过去 → 超越。
+   ascent a- + scent-爬 → 往上爬 → 上升
+2. 词源：
+   etymology
+   c. 1300, from Old French descendre (10c.) "descend, dismount; fall into; originate in," from Latin descendere "come down, descend, sink," from de- "down" (see de-) + scandere "to climb," from PIE root *skand- "jump" (see scan (v.)). Sense of "originate" is late 14c. in English. Related: Descended; descending.
+3. 定义：
+   1. If you descend or if you descend a staircase, you move downwards from a higher to a lower level.下来;下降;走下
+   2. When a mood or atmosphere descends on a place or on the people there, it affects them by spreading among them. (情绪、气氛等)降临，笼罩
+4. 例句：
+   As you descend, suddenly you see at last the hidden waterfall. 一直往下走，最终你会突然看到那条隐秘的瀑布。
+   She's got too much dignity to descend to writing anonymous letters.她是个自尊心很强的人，绝不会自贬身份去写匿名信。
+
+
 ## 12. Diagnose Problems to Get at Their Root Causes
 
 
@@ -4953,13 +5086,17 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
 4. 拓展
 
    January（一月）：双面门神雅努斯
+   
    在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。
    古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。
+
 
    **英语中表示“看门人”的单词Janitor也是源自Janus。**
    Janus：['dʒeinəs] n.雅努斯，两面神
    Janus-faced：伪善的，口是心非的，有双面孔的
    January：['dʒænjʊ(ə)rɪ] n.一月
+   
+   
 
 **Visionary** /ˈvɪʒ.er.i/ 想象的
 
@@ -5651,6 +5788,9 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
 
 **Convert** /kənˈvɝːt/ 转换
 
+
+Convert** /kənˈvɝːt/ 转换
+
 1. 助记,
 
    con+vent
@@ -5704,6 +5844,7 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
 4. 拓展
 
    [symbiotic](javascript:void(0);) [生态] 共生的；共栖的
+
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
 
@@ -5774,4 +5915,15 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
    adj.紧急的；备用的
 
    [urgent](javascript:void(0);) / [instant](javascript:void(0);)
+
+
+
+
+## 16.And for Heaven’s Sake, Don’t Overlook Governance!
+
+
+
+
+
+
 
