@@ -120,9 +120,8 @@ UK /ˈkrɪstl/ US /ˈkrɪstəl/
 
    **crystallizer** v.（想法、计划、信仰等）变明确；（使）形成晶体，结晶
 
+   ​
 
-
-### 2018-04-09
 
 #### **Opinion**
 
@@ -794,7 +793,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 4. 拓展：
    飞机起飞时或上车后，我们要fasten our safety belt ，这里的fasten就是动词使固定；扣紧。而steadfast ['stedfɑːst; -fəst] adj.坚定的，就是standing firmly了，stead-和stand有关。而每天早上吃breakfast，则是打破“牢牢”遵守的基督教意义上的晚餐和早晨之间的（fasting禁食和斋戒）。
 
-**vulnerable /ˈvʌl.nər.ə.bəl/**
+**vulnerable**/ˈvʌl.nər.ə.bəl/**
 
 1. 助记：vulner-创伤 + -able表形容词
    vulner- = wound, 表示“创伤
@@ -4291,7 +4290,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 
                   etymology
                   late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
-
+    
               etymology
               late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
 
@@ -4565,7 +4564,7 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
       俱乐部的成员可以轮流工作，而且一个人就能做好晚上的所有准备工作。
 
 
-#### detect/dɪˈtekt/
+ detect/dɪˈtekt/
 
 1. 助记：
    de-不，非，使相反 + tect-覆盖，即揭开覆盖，查明。
@@ -4605,7 +4604,7 @@ vulnerability/ˌvʌlnərə'bɪlətɪ/
    His vulnerability makes him even more lovable
    他的脆弱反倒让他更加讨人喜欢
 
-audit/ˈɔ:dɪt/
+**audit**/ˈɔ:dɪt/
 
 1. 助记：aud-听 + it → 旁听。坐在旁边听 引申 查账审计
    audi-,audit- = hear, 表示“听”，来源于拉丁语。
@@ -4619,7 +4618,8 @@ audit/ˈɔ:dɪt/
    2. an inspection of the accounting procedures and records by a trained accountant or CPA审计
 4. 例句：Each year they audit our accounts and certify them as being true and fair.他们每年对我们进行账务审核，以确保其真实无误。
 
-consultant/kənˈsʌltənt/
+**consultant**/kənˈsʌltənt/
+
 
 1. 助记：
    consult【协商】 + -ant表名词
@@ -4644,7 +4644,7 @@ consultant/kənˈsʌltənt/
    consultation：[,kɑnsl'teʃən] n. 咨询；磋商；会诊；讨论会
    consultative： [kən'sʌltətɪv] adj. 咨询的
 
-augment/ɔ:gˈment/
+**augment**/ɔ:gˈment/
 
 1. 助记：aug- = increase, 表示“增加”，来源于拉丁语。auth-引申为产生，创造。
    aug-增加 + -ment表名词。
@@ -4664,7 +4664,7 @@ augment/ɔ:gˈment/
    augment： [ɔːg'ment] n.v.增大，增加
    augmentation：[,ɔgmɛn'teʃən] n. 增加，增大；增加物
 
-descend/dɪˈsend/
+**descend**/dɪˈsend/
 
 1. 助记：de-向下  + scend-爬 → 向下爬  下降
    scend-爬
@@ -5474,7 +5474,7 @@ descend/dɪˈsend/
 
 
 
-Convert** /kənˈvɝːt/ 转换
+**Convert** /kənˈvɝːt/ 转换
 
 1. 助记,
 
@@ -5503,6 +5503,8 @@ Convert** /kənˈvɝːt/ 转换
    shift 转变
 
    idolater 皈依者
+
+   ​
 
 **Symbiosis** /ˌsɪm.baɪˈoʊ.sɪs/ 共栖
 

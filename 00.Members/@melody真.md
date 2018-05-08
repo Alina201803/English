@@ -1833,40 +1833,42 @@ Mid 16th century: perhaps from Middle English pars ‘parts of speech’, from O
 
 **telex**
 
-释义:
+1. 释义:
 
-a method of sending written messages down a phone line from one teleprinter to another, the machine that does this, or the message itself电传；电传打字机；电传电报
+   a method of sending written messages down a phone line from one teleprinter to another, the machine that does this, or the message itself电传；电传打字机；电传电报
 
-例句:
+   例句:
 
-The [details](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/detail) were [sent](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sent) by telex.详细资料用电传发送过去了
+   The [details](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/detail) were [sent](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sent) by telex.详细资料用电传发送过去了
 
-词源:
+2. 词源:
 
-1.选自牛津词源词典
+   1.选自牛津词源词典
 
-1930s: blend of teleprinter and exchange.
+   1930s: blend of teleprinter and exchange.
 
-2.选自etymonline
+3. 选自etymonline
 
-1932, "a communication system of teletypewriters," from tel(etype) ex(change).
+   1932, "a communication system of teletypewriters," from tel(etype) ex(change).
+
+
 
 **derivative**
 
-释义:
+1. 释义:
 
-If something is derivative, it is not the result of new ideas, but has beendeveloped from or copies something else.缺乏独创性的；模仿的
+   If something is derivative, it is not the result of new ideas, but has beendeveloped from or copies something else.缺乏独创性的；模仿的
 
-例句:
+   例句:
 
-His [painting](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/painting)/[style](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/style) is very derivative.他的油画／风格有很重的模仿痕迹。
+   His [painting](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/painting)/[style](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/style) is very derivative.他的油画／风格有很重的模仿痕迹。
 
-词源:
+2. 词源:
 
-1.选自牛津词源词典
+   1.选自牛津词源词典
 
-Late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive).
+   Late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive).
 
-2.选自etymonline
+   2.选自etymonline
 
-early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
+   early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
