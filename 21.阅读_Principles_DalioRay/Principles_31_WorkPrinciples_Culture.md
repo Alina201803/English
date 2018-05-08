@@ -3753,11 +3753,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    c. 1300, adjectival use of Old English þuruh (adv.) "from end to end, from side to side," stressed variant of þurh (adv., prep.); **see [through](https://www.etymonline.com/word/through?ref=etymonline_crossreference). Related: thoroughly; thoroughness.**
 
-3. 释义,
+5. 释义,
 
    彻底的 complete, very great, or very much
 
-4. 拓展
+6. 拓展
 
    complete 彻底的
 
@@ -3810,11 +3810,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    also pin-point, "point of a pin," 1849, **from [pin](https://www.etymonline.com/word/pin?ref=etymonline_crossreference) (n.) + [point](https://www.etymonline.com/word/point?ref=etymonline_crossreference) (n.).** Taken into aeronautics in sense "place identified from the air," hence verb meaning "locate precisely" (1917), which originally was aviators' slang. Related: Pinpointed; pinpointing. As an adjective, "performed with precisional accuracy," 1944, originally of aerial bombing.
 
-3. 释义,
+5. 释义,
 
    准确指出 to find out or saythe exact position in space or time of something
 
-4. 拓展
+6. 拓展
 
    vt.查明；精确地找到；准确描述
 
@@ -3881,11 +3881,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    also gobbledegook, "the overinvolved, pompous talk of officialdom" [Klein], 1944, American English, first used by U.S. Rep. Maury Maverick, D.-Texas, (1895-1954), a grandson of the original [maverick](https://www.etymonline.com/word/maverick?ref=etymonline_crossreference)and chairman of U.S. Smaller War Plants Corporation during World War II, in a memo dated March 30, 1944, banning "gobbledygook language" and mock-threateaning, "anyone using the wordsactivation or implementation will be shot." Maverick said he made up the word in imitation of turkey noise. Another word for it, coined about the same time, was bafflegab (1952).
 
-3. 释义,
+5. 释义,
 
    官样文章 language, especially used in official letters, forms, and statements, that seemsdifficult or to mean nothing because you do not understand it
 
-4. 拓展
+6. 拓展
 
    [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
 
@@ -3985,11 +3985,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    A very early borrowing into English and said to be the only Latin nautical term used in the Germanic languages (German Anker, Swedish ankar, etc.). The unetymological -ch- emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for [anchorman](https://www.etymonline.com/word/anchorman?ref=etymonline_crossreference) (q.v.).
 
-3. 释义,
+2. 释义,
 
    锚  a heavy metal object, usually shaped like a cross with curved arms, on astrong rope or chain, that is dropped from a boat into the water to prevent theboat from moving away
 
-4. 拓展
+3. 拓展
 
    近义词，
 
@@ -4047,11 +4047,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
 
-3. 释义,
+2. 释义,
 
    陷阱 a likely mistake or problem in a situation
 
-4. 拓展
+3. 拓展
 
    [deficiency](javascript:void(0);) 缺陷
 
@@ -4520,22 +4520,22 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
 
-                  etymology
-                  1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+                     etymology
+                     1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
 
 
             etymology
             1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
-
+    
                etymology
                1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
-
+    
       3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
       4. 例句：.
          She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
-
+    
       #### precise/prɪˈsaɪs/
-
+    
       1. 助记：pre在……前的,预先+cise切→预先切好的→精确的
       2. 词源：
          etynology
@@ -4551,14 +4551,14 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dur-坚硬 + -able表形容词
 
 2.    词源：
-               etymology
-               late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                  etymology
+                  late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
 
       #### pervasive/pəˈveɪsɪv/
-    
+​    
 
 
 2.    词源：
@@ -4618,15 +4618,15 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
 
-                     etymology
-                     also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-                     late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                        etymology
+                        also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                        late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
 
 
                etymology
                also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
                late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
-
+    
                   etymology
                   also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
                   late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
@@ -5096,7 +5096,7 @@ descend/dɪˈsend/
 4. 拓展
 
    January（一月）：双面门神雅努斯
-   
+
    在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。
    古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。
 
@@ -5105,7 +5105,7 @@ descend/dɪˈsend/
    Janus：['dʒeinəs] n.雅努斯，两面神
    Janus-faced：伪善的，口是心非的，有双面孔的
    January：['dʒænjʊ(ə)rɪ] n.一月
-   
+
    
 
 **Visionary** /ˈvɪʒ.er.i/ 想象的
@@ -5760,6 +5760,76 @@ descend/dɪˈsend/
    Her London life was sedate, almost mundane. 
    她在伦敦的生活平淡无奇，几乎有些枯燥。
 
+
+#### thorny/ˈθɔ:ni/
+
+1. 助记：thorn【刺】 + -y表形容词，引申词义棘手的，麻烦的。
+2. 词源：
+   etymology
+   Old English þornig; see thorn + -y (2). Figurative sense is attested from mid-14c. Related: Thorniness. Similar formation in Dutch doornig, German dornig. The figurative image is widespread; Greek had akanthologos as a nickname for a quibbler, literally "thorn-gathering," and akanthobates, nickname for a grammarian (fem. akanthobatis).
+3. 定义：
+   1. If you describe a problem as thorny, you mean that it is very complicated and difficult to solve, and that people are often unwilling to discuss it.棘手的 复杂难解的
+   2. A thorny plant or tree is covered with thorns带刺的，多刺的
+4. 例句：
+   The young captain is pondering over a thorny problem. 
+   年轻的上尉正在思考一个棘手的问题.
+   The roses are thorny. Take care not to prick your hands. 
+   玫瑰有刺,小心扎手.
+
+#### moan/məʊn/
+
+1. 助记：可能来自拟声词，模仿叹息的声音
+2. 词源：
+   etymology
+   c. 1200, "lamentation, mourning, weeping; complaining, the expressing of complaints; a complaint; lover's complaint; accusation, charge," probably from an unrecorded Old English *man "complaint," related to Old English mænan "complain, moan," also "tell, intend, signify" (see mean (v.1)); but OED discounts this connection. Meaning "long, low inarticulate murmur from some prolonged pain" is first recorded 1670s, "with onomatopoeic suggestion" 
+3. 定义：
+   If you moan, you make a low sound, usually because you are unhappy or in pain.呻吟;呜咽
+   To moan means to complain or speak in a way which shows that you are very unhappy.抱怨;发牢骚
+4. 例句：
+   You can go see him and have a good old moan. 
+   你可以去看看他，好好地诉诉苦。
+
+#### careen/kəˈri:n/
+
+1. 助记：本义将船倾斜，将龙骨外露进行修补，来自拉丁词carina, 龙骨，词源同hard. 后受career影响，词义主要用于疾驰。
+2. 词源：
+   etymology
+   1590s, "to turn a ship on its side" (with the keel exposed, for inspection, repairs, etc.), from French cariner, literally "to expose a ship's keel," from Middle French carene "keel" (16c.), from Italian (Genoese dialect) carena, from Latin carina "keel of a ship," also (and perhaps originally) "nutshell," possibly from PIE root *kar- "hard."
+3. 定义：To careen somewhere means to rush forward in an uncontrollable way. (失控地)疾驶，猛冲
+4. 例句：
+   He stood to one side as they careened past him... 
+   他们在他身边疾驰而过，他赶紧让到一边。
+
+#### grind/graɪnd/
+
+1. 助记：gr- = rub, 表示“摩擦”。原始印欧语形式为*ghreu(rub, grind.)
+
+   来自 PIE*ghreu,刮，磨，擦，词源同 chrism,great,grit.即磨下来的小砂子。gravel 砂砾 砾石
+
+2. 词源：
+   etymology
+   late Old English, "the gnashing（咬牙切齿） of teeth;" c. 1200, "the act of chewing or grinding," from grind (v.). The sense "steady, hard, tedious work" first recorded 1851 in college student slang (but compare gerund-grinder, 1710); the meaning "hard-working student, one who studies with dogged application" is American English slang from 1864. Slang meaning "sexual intercourse" is by 1893.
+
+3. 定义：
+   1. If you grind a substance such as corn, you crush it between two hard surfaces or with a machine until it becomes a fine powder.磨碎；碾碎； 将…磨成粉
+   2. If you refer to routine tasks or activities as the grind, you mean they are boring and take up a lot of time and effort.枯燥乏味的事；苦差事
+
+4. 例句：
+   .the odor of fresh ground coffee. 
+   现磨咖啡的香气
+   Life continues to be a terrible grind for the ordinary person. 
+   生活对于平头百姓而言依然是理不清的琐事。
+
+
+#### hit the nail on the head
+
+The last observation of yours has hit the nail on the head. 
+
+你最后的意见真是一针见血.
+
+Every word he said hit the nail on the head. 
+
+他说的真是头头是道.
 
 
 
