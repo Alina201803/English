@@ -6034,10 +6034,39 @@ vulnerability/ˌvʌlnərə'bɪlətɪ/
    [urgent](javascript:void(0);) / [instant](javascript:void(0);)
 
 
+## WORK PRINCIPLES:PUTTING IT ALL TOGETHER
+
+**Utopia** /juːˈtoʊ.pi.ə/ 乌托邦
+
+1. 助记,
+
+   u+top+ia
+   u- (ou "not, no") + top- "place" + -ia. 字面含义为：不存在的地方。同源词：topography, topology, toponym.音译“乌托邦”
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century: based on Greek ou **‘not’ + topos ‘place’;** the word was first used in the book Utopia (1516) by Sir Thomas More.
+
+   **Etymology**
+
+   1551, from Modern Latin Utopia, literally "nowhere," coined by Thomas More (and used as title of his book, 1516, about an imaginary island enjoying the utmost perfection in legal, social, and political systems), from Greek ou **"not" + topos "place" (see topos).** The current (since c. 1960) explanation of Greek ou "not" is an odd one, as it derives the word from the PIE root *aiw- "vital force, life; long life, eternity." Linguists presume a pre-Greek phrase (ne) hoiu (kwid) "(not on your) life," with ne "not" +kwid, an "emphasizing particle" [Watkins]. The same pattern is found elsewhere.
+   Extended to any perfect place by 1610s. Commonly, but incorrectly, taken as from Greek eu- "good" (see eu-) an error reinforced by the introduction of dystopia (1868). On the same model, Bentham had cacotopia (1818).
+
+3. 释义
+
+   (the idea of) a perfect society in which everyone works well with each other and is happy
+
+4. 拓展
+
+   Utopia Glacier 乌托邦冰河
+   Agrarian Utopi人间乐土
+   Whose Utopia 谁的乌托邦
+
 
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
-
 
 
 
