@@ -1627,7 +1627,7 @@ Early 17th century (in the sense ‘well-balanced state of mind’): from Latin 
 
 c. 1600, "state of mental balance," from Latin aequilibrium "an even balance; a horizontal position," from aequilibris "equal, level, horizontal, evenly balanced," from aequus "equal" (see [equal](https://www.etymonline.com/word/equal?ref=etymonline_crossreference) (adj.)) + libra "a balance, pair of scales, plummet" (see [Libra](https://www.etymonline.com/word/Libra?ref=etymonline_crossreference)). Related: Equilibrious.
 
-**whack**
+**whack** 
 
 释义:
 
@@ -1870,10 +1870,9 @@ Mid 16th century: perhaps from Middle English pars ‘parts of speech’, from O
    Late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive).
 
    2.选自etymonline
+2.early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
 
-<<<<<<< HEAD:00.Members/@melody真.md
-   early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
-=======
+
 early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
 
 
@@ -1915,4 +1914,6 @@ Mid 17th century: from brew, probably on the pattern of Dutch brouwerij.
 2.选自etymonline
 
 1650s (but perhaps from c. 1200 as a surname element); see [brew](https://www.etymonline.com/word/brew?ref=etymonline_crossreference) (v.) + [-ery](https://www.etymonline.com/word/-ery?ref=etymonline_crossreference). Old English had breawern in this sense (from aern "house;" see [barn](https://www.etymonline.com/word/barn?ref=etymonline_crossreference)), and [brewhouse](https://www.etymonline.com/word/brewhouse?ref=etymonline_crossreference) was the more common word through 18c.
->>>>>>> 969daa26d70aef001303652b7fab74d802d07705:@melody真.md
+
+
+
