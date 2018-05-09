@@ -1871,48 +1871,4 @@ Mid 16th century: perhaps from Middle English pars ‘parts of speech’, from O
 
    2.选自etymonline
 
-<<<<<<< HEAD:00.Members/@melody真.md
    early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
-=======
-early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
-
-
-
-5月8日
-
-**audacious**
-
-释义:
-
-showing a willingness to take risks or offend people大胆的；敢于冒险的；鲁莽的；放肆的
-
-例句:
-
-He [described](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/describe) the [plan](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/plan) as [ambitious](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/ambitious) and audacious.他认为这是一项宏伟而大胆的计划。
-
-词源:
-
-1.选自牛津词典词源
-
-Mid 16th century: from Latin audax, audac- ‘bold’ (from audere ‘dare’) + -ious.
-
-2.选自etymonline
-
-1540s, "confident, intrepid, daring," from Middle French audacieux, from audace "boldness," from Latin audacia "daring, boldness, courage," from audax "brave, bold, daring," but more often "bold" in a bad sense, "rash, foolhardy," from audere "to dare, be bold." In English, the bad sense of "shameless, unrestrained by propriety" is attested from 1590s. Related: Audaciously; audaciousness.
-
-**brewery**
-
-释义:
-
-a company that makes beer or a place where beer is made啤酒公司；啤酒厂
-
-词源:
-
-1.选自牛津词典词源
-
-Mid 17th century: from brew, probably on the pattern of Dutch brouwerij.
-
-2.选自etymonline
-
-1650s (but perhaps from c. 1200 as a surname element); see [brew](https://www.etymonline.com/word/brew?ref=etymonline_crossreference) (v.) + [-ery](https://www.etymonline.com/word/-ery?ref=etymonline_crossreference). Old English had breawern in this sense (from aern "house;" see [barn](https://www.etymonline.com/word/barn?ref=etymonline_crossreference)), and [brewhouse](https://www.etymonline.com/word/brewhouse?ref=etymonline_crossreference) was the more common word through 18c.
->>>>>>> 969daa26d70aef001303652b7fab74d802d07705:@melody真.md

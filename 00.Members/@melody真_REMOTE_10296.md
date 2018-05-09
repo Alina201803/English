@@ -10,7 +10,6 @@
 | winds                                                        | dragons                                                      | bamboos                                                      | characters                                                   | circles or dots                                              |
 | ![img](https://ws4.sinaimg.cn/large/006tNc79ly1fowjl1n0ftj306t01o745.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjkluuzjj305001pa9v.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjlaobvrj30dt01lq2y.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjhhjlmej30dv01kwem.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjhi2lg9j30dt01l3yn.jpg) |
 
-
 principles原则
 
 Introduction
@@ -228,7 +227,6 @@ Late 18th century: from late Latin granulum (see granule) + -ar.
 
 1790, from Late Latin granulum "granule, a little grain," diminutive of Latin granum "grain, seed" (from PIE root [*gre-no-](https://www.etymonline.com/word/*gre-no-?ref=etymonline_crossreference) "grain") + [-ar](https://www.etymonline.com/word/-ar?ref=etymonline_crossreference). Replaced granulous (late 14c.). Related: Granularity.
 
-
 3月27日
 
 **abyss**
@@ -351,7 +349,6 @@ Sense developed in Medieval Latin and French from "official account" to "officia
 
 
 3月28,29日
-
 
 **discern**
 
@@ -535,7 +532,6 @@ Using [ropes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%
 
 
 
-
 4月1日
 
 **incline**
@@ -673,7 +669,6 @@ Mid 19th century: from French archaïque, from Greek arkhaikos, from arkhaios, f
 2.选自etymonline
 
 1810, from or by influence of French archaique (1776), ultimately from Greek arkhaikos "old-fashioned," from arkhaios "ancient, old-fashioned, antiquated, primitive," from arkhe "beginning" (see [archon](https://www.etymonline.com/word/archon?ref=etymonline_crossreference)). Not merely crude, the archaic has "a rudeness and imperfection implying the promise of future advance" [Century Dictionary]. Archaical is attested from 1799.
-
 
 
 
@@ -885,7 +880,6 @@ mid-15c., from Latin depretiatus, past participle of depretiare "to lower the pr
 
 
 
-
 4月4日
 
 **default**
@@ -990,7 +984,6 @@ Late Middle English: via Old French from Latin arrogant- ‘claiming for oneself
 
 
 
-
 4月5日
 
 **intertwine**
@@ -1088,12 +1081,6 @@ Middle English: from Old French cloke, dialect variant of cloche ‘bell, cloak�
 2.选自etymonline
 
 cover with or as with a cloak," "c. 1500, from [cloak](https://www.etymonline.com/word/cloak?ref=etymonline_crossreference) (n.). Figuratively, "to cover up, hide, conceal" from 1540s. Related: Cloaked; cloaking.
-principle原则part1
-
-
-
-
-
 
 
 
@@ -1833,47 +1820,42 @@ Mid 16th century: perhaps from Middle English pars ‘parts of speech’, from O
 
 **telex**
 
-1. 释义:
+释义:
 
-   a method of sending written messages down a phone line from one teleprinter to another, the machine that does this, or the message itself电传；电传打字机；电传电报
+a method of sending written messages down a phone line from one teleprinter to another, the machine that does this, or the message itself电传；电传打字机；电传电报
 
-   例句:
+例句:
 
-   The [details](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/detail) were [sent](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sent) by telex.详细资料用电传发送过去了
+The [details](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/detail) were [sent](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sent) by telex.详细资料用电传发送过去了
 
-2. 词源:
+词源:
 
-   1.选自牛津词源词典
+1.选自牛津词源词典
 
-   1930s: blend of teleprinter and exchange.
+1930s: blend of teleprinter and exchange.
 
-3. 选自etymonline
+2.选自etymonline
 
-   1932, "a communication system of teletypewriters," from tel(etype) ex(change).
-
-
+1932, "a communication system of teletypewriters," from tel(etype) ex(change).
 
 **derivative**
 
-1. 释义:
+释义:
 
-   If something is derivative, it is not the result of new ideas, but has beendeveloped from or copies something else.缺乏独创性的；模仿的
+If something is derivative, it is not the result of new ideas, but has beendeveloped from or copies something else.缺乏独创性的；模仿的
 
-   例句:
+例句:
 
-   His [painting](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/painting)/[style](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/style) is very derivative.他的油画／风格有很重的模仿痕迹。
+His [painting](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/painting)/[style](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/style) is very derivative.他的油画／风格有很重的模仿痕迹。
 
-2. 词源:
+词源:
 
-   1.选自牛津词源词典
+1.选自牛津词源词典
 
-   Late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive).
+Late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive).
 
-   2.选自etymonline
+2.选自etymonline
 
-<<<<<<< HEAD:00.Members/@melody真.md
-   early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
-=======
 early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
 
 
@@ -1915,4 +1897,3 @@ Mid 17th century: from brew, probably on the pattern of Dutch brouwerij.
 2.选自etymonline
 
 1650s (but perhaps from c. 1200 as a surname element); see [brew](https://www.etymonline.com/word/brew?ref=etymonline_crossreference) (v.) + [-ery](https://www.etymonline.com/word/-ery?ref=etymonline_crossreference). Old English had breawern in this sense (from aern "house;" see [barn](https://www.etymonline.com/word/barn?ref=etymonline_crossreference)), and [brewhouse](https://www.etymonline.com/word/brewhouse?ref=etymonline_crossreference) was the more common word through 18c.
->>>>>>> 969daa26d70aef001303652b7fab74d802d07705:@melody真.md
