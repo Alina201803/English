@@ -4519,8 +4519,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
 
-                        etymology
-                        1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+                           etymology
+                           1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
 
 
             etymology
@@ -4550,8 +4550,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dur-坚硬 + -able表形容词
 
 2.    词源：
-                     etymology
-                     late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                        etymology
+                        late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
@@ -4625,9 +4625,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
 
-                           etymology
-                           also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-                           late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                              etymology
+                              also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                              late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
 
 
                etymology
@@ -6127,6 +6127,80 @@ Every word he said hit the nail on the head.
    cardiac：['kɑrdɪæk] n. 强心剂；强胃剂adj. 心脏的；心脏病的；贲门的
    cardiology：[,kɑrdɪ'ɑlədʒi] n. 心脏病学
    cardiopathy： [,kɑrdɪ'ɑpəθi] n. 心脏病
+
+
+#### fief/fi:f/
+
+1. 助记：来自 PIE*peku,牛。引申词义耕作，耕种
+2. 词源：
+   etymology
+   also feoff, 1610s, from French fief (12c.) "a 'feud,' possession, holding, domain; feudal duties, payment," from Medieval Latin feodum "land or other property whose use is granted in return for service," widely said to be from Frankish *fehu-od "payment-estate," or a similar Germanic compound, in which the first element is from Proto-Germanic *fekhu, making it cognate with Old English feoh "money, movable property, cattle" (see fee). Second element perhaps is similar to Old English ead "wealth" (see Edith).
+3. 定义：In former times, a fief was a piece of land given to someone by their lord, to whom they had a duty to provide particular services in return.采邑，封地
+4. 例句:
+   For five years she was marooned in the Tigers'northern fief. 
+   在猛虎组织的北部据点,她被拘禁了长达五年之久.
+5. 拓展：指有土地所有权的国王或庄园领主把土地封给其臣民或臣子进行耕作，以臣民或臣子上交一定的田租或提供劳务服务做为交换，类似于中国古代的分封制。比较其词源同源词 feudal,fee.
+
+#### strife/straɪf/
+
+1. 助记：strife- = contend, 表示“竞争
+    strid-竞争 → 竞争时发出的尖叫声。刺耳的, 吱吱尖叫的, 尖锐的, 刺眼的
+2. 词源：
+   etymology
+   c. 1200, "quarrel, fight, discord," from Old French estrif "fight, battle, combat, conflict; torment, distress; dispute, quarrel," variant of estrit "quarrel, dispute, impetuosity," probably from Frankish *strid "strife, combat" or another Germanic source (compare Old High German strit "quarrel, dispute"), related to Old High German stritan "to fight;" see stride (v.).
+3. 定义：Strife is strong disagreement or fighting.严重不和;冲突;争斗
+4. 例句：The country was torn apart by strife. 
+              这个国家被内部纷争搞得四分五裂。
+
+#### assassinate/əˈsæsɪneɪt/
+
+1. 助记：来自阿拉伯词hashash, 大麻，烟叶。刺客行刺前吸食有麻醉作用。
+2. 词源：
+   etymology
+   A fanatical Ismaili Muslim sect of the mountains of Lebanon in the time of the Crusades, under leadership of the "Old Man of the Mountains" (translates Arabic shaik-al-jibal, name applied to Hasan ibu-al-Sabbah), they had a reputation for murdering opposing leaders after intoxicating themselves by eating hashish. The plural suffix -in was mistaken in Europe for part of the word (compare Bedouin). Middle English had the word as hassais (mid-14c.), from Old French hassasis, assasis, which is from the Arabic word.
+3. 定义：When someone important is assassinated, they are murdered as a political act.行刺;暗杀
+4. 例句：Would the USA be radically different today if Kennedy had not been assassinated?... 如果肯尼迪没有被暗杀，今天的美国会有根本性的不同吗？
+5. 拓展：assassin（刺客）：中世纪时著名穆斯林暗杀组织阿萨辛
+   中世纪时期，在阿富汗至叙利亚山区，活跃着一个穆斯林异端教派阿萨辛（Hashshashin），由穆斯林右边极端分子组成，以其暗杀活动闻名于世。欧洲的十字军就曾经深受其害。该组织的创始人为突厥籍的波斯人哈桑•萨巴赫，即大名鼎鼎的“山中老人”，在金庸的《倚天屠龙记》中就曾提到这位“山中老人”。《马可波罗游记》也曾对“山中老人”及阿萨辛有详细描述。
+   据记载，山中老人为了培养刺客，在一个隐秘的峡谷中斥巨资修建了一个“极乐园”。园子里长满奇珍异果，修建有富丽堂皇的楼台亭阁，里面住着精通音律的妙龄少女，随处都有美酒、蜜糖。山中老人平时在训练时，会不时向受训者讨论伊斯兰先知所提到的“极乐园”。然后在特定日子，让受训者吸食一种特殊的毒品。趁他们昏迷之际，将其移入极乐园。受训者苏醒后，就会以为自己真的身处传说中的极乐园。受训者在极乐园中尽情享乐几日后，又会被再次麻醉，移出极乐园。从此以后，受训者会心甘情愿供山中老人驱使，以求死后长住极乐园。
+   山中老人让受训者吸食的毒品在阿拉伯语中叫做hashish，所以该组织被称为Hashshashin，本意是“吸食hashish的人”。英语单词assassin就是由阿拉伯语Hashshashin演变而来的。
+   assassin：[ə'sæsɪn]n.刺客，暗杀者
+   assassinate：[ə'sæsɪneɪt] vt.暗杀，行刺
+   assassination：[əˌsæsɪˈneɪʃn] n.暗杀，行刺
+
+#### senate/ˈsenət/
+
+1. 助记：来自拉丁语 senatus,古罗马元老会，来自 senex,老人，长者，词源同 senior.后借用该词指参议院。
+   sen- = old, 表示“老”。
+   sen-老 + -ile形容词后缀。senile高龄的, 衰老的, 老年期的
+2. 词源：
+   etymology
+   c. 1200, "legal and administrative body of ancient Rome," from Old French senat or Latin senatus "highest council of the state in ancient Rome," literally "council of elders," from senex (genitive senis) "old man, old" (from PIE root *sen- "old"). Attested from late 14c. in reference to governing bodies of free cities in Europe; of national governing bodies from 1550s; specific sense of upper house of U.S. legislature is recorded from 1775.
+3. 定义：The Senate is the smaller and more important of the two parts of the parliament in some countries, for example the United States and Australia.参议院
+4. 例句：The Senate is expected to pass the bill shortly. 
+   预计参议院不久就会通过此议案。
+5. 拓展:senate（参议院）：古罗马的元老院
+   在古罗马的酋长制时代，为了辅助酋长治理国家，由氏族长老会议演变产生了“元老院”。所谓“元老院”，就是由组成国家的各个部落中的长老们构成的政治机构，是存续时间最长的古罗马国家机构。
+   古罗马共和国时代，元老院由前任国家长官和其他贵族代表组成，共300名，拥有立法权，掌管财政和外交，统辖行省，主持重大宗教活动。在共和国的最后几十年里，由于议员腐败、自身改革失败及贵族议员对平民的排斥，元老院的威望降低。由于军阀崛起，元老院的权力被消弱。后来，恺撒大帝把元老院的员额增加到900。罗马帝国时代，国家权力被逐渐地转移到皇帝的名下。元老院实权日趋缩小，但仍是贵族统治的重要支柱。
+   在英语中，古罗马的“元老院”就叫做senate，源自拉丁语senatus，字面意思就是“council of elders”（长老们组成的委员会），源自拉丁语senex（老人、长老）。英国议会中的“上院”和美国国会中的“参议院”其实都源自古罗马的“元老院”，所以它们也都叫做senate。senate里面的成员就叫做senator（参议员）。
+   senate：['senɪt] n.（古罗马）元老院，英国议会上院，美国国会参议院
+   senator：['senətə] n.参议员，元老
+   senile：['sinaɪl] adj. 高龄的；老衰的；高龄所致的
+   senior：['sinɪɚ] adj. 高级的；年长的；地位较高的；年资较深的，资格较老的n. 上司；较年长者；毕业班学生
+
+#### appeal/əˈpi:l/
+
+1. 助记：ap-=ad- + peal-=pel-击，打 → 原指推进，推动 → 词义弱化为恳求。
+2. 词源：
+   etymology
+   c. 1300, "proceeding taken to reverse a decision by submitting it to the review of a higher authority," from Old French apel "call, appeal in court" (Modern French appel), back-formation from apeler "call upon" (see appeal (v.)). Meaning "call to an authority" is from 1620s; that of "attractive power" attested by 1904.
+3. 定义：If you appeal to someone to do something, you make a serious and urgent request to them.呼吁;恳请;恳求
+4. 例句：The case is being referred to the Court of Appeal. 
+              该案件将移交上诉法院审理。
+5. 拓展：peal（钟声）：教堂用来召唤信徒参加活动的钟声
+   在基督教社会中，教堂会定期召开各种宗教活动。每当活动快开始时，教堂就会敲钟，用钟声来通知信徒，召唤信徒参加活动。这种钟声在英语中被称为peal，通常认为是来源于单词appeal（呼吁、请求），因为钟声是用来appeal信徒们来教堂的。
+   peal：[piːl] n.钟声，钟乐，编钟，响亮持久的声音vt.大声发出，使鸣响vi.大声鸣响
+   appeal：[ə'piːl] n.呼吁，恳求，吸引力，上诉vi.呼吁，请求，上诉，求助，有吸引力
 
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
