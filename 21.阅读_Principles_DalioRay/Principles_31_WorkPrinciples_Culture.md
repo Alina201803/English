@@ -4519,8 +4519,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
 
-                     etymology
-                     1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+                        etymology
+                        1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
 
 
             etymology
@@ -4550,8 +4550,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dur-坚硬 + -able表形容词
 
 2.    词源：
-                  etymology
-                  late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                     etymology
+                     late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
@@ -4625,9 +4625,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
 
-                        etymology
-                        also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-                        late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                           etymology
+                           also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                           late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
 
 
                etymology
@@ -6031,6 +6031,102 @@ Every word he said hit the nail on the head.
 4. 拓展
 
    [symbiotic](javascript:void(0);) [生态] 共生的；共栖的
+
+
+####  dissemination/dɪˌsemɪ'neɪʃn/
+
+1. 助记：dis-分开 + semin-种子 + -ate表动词 → 散布(种子)。
+2. 词源：
+   etymology
+   c. 1600, from Latin disseminatus, past participle of disseminare "to spread abroad, disseminate," from dis- "in every direction" (see dis-) + seminare "to plant, propagate," from semen (genitive seminis) "seed" (from PIE root *sē- "to sow"). Related: Disseminated; disseminates; disseminating. Middle English had dissemen "to scatter" (early 15c.).
+3. 定义To disseminate information or knowledge means to distribute it so that it reaches many people or organizations.散播，宣传
+4. 例句：
+   He promoted the dissemination of scientific ideas. 
+   他推动了科学观念的传播。
+   He was fully bent upon the dissemination of Chinese culture all over the world. 
+   他一心致力于向全世界传播中国文化.
+
+#### lieutenant/lefˈtenənt/
+
+1. 助记：tenant n. 承租人, 房客, 居住者 vt. 租借 lieu n. 场所
+2. 词源：
+   etymology
+   late 14c., "one who takes the place of another," from Old French lieu tenant "substitute, deputy," literally "place holder" (14c.), from lieu "place" (see lieu) + tenant, present participle of tenir "to hold," from PIE root *ten- "to stretch." The notion is of a "substitute" for higher authority.
+3. 定义：
+   1. If you refer to someone as a person's lieutenant, you mean they are that person's assistant, especially their main assistant, in an organization or activity.助理；（尤指）副职
+   2. A lieutenant is a person who holds a junior officer's rank in the army, navy, marines, or air force, or in the American police force.（陆军、海军陆战队、空军）中尉，少尉；（海军）上尉；（美国警察的）警督，小队长
+4. 例句：
+   As a second lieutenant, he had to salute damned near everybody. 
+   身为少尉，他几乎是逢人便得敬礼。
+5. 拓展：lieutenant（中尉）：代理指挥官职位的军官
+   英语单词lieutenant来自法语短语lieu tenant，由lieu（代替）和tenant（持有人）组成，字面意思就是“代替行使指挥权的人”，指的是在战场上当指挥官牺牲或受伤而无法指挥时，代替行使指挥权的人。16世纪70年代后用来表示中尉军衔，仅次于上尉（captain）。
+   lieutenant：[lef'tenənt] n.中尉，副官，助理人员
+   lieutenancy：[lef'tenənsɪ] n. 代理官员；中尉之军衔
+   tenant：['tɛnənt] n. 承租人；房客；佃户；居住者vt. 租借
+
+#### arbitrary/ˈɑ:bɪtrəri/
+
+1. 助记：arbitr-判断 + -ary形容词后缀 → 做出[自己的]判断 → 武断的。
+   arbitr- = judge, 表示“判断”。复合词根：ar-=ad- + bit-走。
+2. 词源：
+   etymology
+   c. 1400, "deciding by one's own discretion, depending on one's judgment," from Latin arbitrarius "of arbitration," hence "depending on the will, uncertain," from arbiter (see arbiter). The meaning in English gradually descended to "capricious, ungoverned by reason or rule, despotic" (1640s). Related: Arbitrarily; arbitrariness.
+3. 定义：If you describe an action, rule, or decision as arbitrary, you think that it is not based on any principle, plan, or system. It often seems unfair because of this.武断的;任意的;任性的;主观的
+4. 例句：
+   The choice of players for the team seemed completely arbitrary. 
+   看来这个队的队员完全是随意选定的。
+   .A good judge does not make arbitrary decisions. 
+   一个优秀的法官不会作武断的判决.
+5. 拓展：arbiter（仲裁者）：古罗马时期的审判员制度
+   古罗马时期，国家的司法权力掌握在“裁判官”手中。这个职位最早设立于公元前376年，是从执政官的职权中分离出来的，地位仅次于执政官，享有在其职责范围内的法律方面的最高权威。但裁判官并不参与具体案件的审判，而是交给审判员去审理。审判员不是国家官吏，他是由裁判官从预定名单中选定并授权处理特定案件的公断人，因此在拉丁语中被称为arbiter，由ad（to）和baetere（来、去）构成，字面意思就是“去某地（审案）的人”。
+   arbiter和arbitrator同源，在现代都能表示“仲裁人”，区别在于：arbiter一词更为古老，是书面用语，通常应用于文学领域，“审判”的意味胜过“仲裁”；而arbitrator比较通俗，通常表示受争议双方所托，居中仲裁，拥有较大的自由裁量权，甚至可以是arbitrary（独断的）。
+   arbiter：['ɑːbɪtə] n.仲裁者，裁决人
+   arbitrator：['ɑːbɪtreɪtə] n.仲裁者，公断人
+   arbitrate：['ɑrbɪtret] vt.仲裁，公断
+   arbitrary：['ɑrbətrɛri] adj.独断的，武断的，任意的，专制的
+
+#### autocratic/ɔ:tə'krætɪk/
+
+1. 助记：auto-自己 + cratic 
+   auto- 表示“自己”，来源于希腊语。
+   crat- = rule, ruler, 表示“统治或政体，统治者”，最初含义表示“力量”。
+2. 词源：
+   etymology
+   "holding unlimited and independent powers of government," 1815 (in reference to Napoleon), from French autocratique, from autocrate, from Latinized form of Greek autokrates (see autocrat). Earlier autocratoric (1670s) was directly from Greek autokratorikos "of or for an autocrat, despotically." Autocratical is attested from 1767 (in reference to Elizabeth I).
+3. 定义：An autocratic person or organization has complete power and makes decisions without asking anyone else's advice. 独裁的;专制的;独断专行的
+4. 例句：
+   Some feudal states were ruled by autocratic kings. 
+   有些封建国家由专制的国王统治.
+   The people have grown intolerant in recent weeks of the King's autocratic ways. 
+   最近几周国王的专制行径让民众忍无可忍。
+
+
+#### accordance/əˈkɔ:dns/
+
+1. 助记：accord  n. 一致, 调和, 协定 vt. 给与, 使一致 vi. 相符合
+   ac-同ad- + cord-心 → 指一条心的  与什么相符合
+2. 词源：
+   etymology
+   c. 1300, "compliance;" early 14c., "agreement, concurrence, state of being in accord," from Old French acordance "agreeing, reconciliation, harmony," noun of action from acorder "reconcile, agree, be in harmony" (see accord (v.)). Of things, "conformity, compatibility, harmony," late 14c. Meaning "formal adjustment of a difference, peace treaty" is from late 13c. Phrase in accordance with is attested by 1793 (in Middle English, in accordance of was the usual form).
+3. 定义：If something is done in accordance with a particular rule or system, it is done in the way that the rule or system says that it should be done.按照;依据
+4. 例句：
+   One's opinion tends to differ in accordance with one's standpoint. 
+   不同的立场势必形成不同的见解.
+   She was dismissed in accordance with the company's usual displinary procedures. 
+   按照公司一般纪律程序,她被解雇了.
+5. 拓展：cord-（心）：源自心脏的意识活动
+   我们中国人认为心脏是人的意识活动的场所，所以才有“心灵”、“心理”、“心思”等词汇。和我们东方人一样，古代西方人也有类似的观念，所以很多表示意识活动的单词都由表示心脏的词根cord-构成。该词根来自拉丁语cor/cordis（心脏）。词根card-/cardio-（心脏）来自希腊语kardia，但最终源头和cord-一样来自原始印欧语词根kerd-。
+   cord-：心脏，心理，心灵
+   core：[kɔː] n.核心，要点
+   cordial：['kɔːdɪəl] adj. 衷心的，诚恳的；兴奋的
+   concord：['kɒŋkɔːd] n.和谐；和睦；一致；协调
+   accord： [ə'kɔːd]n. 符合；一致；协议；自愿vt. 使一致；给予vi. 符合；一致
+   accordance：[ə'kɔrdns] n. 一致；和谐
+   discord：['dɪskɔːd] n. 不和；不调和；嘈杂声vi. 不一致；刺耳
+   card-/cardio-：心脏
+   cardiac：['kɑrdɪæk] n. 强心剂；强胃剂adj. 心脏的；心脏病的；贲门的
+   cardiology：[,kɑrdɪ'ɑlədʒi] n. 心脏病学
+   cardiopathy： [,kɑrdɪ'ɑpəθi] n. 心脏病
 
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
