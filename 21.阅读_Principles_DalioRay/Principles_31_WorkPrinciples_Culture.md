@@ -4519,8 +4519,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
 
-                           etymology
-                           1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+                                 etymology
+                                 1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
 
 
             etymology
@@ -4550,8 +4550,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dur-坚硬 + -able表形容词
 
 2.    词源：
-                        etymology
-                        late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                              etymology
+                              late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
@@ -4625,9 +4625,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
 
-                              etymology
-                              also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-                              late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                                    etymology
+                                    also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                                    late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
 
 
                etymology
@@ -6304,6 +6304,159 @@ Every word he said hit the nail on the head.
    Agrarian Utopi人间乐土
    Whose Utopia 谁的乌托邦
 
+
+#### aesthetic/i:sˈθetɪk/
+
+1. 助记：esthet-感觉 + -ic表形容词。
+   aesthet- = feeling, 表示“感觉”。
+   ana-没有，无 + esthetic【感觉的】麻醉剂, 麻药 a. 麻木的, 麻醉的
+2. 词源：
+   etymology
+   1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos "of or for perception by the senses, perceptive," of things, "perceptible," from aisthanesthai "to perceive (by the senses or by the mind), to feel," from PIE *awis-dh-yo-, from root *au- "to perceive."
+3. 定义：Aesthetic is used to talk about beauty or art, and people's appreciation of beautiful things.美的；艺术的；美感的；审美的
+4. 例句：.
+   He responded very strongly to the aesthetic of this particular work. 
+   他强烈地感受到这件作品的美学价值。
+   an aesthetic appreciation of the landscape 
+   用审美的眼光欣赏风景
+5. 拓展:aesthetic（审美的）：研究人类感性认识的学科
+   英语单词aesthetic表示“审美的”，加上一个否定前缀an后形成的单词anaesthetic却表示“麻醉”，这是为什么呢？原来，aesthetic来自希腊语aisthetikos，本意就是“感知、感觉”的意思，所以加上an后就是“没有感觉”，即“麻醉”的意思。那么，aesthetic的词义又是怎么从“感知、感觉”转变为“审美”的呢？这都拜“美学之父”鲍姆嘉通所赐。
+   鲍姆嘉通（Alexander Gottlieb Baumgarten，1714-1762）是德国哲学家和美学家，美学学科的开创者。鲍姆嘉通把美学规定为研究人感性认识的学科。他认为人的心理活动分为知、情、意三方面。研究“知”或人的理性认识有逻辑学，研究人的意志有伦理学，而研究人的情感即人的感性认识的学科，鲍姆嘉通将其称为“aesthetics”，因为它的研究对象是aesthetic（感知、感觉），后来翻译成汉语就成了“美学”。随着美学的发展，aesthetic变成了美学中的专用名词，原有的词义反而被人遗忘了，只有在含有它的其他词语如anaesthetic（麻醉）中才能发现它的初始含义。
+   aesthetic：[iːs'θetɪk; es-] adj.美的，美学的，审美的，有审美情趣的
+   aesthetics：[iːs'θetɪks; es-] n.美学，审美观，关于美的哲学
+   anaesthetic：[,ænɪs'θetɪk] n.麻醉剂，麻药adj.麻醉的
+   anaesthesia：[,ænɪs'θiːzɪə] n.麻醉，麻木，感觉缺失，等于anesthesia
+
+#### nudge/nʌdʒ/
+
+1. 助记：词源不详。用肘轻推, 推动, 讨厌家伙
+2. 词源：
+   etymology
+   "to push slightly with the elbow," 1670s, perhaps from Scandinavian (compare Norwegian nugge, nyggje "to jostle, rub;" Icelandic nugga "to rub, massage"). Related: Nudged; nudging.
+3. 定义：
+   1. If you nudge someone, you push them gently, usually with your elbow, in order to draw their attention to something.(通常指用肘)轻推，轻碰(以引起注意)
+   2. If you nudge someone into doing something, you gently persuade them to do it.劝说;鼓动
+4. 例句：.
+   1. Foreigners must use their power to nudge the country towards greater tolerance. 外国人必须动用他们的力量促使这个国家变得更加宽容。
+   2. She slipped her arm under his and gave him a nudge. 
+      她挽住他的胳膊，轻轻推了他一下。
+
+
+#### astound/əˈstaʊnd/
+
+1. 助记：as-=ex-表强调 + toun-=ton-雷，拟声词 + -d，指如被雷击。
+   ton-,thunder,ston- = thunder，表示“打雷”。 使惊骇, 使大惊
+2. 词源：
+   etymology
+   mid-15c., from Middle English astouned, astoned (c. 1300), past participle of astonen, astonien "to stun" (see astonish), with more of the original sense of Vulgar Latin *extonare. The unusual form is perhaps because the past participle was so much more common it came to be taken for the infinitive, or/and by the same pattern which produced round (v.) from round (adj.), or by the intrusion of an unetymological -d as in sound (n.1). Related: Astounded; astounding.
+   c. 1300, astonien, "to stun, strike senseless," from Old French estoner "to stun, daze, deafen, astound," from Vulgar Latin *extonare, from Latin ex "out" (see ex-) + tonare "to thunder" (see thunder (n.)); so, literally "to leave someone thunderstruck." The modern form (influenced by English verbs in -ish, such as distinguish, diminish) is attested from 1520s. The meaning "amaze, shock with wonder" is from 1610s.
+3. 定义：If something astounds you, you are very surprised by it. 使大吃一惊;使惊骇;使震惊
+4. 例句：He used to astound his friends with feats of physical endurance. 
+   过去，他表现出来的惊人耐力常让朋友们大吃一惊。
+
+#### gorgeously/'ɡɔ:dʒəslɪ/
+
+1. 助记：
+   可能来自gorge，喉咙，吞没，咽口水，比喻极其壮观或美丽的事物和人。
+   gorg- = throat, 表示“喉”。
+   举例：regorge 吐出, 使倒流
+2. 词源：
+   etymology
+   c. 1500, "splendid, showy, sumptuously adorned" (of clothing), from Middle French gorgias "elegant, fashionable," of unknown origin; perhaps a special use of gorgias "necklace" (and thus "fond of or resembling jewelry"), from Old French gorge "throat," also "something adorning the throat" (see gorge (n.)). A connection to the Greek proper name Gorgias (supposedly in reference to a notorious sophist) also has been proposed. Related: Gorgeousness.
+3. 定义：
+   1. If you say that something is gorgeous, you mean that it gives you a lot of pleasure or is very attractive.令人愉快的；美丽动人的；引人入胜的
+   2. If you describe things such as clothes and colours as gorgeous, you mean they are bright, rich, and impressive.绚丽的；华丽的；灿烂的
+4. 例句：
+   1. The girl is gorgeously dressed. 这个女孩打扮得花枝招展
+   2. She has a gorgeously warm speaking voice. 
+      她的嗓音温婉动听。
+5. 拓展：gorgeous ['gɔːdʒəs] adj.华丽的；极好的。拉丁词根gorg-,gurg-表喉咙（咀嚼），如单词engorge [ɪn'gɔːdʒ] v.狼吞虎咽和regurgitation [rɪ,ɡɜːdʒɪ'teɪʃən] n.回流；反刍。中世纪法国贵族妇女一种包裹着脖子的包（饰）头巾叫做gorgias，因其优雅和繁复的构造产生了gorgeous这个单词。
+
+#### epic/ˈepɪk/
+
+1. 助记：来自PIE*wekw, 说，叙述，词源同voice, invoke。ep- 
+   = speaking, 表示“说”。 引申为 史诗
+2. 词源：
+   etymology
+   1580s, "pertaining to or constituting a lengthy heroic poem," via Middle French épique or directly from Latin epicus, from Greek epikos, from epos "a word; a tale, story; promise, prophecy, proverb; poetry in heroic verse," from PIE root *wekw- "to speak."
+3. 定义：An epic is a long book, poem, or film, whose story extends over a long period of time or tells of great events.史诗;叙事诗;史诗般的作品
+4. 例句：
+   1. Their epic fight is the subject of a new film. 他们史诗般的战斗是一部新电影的主题。
+   2. Like "Gone With The Wind" it's an unashamed epic romance. 
+      和《飘》一样,它也是一个无所顾忌的史诗般的爱情故事.
+
+
+#### acknowledgement/əkˈnɒlɪdʒmənt/
+
+1. 助记：ac-去往 + knowledge=know, 知道，了解。
+2. 词源：
+   etymology
+   1590s, "act of acknowledging," from acknowledge + -ment. "An early instance of -ment added to an orig. Eng. vb." [OED]. Meaning "token of due recognition" is recorded from 1610s.
+   late 15c., "admit or show one's knowledge," a blend of Middle English aknow "admit or show one's knowledge" (from Old English oncnawan "understand, come to recognize," from on (see on (prep.)) + cnawan "recognize;" see know) and Middle English knowlechen "admit, acknowledge" (c. 1200; see knowledge). "By 16th c. the earlier vbs. knowledge and a(c)know ... were obs., and acknowledge took their place" [OED].
+3. 定义：
+   1. The acknowledgements in a book are the section in which the author thanks all the people who have helped him or her.致谢，鸣谢
+   2. A gesture of acknowledgement, such as a smile, shows someone that you have seen and recognized them.打招呼的表示（如微笑等）
+   3. An acknowledgement is a statement or action which recognizes that something exists or is true.（对事实、局面等的）承认
+4. 例句：
+   1. Farling smiled in acknowledgement and gave a bow. 
+         法林微笑示意，又躬身行了个礼。
+   2. Their replies were no more than grunts of acknowledgement. 
+      他们所谓的回答不过是表示承认的咕哝罢了。
+
+#### euphoric/juːˈfɒr.ɪk/
+
+1. 助记： 来自 eu "well" (see eu-) + pherein "to carry," 精神状况好 兴高采烈
+2. 词源：
+   etymology
+   "characterized by euphoria," 1885, originally with reference to cocaine, from euphoria + -ic. The noun meaning "a drug which causes euphoria" also is from 1885. Euphoriant is from 1946 as a noun, 1947 as an adjective.
+   1727, a physician's term for "condition of feeling healthy and comfortable (especially when sick)," medical Latin, from Greek euphoria "power of enduring easily," from euphoros, literally "bearing well," from eu "well" (see eu-) + pherein "to carry," from PIE root *bher- (1) "to carry." Non-technical use, now the main one, dates to 1882 and perhaps is a reintroduction. Earlier the word meant "effective operation of a medicine on a patient" (1680s).
+3. 定义：If you are euphoric, you feel intense happiness and excitement.狂喜的;兴高采烈的
+4. 例句：
+   1. I felt heady and euphoric. 
+      我开始兴奋，有些飘飘然了
+   2. They grow euphoric in authority and panicky at the thought of losing it. 
+      他们掌握了权力便得意洋洋,一想到可能丢权便又惊慌失措.
+
+#### boon/bu:n/
+
+1. 助记：bon-好，词源同bonus。bon- = good, 表示“好”。和表示美丽的词根bell-同源，原始印欧语形式为*dau。
+   bon-好 + hom-=hum-人 + ie → 好人,性情温和。bonhomie温和 友好
+   bonnie 漂亮的
+2. 词源：
+   etymology
+   in boon companion "convivial friend, close intimate" (1560s), the only real survival of Middle English boon "good" (early 14c.), from Old French bon (see bon), from Latin bonus "good" (see bonus). Probably influenced by boon (n.).
+3. 定义：You can describe something as a boon when it makes life better or easier for someone. 给生活带来方便的事物
+4. 例句：This battery booster is a boon for photographers. 
+   这种电池充电器是摄影工作者的好帮手。
+
+#### scatter/ˈskætə(r)/
+
+1. 助记：来自中古英语 scateren,分散，散开，可能最终来自 PIE*sek,砍，切，削，词源同 segment,dissect. 消散, 分散, 散播, 散射, 散布, 酒馆
+2. 词源：
+   etymology
+   early 14c., transitive, probably a variant of Middle English scateren (see scatter (v.)). Compare Old Dutch schetteren Low German schateren. Formations such as scatter-brained had parallel forms in shatter-brained, etc. Intransitive sense from 1560s. Related: Shattered; shattering. Carlyle (1841) used shatterment. Shatters "fragments" is from 1630s.
+   mid-12c. (transitive), possibly a northern English variant of Middle English schateren (see shatter), reflecting Norse influence. Intransitive sense from early 15c. Related: Scattered; scattering. As a noun from 1640s.
+3. 定义：
+   1. If you scatter things over an area, you throw or drop them so that they spread all over the area.撒;撒播;撒于…上
+   2. If a group of people scatter or if you scatter them, they suddenly separate and move in different directions. (使)(人群)分散;(使)散布在各处;(使)散开
+4. 例句：
+   1. Scatter the tomato over, then dress the salad. 把西红柿散放在上面，然后给色拉加调味汁。
+   2. When the tree falls, the monkeys scatter“树倒猴狲散. ”
+
+
+#### option/ˈɒpʃn/
+
+1. 助记：opt-选择 + ion表名词
+   opt- = choose, 表示“选择”。optant 抉择者 选择者
+2. 词源：
+   etymology
+   c. 1600, "action of choosing," from French option (Old French opcion), from Latin optionem (nominative optio) "choice, free choice, liberty to choose," from root of optare "to desire, choose," from PIE root *op- (2) "to choose, prefer." Meaning "thing that may be chosen" is attested from 1885. Commercial transaction sense first recorded 1755 (the verb in this sense is from 1934). As a North American football play, it is recorded from 1954.
+3. 定义：
+   1. An option is something that you can choose to do in preference to one or more alternatives.可选择的事物
+   2. If you have the option of doing something, you can choose whether to do it or not.选择；选择权
+   3. An option is one of a number of subjects which a student can choose to study as a part of his or her course.选修课
+4. 例句:It is thought that a management buyout is one option. 
+   管理层收购被认为是一种选择。
 
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
