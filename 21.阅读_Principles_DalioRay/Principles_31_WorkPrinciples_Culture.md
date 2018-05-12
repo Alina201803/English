@@ -4519,8 +4519,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
 
-                              etymology
-                              1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+                                 etymology
+                                 1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
 
 
             etymology
@@ -4550,8 +4550,8 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dur-坚硬 + -able表形容词
 
 2.    词源：
-                           etymology
-                           late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                              etymology
+                              late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
@@ -4625,9 +4625,9 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
 
-                                 etymology
-                                 also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-                                 late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                                    etymology
+                                    also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                                    late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
 
 
                etymology
@@ -6385,6 +6385,78 @@ Every word he said hit the nail on the head.
    2. Like "Gone With The Wind" it's an unashamed epic romance. 
       和《飘》一样,它也是一个无所顾忌的史诗般的爱情故事.
 
+
+#### acknowledgement/əkˈnɒlɪdʒmənt/
+
+1. 助记：ac-去往 + knowledge=know, 知道，了解。
+2. 词源：
+   etymology
+   1590s, "act of acknowledging," from acknowledge + -ment. "An early instance of -ment added to an orig. Eng. vb." [OED]. Meaning "token of due recognition" is recorded from 1610s.
+   late 15c., "admit or show one's knowledge," a blend of Middle English aknow "admit or show one's knowledge" (from Old English oncnawan "understand, come to recognize," from on (see on (prep.)) + cnawan "recognize;" see know) and Middle English knowlechen "admit, acknowledge" (c. 1200; see knowledge). "By 16th c. the earlier vbs. knowledge and a(c)know ... were obs., and acknowledge took their place" [OED].
+3. 定义：
+   1. The acknowledgements in a book are the section in which the author thanks all the people who have helped him or her.致谢，鸣谢
+   2. A gesture of acknowledgement, such as a smile, shows someone that you have seen and recognized them.打招呼的表示（如微笑等）
+   3. An acknowledgement is a statement or action which recognizes that something exists or is true.（对事实、局面等的）承认
+4. 例句：
+   1. Farling smiled in acknowledgement and gave a bow. 
+         法林微笑示意，又躬身行了个礼。
+   2. Their replies were no more than grunts of acknowledgement. 
+      他们所谓的回答不过是表示承认的咕哝罢了。
+
+#### euphoric/juːˈfɒr.ɪk/
+
+1. 助记： 来自 eu "well" (see eu-) + pherein "to carry," 精神状况好 兴高采烈
+2. 词源：
+   etymology
+   "characterized by euphoria," 1885, originally with reference to cocaine, from euphoria + -ic. The noun meaning "a drug which causes euphoria" also is from 1885. Euphoriant is from 1946 as a noun, 1947 as an adjective.
+   1727, a physician's term for "condition of feeling healthy and comfortable (especially when sick)," medical Latin, from Greek euphoria "power of enduring easily," from euphoros, literally "bearing well," from eu "well" (see eu-) + pherein "to carry," from PIE root *bher- (1) "to carry." Non-technical use, now the main one, dates to 1882 and perhaps is a reintroduction. Earlier the word meant "effective operation of a medicine on a patient" (1680s).
+3. 定义：If you are euphoric, you feel intense happiness and excitement.狂喜的;兴高采烈的
+4. 例句：
+   1. I felt heady and euphoric. 
+      我开始兴奋，有些飘飘然了
+   2. They grow euphoric in authority and panicky at the thought of losing it. 
+      他们掌握了权力便得意洋洋,一想到可能丢权便又惊慌失措.
+
+#### boon/bu:n/
+
+1. 助记：bon-好，词源同bonus。bon- = good, 表示“好”。和表示美丽的词根bell-同源，原始印欧语形式为*dau。
+   bon-好 + hom-=hum-人 + ie → 好人,性情温和。bonhomie温和 友好
+   bonnie 漂亮的
+2. 词源：
+   etymology
+   in boon companion "convivial friend, close intimate" (1560s), the only real survival of Middle English boon "good" (early 14c.), from Old French bon (see bon), from Latin bonus "good" (see bonus). Probably influenced by boon (n.).
+3. 定义：You can describe something as a boon when it makes life better or easier for someone. 给生活带来方便的事物
+4. 例句：This battery booster is a boon for photographers. 
+   这种电池充电器是摄影工作者的好帮手。
+
+#### scatter/ˈskætə(r)/
+
+1. 助记：来自中古英语 scateren,分散，散开，可能最终来自 PIE*sek,砍，切，削，词源同 segment,dissect. 消散, 分散, 散播, 散射, 散布, 酒馆
+2. 词源：
+   etymology
+   early 14c., transitive, probably a variant of Middle English scateren (see scatter (v.)). Compare Old Dutch schetteren Low German schateren. Formations such as scatter-brained had parallel forms in shatter-brained, etc. Intransitive sense from 1560s. Related: Shattered; shattering. Carlyle (1841) used shatterment. Shatters "fragments" is from 1630s.
+   mid-12c. (transitive), possibly a northern English variant of Middle English schateren (see shatter), reflecting Norse influence. Intransitive sense from early 15c. Related: Scattered; scattering. As a noun from 1640s.
+3. 定义：
+   1. If you scatter things over an area, you throw or drop them so that they spread all over the area.撒;撒播;撒于…上
+   2. If a group of people scatter or if you scatter them, they suddenly separate and move in different directions. (使)(人群)分散;(使)散布在各处;(使)散开
+4. 例句：
+   1. Scatter the tomato over, then dress the salad. 把西红柿散放在上面，然后给色拉加调味汁。
+   2. When the tree falls, the monkeys scatter“树倒猴狲散. ”
+
+
+#### option/ˈɒpʃn/
+
+1. 助记：opt-选择 + ion表名词
+   opt- = choose, 表示“选择”。optant 抉择者 选择者
+2. 词源：
+   etymology
+   c. 1600, "action of choosing," from French option (Old French opcion), from Latin optionem (nominative optio) "choice, free choice, liberty to choose," from root of optare "to desire, choose," from PIE root *op- (2) "to choose, prefer." Meaning "thing that may be chosen" is attested from 1885. Commercial transaction sense first recorded 1755 (the verb in this sense is from 1934). As a North American football play, it is recorded from 1954.
+3. 定义：
+   1. An option is something that you can choose to do in preference to one or more alternatives.可选择的事物
+   2. If you have the option of doing something, you can choose whether to do it or not.选择；选择权
+   3. An option is one of a number of subjects which a student can choose to study as a part of his or her course.选修课
+4. 例句:It is thought that a management buyout is one option. 
+   管理层收购被认为是一种选择。
 
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
