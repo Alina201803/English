@@ -88,25 +88,40 @@ Google之外的搜索网站:
 
 ### Alina
 
+2018-05-13
 
+1.**源代码**
 
+```
+print("hello python world!")
 
+ message = "hello python world!"
 
-**1.源代码**
+ print(message)
 
+ mesage ="hello python Crash Course reader!"
 
-
-
+ print(mesage)
+```
 
 **2.错题本**
 
+```
+ File "<ipython-input-1-bed9a149a6a8>", line 1
+    print("hello python world!)
+                         ^
+SyntaxError: EOL while scanning string literal
+```
 
-
-
+value最后没有对应的双引号
 
 **3.问题集**
 
+function讲解
 
+Functions assign a single output for each of their inputs.
+
+https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/v/what-is-a-function
 
 
 
