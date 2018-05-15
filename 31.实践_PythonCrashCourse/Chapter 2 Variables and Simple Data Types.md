@@ -88,26 +88,109 @@ Google之外的搜索网站:
 
 ### Alina
 
+2018-05-13
 
+1.**源代码**
 
+```python
+print("hello python world!")
 
+ message = "hello python world!"
 
-**1.源代码**
+ print(message)
 
+ mesage ="hello python Crash Course reader!"
 
-
-
+ print(mesage)
+```
 
 **2.错题本**
 
+```python
+ File "<ipython-input-1-bed9a149a6a8>", line 1
+    print("hello python world!)
+                         ^
+SyntaxError: EOL while scanning string literal
+```
 
-
-
+value最后没有对应的双引号
 
 **3.问题集**
 
+function讲解
+
+Functions assign a single output for each of their inputs.
+
+https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/v/what-is-a-function
+
+2018-5-14
+
+1. 源代码
+   ```python
+   In [1]: name = "ada lovelace"
+   ```
+
+   ```python
+   In [2]: print(name.title())
+   Ada Lovelace
+
+   In [1]: name ="ada lovelace"
+
+   In [2]: print(name.upper())
+   ADA LOVELACE
+
+   In [3]: print(name.lower())
+   ada lovelace
+
+   In [8]: frist_name = "ada"
+
+   In [9]: last_name = "lovelace"
+
+   In [10]: full_name = frist_name + " " + last_name
+
+   In [11]: print(full_name)
+   ada lovelace
+
+   In [12]: print("hello," + full_name.title() + "!")
+   hello,Ada Lovelace!
+
+   In [13]: message = "hello," + full_name.title() + "!"
+
+   In [14]: print(message)
+   hello,Ada Lovelace!
+   ```
 
 
+   ```python
+   In [17]: print("\tpython")
+           python
+
+   In [18]: print("languages:\npython\nC\nJavaScript")
+   languages:
+   python
+   C
+   JavaScript
+
+   In [20]: print("language:\n\tPython\n\tC\n\tJavaScript")
+   language:
+           Python
+           C
+           JavaScript
+   ```
+
+2. 错题集
+   ```python
+   In [19]: print("languages:\n\tPython\n\tC\n\tJavaScript)
+     File "<ipython-input-19-daaf4fbab88e>", line 1
+       print("languages:\n\tPython\n\tC\n\tJavaScript)
+                                                      ^
+   SyntaxError: EOL while scanning string literal
+   又一次忘记打上后引号
+   ```
+3. 问题集
+   **Python Methods** In the simplest term a method is a function inside of an object. You can pass attributes (variable inside a method) to the class and method that will get processed inside of the method and independently for each object.
+   what is a “method” in python？
+   https://stackoverflow.com/questions/3786881/what-is-a-method-in-python
 
 
 
