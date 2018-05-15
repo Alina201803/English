@@ -54,36 +54,6 @@ Google之外的搜索网站:
 
 
 
-
-
-----
-
-### Aqua
-
-
-
-
-
-
-
-**1.源代码**
-
-
-
-
-
-**2.错题本**
-
-
-
-
-
-**3.问题集**
-
-
-
-
-
 ---
 
 ### Alina
@@ -188,6 +158,7 @@ https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/
                                                       ^
    SyntaxError: EOL while scanning string literal
    又一次忘记打上后引号
+   #写大段的代码的时候可以在vscode中,双引号会自动补全.
    ```
 
 3. 问题集
@@ -201,82 +172,6 @@ https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/
    >
    > 后面学到function可以自己写去做任何事情的function.
 
-
-
-
-----
-
-### 幽幽
-
-
-
-
-
-**1.源代码**
-
-
-
-
-
-**2.错题本**
-
-
-
-
-
-**3.问题集**
-
-
-
-
-
-----
-
-### 旷野
-
-
-
-**1.源代码**
-
-
-
-
-
-**2.错题本**
-
-
-
-
-
-**3.问题集**
-
-
-
-
-
-
-
-----
-
-### 秋风凌
-
-
-
-
-
-**1.源代码**
-
-
-
-
-
-**2.错题本**
-
-
-
-
-
-**3.问题集**
 
 
 
