@@ -123,6 +123,8 @@ Functions assign a single output for each of their inputs.
 
 https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/v/what-is-a-function
 
+
+
 2018-5-14
 
 1. 源代码
@@ -187,10 +189,17 @@ https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/
    SyntaxError: EOL while scanning string literal
    又一次忘记打上后引号
    ```
+
 3. 问题集
    **Python Methods** In the simplest term a method is a function inside of an object. You can pass attributes (variable inside a method) to the class and method that will get processed inside of the method and independently for each object.
    what is a “method” in python？
    https://stackoverflow.com/questions/3786881/what-is-a-method-in-python
+
+   > 真牛,说上手就上手了, methods就是第八章的functions(中文翻译成函数,应该翻译成do something)
+   >
+   > 现在用的method, 比如print, 是python已经写好的,直接用就可以,
+   >
+   > 后面学到function可以自己写去做任何事情的function.
 
 
 
