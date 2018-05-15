@@ -133,7 +133,7 @@ https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/
    ```
 
 
-   ```python
+```python
    In [17]: print("\tpython")
            python
 
@@ -148,7 +148,7 @@ https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/
            Python
            C
            JavaScript
-   ```
+```
 
 2. 错题集
    ```python
@@ -172,6 +172,87 @@ https://www.khanacademy.org/math/algebra/algebra-functions/evaluating-functions/
    >
    > 后面学到function可以自己写去做任何事情的function.
 
+
+
+
+2018-05-15
+
+**源代码**
+
+```python
+In [1]: favorite_language = 'python '
+
+In [2]: favorite_language = favorite_language.rstrip()
+
+In [3]: favorite_language
+Out[3]: 'python'
+
+In [6]: favorite_language = ' python '
+
+In [7]: favorite_language.rstrip()
+Out[7]: ' python'
+
+In [8]: favorite_language.lstrip()
+Out[8]: 'python '
+
+In [9]: favorite_language.strip()
+Out[9]: 'python'
+
+In [10]: message = "One of Python's strengths is its diverse community."
+
+In [11]: print(message)
+One of Python's strengths is its diverse community.
+In [14]: name = "Eric"
+
+In [15]: message = "hello," + name.title() + "would you like to learn some Pyth
+    ...: on today?"
+
+In [16]: print(message)
+hello,Ericwould you like to learn some Python today?
+
+In [1]: name = "albert einstein"
+In [4]: message = '"A person who never made a mistake never tried anything new.
+   ...: "'
+
+In [5]: print(name.title() + "once said," + message)
+Albert Einsteinonce said,"A person who never made a mistake never tried anything
+ new."
+
+```
+
+**错题集**
+
+```python
+1. 
+In [13]: name = Eric
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-13-131e1517a5f0> in <module>()
+----> 1 name = Eric
+
+NameError: name 'Eric' is not defined
+定义variable时 需要引号
+
+2.
+In [22]: name = "albert einstein"
+
+In [23]: message = "A person who never made a mistake never tried anything new"
+    ...:
+
+In [24]: message = "A person who never made a mistake never tried anything new.
+    ...: "
+
+In [25]: print(name,title() + "once said," + ""message"")
+  File "<ipython-input-25-13429ee7b222>", line 1
+    print(name,title() + "once said," + ""message"")
+                                                ^
+SyntaxError: invalid syntax
+In [4]: message = '"A person who never made a mistake never tried anything new.
+   ...: "'
+单引号内可以嵌入双引号（quotation marks)
+```
+
+今天把之前学的又练习了一下。
 
 
 
