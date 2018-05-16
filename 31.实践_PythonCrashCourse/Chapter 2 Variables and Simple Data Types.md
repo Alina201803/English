@@ -254,8 +254,106 @@ In [4]: message = '"A person who never made a mistake never tried anything new.
 
 今天把之前学的又练习了一下。
 
+2018-05-16
+
+**源代码**
+
+```python
+ 2 + 3
+ 5
+
+ 3 - 2
+ 1
+
+ 3 * 2
+ 6
+
+ 3 / 2
+ 1.5
+
+ 3 ** 3
+ 27
+
+ 10 ** 2
+ 100
+
+ 2 + 3*4
+ 14
+
+ 0.2 + 0.3
+ 0.5
+
+ 2 * 0.1
+ 0.2
+
+ 0.1 * 0.2
+ 0.020000000000000004
+
+ age = 23
+
+ message = "Happy " + age + "rd Birthday!"
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-12-1109a656b8f5> in <module>()
+----> 1 message = "Happy " + age + "rd Birthday!"
+
+TypeError: Can't convert 'int' object to str implicitly
+
+message = "Happy " + str(age) + "rd Birthday!"
+print(message)
+Happy 23rd Birthday!
+
+print(3+5)
+print(10-2)
+print(2*4)
+print(16/2)   
+8
+8
+8
+8.0
+
+number = 5
+message = "there are " + str(number) + " apples"
+print(message)
+there are 5 apples
+
+#Say hello to everyone.
+print("hello Python people!")
+hello Python people!
+
+import this
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+```
+
+**问题集**
+
+feature 是什么意思?
+
+**feature** 
+
+early 14c., "make, form, fashion" (obsolete), from Anglo-French feture, from Old French faiture "deed, action; fashion, shape, form; countenance," from Latin factura "a formation, a working," from past participle stem of facere "make, do, perform" (from PIE root *dhe- "to set, put").
 
 
 
-
-You could spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
+You should spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
