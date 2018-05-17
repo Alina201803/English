@@ -354,6 +354,119 @@ feature 是什么意思?
 
 early 14c., "make, form, fashion" (obsolete), from Anglo-French feture, from Old French faiture "deed, action; fashion, shape, form; countenance," from Latin factura "a formation, a working," from past participle stem of facere "make, do, perform" (from PIE root *dhe- "to set, put").
 
+2018-05-17
 
+**源代码**
+
+```python
+bicycles = ["trek" , "cannondale" , "redline" , "specialized" ]
+print(bicycles)
+['trek', 'cannondale', 'redline', 'specialized']
+
+bicycles = ['trek','cannondale','redline','specialized']
+print(bicycles)
+['trek', 'cannondale', 'redline', 'specialized']
+print(bicycles[0])
+trek
+print(bicycles[0].title())
+Trek
+print(bicycles[1])
+cannondale
+print(bicycles[2])
+redline
+print(bicycles[-1])
+specialized
+print(bicycles[-2]
+     
+     
+message = "My first bicycle was a " + bicycles[0].title() + "."
+print(message)
+My first bicycle was a Trek.
+
+names = ['Lida','Olivia','Kaga','Yuriya']
+print(names[0])
+Lida
+print(names[3])
+Yuriya
+print(names[-1])
+Yuriya
+message = "Hello, " + names[0] + "!" 
+print(message)
+Hello, Lida!
+message = "Hello, " +names[1] + "!"
+print(message)
+Hello, Olivia!
+
+motorcycles = ['honda','yamaha','suzuki']
+print(motorcycles)
+['honda', 'yamaha', 'suzuki']
+      
+motorcycles.append('ducati')
+print(motorcycles)
+['ducati', 'yamaha', 'suzuki', 'ducati']
+
+motorcycles = []
+ motorcycles.append('handa')
+ motorcycles.append('yamaha')
+ motorcycles.append('suzuki')
+ print(motorcycles)
+['handa', 'yamaha', 'suzuki']
+
+ motorcycles.insert(0,'ducati')
+ print(motorcycles)
+['ducati', 'handa', 'yamaha', 'suzuki']
+
+ del motorcycles[0]
+ print(motorcycles)
+['handa', 'yamaha', 'suzuki']
+
+ del motorcycles[1]
+ print(motorcycles)
+['handa', 'suzuki']
+
+ motorcycles = ['honda','yamaha','suzuki']
+ print(motorcycles)
+['honda', 'yamaha', 'suzuki']
+ popped_motorcycle = motorcycles.pop()
+ print(motorcycles)
+['honda', 'yamaha']
+ print(popped_motorcycle)
+suzuki
+
+ motorcycles = ['honda','yamaha','suzuki']
+    ...: last_owed = motorcycles.pop()
+    ...: print('The last motorcycles I owed was a '+ last_owed.title() + ".")
+    ...:
+    ...:
+The last motorcycles I owed was a Suzuki.
+```
+
+**错题集**
+
+```python
+In [24]: motocycles[0] = 'ducati'
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-24-b84fb9895f63> in <module>()
+----> 1 motocycles[0] = 'ducati'
+
+NameError: name 'motocycles' is not defined
+motorcycles 拼错了
+```
+
+**问题集**
+
+```python
+1 motorcycles = ['honda','yamaha','suzuki']
+ print(motorcycles)
+['honda', 'yamaha', 'suzuki']
+ popped_motorcycle = motorcycles.pop()
+2 print(motorcycles)
+['honda', 'yamaha']
+print(popped_motorcycle)
+suzuki
+不太明白为什么1和2中的print(motorcycles)结果不一样，我认为并没有从新定义motorcycles，只是新定义了一个popped_motorcycles.
+
+```
 
 You should spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
