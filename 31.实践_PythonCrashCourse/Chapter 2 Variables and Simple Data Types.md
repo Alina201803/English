@@ -464,9 +464,7 @@ motorcycles 拼错了
 2 print(motorcycles)
 ['honda', 'yamaha']
 print(popped_motorcycle)
-suzuki
-不太明白为什么1和2中的print(motorcycles)结果不一样，我认为并没有从新定义motorcycles，只是新定义了一个popped_motorcycles.
-
+suzuki 想明白了 没问题了；）
 ```
 
 You should spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
