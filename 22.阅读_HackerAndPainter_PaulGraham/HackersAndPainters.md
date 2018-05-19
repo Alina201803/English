@@ -72,9 +72,281 @@
 
 ## 6. How to Make Wealth
 
+**redundant**
 
+1. 助记：
 
+   red- 反复/往后 + -und- 溢出/水/水流 + -ant 形容词词尾 , …的
 
+   词源同 undulate,abound. 即流出 的，多余的，引申词义被裁员的
+
+2. 词源：
+
+   **Etymology**
+
+   **redundant** (adj.)
+
+   1590s, from Latin redundantem (nominative redundans), present participle of redundare, literally "overflow, pour over; be over-full;" figuratively "be in excess," from re- "again" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference)) + undare"rise in waves," from unda "a wave," from PIE *unda-, nasalized form of root [*wed-](https://www.etymonline.com/word/*wed-?ref=etymonline_crossreference) (1) "water; wet." Of persons, in employment situations, from 1928, chiefly British. Related: Redundantly. 
+
+   **redundant:** [17] Etymologically, something that is *redundant* ‘overflows’ because there is too much of it. The word comes from the present participle of Latin *redundāre* ‘flow back, overflow’ (source also of English *redound* [14]). This was a compound verb formed from the prefix *re*- ‘back, again’ and *undāre* ‘rise in waves, surge’, a derivative of *unda* ‘wave’ (source of English *undulate*). => [redound](http://www.youdict.com/etym/s/redound), [surround](http://www.youdict.com/etym/s/surround), [undulate](http://www.youdict.com/etym/s/undulate) 
+
+3. 释义：
+
+   Adjective
+
+   1. more than is needed, desired, or required;
+
+   2. use of more words than required to express an idea;
+
+   3. repetition of same sense in different words;
+
+   adj.  多余的，累赘的; （因人员过剩）被解雇的，失业的; 重沓; 衍;
+
+4. 例句：
+
+   Changes in technology may mean that once-valued skills are now redundant.
+
+   My husband was made redundant late last year.
+
+    to be made redundant from your job
+
+**laundry**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**detergent**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**premium**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**bullshit**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**wiggle**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**compress**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**outlier**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**lottery**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**spectacular**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**blunder**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**leverage**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**exclusive**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**hardball**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**extortion**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**graft**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**counterfeiting**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**fadget**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**stuff**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**laundry**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**interchangeable**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**rarity**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**fallacy**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**disprove**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**astray**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**butt**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**pristine**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**metaphorical**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**lumpy**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**ashtrays**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**proverbial**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**suck**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**mailroom**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**mediocre**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
+
+**penicillin**
+
+1. 助记：
+2. 词源
+3. 释义：
+4. 例句：
 
 ## 7. A Mind For Gap
 
