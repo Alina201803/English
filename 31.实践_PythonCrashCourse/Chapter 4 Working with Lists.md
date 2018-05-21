@@ -166,3 +166,147 @@ indenture（契约）：以锯齿状边缘分割的契约
 
 
 indentation 在计算机中 为缩进的意思  想象 参差不齐 有凹近 有突出 
+
+
+
+2018-05-20
+
+**源代码**
+
+```python
+1.
+In [1]: for value in range(1,5):
+   ...:     print(value)
+   ...:
+1
+2
+3
+4
+
+In [2]: for value in range(1,6):
+   ...:     print(value)
+   ...:
+1
+2
+3
+4
+5
+
+In [3]: numbers = list(range(1,6))
+
+In [4]: print(numbers)
+[1, 2, 3, 4, 5]
+
+In [5]: even_numbers = list(range(2,11,2))
+
+In [6]: print(even_numbers)
+[2, 4, 6, 8, 10]
+
+2.
+In [7]: squares = []
+In [9]: for value in range(1,11):
+   ...:     square = value**2
+   ...:     squares.append(square)
+   ...: print(squares)
+   ...:
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+更简洁
+In [23]: squares =[]
+In [24]: for value in range(1,11):
+    ...:     squares.append(value**2)
+    ...:
+
+In [25]: print(squares)
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+3.
+In [26]: digits = [1,2,3,4,5,6,7,8,9,0]
+
+In [27]: min(digits)
+Out[27]: 0
+
+In [28]: max(digits)
+Out[28]: 9
+
+In [29]: sum(digits)
+Out[29]: 45
+
+4.
+list comprehension
+In [30]: squares = [value**2 for value in range(1,11)]
+
+In [31]: print(squares)
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+练习：
+In [32]: for value in range(1,21):
+    ...:     print(value)
+    ...:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+In [33]: numbers = list(range(1,1000001))
+In [34]: min(numbers)
+Out[34]: 1
+In [35]: max(numbers)
+Out[35]: 1000000
+In [36]: sum(numbers)
+Out[36]: 500000500000
+
+In [39]: numbers =list(range(1,21,2))
+In [40]: print(numbers)
+[1, 3, 5, 7, 9, 11, 13, 15, 17, 19]
+
+In [41]: cubes =[]
+In [42]: for value in range(3,31):
+    ...:     cube = value**3
+    ...:     cubes.append(cube)
+In [43]: print(cubes)
+[27, 64, 125, 216, 343, 512, 729, 1000, 1331, 1728, 2197, 2744, 3375, 4096, 4913
+, 5832, 6859, 8000, 9261, 10648, 12167, 13824, 15625, 17576, 19683, 21952, 24389
+, 27000]
+
+In [44]: cubes = []
+In [45]: for value in range(1,11):
+    ...:     cube = value**3
+    ...:     cubes.append(cube）
+In [46]: print(cubes)
+[1, 8, 27, 64, 125, 216, 343, 512, 729, 1000]
+
+In [47]: cubes = [value**3 for value in range(1,11)]
+
+In [48]: print(cubes)
+[1, 8, 27, 64, 125, 216, 343, 512, 729, 1000]
+
+
+```
+
+**错题集**
+
+```python
+In [2]: cubes =[value**3 for value in range(1,11):]
+  File "<ipython-input-2-77dc9a385b94>", line 1
+    cubes =[value**3 for value in range(1,11):]
+                                           ^
+SyntaxError: invalid syntax
+list comprehension中 for loop statement 最后不用冒号
+
+```
