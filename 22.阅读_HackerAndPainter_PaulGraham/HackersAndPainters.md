@@ -113,9 +113,35 @@
 **laundry**
 
 1. 助记：
-2. 词源
+
+   **laund** ( **-lut-** )洗 + **-ry** 名词词尾 
+
+   **launder,** 洗熨衣物 
+
+2. 词源:
+
+   **laundry** (n.)
+   late 14c., "place for washing;" mid-15c., "act of washing," a contraction (compare launder) of Middle English lavendrie (late 13c.), from Old French lavanderie "wash-house," from Vulgar Latin lavandaria "things to be washed," plural of lavandarium, from lavare "to wash" (from PIE root *leue- "to wash"). English meaning "articles that need to be or have been laundered" is from 1916. As a verb, from 1880. Laundry list in figurative sense is from 1958.
+
+   **laundry:** [16] Although it is better disguised than most of its relatives, *laundry* is one of a large family of English words derived from Latin *lavāre* ‘wash’ (see LAVATORY). It is a contraction of an earlier *lavendry*, which came via Old French *lavanderie* from Latin *lavandārium* ‘things to be washed’. By the time it reached English it had also acquired the meaning ‘place where things are washed’. 
+
 3. 释义：
+
+   n. 要洗的衣服，洗衣店
+
+   n.
+
+   1. garments or white goods that can be cleaned by laundering
+
+   2. workplace where clothes are washed and ironed
+
 4. 例句：
+
+   I'll do your laundry... 
+
+    ...the room where I hang the laundry...
+
+    We had to have the washing done at the laundry.
 
 **detergent**
 
