@@ -153,3 +153,216 @@ SyntaxError: invalid syntax
 car = 'audi'   Set the value of car equal to 'audi'
 car== 'bmw'    Is the value of car equal to 'bmw'
 ```
+2018-05-23
+
+**源代码**
+
+```python
+In [1]: age = 19
+   ...: if age >= 18:
+   ...:     print("You are old enough to vote!")
+   ...:
+You are old enough to vote!
+
+In [3]: age = 19
+   ...: if age >= 18:
+   ...:     print("You are old enough to vote!")
+   ...:     print("Have you registered to vote yet?")
+   ...:
+You are old enough to vote!
+Have you registered to vote yet?
+
+In [4]: age = 17
+   ...: if age >= 18:
+   ...:     print("You are old enough to vote!")
+   ...:     print("Have you registered to vote yet?")
+   ...: else:
+   ...:     print("Sorry,you are too young to vote.")
+   ...:     print("Please register to vote as soon as you turn 18!")
+   ...:
+Sorry,you are too young to vote.
+Please register to vote as soon as you turn 18!
+
+In [5]: age = 12
+   ...:
+   ...: if age < 4:
+   ...:     print("Your admission cost is $0.")
+   ...: elif age < 8:
+   ...:     print("Your admission cost is $5.")
+   ...: else:
+   ...:     print("Your admission cost is $10.")
+   ...:
+Your admission cost is $10.
+
+In [6]: age = 12
+   ...:
+   ...: if age < 4:
+   ...:     price = 0
+   ...: elif age < 18:
+   ...:     price = 5
+   ...: else:
+   ...:     price = 10
+   ...:
+
+In [7]: print("Your admission cost is $"+str(price) + ".")
+   ...:
+Your admission cost is $5.
+
+In [8]: age = 12
+   ...:
+   ...: if age < 4:
+   ...:     price = 0
+   ...: elif age < 18:
+   ...:     price = 5
+   ...: elif age < 65:
+   ...:     price = 10
+   ...: else:
+   ...:     price = 5
+   ...: print("Your admission cost is $"+str(price) + ".")
+   ...:
+Your admission cost is $5.
+
+In [10]: requested_toppings = ['mushrooms','extra cheese']
+    ...:
+    ...: if 'mushrooms' in requested_toppings:
+    ...:     print("Adding mushrooms.")
+    ...: if 'pepperoni' in requested_toppings:
+    ...:     print("Adding pepperoni.")
+    ...: if 'extra cheese' in requested_toppings:
+    ...:     print("Adding extra cheese.")
+    ...:
+    ...: print("\nFished making your pizza!")
+    ...:
+Adding mushrooms.
+Adding extra cheese.
+
+Fished making your pizza!
+
+In [11]: requested_toppings = ['mushrooms','extra cheese']
+    ...:
+    ...: if 'mushrooms' in requested_toppings:
+    ...:     print("Adding mushrooms.")
+    ...: elif 'pepperoni' in requested_toppings:
+    ...:     print("Adding pepperoni.")
+    ...: elif 'extra cheese' in requested_toppings:
+    ...:     print("Adding extra cheese.")
+    ...:
+    ...: print("\nFished making your pizza!")
+    ...:
+Adding mushrooms.
+
+Fished making your pizza!
+
+练习：
+1.
+In [12]: alien_color = ['green','yellow','red']
+    ...:
+    ...: Alien = alien_color[0]
+    ...: if Alien == 'green':
+    ...:     print('You just earned 5 points!')
+    ...:
+You just earned 5 points!
+
+In [13]: alien_color = ['green','yellow','red']
+    ...:
+    ...: Alien = alien_color[0]
+    ...: if Alien == 'red':
+    ...:     print('You just earned 5 points!')
+    ...:
+
+In [14]: alien_color = ['green','yellow','red']
+    ...:
+    ...: Alien = alien_color[2]
+    ...: if Alien == 'green':
+    ...:     print('You just earned 5 points!')
+    ...: elif Alien != 'green':
+    ...:     print("You just earned 10 points!")
+    ...:
+You just earned 10 points!
+
+In [15]: alien_color = ['green','yellow','red']
+    ...:
+    ...: Alien = alien_color[2]
+    ...: if Alien == 'green':
+    ...:     print('You just earned 5 points!')
+    ...: else:
+    ...:     print("You just earned 10 points!")
+    ...:
+You just earned 10 points!
+
+In [16]: alien_color = ['green','yellow','red']
+    ...:
+    ...: Alien = alien_color[2]
+    ...: if Alien == 'green':
+    ...:     print('You just earned 5 points!')
+    ...: elif Alien == 'yellow':
+    ...:     print("You just earned 10 points!")
+    ...: elif Alien == 'red':
+    ...:     print("You just earned 15 points!")
+    ...:
+You just earned 15 points!
+2.
+In [23]: age = 44
+    ...: if age < 2:
+    ...:     print('The person is a baby.')
+    ...: elif age <4:
+    ...:     print('The person is a toddler.')
+    ...: elif age <13:
+    ...:     print('The person is a kid.')
+    ...: elif age <20:
+    ...:     print('The person is a teenager.')
+    ...: elif age <65:
+    ...:     print('The person is a adult.')
+    ...:
+    ...: else:
+    ...:      print('The person is a elder.')
+    ...:
+The person is a adult.
+
+
+```
+
+**错题集**
+
+```python
+In [20]: age = 44
+    ...: if age < 2:
+    ...:     print('The person is a baby.')
+    ...: elif age >= 2:
+    ...:     print('The person is a toddler.')
+    ...: elif age >= 4:
+    ...:     print('The person is a kid.')
+    ...: elif age >= 13:
+    ...:     print('The person is a teenager.')
+    ...: elif age >= 20:
+    ...:     print('The person is a adult.')
+    ...: elif age >=65:
+    ...:     print('The person is a elder.')
+    ...: else:
+    ...:      print('The person is a elder.')
+    ...:
+The person is a toddler.
+改为
+In [23]: age = 44
+    ...: if age < 2:
+    ...:     print('The person is a baby.')
+    ...: elif age <4:
+    ...:     print('The person is a toddler.')
+    ...: elif age <13:
+    ...:     print('The person is a kid.')
+    ...: elif age <20:
+    ...:     print('The person is a teenager.')
+    ...: elif age <65:
+    ...:     print('The person is a adult.')
+    ...:
+    ...: else:
+    ...:      print('The person is a elder.')
+    ...:
+The person is a adult.
+
+```
+
+**问题集**
+
+今日所学：if statements, if -else, if-elif-else 
+
