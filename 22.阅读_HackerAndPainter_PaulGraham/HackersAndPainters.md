@@ -143,12 +143,44 @@
 
     We had to have the washing done at the laundry.
 
-**detergent**
+**detergent** [dɪˈtɜrdʒənt]
 
 1. 助记：
-2. 词源
+
+   de-, 向下，强调。 -terg, 转，磨擦，词源同 turn, terse. 引申义洗涤，洗涤剂。
+
+2. 词源：
+
+   detergent: [17] A detergent is literally something that ‘wipes away’. The word comes from dētergent-, the present participial stem of Latin dētergēre, a compound verb formed from dē- ‘away’ and tergēre ‘wipe’ (its past participle produced English terse). English detergent originally meant simply ‘cleansing agent’ (used particularly in a medical or surgical context); the specific application to a cleanser made from synthetic chemical compounds (as opposed to soap, which is made from fats and lye) is a 20thcentury development.
+   => terse
+
+   detergent (adj.)
+   1610s, from Latin detergentem (nominative detergens), present participle of detergere "to wipe away, cleanse," from de- "off, away" (see de-) + tergere "to rub, polish, wipe." Originally a medical term, application to "chemical cleansing product" is from 1938.
+
+   detergent (n.)
+
+   "detergent substance," 1670s, from detergent (adj.).
+
 3. 释义：
+
+   n.  洗涤剂; 去垢剂;
+
+   Noun
+
+   1. a surface-active chemical widely used in industry and laundering
+
+   2. a cleansing agent that differs from soap but can also emulsify oils and hold dirt in suspension
+
+   Adjective
+   1. having cleansing power
+
 4. 例句：
+
+   The active ingredient in some of the mouthwashes was simply detergent.
+
+   Wash in warm water with liquid detergent. 
+
+   Grease marks can be removed with liquid detergent.
 
 **premium**
 

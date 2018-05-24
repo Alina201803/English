@@ -310,3 +310,144 @@ SyntaxError: invalid syntax
 list comprehension中 for loop statement 最后不用冒号
 
 ```
+2018-05-21
+
+**源代码**
+
+```python
+1.
+In [1]:  players = ['charles','martina','michael','florence','eli']
+   ...: print(players[0:3])
+   ...:
+['charles', 'martina', 'michael']
+
+In [3]: print(players[1:4])
+['martina', 'michael', 'florence']
+
+In [4]: print(players[:4])
+['charles', 'martina', 'michael', 'florence']
+
+In [5]: print(players[2:])
+['michael', 'florence', 'eli']
+
+In [6]: print(players[-3:])
+['michael', 'florence', 'eli']
+
+In [7]: print("Here are the first three palyers on my team:")
+Here are the first three palyers on my team:
+
+In [8]: for player in players[:3]:
+   ...:     print(player.title())
+   ...:
+Charles
+Martina
+Michael
+
+2.
+In [9]: my_foods = ['pizza','falafel','carrot cake']
+
+In [10]: friend_foods = my_foods[:]
+
+In [11]: print("My favorite foods are:")
+My favorite foods are:
+3.
+In [14]: my_foods = ['pizza','falafel','carrot cake']
+    ...: friend_foods = my_foods[:]
+    ...: print("My favorite foods are:")
+    ...: print(my_foods)
+    ...: print("\nMy friend's favorite foods are:")
+    ...: print(friend_foods)
+    ...:
+My favorite foods are:
+['pizza', 'falafel', 'carrot cake']
+
+My friend's favorite foods are:
+['pizza', 'falafel', 'carrot cake']
+4.
+In [15]: my_foods.append('cannoli')
+    ...: friend_foods.append('ice cream')
+    ...: print("My favorite foods are:")
+    ...: print(my_foods)
+    ...: print("\nMy friend's favorite foods are:")
+    ...: print(friend_foods)
+    ...:
+My favorite foods are:
+['pizza', 'falafel', 'carrot cake', 'cannoli']
+
+My friend's favorite foods are:
+['pizza', 'falafel', 'carrot cake', 'ice cream']
+
+In [16]: my_foods = ['pizza','falafel','carrot cake']
+    ...: friend_foods = my_foods
+    ...: my_foods.append('cannoli')
+    ...: friend_foods.append('ice cream')
+    ...: print("My favorite foods are:")
+    ...: print(my_foods)
+    ...: print("\nMy friend's favorite foods are:")
+    ...: print(friend_foods)
+    ...:
+My favorite foods are:
+['pizza', 'falafel', 'carrot cake', 'cannoli', 'ice cream']
+
+My friend's favorite foods are:
+['pizza', 'falafel', 'carrot cake', 'cannoli', 'ice cream']
+
+5.
+In [17]: dimensions = (200,5)
+    ...: print(dimensions[0])
+    ...: print(dimensions[1])
+    ...:
+200
+5
+In [18]: dimensions[0] = 250
+----------------------------------------------------------------------
+TypeError                                 Traceback (most recent call
+<ipython-input-18-7e4e55b78966> in <module>()
+----> 1 dimensions[0] = 250
+
+TypeError: 'tuple' object does not support item assignment
+
+In [20]: dimensions = (200,5)
+    ...: print("Original dimensions")
+    ...: for dimension in dimensions:
+    ...:     print(dimension)
+    ...: dimensions = (400,100)
+    ...: print("\nModified dimensions")
+    ...: for dimension in dimensions:
+    ...:     print(dimension)
+    ...:
+Original dimensions
+200
+5
+
+Modified dimensions
+400
+100
+
+```
+
+**错题集**
+
+```python
+今天没有意外的错误:) 
+
+总结一下所学内容：
+
+1.slicing a list : print(players[0:3])
+
+2.looping through a slice : for player in players[:3]:
+                            	print(player)
+            
+3.copying a list : friend_foods = my_foods[:]
+  friend_foods = my_foods (doesn't work)
+                           
+4.tuples:an immutable list 将lists中的[] 换为（）
+
+```
+
+
+
+
+
+
+
