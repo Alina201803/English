@@ -366,3 +366,228 @@ The person is a adult.
 
 今日所学：if statements, if -else, if-elif-else 
 
+2018-05-24
+
+**源代码**
+
+```python
+In [1]: requested_toppings = ['mushrooms','green peppers','extra cheese']
+   ...:
+   ...: for requested_topping in requested_toppings:
+   ...:     print('Adding '+ requested_topping + '.')
+   ...:
+   ...: print("\nFinished making your pizza!")
+   ...:
+Adding mushrooms.
+Adding green peppers.
+Adding extra cheese.
+
+Finished making your pizza!
+
+In [2]: requested_toppings = ['mushrooms','green peppers','extra cheese']
+   ...:
+   ...: for requested_topping in requested_toppings:
+   ...:     if requested_topping == 'green peppers':
+   ...:         print('Sorry, we are out of green peppers right now.')
+   ...: else:
+   ...:     print('Adding '+ requested_topping + '.')
+   ...:
+   ...: print("\nFinished making your pizza!")
+   ...:
+Sorry, we are out of green peppers right now.
+Adding extra cheese.
+
+Finished making your pizza!
+In [5]: requested_toppings = ['mushrooms','green peppers','extra cheese']
+   ...:
+   ...: for requested_topping in requested_toppings:
+   ...:     if requested_topping == 'extra cheese':
+   ...:         print('Sorry, we are out of green peppers right now.')
+   ...: else:
+   ...:     print('Adding '+ requested_topping + '.')
+   ...:
+   ...: print("\nFinished making your pizza!")
+   ...:
+   ...:
+Sorry, we are out of green peppers right now.
+Adding extra cheese.
+
+Finished making your pizza!
+
+In [6]: requested_toppings = ['mushrooms','green peppers','extra cheese']
+   ...:
+   ...: for requested_topping in requested_toppings:
+   ...:     if requested_topping == 'extra cheese':
+   ...:         print('Sorry, we are out of green peppers right now.')
+   ...: else:
+   ...:     print('Adding '+ requested_topping + '.')
+   ...:
+Sorry, we are out of green peppers right now.
+Adding extra cheese.
+In [9]: requested_toppings = ['mushrooms','green peppers','extra cheese']
+   ...: for requested_topping in requested_toppings:
+   ...:     if requested_topping == 'mushrooms':
+   ...:         print("Sorry, we are out of mushrooms right now.")
+   ...:     else:
+   ...:         print('Adding '+ requested_topping + '.')
+   ...:
+Sorry, we are out of mushrooms right now.
+Adding green peppers.
+Adding extra cheese.
+
+In [16]: requested_toppings = []
+    ...:
+    ...: if requested_toppings:
+    ...:     for requested_topping in requested_toppings:
+    ...:         print('Adding '+ requested_topping + '.')
+    ...:     print("\nFinished making your pizza!")
+    ...: else:
+    ...:     print("Are you sure you want a plain pizza?")
+    ...:
+    ...:
+Are you sure you want a plain pizza?
+In [17]: availible_toppings = ["mushrooms","olives","green peppers","pepperoni"
+    ...: ,"pineapple","extra cheese"]
+    ...:
+    ...: requested_toppings = ["mushrooms","french fries","extra chesse"]
+    ...: for requested_topping in requested_toppings:
+    ...:     if requested_topping in available_toppings:
+    ...:         print("Adding "+ requested_topping + ".")
+    ...:     else:
+    ...:         print("Sorry , we don't have " +requested_topping +".")
+    ...:
+    ...: print("\nFinished making your pizza!")
+    ...:
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-17-6f8013e22e80> in <module>()
+      3 requested_toppings = ["mushrooms","french fries","extra chesse"]
+      4 for requested_topping in requested_toppings:
+----> 5     if requested_topping in available_toppings:
+      6         print("Adding "+ requested_topping + ".")
+      7     else:
+
+NameError: name 'available_toppings' is not defined
+
+
+In [19]: availible_toppings = ["mushrooms","olives","green peppers","pepperoni"
+    ...: ,"pineapple","extra cheese"]
+    ...:
+    ...: requested_toppings = ["mushrooms","french fries","extra cheese"]
+    ...:
+
+In [20]: for requested_topping in requested_toppings:
+    ...:     if requested_topping in availible_toppings:
+    ...:         print("Adding "+ requested_topping + ".")
+    ...:     else:
+    ...:         print("Sorry , we don't have " +requested_topping +".")
+    ...:
+    ...: print("\nFinished making your pizza!")
+    ...:
+Adding mushrooms.
+Sorry , we don't have french fries.
+Adding extra cheese.
+
+Finished making your pizza!
+
+练习：（1）
+In [23]: usernames = ['admin','alina','alek','oliva','david']
+    ...:
+    ...: for username in usernames:
+    ...:     if username == 'admin':
+    ...:         print("Hello admin,would you like to see a status report?")
+    ...:     else:
+    ...:         print("Hello,"+ username.title()+" thank you for logging in ag
+    ...: ain.")
+    ...:
+Hello admin,would you like to see a status report?
+Hello,Alina thank you for logging in again.
+Hello,Alek thank you for logging in again.
+Hello,Oliva thank you for logging in again.
+Hello,David thank you for logging in again.
+练习（2）
+In [24]: usernames = []
+    ...:
+    ...: if usernames:
+    ...: for username in usernames:
+    ...:     if username == 'admin':
+    ...:         print("Hello admin,would you like to see a status report?")
+    ...:     else:
+    ...:         print("Hello,"+ username.title()+" thank you for logging in ag
+    ...: ain.")
+    ...: else:
+    ...:     print("This is an empty list.")
+    ...:
+  File "<ipython-input-24-c514d17bb338>", line 4
+    for username in usernames:
+      ^
+IndentationError: expected an indented block
+In [27]: usernames = []
+    ...:
+    ...: if usernames:
+    ...:     for username in usernames:
+    ...:         if username == 'admin':
+    ...:             print("Hello admin,would you like to see a status report?"
+    ...: )
+    ...:         else:
+    ...:             print("Hello,"+ username.title()+" thank you for logging i
+    ...: n again.")
+    ...: else:
+    ...:     print("This is an empty list.")
+    ...:
+This is an empty list.
+练习（3）
+In [28]: numbers = [1,2,3,4,5,6,7,8,9]
+   ...: for number in numbers:
+   ...:     if number == 1:
+   ...:         print(str(number)+"st")
+   ...:     elif number == 2:
+   ...:         print(str(number)+"nd")
+   ...:     elif number == 3:
+   ...:         print(str(number)+"rd")
+   ...:     else:
+   ...:         print(str(number)+"th")
+   ...:
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+```
+
+**错题集**
+
+```python
+In [8]: requested_toppings = ['mushrooms','green peppers','extra cheese']
+   ...: for requested_topping in requested_toppings:
+   ...:     if requested_topping == 'mushrooms':
+   ...:         print("Sorry, we are out of mushrooms right now.")
+   ...: else:
+   ...:     print('Adding '+ requested_topping + '.')
+   ...:
+   ...: print("\nFinished making your pizza!")
+   ...:
+Sorry, we are out of mushrooms right now.
+Adding extra cheese.
+
+Finished making your pizza!
+
+In [9]: requested_toppings = ['mushrooms','green peppers','extra cheese']
+   ...: for requested_topping in requested_toppings:
+   ...:     if requested_topping == 'mushrooms':
+   ...:         print("Sorry, we are out of mushrooms right now.")
+   ...:     else:
+   ...:         print('Adding '+ requested_topping + '.')
+   ...:
+Sorry, we are out of mushrooms right now.
+Adding green peppers.
+Adding extra cheese.
+
+Finished making your pizza!
+试了好几次，发现output总少一行Adding green peppers
+发现原因是 else 前面没有 indentation，[9]中是正确的.
+```
