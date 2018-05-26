@@ -185,9 +185,37 @@
 **premium**
 
 1. 助记：
-2. 词源
+
+   来自拉丁语 praemium, 奖励，奖品，战利品，来自 prae, 在前， -em, 拿，带，获得，词源 example,exempt. 后用于形容词词义优质的，高端的，即额外的奖品。由该形容词词义又用于指经济学术语加价，溢价，保险费等。
+
+2. 词源：
+
+   c. 1600, "reward given for a specific act," from Latin praemium "reward, profit derived from booty," from prae- "before" (see pre-) + emere "to buy," originally "to take" (see exempt (adj.)). Insurance sense is 1660s, from Italian premio. Adjectival sense of "superior in quality" is first attested 1925, originally in reference to butter.
+
 3. 释义：
+
+   n.  额外费用; 保险费; 附加费; adj.  高昂的; 优质的;
+
+   Noun
+
+   1. payment for insurance
+
+   2. a fee charged for exchanging currencies
+
+   3. payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military
+
+   Adjective
+   1. having or reflecting superior quality or value;
+
 4. 例句：
+
+    Callers are charged a premium rate of 48p a minute.
+
+    He eventually sold the shares back to the bank at a premium.
+
+   They put a high premium on prevention and primary care.
+
+   At the premium end of the market, business is booming.
 
 **bullshit**
 
