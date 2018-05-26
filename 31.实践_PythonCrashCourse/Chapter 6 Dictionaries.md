@@ -192,3 +192,297 @@ slice:
 
 
 ```
+2018-05-26
+
+**源代码**
+
+```python
+In [1]: user_0 = {
+   ...:     'username':'efermi',
+   ...:     'first':'enrico',
+   ...:     'last':'fermi',
+   ...:     }
+   ...:
+
+In [2]: for key,value in user_0.items():
+   ...:     print("\nkey: "+ key)
+   ...:     print("value: "+ value)
+   ...:
+
+key: username
+value: efermi
+
+key: last
+value: fermi
+
+key: first
+value: enrico
+
+In [4]: favorite_languages = {
+   ...:     'jen': 'python',
+   ...:     'sarah': 'c',
+   ...:     'edward': 'ruby',
+   ...:     'phil': 'python',
+   ...:     }
+   ...:
+   ...: for name,language in favorite_languages.item():
+   ...:     print(name.title() + "'s favorite language is " +
+   ...:         language.title() + ".")
+   ...:
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+<ipython-input-4-09fd2eb0e2dd> in <module>()
+      6     }
+      7
+----> 8 for name,language in favorite_languages.item():
+      9     print(name.title() + "'s favorite language is " +
+     10         language.title() + ".")
+
+AttributeError: 'dict' object has no attribute 'item'
+
+In [5]: favorite_languages = {
+   ...:     'jen': 'python',
+   ...:     'sarah': 'c',
+   ...:     'edward': 'ruby',
+   ...:     'phil': 'python',
+   ...:     }
+   ...:
+   ...: for name,language in favorite_languages.items():
+   ...:     print(name.title() + "'s favorite language is " +
+   ...:         language.title() + ".")
+   ...:
+Phil's favorite language is Python.
+Sarah's favorite language is C.
+Jen's favorite language is Python.
+Edward's favorite language is Ruby.
+
+In [9]: favorite_languages = {
+   ...:     'jen': 'python',
+   ...:     'sarah': 'c',
+   ...:     'edward': 'ruby',
+   ...:     'phil': 'python',
+   ...:     }
+   ...:
+   ...: friends = ['phil','sarah']
+   ...: for name in favorite_languages.keys():
+   ...:     print(name.title())
+   ...:
+   ...:     if name in friends:
+   ...:         print(" Hi " + name.title() +
+   ...:             ", I see your favorite language is " +
+   ...:             favorite_languages[name].title() + "!")
+   ...:
+Phil
+ Hi Phil, I see your favorite language is Python!
+Sarah
+ Hi Sarah, I see your favorite language is C!
+Jen
+Edward
+
+In [10]: favorite_languages = {
+    ...:     'jen': 'python',
+    ...:     'sarah': 'c',
+    ...:     'edward': 'ruby',
+    ...:     'phil': 'python',
+    ...:     }
+    ...:
+    ...: if 'erin' not in favorite_languages.keys():
+    ...:     print("Erin, please take our poll!")
+    ...:
+Erin, please take our poll!
+
+In [12]: favorite_languages = {
+    ...:     'jen': 'python',
+    ...:     'sarah': 'c',
+    ...:     'edward': 'ruby',
+    ...:     'phil': 'python',
+    ...:     }
+    ...:
+    ...: for name in sorted(favorite_languages.keys()):
+    ...:     print(name.title() + " ,thank you for taking the poll.")
+    ...:
+Edward ,thank you for taking the poll.
+Jen ,thank you for taking the poll.
+Phil ,thank you for taking the poll.
+Sarah ,thank you for taking the poll.
+
+In [13]: favorite_languages = {
+    ...:     'jen': 'python',
+    ...:     'sarah': 'c',
+    ...:     'edward': 'ruby',
+    ...:     'phil': 'python',
+    ...:     }
+    ...:
+    ...: print("The following languages have been mentioned:")
+    ...: for language in favorite_languages.values():
+    ...:     print(language.title())
+    ...:
+The following languages have been mentioned:
+Python
+C
+Python
+Ruby
+
+In [14]: favorite_languages = {
+    ...:     'jen': 'python',
+    ...:     'sarah': 'c',
+    ...:     'edward': 'ruby',
+    ...:     'phil': 'python',
+    ...:     }
+    ...:
+    ...: print("The following languages have been mentioned:")
+    ...: for language in set(favorite_languages.values()):
+    ...:     print(language.title())
+    ...:
+The following languages have been mentioned:
+C
+Ruby
+Python
+练习（1）
+In [15]: rivers = {
+    ...:     'nile':'egypt',
+    ...:     'amazon':'brazil',
+    ...:     'yangtse':'china',
+    ...:     }
+    ...:
+    ...: for river,country in rivers.items():
+    ...:     print("\nThe " + river.title() +
+    ...:         "runs through" + country.title() + '.')
+    ...:
+
+The Amazonruns throughBrazil.
+
+The Nileruns throughEgypt.
+
+The Yangtseruns throughChina.
+
+In [16]: rivers = {
+    ...:     'nile':'egypt',
+    ...:     'amazon':'brazil',
+    ...:     'yangtse':'china',
+    ...:     }
+    ...:
+    ...: for river,country in rivers.items():
+    ...:     print("\nThe " + river.title() +
+    ...:         " runs through" + country.title() + '.')
+    ...:
+
+The Amazon runs throughBrazil.
+
+The Nile runs throughEgypt.
+
+The Yangtse runs throughChina.
+
+In [17]: rivers = {
+    ...:     'nile':'egypt',
+    ...:     'amazon':'brazil',
+    ...:     'yangtse':'china',
+    ...:     }
+    ...:
+    ...: for river,country in rivers.items():
+    ...:     print("\nThe " + river.title() +
+    ...:         " runs through " + country.title() + '.')
+    ...:
+
+The Amazon runs through Brazil.
+
+The Nile runs through Egypt.
+
+The Yangtse runs through China.
+
+In [19]: rivers = {
+    ...:     'nile':'egypt',
+    ...:     'amazon':'brazil',
+    ...:     'yangtse':'china',
+    ...:     }
+    ...:
+
+In [20]: for river in rivers.keys():
+    ...:     print(river.title())
+    ...: for country in rivers.values():
+    ...:     print(country.title())
+    ...:
+Amazon
+Nile
+Yangtse
+Brazil
+Egypt
+China
+练习（2）
+In [21]: favorite_languages = {
+    ...:     'jen': 'python',
+    ...:     'sarah': 'c',
+    ...:     'edward': 'ruby',
+    ...:     'phil': 'python',
+    ...:     }
+    ...:
+    ...: names = ['jen','sarah','kate','david']
+    ...: for name in names:
+    ...:     if name in favorite_languages.keys():
+    ...:         print(name.title() + " Thank you for responding !")
+    ...:     else:
+    ...:         print(name.title() + " Please join the poll!")
+    ...:
+Jen Thank you for responding !
+Sarah Thank you for responding !
+Kate Please join the poll!
+David Please join the poll!
+
+```
+
+**问题集**
+
+```python
+In [3]: favorite_languages = {
+   ...:     'jen': 'python',
+   ...:     'sarah': 'c',
+   ...:     'edward': 'ruby',
+   ...:     'phil': 'python',
+   ...:     }
+   ...:
+   ...: for name ,language in favorite_languages.item():
+   ...:     print(name.title() + "'s favorite language is " +
+   ...:         language.title() + ".")
+   ...:
+---------------------------------------------------------------------------
+AttributeError                            Traceback (most recent call last)
+<ipython-input-3-d0fc9145e86c> in <module>()
+      6     }
+      7
+----> 8 for name ,language in favorite_languages.item():
+      9     print(name.title() + "'s favorite language is " +
+     10         language.title() + ".")
+
+AttributeError: 'dict' object has no attribute 'item'
+items() 掉了最后的s 拼成了item()
+In [15]: rivers = {
+    ...:     'nile':'egypt',
+    ...:     'amazon':'brazil',
+    ...:     'yangtse':'china',
+    ...:     }
+    ...:
+    ...: for river,country in rivers.items():
+    ...:     print("\nThe " + river.title() +
+    ...:         "runs through" + country.title() + '.')
+    ...:
+
+The Amazonruns throughBrazil.
+
+The Nileruns throughEgypt.
+
+The Yangtseruns throughChina.
+注意str（）中加入空格，让output更好看 
+
+```
+
+**问题集**
+
+今日所学：
+
+loop through all key_value pairs in a dictionary
+
+loop through all keys in a dictionary
+
+loop through a dictionary's keys in order 用到了sorted() 果然不用容易忘
+
+loop through all values in a dictionary
