@@ -486,3 +486,334 @@ loop through all keys in a dictionary
 loop through a dictionary's keys in order 用到了sorted() 果然不用容易忘
 
 loop through all values in a dictionary
+
+
+
+2018-05-27
+
+**源代码**
+
+```python
+In [1]: alien_0 = {'color': 'green','points':5}
+   ...: alien_1 = {'color': 'yellow','points': 10}
+   ...: alien_2 = {'color':'red','points': 15}
+   ...:
+   ...: aliens = [alien_0,alien_1,alien_2]
+   ...:
+   ...: for alien in aliens:
+   ...:     print(alien)
+   ...:
+{'points': 5, 'color': 'green'}
+{'points': 10, 'color': 'yellow'}
+{'points': 15, 'color': 'red'}
+
+In [2]: aliens = []
+   ...:
+   ...: for alien_number in range(30):
+   ...:     new_alien = {'color':'green','points':5,'speed':'slow'}
+   ...:     aliens.append(new_alien)
+   ...:
+   ...: for alien in aliens[:5]:
+   ...:     print(alien)
+   ...: print("...")
+   ...:
+   ...: print("Total number of aliens: " + str(len(aliens)))
+   ...:
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+...
+Total number of aliens: 30
+In [4]: aliens = []
+   ...:
+   ...: for alien_number in range(30):
+   ...:     new_alien = {'color':'green','points':5,'speed':'slow'}
+   ...:     aliens.append(new_alien)
+   ...:
+   ...: for alien in aliens[0:3]:
+   ...:     if alien['color'] == 'green':
+   ...:         alien['color'] == 'yellow'
+   ...:         alien['speed'] == 'medium'
+   ...:         alien['points'] = 10
+   ...:
+   ...: for alien in aliens[:5]:
+   ...:     print(alien)
+   ...: print("...")
+   ...:
+{'points': 10, 'speed': 'slow', 'color': 'green'}
+{'points': 10, 'speed': 'slow', 'color': 'green'}
+{'points': 10, 'speed': 'slow', 'color': 'green'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+...
+In [7]: aliens = []
+   ...:
+   ...: for alien_number in range(30):
+   ...:     new_alien = {'color':'green','points':5,'speed':'slow'}
+   ...:     aliens.append(new_alien)
+   ...:
+   ...: for alien in aliens[0:3]:
+   ...:     if alien['color'] == 'green':
+   ...:         alien['color'] = 'yellow'
+   ...:         alien['speed'] = 'medium'
+   ...:         alien['points'] = 10
+   ...:     elif alien['color'] =='yellow':
+   ...:         alien['color'] ='red'
+   ...:         alien['speed'] ='fast'
+   ...:         alien['points']=15
+   ...:
+
+In [8]:
+   ...: for alien in aliens[:5]:
+   ...:     print(alien)
+   ...: print("...")
+   ...:
+{'points': 10, 'speed': 'medium', 'color': 'yellow'}
+{'points': 10, 'speed': 'medium', 'color': 'yellow'}
+{'points': 10, 'speed': 'medium', 'color': 'yellow'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+{'points': 5, 'speed': 'slow', 'color': 'green'}
+...
+
+In [9]: pizza = {
+   ...:     'crust':'thick',
+   ...:     'toppings':['mushrooms','extra cheese'],
+   ...:     }
+   ...:
+   ...: print("You ordered a " + pizza['crust'] + "-crust pizza " +
+   ...:     "with the folowing toppings:")
+   ...:
+   ...: for topping in pizza['toppings']:
+   ...:     print("\t" + topping)
+   ...:
+   ...:
+You ordered a thick-crust pizza with the folowing toppings:
+        mushrooms
+        extra cheese
+In [10]: pizza = {
+    ...:     'crust':'thick',
+    ...:     'toppings':['mushrooms','extra cheese'],
+    ...:     }
+    ...:
+    ...: print("You ordered a " + pizza['crust'] + "-crust pizza " +
+    ...:     "with the folowing toppings:")
+    ...:
+    ...: for topping in pizza['toppings']:
+    ...:     print(topping)
+    ...:
+You ordered a thick-crust pizza with the folowing toppings:
+mushrooms
+extra cheese
+In [19]: favorite_languages = {
+    ...:     'jen': ['python','ruby']
+    ...:     'sarah': ['c']
+    ...:     'edward': ['ruby','go']
+    ...:     'phil':['python','haskell']
+    ...:     }
+    ...:
+    ...: for name,languages in favorite_languages.item():
+    ...:     print("\n" + name.title() + "'s favorite languages are:")
+    ...:     for language in languages:
+    ...:         print("\t" + language.title())
+    ...:
+  File "<ipython-input-19-5d3b1fce21e4>", line 3
+    'sarah': ['c']
+          ^
+SyntaxError: invalid syntax
+In [22]: favorite_languages = {
+    ...:     'jen': ['python','ruby'],
+    ...:     'sarah': ['c'],
+    ...:     'edward': ['ruby','go'],
+    ...:     'phil':['python','haskell']
+    ...:     }
+    ...:
+    ...: for name,languages in favorite_languages.items():
+    ...:     print("\n" + name.title() + "'s favorite languages are:")
+    ...:     for language in languages:
+    ...:         print("\t" + language.title())
+    ...:
+
+Jen's favorite languages are:
+        Python
+        Ruby
+
+Phil's favorite languages are:
+        Python
+        Haskell
+
+Edward's favorite languages are:
+        Ruby
+        Go
+
+Sarah's favorite languages are:
+        C
+In [23]: favorite_languages = {
+    ...:     'jen': ['python','ruby'],
+    ...:     'sarah': ['c'],
+    ...:     'edward': ['ruby','go'],
+    ...:     'phil':['python','haskell']
+    ...:     }
+    ...:
+    ...: for name,languages in favorite_languages.items():
+    ...:     print("\n" + name.title() + "'s favorite languages are:")
+    ...:     for language in languages:
+    ...:         print("    " + language.title())
+    ...:
+
+Jen's favorite languages are:
+    Python
+    Ruby
+
+Phil's favorite languages are:
+    Python
+    Haskell
+
+Edward's favorite languages are:
+    Ruby
+    Go
+
+Sarah's favorite languages are:
+    C
+In [24]: users = {
+    ...:     'aeinstein':{
+    ...:         'first':'albert',
+    ...:         'last': 'einstein',
+    ...:         'location':'princeton',
+    ...:         },
+    ...:     'mcurie':{
+    ...:         'first':'marie',
+    ...:         'last':'curie',
+    ...:         'location':'paris',
+    ...:         },
+    ...:     }
+    ...:
+
+In [25]: for username,user_info in users.items():
+    ...:     print("\nUsername: " + username)
+    ...:     full_name = user_info['first'] + " " + user.info['last']
+    ...:     location = user_info['location']
+    ...:
+    ...:     print("\tFull name: " + full_name.title())
+    ...:     print("\tLocation: " + location,title())
+    ...:
+
+Username: aeinstein
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-25-59f2dd8954c4> in <module>()
+      1 for username,user_info in users.items():
+      2     print("\nUsername: " + username)
+----> 3     full_name = user_info['first'] + " " + user.info['last']
+      4     location = user_info['location']
+      5
+
+NameError: name 'user' is not defined
+In [29]: users = {
+    ...:     'aeinstein':{
+    ...:         'first':'albert',
+    ...:         'last': 'einstein',
+    ...:         'location':'princeton',
+    ...:         },
+    ...:     'mcurie':{
+    ...:         'first':'marie',
+    ...:         'last':'curie',
+    ...:         'location':'paris',
+    ...:         },
+    ...:     }
+    ...:
+    ...: for username, user_info in users.items():
+    ...:     print("\nUsername: " + username)
+    ...:     full_name = user_info['first'] + " " + user_info['last']
+    ...:     location = user_info['location']
+    ...:
+    ...:     print("Full name: " + full_name.title())
+    ...:     print("Location: " + location.title())
+    ...:
+
+Username: aeinstein
+Full name: Albert Einstein
+Location: Princeton
+
+Username: mcurie
+Full name: Marie Curie
+Location: Paris
+
+
+```
+
+**错题集**
+
+```python
+In [18]: favorite_languages = {
+    ...:     'jen': ['python','ruby']
+    ...:     'sarah': ['c']
+    ...:     'edward': ['ruby','go']
+    ...:     'phil':['python','haskell']
+    ...:     }
+    ...:
+    ...: for name,languages in favorite_languages.items():
+    ...:     print("\n" + name.title() + "'s favorite languages are:")
+    ...:     for language in languages:
+    ...:         print("\t" + language.title())
+    ...:
+  File "<ipython-input-18-1942d90aa1a5>", line 3
+    'sarah': ['c']
+          ^
+SyntaxError: invalid syntax
+In [22]: favorite_languages = {
+    ...:     'jen': ['python','ruby'],
+    ...:     'sarah': ['c'],
+    ...:     'edward': ['ruby','go'],
+    ...:     'phil':['python','haskell']
+    ...:     }
+    ...:
+    ...: for name,languages in favorite_languages.items():
+    ...:     print("\n" + name.title() + "'s favorite languages are:")
+    ...:     for language in languages:
+    ...:         print("\t" + language.title())
+    ...:
+
+Jen's favorite languages are:
+        Python
+        Ruby
+
+Phil's favorite languages are:
+        Python
+        Haskell
+
+Edward's favorite languages are:
+        Ruby
+        Go
+
+Sarah's favorite languages are:
+        C
+dictionary中key-value pair 之间需要逗号
+
+In [17]: pizza = {
+    ...:     'crust':'thick',
+    ...:     'toppings':['mushrooms','extra cheese'],
+    ...:     }
+    ...:
+    ...: print("You ordered a " + pizza['crust'] + "-crust pizza " +
+    ...:     "with the folowing toppings:")
+    ...:
+    ...: for topping in pizza['toppings']:
+    ...:     print("\t" + topping)
+    ...:
+    ...:
+    ...:
+You ordered a thick-crust pizza with the folowing toppings:
+        mushrooms
+        extra cheese
+
+```
+
+**问题集**
+
+今天学的nest 
+
+a list of dictionaries； a list in a dictionary ；a dictionary in a dictionary
+
+感觉难度增加了，代码长了，理解难度也加大了，我再多看几遍，研究研究。
