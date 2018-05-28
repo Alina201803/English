@@ -217,12 +217,42 @@
 
    At the premium end of the market, business is booming.
 
-**bullshit**
+**bullshit** [ˈbʊlʃɪt]
 
 1. 助记：
-2. 词源
+
+   美国俚语，bull+shit, bull牛，shit屎，粗话
+
+2. 词源:
+
+   bullshit (n.)
+   "eloquent and insincere rhetoric," 1915, American English slang; see bull (n.1) + shit (n.), probably because it smells. But bull in the sense of "trivial or false statements" (1914), which usually is associated with this, might be a continuation of Middle English bull "false talk, fraud" (see bull (n.3)).
+
+   bullshit (v.)
+
+   by 1942, from bullshit (n.). Related: Bullshitted; bullshitting.
+
 3. 释义：
+
+   n.  胡说;
+   vt.& vi.  胡说，哄骗;
+
+   Noun
+
+   1. obscene words for unacceptable behavior;
+
+   Verb
+   1. talk through one's hat;
+
 4. 例句：
+
+   All the rest I said, all that was bullshit.
+
+   Don't bullshit me, Brian!
+
+    In short, all his rationalizing had been pure bullshit. 
+
+   The politician was not well prepared for the debate and faked it.
 
 **wiggle**
 
