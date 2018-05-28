@@ -817,3 +817,376 @@ You ordered a thick-crust pizza with the folowing toppings:
 a list of dictionaries； a list in a dictionary ；a dictionary in a dictionary
 
 感觉难度增加了，代码长了，理解难度也加大了，我再多看几遍，研究研究。
+
+
+
+2018-05-28
+
+**源代码**
+
+```python
+今天完成练习
+6-7.people
+In [5]: person_1 = {'first':'albert','last': 'einstein','city':'princeton'}
+   ...: person_2 = {'first':'marie','last':'curie','city':'paris'}
+   ...: person_3 = {'first':'steve','last':'jobs','city':'seattle'}
+   ...:
+   ...: people = [person_1,person_2,person_3]
+   ...:
+   ...: for person in people:
+   ...:     print(person)
+   ...:
+{'city': 'princeton', 'first': 'albert', 'last': 'einstein'}
+{'city': 'paris', 'first': 'marie', 'last': 'curie'}
+{'city': 'seattle', 'first': 'steve', 'last': 'jobs'}
+In [6]: ergou = {'first_name':'qili','last_name':'yang','city':'beijing'}
+   ...: danliang = {'first_name':'danliang','last_name':'yang','city':'qingdao'
+   ...: }
+   ...: mingliang = {'first_name':'mingliang','last_name':'zhu','city':'hefei'}
+   ...:
+   ...: peoples = [ergou,danliang,mingliang]
+   ...: for people in peoples:
+   ...:     for k,v in people.items():
+   ...:         print(k + ' is ' + v)
+   ...:     print('\n')
+   ...:
+last_name is yang
+first_name is qili
+city is beijing
+
+
+last_name is yang
+first_name is danliang
+city is qingdao
+
+
+last_name is zhu
+first_name is mingliang
+city is hefei
+In [7]: person_1 = {'first':'albert','last': 'einstein','city':'princeton'}
+   ...: person_2 = {'first':'marie','last':'curie','city':'paris'}
+   ...: person_3 = {'first':'steve','last':'jobs','city':'seattle'}
+   ...:
+   ...: people = [person_1,person_2,person_3]
+   ...:
+   ...: for person in people:
+   ...:     for key,value in person.items():
+   ...:         print(key +" is "+value)
+   ...:     print('\n')
+   ...:
+city is princeton
+first is albert
+last is einstein
+
+
+city is paris
+first is marie
+last is curie
+
+
+city is seattle
+first is steve
+last is jobs
+6_8.pets
+In [11]: ash = {'kind':' Maltese','owner':'david'}
+    ...: esme = {'kind':'Scottish Fold','owner':'marie'}
+    ...: quella = {'kind':'teddy','owner':'lily'}
+    ...:
+    ...: pets = [ash,esme,quella]
+    ...: for pet in pets:
+    ...:     print(pet)
+    ...:
+{'owner': 'david', 'kind': ' Maltese'}
+{'owner': 'marie', 'kind': 'Scottish Fold'}
+{'owner': 'lily', 'kind': 'teddy'}
+6_9.Favorite Places
+In [12]:favorite_places = {
+    ...:     'aeinstein':['france','American'],
+    ...:     'mcurie':['China']
+    ...:     'lily':['Maldives','Bali','Chejudo']
+    ...:     }
+    ...:
+  File "<ipython-input-12-3091d458f946>", line 8
+    'lily':['Maldives','Bali','Chejudo']
+         ^
+SyntaxError: invalid syntax
+
+
+In [13]: for name,places in favorite_places:
+    ...:     print(name)
+    ...:         for place in places:
+    ...:             print(place)
+    ...: print('\n')
+  File "<ipython-input-13-ca3b3f0625d1>", line 3
+    for place in places:
+    ^
+IndentationError: unexpected indent
+In [16]: favorite_places = {
+    ...:     'aeinstein':['france','American'],
+    ...:     'mcurie':['China']
+    ...:     'lily':['Maldives','Bali','Chejudo']
+    ...:     }
+    ...:
+  File "<ipython-input-16-d0a5f0c2db07>", line 4
+    'lily':['Maldives','Bali','Chejudo']
+         ^
+SyntaxError: invalid syntax
+In [17]: for name,places in favorite_places.items():
+    ...:     print(name)
+    ...: for place in places:
+    ...:     print(place)
+    ...: print('\n')
+    ...:
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-17-1005507f8efb> in <module>()
+----> 1 for name,places in favorite_places.items():
+      2     print(name)
+      3 for place in places:
+      4     print(place)
+      5 print('\n')
+
+NameError: name 'favorite_places' is not defined
+终于对了
+In [6]: favorite_places = {
+   ...:     'aeinstein':['france','American'],
+   ...:     'mcurie':['China'],
+   ...:     'lily':['Maldives','Bali','Chejudo'],
+   ...:     }
+   ...:
+
+In [7]: for name,places in favorite_places.items():
+   ...:     print(name)
+   ...:     for place in places:
+   ...:         print(place)
+   ...: print('\n')
+   ...:
+aeinstein
+france
+American
+lily
+Maldives
+Bali
+Chejudo
+mcurie
+China
+6_10 Favorite Numbers
+In [19]: favorite_number = {
+    ...:     'david': [1,3],
+    ...:     'lily': [2,8,9],
+    ...:     'mathew': [3,6],
+    ...:     'colin':[6,0],
+    ...:     'edward':[8,5],
+    ...:     }
+    ...: for name,numbers in favorite_number.items():
+    ...:     print(name + "'s favorite numbers are:")
+    ...:     for number in numbers:
+    ...:         print(number)
+    ...: print('\n')
+    ...:
+colin's favorite numbers are:
+6
+0
+david's favorite numbers are:
+1
+3
+edward's favorite numbers are:
+8
+5
+lily's favorite numbers are:
+2
+8
+9
+mathew's favorite numbers are:
+3
+6
+In [20]: favorite_number = {
+    ...:     'david': [1,3],
+    ...:     'lily': [2,8,9],
+    ...:     'mathew': [3,6],
+    ...:     'colin':[6,0],
+    ...:     'edward':[8,5],
+    ...:     }
+    ...: for name,numbers in favorite_number.items():
+    ...:     print(name + "'s favorite numbers are:")
+    ...:     for number in numbers:
+    ...:         print(str(number))
+    ...: print('\n')
+    ...:
+colin's favorite numbers are:
+6
+0
+david's favorite numbers are:
+1
+3
+edward's favorite numbers are:
+8
+5
+lily's favorite numbers are:
+2
+8
+9
+mathew's favorite numbers are:
+3
+6
+6_11Cities
+In [22]: cities = {
+    ...:     'paris':{'country':'france','population':'million','fact':'city of
+    ...:  art'}
+    ...:     'new-york':{'country':'American','population':'milliom','fact':'ci
+    ...: ty of fashion'}
+    ...:     'Singapore':{'country':'singapore','population':'*million','fact':
+    ...: 'city-state'}
+    ...:     }
+    ...:
+    ...: for city,city_info in cities.items():
+    ...:     print(city)
+    ...:     for k,v in city_info:
+    ...:         print(k + '' + v)
+    ...: print('\n')
+    ...:
+  File "<ipython-input-22-bba2e39c7650>", line 3
+    'new-york':{'country':'American','population':'milliom','fact':'city of fash
+ion'}
+             ^
+SyntaxError: invalid syntax
+
+In [23]: cities = {
+    ...:     'paris':{'country':'france','population':'million','fact':'city of
+    ...:  art'},
+    ...:     'new-york':{'country':'American','population':'milliom','fact':'ci
+    ...: ty of fashion'},
+    ...:     'Singapore':{'country':'singapore','population':'*million','fact':
+    ...: 'city-state'},
+    ...:     }
+    ...:
+    ...: for city,city_info in cities.items():
+    ...:     print(city)
+    ...:     for k,v in city_info:
+    ...:         print(k + '' + v)
+    ...: print('\n')
+    ...:
+paris
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-23-7b9353ac36bd> in <module>()
+      7 for city,city_info in cities.items():
+      8     print(city)
+----> 9     for k,v in city_info:
+     10         print(k + '' + v)
+     11 print('\n')
+
+ValueError: too many values to unpack (expected 2)
+In [25]: cities = {
+    ...:     'paris':{'country':'france','population':'million','fact':'city of
+    ...:  art'},
+    ...:     'new-york':{'country':'American','population':'milliom','fact':'ci
+    ...: ty of fashion'},
+    ...:     'Singapore':{'country':'singapore','population':'*million','fact':
+    ...: 'city-state'},
+    ...:     }
+    ...:
+    ...: for city,city_info in cities.items():
+    ...:     print(city)
+    ...:     for k,v in city_info.items():
+    ...:         print(k + ' ' + v)
+    ...: print('\n')
+    ...:
+paris
+fact city of art
+country france
+population million
+new-york
+fact city of fashion
+country American
+population milliom
+Singapore
+fact city-state
+country singapore
+population *million
+```
+
+**错题集**
+
+```python
+1
+favorite_places = {
+    'aeinstein':['france','American'],
+    'mcurie':['China'],
+    'lily':['Maldives','Bali','Chejudo'],
+    }
+
+for name,places in favorite_places.items():
+    print(name)
+for place in places:
+    print(place)
+print('\n')
+aeinstein
+lily
+mcurie
+China
+1.for place in places 之前需要缩进
+2
+In [16]: favorite_places = {
+    ...:     'aeinstein':['france','American'],
+    ...:     'mcurie':['China']
+    ...:     'lily':['Maldives','Bali','Chejudo']
+    ...:     }
+    ...:
+  File "<ipython-input-16-d0a5f0c2db07>", line 4
+    'lily':['Maldives','Bali','Chejudo']
+         ^
+SyntaxError: invalid syntax
+In [17]: for name,places in favorite_places.items():
+    ...:     print(name)
+    ...: for place in places:
+    ...:     print(place)
+    ...: print('\n')
+    ...:
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-17-1005507f8efb> in <module>()
+----> 1 for name,places in favorite_places.items():
+      2     print(name)
+      3 for place in places:
+      4     print(place)
+      5 print('\n')
+
+NameError: name 'favorite_places' is not defined
+2.定义dictionary时 每个key-value 之间需要逗号隔开
+3
+In [23]: cities = {
+    ...:     'paris':{'country':'france','population':'million','fact':'city of
+    ...:  art'},
+    ...:     'new-york':{'country':'American','population':'milliom','fact':'ci
+    ...: ty of fashion'},
+    ...:     'Singapore':{'country':'singapore','population':'*million','fact':
+    ...: 'city-state'},
+    ...:     }
+    ...:
+    ...: for city,city_info in cities.items():
+    ...:     print(city)
+    ...:     for k,v in city_info:
+    ...:         print(k + '' + v)
+    ...: print('\n')
+    ...:
+paris
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-23-7b9353ac36bd> in <module>()
+      7 for city,city_info in cities.items():
+      8     print(city)
+----> 9     for k,v in city_info:
+     10         print(k + '' + v)
+     11 print('\n')
+
+ValueError: too many values to unpack (expected 2)
+3.for loop dictionary 时 最后需要method.items() 
+(which returns a list of key-value pairs)
+                      
+总结 
+定义dictionary时，每个key-value 之间需要逗号隔开。
+嵌入list之后，太长，容易忘记。
+for loop dictionary 时，最后需要method.items()或者,keys().values()
+而for loop list不需要
+```
