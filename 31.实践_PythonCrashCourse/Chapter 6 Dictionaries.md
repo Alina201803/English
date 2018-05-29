@@ -1190,3 +1190,19 @@ ValueError: too many values to unpack (expected 2)
 for loop dictionary 时，最后需要method.items()或者,keys().values()
 而for loop list不需要
 ```
+学习Chapter6 顺手查的单词
+
+**nest**
+
+1. 助记：来自古英语nest , 来自PIE*nisdos , 鸟巢，来自*ni , 向下，词源同beneath , *sed , 坐，词源同sit . 即坐的地方，落脚的地方，引申词义鸟巢，鸟窝。
+2. 词源：Old English nest "bird's nest, snug retreat," also "young bird, brood," from Proto-Germanic *nistaz (source also of Middle Low German, Middle Dutch nest, German Nest), from PIE *nizdo- (source also of Sanskrit nidah "resting place, nest," Latin nidus "nest," Old Church Slavonic gnezdo, Old Irish net, Welsh nyth, Breton nez "nest"), probably from *ni "down" + from PIE root *sed- (1) "to sit."
+3. 拓展：**crow's nest**桅杆瞭望台。古代北欧人出海时，习惯将乌鸦装在笼子里带上船，估摸着快到岸边了，鸟笼被放在桅杆高处并把鸟放出来，然后船顺着鸟飞行的方向航行，就能到达岸边。现在crow's nest可以指任何瞭望台，比如山顶上的也可以。The sailor in the crow's nest is right,we are close to the land. 
+
+**crust**
+
+1. 助记：来自PIE*kreus,冷冻，结晶，词源同crystal,cryogenic.原指由冷冻形成的硬壳。
+2. 词源：early 14c., "hard outer part of bread," from Old French crouste (13c., Modern French croûte) and directly from Latin crusta "rind, crust, shell, bark," from PIE *krus-to- "that which has been hardened," suffixed form of root *kreus- "to begin to freeze, form a crust." From mid-15c. as "any hard, external portion of comparative thinness;" meaning "outer shell of the earth" is from 1550s.
+3. 拓展：**upper crust**上流社会。crust在这里特指面包皮，词根本意是“硬的”（因为面包皮更硬一些），与希腊词源的crystal水晶同源。同时因为面包皮的香味更浓些，所以对主食是面包的中世纪英国人来说，面包皮是要留给领主吃的。Much of this, however, may benefit only a thin upper crust of Indian society. 
+
+
+
