@@ -277,3 +277,205 @@ Please enter a series of pizza toppings:Enter 'quit' to finish.
 
 ```
  今日所学using a flag, break, continue, avoiding infinite loops
+
+2018-05-30
+
+**源代码**
+
+```python
+In [1]: unconfirmed_users = ['alice','brian','candace']
+   ...: confirmed_users = []
+   ...:
+
+In [2]: while unconfirmed_users:
+   ...:     current_user = unconfirmed_users.pop()
+   ...:     print("Verifying user: " + current_user.title())
+   ...:     confirmed_users.append(current_user)
+   ...: print("\nThe following users have been confirmed:")
+   ...: for confirmed_user in confirmed_users:
+   ...:     print(confirmed_user.title())
+   ...:
+Verifying user: Candace
+Verifying user: Brian
+Verifying user: Alice
+
+The following users have been confirmed:
+Candace
+Brian
+Alice
+In [3]: pets = ['dog','cat','dog','goldfish','cat','rabbit','cat']
+   ...: print(pets)
+   ...: while cat in pets:
+   ...:     pets.remove('cat')
+   ...: print(pets)
+   ...:
+['dog', 'cat', 'dog', 'goldfish', 'cat', 'rabbit', 'cat']
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-3-bf8ab05af090> in <module>()
+      1 pets = ['dog','cat','dog','goldfish','cat','rabbit','cat']
+      2 print(pets)
+----> 3 while cat in pets:
+      4     pets.remove('cat')
+      5 print(pets)
+
+NameError: name 'cat' is not defined
+
+In [4]: pets = ['dog','cat','dog','goldfish','cat','rabbit','cat']
+   ...: print(pets)
+   ...: while 'cat' in pets:
+   ...:     pets.remove('cat')
+   ...: print(pets)
+   ...:
+['dog', 'cat', 'dog', 'goldfish', 'cat', 'rabbit', 'cat']
+['dog', 'dog', 'goldfish', 'rabbit']
+In [5]: polling active = True
+   ...: while polling active:
+   ...:     name = input("\nWhat is your name? ")
+   ...:     reponse = input("Which mountain would you like to climb someday? ")
+   ...:
+   ...:     responses[name] = response
+   ...:     repeat = input("Would you like to let another person respond? (yes/
+   ...: no) ")
+   ...:     if repeat == 'no':
+   ...:         polling active = False
+   ...: print("\n---poll Results---")
+   ...: for name, response in response.items():
+   ...:     print(name + " Would like to climb " + response + ".")
+   ...:
+  File "<ipython-input-5-5e774c94e4d7>", line 1
+    polling active = True
+                 ^
+SyntaxError: invalid syntax
+In [8]: responses = {}
+   ...:
+   ...: polling_active = True
+   ...: while polling_active:
+   ...:     name = input("\nWhat is your name? ")
+   ...:     response = input("Which mountain would you like to climb someday? "
+   ...: )
+   ...:     responses[name] = response
+   ...:     repeat = input("Would you like to let another person respond? (yes/
+   ...: no) ")
+   ...:     if repeat == 'no':
+   ...:         polling_active = False
+   ...: print("\n---poll Results---")
+   ...: for name, response in responses.items():
+   ...:     print(name + " Would like to climb " + response + ".")
+   ...:
+
+What is your name? Eric
+Which mountain would you like to climb someday? Denali
+Would you like to let another person respond? (yes/no) yes
+
+What is your name? Lynn
+Which mountain would you like to climb someday? Devil's Thumb
+Would you like to let another person respond? (yes/no) no
+
+---poll Results---
+Eric Would like to climb Denali.
+Lynn Would like to climb Devil's Thumb.
+
+练习：
+7-8
+In [9]: sandwich_orders = ['tuna','bacon','reuben']
+   ...: finished_sandwiches = []
+   ...: while sandwich_orders:
+   ...:     sandwich_order = sandwich_orders.pop()
+   ...:     print("I made your " + sandwich_order + " sandwich.")
+   ...:     finished_sandwiches.append(sandwich_order)
+   ...: for finished_sandwich in finished_sandwiches:
+   ...:     print(finished_sandwich.title())
+   ...:
+I made your reuben sandwich.
+I made your bacon sandwich.
+I made your tuna sandwich.
+Reuben
+Bacon
+Tuna
+In [10]: sandwich_orders = ['tuna','bacon','reuben']
+    ...: finished_sandwiches = []
+    ...: while sandwich_orders:
+    ...:     sandwich_order = sandwich_orders.pop()
+    ...:     print("I made your " + sandwich_order + " sandwich.")
+    ...:     finished_sandwiches.append(sandwich_order)
+    ...: print("\nThe following sandwiches have been finished")
+    ...: for finished_sandwich in finished_sandwiches:
+    ...:     print(finished_sandwich.title())
+    ...:
+I made your reuben sandwich.
+I made your bacon sandwich.
+I made your tuna sandwich.
+
+The following sandwiches have been finished
+Reuben
+Bacon
+Tuna
+7-9
+In [11]: sandwich_orders = ['pastrami','tuna','bacon','pastrami','reuben','past
+    ...: rami']
+    ...: while 'pastrami' in sandwich_orders:
+    ...:     sandwich_orders.remove('pastrami')
+    ...: print(sandwich_orders)
+    ...:
+['tuna', 'bacon', 'reuben']
+7-10
+In [20]: Dream_vacation = {}
+    ...: polling_active = True
+    ...: while polling_active:
+    ...:     name = input("What's your name? ")
+    ...:     place = input("\nIf you could visit one place in the world, where
+    ...: would you go? ")
+    ...:     Dream_vacation[name] = place
+    ...:     repeat = input("Enter quit to end the program.")
+    ...:     if repeat == 'quit':
+    ...:         polling_active = False
+    ...:
+    ...: print("\n---Poll Results---")
+    ...: for name,place in Dream_vacation.items():
+    ...:     print(name + " Would like to go to the " + place + '.')
+    ...:
+What's your name? Alina
+
+If you could visit one place in the world, where would you go? France
+Enter quit to end the program.quit
+
+---Poll Results---
+Alina Would like to go to the France.
+  
+```
+
+**错题集**
+
+```python
+In [12]: Dream_vacation = {}
+    ...: polling_active = True
+    ...: while polling active:
+    ...:     name = input("What's your name? ")
+    ...:     place = input("If you could visit one place in the world, where wo
+    ...: uld you go? ")
+    ...:     Dream_vacation[name] = place
+    ...:     repeat = input("Enter quit to end the program.")
+    ...:     if repeat == 'quit':
+    ...:         polling_active = False
+    ...:
+    ...: print("\n---Poll Results---")
+    ...:     for name,place in Dream_vacation.items():
+    ...:         print(name + " Would like to go to the " + palce + '.')
+    ...:
+  File "<ipython-input-12-d33a80dc4ba1>", line 3
+    while polling active:
+                       ^
+SyntaxError: invalid syntax
+polling 和 active之间缺少 连字符_
+                           
+                          
+```
+
+今日所学：
+
+moving items from one list to another
+
+removing all instances of specific values from a list
+
+filling a dictionary with user input
