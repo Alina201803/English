@@ -159,3 +159,122 @@ What are arguments in python?
 
 https://stackoverflow.com/questions/14924825/what-are-arguments-in-python
 
+2018-06-2
+
+**源代码**
+
+```python
+def get_formatted_name(first_name,last_name):
+    """Return a full name, neatly formatted."""
+    full_name = first_name + ' ' + last_name
+    return full_name.title()
+
+musician = get_formatted_name('jimi','hendrix')
+print(musician)
+
+
+def get_formatted_name(first_name,middle_name,last_name):
+    """Return a full name, neatly formatted."""
+    full_name = first_name + ' '+middle_name + ' ' + last_name
+    return full_name.title()
+
+musician = get_formatted_name('jimi', 'lee','hendrix')
+print(musician)
+
+def get_formatted_name(first_name,last_name,middle_name=''):
+    """Return a full name,neatly formatted."""
+    if middle_name:
+        full_name = first_name + ' ' + middle_name + ' ' + last_name
+    else:
+        full_name = first_name + ' ' + last_name
+    return full_name.title()
+
+musician = get_formatted_name('jimi','hendrix')
+print(musician)
+
+musician = get_formatted_name('join','hooker','lee')
+print(musician)
+
+def build_person(first_name,last_name):
+    """Return a dictionary of information about a person."""
+    person = {'first': first_name,'last': last_name}
+    return person
+
+musician = build_person('jimi','hendrix')
+print(musician)
+
+
+def build_person(first_name,last_name,age=''):
+    """Return a dictionary of information about a person."""
+    person = {'first':first_name, 'last': last_name}
+    if age:
+        person['age'] = age
+    return person
+
+musician = build_person('jimi','hendrix',age=27)
+print(musician)
+
+
+def get_formatted_name(first_name,last_name):
+    """Return a full name,neatly formatted."""
+    full_name = first_name + ' ' + last_name
+    return full_name.title()
+
+while True:
+    print("\nPlease tell me your name:")
+    f_name = input("First_name: ")
+    l_name = input("Last_name: ")
+
+    formatted_name = get_formatted_name(f_name,l_name)
+    print("\nHello, " + formatted_name + "!")
+
+def get_formatted_name(first_name,last_name):
+    """Return a full name,neatly formatted."""
+    full_name = first_name + ' ' + last_name
+    return full_name.title()
+
+while True:
+    print("\nPlease tell me your name:")
+    print("(enter 'q' at any time to quit)")
+
+    f_name = input("First name: ")
+    if f_name == 'q':
+        break
+
+    l_name = input("Last name: ")
+    if l_name == 'q':
+        break
+    
+    formatted_name = get_formatted_name(f_name,l_name)
+    print("\nHello, " + formatted_name + "!")
+    
+练习：
+def city_country(city,country):
+    """Return a city and its country"""
+    city_country_pair = city + ',' + country
+    return city_country_pair.title()
+
+describe_city = city_country('Guangzhou','china')
+print(describe_city)
+
+def city_country(city,country):  
+    return city+','+country  
+print(city_country("Guangzhou","China"))  
+print(city_country("Lodon","UK"))  
+print(city_country("New York","USA")) 
+
+```
+
+**错题集**
+
+```python
+def city_country(city,country):
+    return city + ',' + country
+    print(city_country('Guangzhou','china'))
+改为：
+def city_country(city,country):
+    return city + ',' + country
+print(city_country('Guangzhou','china'))
+```
+
+今日所学：returning a simple value, making an argument optinal, returning a dictinary, while a function with a while loop
