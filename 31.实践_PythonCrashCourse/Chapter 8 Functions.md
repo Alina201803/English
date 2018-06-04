@@ -465,3 +465,269 @@ the Great Jason Latimer
 ```
 
 今日所学：passing a list, modifying a list in a function,preventing a function from modifying a list 
+
+2018-06-04
+
+**源代码**
+
+```python
+In [1]: def make_pizza(*toppings):
+   ...:     """Summarize the pizza we are about to make"""
+   ...:     print("\nMaking a pizza with the following toppings:")
+   ...:     for topping in toppings:
+   ...:         print("- " + topping)
+   ...:
+   ...: make_pizza('pepperoni')
+   ...: make_pizza('mushrooms','green peppers','extra cheese')
+   ...:
+
+Making a pizza with the following toppings:
+- pepperoni
+
+Making a pizza with the following toppings:
+- mushrooms
+- green peppers
+- extra cheese
+
+In [2]: def make_pizza(size,*toppings):
+   ...:     """Summarize the pizza we are about to make."""
+   ...:     print("\nMaking a " + str(size) +
+   ...:           "-inch pizza with the following toppings:")
+   ...:     for topping in toppings:
+   ...:         print("- " + topping)
+   ...:
+
+In [3]: make_pizza(16,'pepprtoni')
+   ...: make_pizza(12,'mushrooms','green peppers','extra cheese')
+   ...:
+
+Making a 16-inch pizza with the following toppings:
+- pepprtoni
+
+Making a 12-inch pizza with the following toppings:
+- mushrooms
+- green peppers
+- extra cheese
+In [4]: def build_profile(first,last,**user_info):
+   ...:     """Build a dictionary containing everything we know abou a user."""
+   ...:
+   ...:     profile = {}
+   ...:     profile['first_name'] = first
+   ...:     profile['last_name'] = last
+   ...:     for key,value in uesr_info.items():
+   ...:         profile[key] = value
+   ...:     return profile
+   ...:
+   ...: user_profile = build_profile('albert','einstein',
+   ...:                              location='princeton',
+   ...:                              field='physics')
+   ...: print(user_profile)
+   ...:
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-4-bb38fb692cd5> in <module>()
+     10 user_profile = build_profile('albert','einstein',
+     11                              location='princeton',
+---> 12                              field='physics')
+     13 print(user_profile)
+
+<ipython-input-4-bb38fb692cd5> in build_profile(first, last, **user_info)
+      4     profile['first_name'] = first
+      5     profile['last_name'] = last
+----> 6     for key,value in uesr_info.items():
+      7         profile[key] = value
+      8     return profile
+
+NameError: name 'uesr_info' is not defined
+
+In [5]: def build_profile(first,last,**user_info):
+   ...:     """Build a dictionary containing everything we know abou a user."""
+   ...:
+   ...:     profile = {}
+   ...:     profile['first_name'] = first
+   ...:     profile['last_name'] = last
+   ...:     for key,value in user_info.items():
+   ...:         profile[key] = value
+   ...:     return profile
+   ...:
+   ...: user_profile = build_profile('albert','einstein',
+   ...:                              location='princeton',
+   ...:                              field='physics')
+   ...: print(user_profile)
+   ...:
+{'first_name': 'albert', 'field': 'physics', 'location': 'princeton', 'last_name
+': 'einstein'}
+In [6]: def build_profile(first,last,**user_info):
+   ...:     """Build a dictionary containing everything we know abou a user."""
+   ...:
+   ...:     profile = {}
+   ...:     profile['first_name'] = first
+   ...:     profile['last_name'] = last
+   ...:     for key,value in user_info.items():
+   ...:         profile[key] = value
+   ...:     return profile
+   ...:
+   ...: user_profile = build_profile('albert','einstein',
+   ...:                              location='princeton',
+   ...:                              field='physics')
+   ...: print(user_profile)
+   ...:
+{'first_name': 'albert', 'field': 'physics', 'location': 'princeton', 'last_name
+': 'einstein'}
+In [6]: def build_profile(first,last,**user_info):
+   ...:     """Build a dictionary containing everything we know abou a user."""
+   ...:
+   ...:     profile = {}
+   ...:     profile['first_name'] = first
+   ...:     profile['last_name'] = last
+   ...:     for key,value in user_info.items():
+   ...:         profile[key] = value
+   ...:     return profile
+   ...:
+   ...: user_profile = build_profile('albert','einstein',
+   ...:                              location='princeton',
+   ...:                              field='physics')
+   ...: print(user_profile)
+   ...:
+{'first_name': 'albert', 'field': 'physics', 'location': 'princeton', 'last_name
+': 'einstein'}
+In [7]: def build_profile(first,last,**user_info):
+   ...:     """Build a dictionary containing everything we know abou a user."""
+   ...:
+   ...:     profile = {}
+   ...:     profile['first_name'] = first
+   ...:     profile['last_name'] = last
+   ...:     for key,value in user_info.items():
+   ...:         profile[key] = value
+   ...:     return profile
+   ...:
+
+In [8]: user_profile = build_profile('albert','einstein',
+   ...:                             location='princeton',
+   ...:                             field='physics')
+   ...: print(user_profile)
+   ...:
+{'first_name': 'albert', 'field': 'physics', 'location': 'princeton', 'last_name
+': 'einstein'}
+
+In [9]: def build_profile(first, last, **user_info):
+   ...:     """Build a dictionary containing everything we know abou a user."""
+   ...:
+   ...:     profile = {}
+   ...:     profile['first_name'] = first
+   ...:     profile['last_name'] = last
+   ...:     for key,value in user_info.items():
+   ...:         profile[key] = value
+   ...:     return profile
+   ...:
+   ...: user_profile = build_profile('albert','einstein',
+   ...:                             location='princeton',
+   ...:                             field='physics')
+   ...: print(user_profile)
+   ...:
+{'first_name': 'albert', 'field': 'physics', 'location': 'princeton', 'last_name
+': 'einstein'}
+练习
+ 8-12
+In [10]: def make_sandwich(*fillings):
+    ...:     """summarize the sandwich being ordered"""
+    ...:     print("\nThe sandwich is being ordered:")
+    ...:     for filling in fillings:
+    ...:         print(filling)
+    ...:
+    ...: make_sandwich('Reuben','Tuna',)
+    ...: make_sandwich('Meat')
+    ...: make_sandwich('Po-boy')
+    ...:
+
+The sandwich is being ordered:
+Reuben
+Tuna
+
+The sandwich is being ordered:
+Meat
+
+The sandwich is being ordered:
+Po-boy
+8-13
+In [11]: def build_profile(first, last, **user_info):
+    ...:     """Build a dictionary containing everything we know abou a user.""
+    ...: "
+    ...:     profile = {}
+    ...:     profile['first_name'] = first
+    ...:     profile['last_name'] = last
+    ...:     for key,value in user_info.items():
+    ...:         profile[key] = value
+    ...:     return profile
+    ...:
+    ...: user_profile = build_profile('albert','einstein',
+    ...:                             "location'='princeton',
+    ...:                             'field'='physics')
+    ...: print(user_profile)
+    ...:
+  File "<ipython-input-11-40e4196c0ba4>", line 11
+    "location'='princeton',
+                           ^
+SyntaxError: EOL while scanning string literal
+In [12]: def build_profile(first, last, **user_info):
+    ...:     """Build a dictionary containing everything we know abou a user.""
+    ...: "
+    ...:     profile = {}
+    ...:     profile['first_name'] = first
+    ...:     profile['last_name'] = last
+    ...:     for key,value in user_info.items():
+    ...:         profile[key] = value
+    ...:     return profile
+    ...:
+    ...: user_profile = build_profile('Qiuru','Shen',location='Harbin',field='R
+    ...: ussian')
+    ...:
+    ...: print(user_profile)
+    ...:
+{'first_name': 'Qiuru', 'field': 'Russian', 'location': 'Harbin', 'last_name': '
+Shen'}
+8-14
+In [15]: def make_car(manufacturer,model_name,**info):
+    ...:     car = {}
+    ...:     car['manufacturer'] = manufacturer
+    ...:     car['modle_name']=model_name
+    ...:     for key,value in info.items():
+    ...:         car[key]=value
+    ...:     return car
+    ...:
+    ...: user_car = make_car('subaru','outback',color='blue',tow_package = Tru
+    ...: )
+    ...: print(user_car)
+    ...:
+{'color': 'blue', 'manufacturer': 'subaru', 'modle_name': 'outback', 'tow_pack
+e': True}
+ 8-7
+In [19]: def                                         make_album(artist_name,album_title,number=''):
+    ...:     describe_album = {'name':artist_name,'title':album_title,}
+    ...:     if 'number':
+    ...:         describe_album['number']=number
+    ...:     return describe_album
+    ...:
+
+In [20]: album_ = make_album("Yu Wenwen","Timian",1)
+    ...: print(album_)
+    ...: album_ = make_album("Jay Chou","Jay")
+    ...: print(album_)
+    ...: album_ = make_album("Eason Chan","C'mon in~",10)
+    ...: print(album_)
+    ...:
+{'title': 'Timian', 'number': 1, 'name': 'Yu Wenwen'}
+{'title': 'Jay', 'number': '', 'name': 'Jay Chou'}
+{'title': "C'mon in~", 'number': 10, 'name': 'Eason Chan'}
+
+
+```
+
+今日所学：
+
+passing an arbitrary number of arguments, 
+
+mixing positional and arbitrary arguments, 
+
+using arbitrary keyword arguments
+
