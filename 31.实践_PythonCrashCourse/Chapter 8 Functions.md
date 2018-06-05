@@ -731,3 +731,86 @@ mixing positional and arbitrary arguments,
 
 using arbitrary keyword arguments
 
+2018-06-05
+
+**源代码**
+
+```python
+import pizza
+
+pizza.make_pizza(16,'pepperoni')
+pizza.make_pizza(12,'mushrooms','green peppers','extra cheese')
+
+from pizza import make_pizza
+
+make_pizza(16,'pepperoni')
+make_pizza(12,'mushrooms','green peppers','extra cheese')
+
+from pizza import make_pizza as mp
+
+mp(16,'pepperoni')
+mp(12,'mushrooms','green peppers','extra cheese')
+
+
+import pizza as p
+
+p.make_pizza(16,'pepperoni')
+p.make_pizza(12,'mushrooms','green peppers','extra cheese')
+
+练习
+8-15
+import printing_functions
+
+unprinted_designs = ['iphone case','robot pendant','dodecahedron']
+completed_models = []
+printing_functions.print_models(unprinted_designs,completed_models)
+8-16
+from printing_functions import print_models
+
+unprinted_designs = ['iphone case','robot pendant','dodecahedron']
+completed_models = []
+print_models(unprinted_designs,completed_models)
+
+from printing_functions import print_models as pm
+
+unprinted_designs = ['iphone case','robot pendant','dodecahedron']
+completed_models = []
+pm(unprinted_designs,completed_models)
+
+import printing_functions as pf
+
+unprinted_designs = ['iphone case','robot pendant','dodecahedron']
+completed_models = []
+pf.print_models(unprinted_designs,completed_models)
+
+from printing_functions import *
+
+unprinted_designs = ['iphone case','robot pendant','dodecahedron']
+completed_models = []
+print_models(unprinted_designs,completed_models)
+
+
+```
+
+**错题集**
+
+```python
+parameter = 'default value'
+
+parameter='default value' no spaces should be used on either side of the equal sign.
+```
+
+
+
+今日所学 
+
+今天内容不多，明天开始chapter 9 classes
+
+storing your functions in modules
+
+import specific functions 
+
+using as to give a function an alias
+
+importing all functions in a module
+
