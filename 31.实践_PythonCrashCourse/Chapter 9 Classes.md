@@ -190,3 +190,240 @@ Out[20]:
 今日所学：
 
 creating and using a class
+
+
+
+2018-06-07
+
+**源代码**
+
+```python
+###modifying an Attribute's Value Directly
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 0
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+
+my_new_car = Car('audi', 'a4', 2016)
+print(my_new_car.get_descriptive_name())
+my_new_car.odometer_reading = 23
+my_new_car.read_odometer()
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 0
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+
+my_new_car = Car('audi', 'a4', 2016)
+print(my_new_car.get_descriptive_name()
+my_new_car.read_odometer()
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 0
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+
+    def update_odometer(self,mileage):
+        """Set the odometer reading to the given value."""
+        self.odometer_reading = mileage
+
+my_new_car = Car('audi', 'a4', 2016)
+print(my_new_car.get_descriptive_name())
+my_new_car.update_odometer(23)
+my_new_car.read_odometer()
+###modifying an Attribute's value Through a Method.
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 25
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+
+    def update_odometer(self,mileage):
+        """
+        Set the odometer reading to the given value.
+        Reject the change if it attempts to roll the odometer back.
+        """
+        if mileage >= self.odometer_reading:
+            self.odometer_reading = mileage
+        else:
+            print("You can't roll back an odometer!")
+        
+
+my_new_car = Car('audi', 'a4', 2016)
+print(my_new_car.get_descriptive_name())
+my_new_car.update_odometer(23)
+my_new_car.read_odometer()
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 25
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+    def update_odometer(self,mileage):
+        """
+        Set the odometer reading to the given value.
+        Reject the change if it attempts to roll the odometer back.
+        """
+        if mileage >= self.odometer_reading:
+            self.odometer_reading = mileage
+        else:
+            print("You can't roll back an odometer!")        
+    def increment_odometer(self,miles):
+        """Add the given amount to the odometer reading."""
+        self.odometer_reading += miles
+
+my_used_car = Car('subaru','outback',2013)
+print(my_used_car.get_descriptive_name())
+my_used_car.update_odometer(23500)
+my_used_car.read_odometer()
+my_used_car.increment_odometer(100)
+my_used_car.read_odometer()
+练习：
+9-4
+class Restaurant():
+    def __init__(self,restaurant_name,cuisine_type)
+        """Initialize attributes to describe a restaurant"""
+        self.restaurant_name = restaurant_name
+        self.cuisine_type = cuisine_type
+
+    def describe_restaurant(self):
+        print(self.restaurant_name + ' ' + self.cuisine_type)
+
+    def open_restaurant(self):
+        print("The restaurant are open: " + self.restaurant_name)
+
+one = Restaurant('huangjihuang','chinese food')
+one.describe_restaurant()
+one.open_restaurant()
+      
+class Restaurant():
+    def __init__(self,restaurant_name,cuisine_type):
+        """Initialize attributes to describe a restaurant"""
+        self.restaurant_name = restaurant_name
+        self.cuisine_type = cuisine_type
+        self.number_served = 0
+    def describe_restaurant(self):
+        print(self.restaurant_name + ' provides ' + self.cuisine_type)
+
+    def open_restaurant(self):
+        print("The restaurant are open: " + self.restaurant_name)
+    def restaurant_number(self):
+        print("The restaurant has served " + str(self.number_served) + " people.")
+    def set_number_served(self,number):
+        self.number_served = number
+    def increment_number(self,figure):
+        self.number_served += figure
+        
+
+restaurant = Restaurant('huangjihuang','chinese food')
+restaurant.set_number_served(55)
+restaurant.increment_number(25)
+restaurant.describe_restaurant()
+restaurant.open_restaurant()
+restaurant.restaurant_number()
+```
+
+**错题集**
+
+```python
+class Restaurant():
+    def __init__(self,restaurant_name,cuisine_type):
+        """Initialize attributes to describe a restaurant"""
+        self.restaurant_name = restaurant_name
+        self.cuisine_type = cuisine_type
+        self.number_served = 0
+    def describe_restaurant(self):
+        print(self.restaurant_name + ' provides ' + self.cuisine_type)
+
+    def open_restaurant(self):
+        print("The restaurant are open: " + self.restaurant_name)
+    def restaurant_number(self):
+        print("The restaurant has served " + str(self.number_served) + " people.")
+    def set_number_served(self,number):
+        self.number_served = number
+    def increment_number(self,figure):
+        self.number_served += figure
+       
+restaurant = Restaurant('huangjihuang','chinese food')
+restaurant.describe_restaurant()
+restaurant.open_restaurant()
+restaurant.restaurant_number()
+restaurant.set_number_served(55)
+huangjihuang provides chinese food
+The restaurant are open: huangjihuang
+The restaurant has served 0 people.
+正确
+restaurant = Restaurant('huangjihuang','chinese food')
+restaurant.set_number_served(55)
+restaurant.describe_restaurant()
+restaurant.open_restaurant()
+restaurant.restaurant_number()
+huangjihuang provides chinese food
+The restaurant are open: huangjihuang
+The restaurant has served 55 people.
+注意 restaurant.set_number_served(55) 放到正确的位置，放到调用self.number_served = 0之后，不起作用。
+```
+
+**今日所学**
+
+set a default for an attribute
+
+modify attribute values : directly, through a method()
+
+increnment an attribute through a method 
+
