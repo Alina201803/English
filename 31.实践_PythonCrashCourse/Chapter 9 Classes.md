@@ -568,3 +568,155 @@ modify attribute values : directly, through a method()
 
 increnment an attribute through a method 
 
+2018-06-09
+
+**源代码**
+
+```python
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 0
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+    def update_odometer(self,mileage):
+        """
+        Set the odometer reading to the given value.
+        Reject the change if it attempts to roll the odometer back.
+        """
+        if mileage >= self.odometer_reading:
+            self.odometer_reading = mileage
+        else:
+            print("You can't roll back an odometer!")        
+    def increment_odometer(self,miles):
+        """Add the given amount to the odometer reading."""
+        self.odometer_reading += miles
+
+class ElectricCar(Car):
+    """Represent aspects of a car, specific to electric vehicles."""
+    def  __init__(self, make, model, year):
+        """Initialize attributes of the parent class."""
+        super().__init__(make, model,year)
+        self.battery_size = 70
+
+    def describe_battery(self):
+        print("This car has a " + str(self.battery_size) + "-kwh battery.")
+
+my_tesla = ElectricCar('tesla','model s',2016)
+print(my_tesla.get_descriptive_name())
+my_tesla.describe_battery()
+
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 0
+        self.fill_gas_tank = 100
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+    def update_odometer(self,mileage):
+        """
+        Set the odometer reading to the given value.
+        Reject the change if it attempts to roll the odometer back.
+        """
+        if mileage >= self.odometer_reading:
+            self.odometer_reading = mileage
+        else:
+            print("You can't roll back an odometer!")        
+    def increment_odometer(self,miles):
+        """Add the given amount to the odometer reading."""
+        self.odometer_reading += miles
+    
+
+
+class ElectricCar(Car):
+    """Represent aspects of a car, specific to electric vehicles."""
+    def  __init__(self, make, model, year):
+        """Initialize attributes of the parent class."""
+        super().__init__(make, model,year)
+        self.battery_size = 70
+
+    def describe_battery(self):
+        print("This car has a " + str(self.battery_size) + "-kwh battery.")
+    
+
+my_tesla = ElectricCar('tesla','model s',2016)
+print(my_tesla.get_descriptive_name())
+my_tesla.describe_battery()
+```
+
+**错题集**
+
+```python
+class Car():
+    """A simple attempt to repersent a car."""
+
+    def __init__(self, make, model, year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 0
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name."""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+    def read_odometer(self):
+        """Print a statement showing the car's mileage."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+    def update_odometer(self,mileage):
+        """
+        Set the odometer reading to the given value.
+        Reject the change if it attempts to roll the odometer back.
+        """
+        if mileage >= self.odometer_reading:
+            self.odometer_reading = mileage
+        else:
+            print("You can't roll back an odometer!")        
+    def increment_odometer(self,miles):
+        """Add the given amount to the odometer reading."""
+        self.odometer_reading += miles
+
+class ElectricCar():
+    """Represent aspects of a car, specific to electric vehicles."""
+    def  __init__(self, make, model, year):
+        """Initialize attributes of the parent class."""
+        super().__init__(make, model,year)
+        self.battery_size = 70
+
+    def describe_battery(self):
+        print("This car has a " + str(self.battery_size) + "-kwh battery.")
+
+my_tesla = ElectricCar('tesla','model s',2016)
+print(my_tesla.get_descriptive_name())
+my_tesla.describe_battery()
+这个错误卡了很长时间，试了好多次才发现，新定义的class ElectricCar(): 没有填入Car, 看来不能太晚学编程，脑子不清楚..... 
+
+```
+
+今日所学：
+
+inheritance
+
+the __init()method for a child class
+
+defining attribute and methods for the child class
