@@ -710,8 +710,8 @@ my_tesla = ElectricCar('tesla','model s',2016)
 print(my_tesla.get_descriptive_name())
 my_tesla.describe_battery()
 这个错误卡了很长时间，试了好多次才发现，新定义的class ElectricCar(): 没有填入Car, 看来不能太晚学编程，脑子不清楚.....
-#卡了很长时间才发现错误,虽然煎熬,but很好有价值,这样才能深入的理解.
-#inheritance很比较多的左右,其中的第一点,可以简单理解为,省去了繁琐的复制黏贴.只需要把parent class "Car", 复制到child class ElectricCar()中,而不需要复制其中的大段代码.
+#卡了很长时间才发现错误,虽然煎熬,but很有价值,这样才能深入的理解.
+#inheritance很比较多的作用,其中的第一点,可以简单理解为,省去了繁琐的复制黏贴.只需要把parent class "Car", 复制到child class ElectricCar()中,而不需要复制其中的大段代码.
 
 ```
 
