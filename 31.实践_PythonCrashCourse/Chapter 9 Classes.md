@@ -398,7 +398,7 @@ class Restaurant():
         self.number_served = number
     def increment_number(self,figure):
         self.number_served += figure
-       
+#错误       
 restaurant = Restaurant('huangjihuang','chinese food')
 restaurant.describe_restaurant()
 restaurant.open_restaurant()
@@ -407,7 +407,7 @@ restaurant.set_number_served(55)
 huangjihuang provides chinese food
 The restaurant are open: huangjihuang
 The restaurant has served 0 people.
-正确
+#正确
 restaurant = Restaurant('huangjihuang','chinese food')
 restaurant.set_number_served(55)
 restaurant.describe_restaurant()
@@ -417,6 +417,147 @@ huangjihuang provides chinese food
 The restaurant are open: huangjihuang
 The restaurant has served 55 people.
 注意 restaurant.set_number_served(55) 放到正确的位置，放到调用self.number_served = 0之后，不起作用。
+#因为def set_number_served(self,number):这个method的功能就是重置, 
+#self.number_served, 的默认值设置为零,所以在输入的class的输入中没有number_served这个参数,self,restaurant_name,cuisine_type,
+#这个练习的目的是让人清楚,可以把参数一次性弄好,同时也可以在后面调整.
+
+#比如dog的例子
+class Dog():
+    """A simple attempt to model a dog."""
+
+    def __init__(self,name,age):
+        """Initialize name and age attributes."""
+        self.name = name
+        self.age = age 
+
+    def sit(self):
+        """Simulate a dog sitting in response to a command."""
+        print(self.name.title() + " is now sitting.")
+
+    def roll_over(self):
+        """Simulate rolling over in response to a command."""
+        print(self.name.title() + " rolled over!")
+        
+my_dog = Dog('willie',6)
+In [5]: my_dog
+Out[5]: <__main__.Dog at 0x11008a1d0>
+In [6]: vars(my_dog)
+Out[6]: {'name': 'willie', 'age': 6}
+#它今年6岁,明年就七岁了,
+#如果只有一只宠物狗,可以修改年龄
+In [7]: my_dog.age = 7
+In [8]: vars(my_dog) #查看my_dog的内容.
+Out[8]: {'name': 'willie', 'age': 7}
+#如果是养殖场,这么一个一个的修改会累死人,因此在定义的是时候就价格reset_age的method
+class Dog():
+    """A simple attempt to model a dog."""
+
+    def __init__(self,name,age):
+        """Initialize name and age attributes."""
+        self.name = name
+        self.age = age 
+    def reset_age(self,new_age):
+        self.age = new_age
+    def sit(self):
+        """Simulate a dog sitting in response to a command."""
+        print(self.name.title() + " is now sitting.")
+
+    def roll_over(self):
+        """Simulate rolling over in response to a command."""
+        print(self.name.title() + " rolled over!")
+#class Dog被重新改写了, 需要重新复制到ipython中,不然,他执行的还是原来的Dog      
+In [10]:  my_dog = Dog('willie',6)
+In [11]: vars(my_dog)
+Out[11]: {'name': 'willie', 'age': 6}
+In [12]: my_dog.reset_age(7)
+In [13]: vars(my_dog)
+Out[13]: {'name': 'willie', 'age': 7}
+#这样做的好处是什么呢? 加入我有3条狗,
+dog1 = Dog('tiger','6')
+dog2 = Dog('lion','6')
+dog3 = Dog('cat','6')
+#我就可以用for循环来修改他们的年龄
+for dog in [dog1, dog2, dog3]:
+    dog.reset_age(7)
+#查看是否修改成功
+In [21]: for dog in [dog1, dog2, dog3]:
+    ...:     print(vars(dog))
+    ...:     
+{'name': 'tiger', 'age': 7}
+{'name': 'lion', 'age': 7}
+{'name': 'cat', 'age': 7}
+#当然这个方法,并不适用,不一定所有的狗都是7岁.那就重新定义一个增长一岁method
+class Dog():
+    """A simple attempt to model a dog."""
+
+    def __init__(self,name,age):
+        """Initialize name and age attributes."""
+        self.name = name
+        self.age = age
+        
+    def reset_age(self,new_age):
+        self.age = new_ags
+        
+    def increase_ages(self, ages): #定义了新的方法
+        self.age = self.age + ages
+        
+    def sit(self):
+        """Simulate a dog sitting in response to a command."""
+        print(self.name.title() + " is now sitting.")
+
+    def roll_over(self):
+        """Simulate rolling over in response to a command."""
+        print(self.name.title() + " rolled over!")
+#这段代码重新复制到ipython中
+#instanciate my dog, 
+my_dog = Dog('willie',6)
+In [23]: my_dog.name
+Out[23]: 'willie'
+#最为Class和Object(instance),与function的不同就是,传入参数后,我们还可以取出来,为我所用
+In [24]: my_dog.age
+Out[24]: 6
+In [25]: my_dog.age * 100
+Out[25]: 600
+#修改age
+my_dog.increase_ages(1)
+In [29]: my_dog.increase_ages(1)
+In [30]: vars(my_dog)
+Out[30]: {'name': 'willie', 'age': 7}
+In [31]: my_dog.increase_ages(2
+In [32]: vars(my_dog)
+Out[32]: {'name': 'willie', 'age': 9}
+In [33]: my_dog.age
+Out[33]: 9
+#你厌烦了不断去修改Dog, 而且在ipython中,我已经执行了Dog, 只能从别的地方修改好,再黏贴回来, 没有办法在ipython中直接修改class Dog, 就如过去的时间一样,永远触碰不到.
+#怎么办? 定义一个新的狗 类
+class NewDog(Dog):
+    def rename(self, new_name):
+        self.name = new_name
+In [34]: my_dog = NewDog('willie',6)
+In [37]: my_dog.rename("Kitty")
+AttributeError: 'Dog' object has no attribute 'rename'                         
+#当然可以直接修改名字
+In [38]: my_dog.name = "SanMao"
+Out[38]: {'name': 'SanMao', 'age': 6}
+#但这样的手工操作,不适用大量的任务.
+In [39]: class NewDog(Dog):
+    ...:     def rename(self, new_name):
+    ...:         self.name = new_name
+    ...:         
+
+In [40]: my_dog = NewDog('willie',6)
+In [41]: my_dog.rename("Kitty")
+In [42]: my_dog.name
+Out[42]: 'Kitty'
+                              
+                              
+#这就是inheritance(继承), NewDog继承了Dog的所有财产,然后自己再加点新花样.(本质就是省略了不断地黏贴和复制原来的代码)
+Dog(object):#Dog继承了Object, 可以省略是因为Python里的任何一草一木都继承自Object. 包括list, tuple,dict, function,class等等.这些都是Python事先写好的工具. 当然我们也可以自己写. 就是
+class List: 写一堆代码
+            
+In [46]: list("text") #list是一个系统定义好的类,不是function
+Out[46]: ['t', 'e', 'x', 't']
+#如果我们自己写的话,就是 List('text')                            
 ```
 
 **今日所学**
