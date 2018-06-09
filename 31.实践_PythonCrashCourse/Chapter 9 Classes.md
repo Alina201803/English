@@ -720,3 +720,165 @@ inheritance
 the __init()method for a child class
 
 defining attribute and methods for the child class
+
+
+
+2018-06-09
+
+**源代码**
+
+```python
+9-3
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+user = Users('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+9-6
+class Restaurant():
+    def __init__(self,restaurant_name,cuisine_type):
+        """Initialize attributes to describe a restaurant"""
+        self.restaurant_name = restaurant_name
+        self.cuisine_type = cuisine_type
+
+    def describe_restaurant(self):
+        print(self.restaurant_name + ' ' + self.cuisine_type)
+
+    def open_restaurant(self):
+        print("The restaurant are open: " + self.restaurant_name)
+
+
+class IcecreamStand(Restaurant):
+    def __init__(self,restaurant_name,cuisine_type,flavors =
+                ['chocolate','strawberry','green tea']):
+        super().__init__(restaurant_name,cuisine_type)
+        self.flavors = flavors
+    def show_flavors(self):
+        for f in self.flavors:
+            print(f)
+
+stand = IcecreamStand('good time','icecream')
+print('flavors are:')
+stand.show_flavors()
+stand.describe_restaurant()
+stand.open_restaurant()
+9-7
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+class Admin(Users):
+    def __init__(self,first_name,last_name):
+        super.__init__(self,first_name,last_name)
+        self.privilieges = ['can add post','can delete post','can ban user']
+    def show_privilieges():
+        print(self.privilieges)
+        
+
+user = Users('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+user.show_privilieges()
+
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+class Admin(Users):
+    def __init__(self,first_name,last_name,location,privilieges):
+        super().__init__(first_name,last_name,location)
+        self.privilieges = [can add post','can delete post','can ban user']
+    def show_privilieges(self):
+        print(self.privilieges)
+        
+
+user = Admin('adam','cliton','Amarica','can add post')
+user.describe_users()
+user.greet_users()
+user.show_privilieges()
+9-8
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+class Privilieges():
+    def __init__(self,privilieges = ['can add post','can delete post','can ban user']):
+        self.privilieges = privilieges
+    def show_privilieges(self):
+        for p in self.privilieges:
+            print("\nThe admin's prinilieges is: " + p)
+
+class Admin(Users):
+    def __init__(self,first_name,last_name,location):
+        super().__init__(first_name,last_name,location)
+        self.privilieges = Privilieges()
+    
+        
+
+user = Admin('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+user.privilieges.show_privilieges()
+
+
+```
+
+今日所学：
+
+instances as attributes
+
+练习9-3 9-6 9-7 9-8
