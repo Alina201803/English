@@ -722,3 +722,344 @@ inheritance
 the __init()method for a child class
 
 defining attribute and methods for the child class
+
+
+
+2018-06-09
+
+**源代码**
+
+```python
+9-3
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+user = Users('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+9-6
+class Restaurant():
+    def __init__(self,restaurant_name,cuisine_type):
+        """Initialize attributes to describe a restaurant"""
+        self.restaurant_name = restaurant_name
+        self.cuisine_type = cuisine_type
+
+    def describe_restaurant(self):
+        print(self.restaurant_name + ' ' + self.cuisine_type)
+
+    def open_restaurant(self):
+        print("The restaurant are open: " + self.restaurant_name)
+
+
+class IcecreamStand(Restaurant):
+    def __init__(self,restaurant_name,cuisine_type,flavors =
+                ['chocolate','strawberry','green tea']):
+        super().__init__(restaurant_name,cuisine_type)
+        self.flavors = flavors
+    def show_flavors(self):
+        for f in self.flavors:
+            print(f)
+
+stand = IcecreamStand('good time','icecream')
+print('flavors are:')
+stand.show_flavors()
+stand.describe_restaurant()
+stand.open_restaurant()
+9-7
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+class Admin(Users):
+    def __init__(self,first_name,last_name):
+        super.__init__(self,first_name,last_name)
+        self.privilieges = ['can add post','can delete post','can ban user']
+    def show_privilieges():
+        print(self.privilieges)
+        
+
+user = Users('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+user.show_privilieges()
+
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+class Admin(Users):
+    def __init__(self,first_name,last_name,location,privilieges):
+        super().__init__(first_name,last_name,location)
+        self.privilieges = [can add post','can delete post','can ban user']
+    def show_privilieges(self):
+        print(self.privilieges)
+        
+
+user = Admin('adam','cliton','Amarica','can add post')
+user.describe_users()
+user.greet_users()
+user.show_privilieges()
+9-8
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+
+class Privilieges():
+    def __init__(self,privilieges = ['can add post','can delete post','can ban user']):
+        self.privilieges = privilieges
+    def show_privilieges(self):
+        for p in self.privilieges:
+            print("\nThe admin's prinilieges is: " + p)
+
+class Admin(Users):
+    def __init__(self,first_name,last_name,location):
+        super().__init__(first_name,last_name,location)
+        self.privilieges = Privilieges()
+    
+        
+
+user = Admin('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+user.privilieges.show_privilieges()
+
+
+```
+
+今日所学：
+
+instances as attributes
+
+练习9-3 9-6 9-7 9-8
+
+
+
+2018-06-10
+
+**源代码**
+
+```python
+car.py
+"""A class that can be used to represent a car."""
+class Car():
+    """A simple attempt to represent a car"""
+
+    def __init__(self,make,model,year):
+        """Initialize attributes to describe a car."""
+        self.make = make
+        self.model = model
+        self.year = year
+        self.odometer_reading = 0 
+    def get_descriptive_name(self):
+        """Return a neatly formatted descriptive name"""
+        long_name = str(self.year) + ' ' + self.make + ' ' + self.model
+        return long_name.title()
+
+    def read_odometer(self):
+        """Print a statement showing the car's milege."""
+        print("This car has " + str(self.odometer_reading) + " miles on it.")
+        
+    def update_odometer(self,mileage):
+        """
+        set the odometer reading to the given value.
+        Reject the change if it attempts to roll the odometer back.
+        """
+        if mileage >=self.odometer_reading:
+            self.odometer_reading = mileage
+        else:
+            print("You can't roll back an odometer!")
+
+    def increment_odometer(self,miles):
+        """Add the given amount to the odometer reading."""
+        self.odometer_reading += miles
+
+        
+electric_car.py
+"""A set of classes that can be used to represent electric cars."""
+
+from car import Car
+
+class Battery():
+    """A simple attempt to model a battery for an electric car."""
+
+    def __init__(self,battery_size = 70):
+        """Initialize the battery's attributes."""
+        self.battery_size = battery_size
+    
+    def describe_battery(self):
+        """Print a statement describing the battery size."""
+        print("This car has a " + str(self.battery_size) + "-KWH battery.")
+
+    def get_range(self):
+        """Print a statement about the range this battery provides."""
+        if self.battery_size == 70:
+            range = 240
+        elif self.battery_size == 85:
+            range = 270
+        message = "This car can go approximately " + str(range)
+        message += " miles on a full charge."
+        print(message)
+
+class ElectricCar(Car):
+    """Models aspects of a car, specific to electric vehicles."""
+
+    def __init__(self,make,model,year):
+        """
+        Initialize attributes of the parent class
+        Then initialize attributes specific to an electric car.
+        """
+        super().__init__(make,model,year)
+        self.battery = Battery()
+ 
+my_electric_car.py
+from car import ElectricCar
+
+my_tesla = ElectricCar('tesla','modle s', 2016)
+
+print(my_tesla.get_descriptive_name())
+my_tesla.battery.describe_battery()
+my_tesla.battery.get_range()
+
+my_car.py
+from car import Car
+
+my_new_car = Car('audi','a4',2016)
+print(my_new_car.get_descriptive_name())
+
+my_new_car.odometer_reading = 23
+my_new_car.read_odometer()
+
+my_cars.py
+from car import Car
+from electric_car import ElectricCar
+
+
+my_beetle = Car('volkswagen','beetle',2016)
+print(my_beetle.get_descriptive_name())
+
+my_tesla = ElectricCar('tesla','roadster',2016)
+print(my_tesla.get_descriptive_name())
+
+练习9-12
+user.py
+class Users():
+    def __init__(self,first_name,last_name,location):
+        self.first_name = first_name.title()
+        self.last_name = last_name.title()
+        self.location = location.title()
+
+    def describe_users(self):
+       """summarize the user's information"""
+       print(self.first_name + ' ' + 
+            self.last_name + " lives in " +
+            self.location)
+
+    def greet_users(self):
+        print("Hello," +
+            self.first_name + ' ' + 
+            self.last_name)
+privileges.py
+from user import Users
+
+class Privilieges():
+    def __init__(self,privilieges = ['can add post','can delete post','can ban user']):
+        self.privilieges = privilieges
+    def show_privilieges(self):
+        for p in self.privilieges:
+            print("\nThe admin's prinilieges is: " + p)
+class Admin(Users):
+    def __init__(self,first_name,last_name,location):
+        super().__init__(first_name,last_name,location)
+        self.privilieges = Privilieges()
+        
+ instance.py  
+import privileges
+
+import privileges
+
+user = privileges.Admin('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+user.privilieges.show_privilieges()
+
+```
+
+**错题集**
+
+```python
+import privileges
+错误
+user = Admin('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+user.privilieges.show_privilieges()
+改为
+user = privileges.Admin('adam','cliton','Amarica')
+user.describe_users()
+user.greet_users()
+user.privilieges.show_privilieges()
+
+import entire module之后 在创建实例时需要module的名字 module_name.calss_name.
+import calss 时不需要 因为from module_name import class.name语句 已经指明使用哪个class
+```
+
+今日所学
+
+importing classes
+
+a single class,  multiple classes, entire module
+
+import a module into  a module
