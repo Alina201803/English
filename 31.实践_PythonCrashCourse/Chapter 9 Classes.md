@@ -1063,3 +1063,92 @@ importing classes
 a single class,  multiple classes, entire module
 
 import a module into  a module
+
+
+
+2016-06-11
+
+**源代码**
+
+```python
+from collecctions import OrderedDict
+
+favorite_languages = OrderedDict()
+
+favorite_languages['jen'] = 'python'
+favorite_languages['sarah'] = 'c'
+favorite_languages['edward'] = 'ruby'
+favorite_languages['phil'] = 'python'
+
+for name,langugae in favorite_languages.items():
+    print(name.title() + "'s favorite language is " + 
+        language.title() + ".")
+        
+
+ 练习
+9-14
+class Die():
+    def __init__(self,sides= 6):
+        self.sides = sides
+
+    def roll_die(self):
+        x = randint(1, self.sides)
+        print(x)
+    def update_sides(self,sides= 10):
+        self.sides = sides
+        x = randint(1,self.sides)
+        print(x)
+roll_dies = Die()
+for i in range(1,10):   
+    roll_dies.roll_die()
+for i in range(1.10):
+    roll_dies.update_sides()
+搜索答案
+from random import randint
+class Die():
+	"""docstring for Die"""
+	def __init__(self):
+		self.sides = 6
+	def roll_die(self):
+		x = randint(1,6)
+		self.sides=x
+		print(self.sides)
+	def roll_die10(self):
+		x = randint(1,10)
+		self.sides = x
+		print(self.sides)
+	
+die = Die()
+print(die.sides)
+print("6 sides")
+for i in range(0,10):
+	die.roll_die()
+print("10 sides")
+for i in range(0,10):
+	die.roll_die10()
+
+```
+
+**错题集**
+
+```python
+$ python die.py
+Traceback (most recent call last):
+  File "die.py", line 1, in <module>
+    from random import randint
+  File "C:\Users\Administrator\desktop\random.py", line 141
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+import random 时 output告诉我标准库里有错误 不知道什么情况
+....
+```
+
+今日所学
+
+the python standard libarary
+
+今天去http://pymotw.com/逛了逛
+
+下载了random.py 的源代码 
+
