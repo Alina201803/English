@@ -178,7 +178,7 @@ making a list of lines from a file
 
 建议设置输入法,在中文状态下使用英文标点.
 
-![Screen Shot 2018-06-13 at 6.47.34 AM](../../../Screen Shot 2018-06-13 at 6.47.34 AM.png)
+![Screen Shot 2018-06-13 at 6.47.34 AM](https://github.com/M-DFK/English/blob/master/31.%E5%AE%9E%E8%B7%B5_PythonCrashCourse/images/Screen%20Shot%202018-06-13%20at%206.47.34%20AM.png?raw=true)
 
 
 
