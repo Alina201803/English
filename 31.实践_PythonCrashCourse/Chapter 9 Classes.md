@@ -1099,10 +1099,16 @@ class Die():
         x = randint(1,self.sides)
         print(x)
 roll_dies = Die()
-for i in range(1,10):   
+for i in range(1,10):  
     roll_dies.roll_die()
-for i in range(1.10):
-    roll_dies.update_sides()
+for i in range(1.10): #这里出了一点小问题, range(1, 10)
+    roll_dies.update_sides() 
+#你写的比答案好多了,答案里roll_die10()这个命名好草率.
+#roll_dies.update_sides() 这里,显性的标注sides=10会更可读
+for i in range(1, 10):
+    roll_dies.update_sides(sides=10) #这样不看你的源代码也会知道明白代码
+#python的报错并不可靠,只能作为辅助.
+    
 搜索答案
 from random import randint
 class Die():
@@ -1142,6 +1148,10 @@ Traceback (most recent call last):
 SyntaxError: invalid syntax
 import random 时 output告诉我标准库里有错误 不知道什么情况
 ....
+#这是代码里Python解释器找不到错误(就是写Python的没有预先放进去的报错),会瞎报,
+#标准库里的代码不会有问题.
+#另外,现在千万别花费时间读源代码,尤其是Python自己标准库的源代码
+#看看标准库里有哪些工具对自己有用,再拿来用用.
 ```
 
 今日所学
@@ -1151,4 +1161,40 @@ the python standard libarary
 今天去http://pymotw.com/逛了逛
 
 下载了random.py 的源代码 
+
+random会用就好了, Python自己的standard libarary源代码很难,
+
+当开始用一些简单的第三方的library的时候再开始读源代码.
+
+Python标准库里很多内容,只看对自己有用的, 不必要看全.(出于兴趣的话,当然可以随意看看.)
+
+
+
+以后要常常查询的文档:
+
+1. [3.6.5 Documentation](https://docs.python.org/3/index.html) python的官方文档,
+
+   文档中有一个官方的tutorial,有空可以看看
+
+   [The Python Tutorial — Python 3.6.5 documentation](https://docs.python.org/3/tutorial/index.html)
+
+2. [Python 3 Module of the Week — PyMOTW 3](https://pymotw.com/3/)
+
+   这个网站是对python standard lib解释的最好的一个,官方的文档比较难懂.
+
+3. 另外对标准库的态度,
+
+   1. 标准库的初衷是要帮助我们,不然就需要自己去github上搜索,安装,找文档学习,等等;
+
+      所以看着很多,不要烦,
+
+   2. 用哪个学哪个, 不用全看,可以浏览浏览都有什么;
+
+   3. 别看标准库的源代码,是架构最底层的源代码,以后不会写这样的代码.
+
+   ​
+
+
+
+
 
