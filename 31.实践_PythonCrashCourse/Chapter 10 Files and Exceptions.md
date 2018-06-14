@@ -266,3 +266,88 @@ writing multiple lines
 
 appending to a file
 
+2018-06-14
+
+**源代码**
+
+```python
+print(5/0)
+$ python 2018-06-14.py
+Traceback (most recent call last):
+  File "2018-06-14.py", line 1, in <module>
+    print(5/0)
+ZeroDivisionError: division by zero
+
+try:
+    print(5/0)
+except ZeroDivisionError:
+    print("You can't divide by zero!")
+You can't divide by zero!
+
+print("Give me two numbers, and I'll divide them.")
+print("Enter 'q' to quit.")
+
+while True:
+    first_number = input("\nFirst number: ")
+    if first_number == 'q':
+        break
+    second_number = input("\nSecond number: ")
+    if seconf_number == 'q':
+        break
+    anwser = int(first_number)/int(second_number)
+    print(answer)
+
+$ python 2018-06-14-1.py
+Give me two numbers, and I'll divide them.
+Enter 'q' to quit.
+
+First number: 5
+
+Second number: 0
+Traceback (most recent call last):
+  File "2018-06-14-1.py", line 9, in <module>
+    if seconf_number == 'q':
+NameError: name 'seconf_number' is not defined
+
+print("Give me two numbers, and I'll divide them.")
+print("Enter 'q' to quit.")
+
+while True:
+    first_number = input("\nFirst number: ")
+    if first_number == 'q':
+        break
+    second_number = input("\nSecond number: ")
+    try:
+        answer = int(first_number)/int(second_number)
+    except ZeroDivisionError:
+        print("You can't divide by 0!")
+    else:
+        print(answer)
+
+Give me two numbers, and I'll divide them.
+Enter 'q' to quit.
+
+First number: 5
+
+Second number: 0
+You can't divide by 0!
+
+First number: 5
+
+Second number: 2
+2.5
+
+First number: q
+
+```
+
+今日所学
+
+exceptions
+
+handing the ZeroDivisionError Exception
+
+using exceptions to prevent crashes
+
+the else block
+
