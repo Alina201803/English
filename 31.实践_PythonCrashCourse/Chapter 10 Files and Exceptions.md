@@ -184,3 +184,87 @@ making a list of lines from a file
 
 
 
+2018-06-13
+
+**源代码**
+
+```python
+filename = 'programming.txt'
+
+with open(filename,'w') as file_object:
+    file_object.write("I love programming.")
+
+filename = 'programming.txt'
+
+with open(filename,'w') as file_object:
+    file_object.write("I love programming.")
+    file_object.write("I love creating new game.")
+
+filename = 'programming.txt'
+
+with open(filename,'w') as file_object:
+    file_object.write("I love programming.\n")
+    file_object.write("I love creating new game.\n")
+
+filename = 'programming.txt'
+
+with open(filename,'a') as file_object:
+    file_object.write("I also love finding meaning in large datasets.\n")
+    file_object.write("I love creating apps that can run in a browser.\n")
+
+练习：   
+10-3
+user_name = input("Please enter your name: ")
+
+filename  = 'user_name.md'
+
+with open(filename,'w') as file_object:
+    file_object.write(user_name)
+
+10-4
+user_name = input("Please enter your name: ")
+while user_name:
+    print("Welcome! " + user_name.title())
+    filename = 'guest_book.txt'
+    with open(filename,'a') as file_object:
+        file_object.write(user_name + '\n')
+    break
+
+10-5
+reason = input("Why you like programming? ")
+while reason:
+    filename = "reason_programming.md"
+    with open(filename,'a') as file_object:
+        file_object.write(reason + '\n')
+    break
+```
+
+**错题集**
+
+```python
+1
+user_name = input("Please enter your name: ")
+
+filename  = 'user_name.md'
+
+with open(filename,'w') as file_object:
+    file_object.write(user_name)
+filename = 'user_name.md' user.name 后加上文件类型，否则需要选择打开方式
+2
+user_name = input("Please enter your name: ")
+while user_name:
+    print("Welcome! " + user_name.title())
+    filename = 'guest_book.txt'
+    with open(filename,'a') as file_object:
+        file_object.write(user_name + '\n')
+ 使用while loop 忘记break  gitbash 打印个不停.....
+```
+
+今日所学
+
+writing to a file
+
+writing multiple lines
+
+appending to a file
+
