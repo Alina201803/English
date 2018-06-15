@@ -353,3 +353,15 @@ using exceptions to prevent crashes
 
 the else block
 
+**Try and Except**
+
+Try except,  结果导向, 以终为始, 事先考虑到可能遇到的报错.
+
+"EAFP，easier ask for forgiveness than permission"
+
+if (then),条件判断, LBYL，look before your leap三思而后行, 
+
+if elif else,几乎是最有用的逻辑,
+
+但是在一大段代码里全部都是if, else,显得过于单调, 就跟写文章的时候,用同义词一样.
+

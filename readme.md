@@ -212,3 +212,7 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
    - 继续英文原著的阅读
       - Hacker and Painter Paul Graham
       - Mythms to live by
+
+- 2018-06-15 Fr
+
+   - 刘CC加入,创建了Github库.
