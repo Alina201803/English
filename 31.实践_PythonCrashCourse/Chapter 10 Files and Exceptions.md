@@ -463,6 +463,7 @@ for filename in filenames:
 The file alice.txt has about 29461 words.
 The file moby_dick.txt has about 215136 words.
 The file little_women.txt has about 189079 words.
+#这些代码就开始实在的做事了.
 ```
 
 **错题集**
@@ -479,7 +480,47 @@ try:
 IndentationError: expected an indented block
 
     contents前面需要缩进
-    
+#关于缩进   
+try:
+    with open(filename) as f_obj:
+        contents = f_obj.read()
+ 缩进表示逻辑隶属和包含的关系.
+with open(filename) as f_obj:
+    contents = f_obj.read()
+单独一段open的代码,然后再将其放入try的逻辑内,
+如果不缩进,
+with open(filename) as f_obj:
+contents = f_obj.read()
+这两段代码是并行关系.
+with open(filename) as f_obj: 
+#这一行代码open(filename)的同时就自动f_obj.close()
+#with open这个写法就是为了帮助我们少写f_obj.close(这一步的语法糖.
+#因此后面
+contents = f_obj.read()中的f_obj就是没有被定义的命名.
+
+ 
+Python缩进的优点是,使得代码简洁的逻辑结构,可视化
+
+其他的编程语言会这样写,
+with open(filename) as f_obj: {
+    contents = f_obj.read()  #这里缩进与否没有关系,是用{} 表示包含和隶属的逻辑关系. 
+}
+嵌套的逻辑:
+try:{
+    with open(filename) as f_obj:{
+          contents = f_obj.read()  
+    }       
+}
+#表达的逻辑与python完全一样,但是多了{}, 空格是我为了可读性加的. 其实也可以这样
+try:{
+with open(filename) as f_obj:{
+contents = f_obj.read() ;} } #读起来很是心累.
+这个就是python中indentation的作用,就是{}, 去掉了形式,留下了本质.
+漏掉缩进,相当于
+try:{
+    with open(filename) as f_obj:
+    contents = f_obj.read()      
+}
 ```
 
 今日所学
