@@ -365,3 +365,129 @@ if elif else,几乎是最有用的逻辑,
 
 但是在一大段代码里全部都是if, else,显得过于单调, 就跟写文章的时候,用同义词一样.
 
+2018-06-15
+
+**源代码**
+
+```python
+filename = 'alice.txt'
+
+with open(filename) as f_obj:
+    contents = f_obj.read()
+Traceback (most recent call last):
+  File "2018-06-15.py", line 3, in <module>
+    with open(filename) as f_obj:
+FileNotFoundError: [Errno 2] No such file or directory: 'alice.txt'
+
+filename = 'alice.txt'
+
+try:
+    with open(filename) as f_obj:
+        contents = f_obj.read()
+except FileNotFoundError:
+    msg = "Sorry, the file " + filename + " dose not exist."
+    print(msg)
+Sorry, the file alice.txt dose not exist.
+filename = 'alice.txt'
+
+try:
+    with open(filename) as f_obj:
+        contents = f_obj.read()
+except FileNotFoundError:
+    msg = "Sorry, the file " + filename + " dose not exist."
+    print(msg)
+else:
+    # Count the approximate number of words in the file.
+    words = contents.split()
+    num_words = len(words)
+    print("The file " + filename + " has about " + str(num_words) + " words.")
+
+
+def count_words(filename):
+
+    """Count the approximate number of words in file."""
+    try:
+        with open(filename) as f_obj:
+            contents = f_obj.read()
+    except FileNotFoundError:
+        msg = "Sorry, the file " + filename + " dose not exist."
+        print(msg)
+    else:
+    # Count the approximate number of words in the file.
+        words = contents.split()
+        num_words = len(words)
+        print("The file " + filename + " has about " + str(num_words) + " words.")
+
+filename = 'alice.txt'
+count_words(filename)
+
+def count_words(filename):
+
+    """Count the approximate number of words in file."""
+    try:
+        with open(filename) as f_obj:
+            contents = f_obj.read()
+    except FileNotFoundError:
+        msg = "Sorry, the file " + filename + " dose not exist."
+        print(msg)
+    else:
+    # Count the approximate number of words in the file.
+        words = contents.split()
+        num_words = len(words)
+        print("The file " + filename + " has about " + str(num_words) + " words.")
+
+filenames = ['alice.txt','siddhartha.txt','moby_dick.txt','little_women.txt']
+for filename in filenames:
+    count_words(filename)
+
+
+
+def count_words(filename):
+
+    """Count the approximate number of words in file."""
+    try:
+        with open(filename) as f_obj:
+            contents = f_obj.read()
+    except FileNotFoundError:
+        pass
+    else:
+    # Count the approximate number of words in the file.
+        words = contents.split()
+        num_words = len(words)
+        print("The file " + filename + " has about " + str(num_words) + " words.")
+
+filenames = ['alice.txt','siddhartha.txt','moby_dick.txt','little_women.txt']
+for filename in filenames:
+    count_words(filename)
+
+The file alice.txt has about 29461 words.
+The file moby_dick.txt has about 215136 words.
+The file little_women.txt has about 189079 words.
+```
+
+**错题集**
+
+```python
+try:
+        with open(filename) as f_obj:
+        contents = f_obj.read()
+    except FileNotFoundError:
+        pass
+ File "2018-06-15-1.py", line 6
+    contents = f_obj.read()
+           ^
+IndentationError: expected an indented block
+
+    contents前面需要缩进
+    
+```
+
+今日所学
+
+hand the FileNotFoundError Exception
+
+Analyzing text
+
+working with nultiple files
+
+failing ailently
