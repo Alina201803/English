@@ -920,6 +920,11 @@ def greet_user():
     
 greet_user()
 感觉重组之后代码反而变长了，一个函数只做一件事情,逻辑清晰了一些
+#逻辑更清晰,就是Refactor的实际用处; 便于维护和阅读,就算以后自己再阅读,也很容易读懂.
+#但是刚开始的时候,可以随意一点,先随意写,然后再重构.
+#一个函数只做一件事,是一种"模块化"的思路,
+#将编程当做搭积木, 写好的函数可以任意组合.
+#而非一行一行的代码
 ```
 
 **问题集**
@@ -929,6 +934,63 @@ What is json?
 *JSON is* **short for JavaScript Object Notation***, and is a way to store information in anorganized, easy-to-access manner. In a nutshell, it gives us a human-readable collectionof data that we can access in a really logical manner.* 
 
 看教材内容 感觉json既是一种文件格式，开头的import json中  json又是一个module.
+
+
+
+   ```python
+1. 首先json是一种文件格式, 文件格式的意思是,它是文本的一种,跟 .doc, .md, .txt 一样 
+    #先创建一个my_list的列表数据结构
+    In [8]: my_list = ['test', 'json', 'function']
+    In [9]:  with open("test.json", "w") as f:
+      ...:     json.dump(my_list,f)
+    #先用普通的方法读取test.json这个文件
+    In [11]: test_file = open("test.json")
+    In [12]: test_file
+    Out[12]: <_io.TextIOWrapper name='test.json' mode='r' encoding='UTF-8'>
+    In [13]: test_file.read()
+    Out[13]: '["test", "json", "function"]' 
+    #读取到的是一个有引号的字符串,而非一个数据结构(list), 说明本质上json存储的是一个文本.
+
+2. module的作用
+   #json的强大之处在哪里呢?
+   存进去的是一个数据结构,但是读取出来的是一个字符串文本'["test", "json", "function"]',
+   必须多做一步, 手动将引号去掉,才能将其转换成一个列表,应用一个函数 eval() evalate
+   In [5]: eval('["test", "json", "function"]' )
+   Out[5]: ['test', 'json', 'function']
+   #转换成功,
+   #但如果用普通的方法读取,每次都需要这样操作, 是不是太麻烦了?
+
+   因此Python写了一个module来简化这个操作. 这个时候json module就来了.
+   #python中的module,只是以.py结尾的文件的一种fancy的说法.
+   #比如a_file.py,可以成为a_file module.
+   #用python写好的json模块工具直接读取.
+
+   In [18]: with open('test.json', 'r') as f:
+       ...:     my_list  = json.load(f)
+   In [19]: my_list
+   Out[19]: ['test', 'json', 'function'] 
+   #读取出来就是一个列表.
+   #存入到.json文件的是什么结构,读取出来的就是什么结构.
+    
+3. json是通用的数据格式
+   #那么json仅仅做了这么一点事情吗? 省略转换这一步?
+   #其实就做了这么一点事,但它是一种各种编程语言数据交换的通用的格式.
+
+   #想象一下,编程语言的语法都是不同的,数据的表示方法也各不相同. 
+   #在python中 [] 是一列表符号,在其他语言中可能是一个判断命令.那Python处理过得数据就不能被其他语言应用.
+   #因此,大家商量好.不同语言之间都用json沟通, 也不是商量好, 时间的作用, 都觉得的这种格式简单好用.
+
+   比如在Javascript中,Json诞生在这个语言中.
+   JSON.stringify()  相当于python中的json.dump() #将数据转成文本以存储
+   JSON.parse() 相当于Python中的json.load() #将文本解析为数据.
+   #这样,这两种语言就可以互相沟通,
+   #分别用这两种语言写的程序和程序员可以互相沟通了.
+
+   ```
+
+   ​
+
+
 
 今日所学：
 
