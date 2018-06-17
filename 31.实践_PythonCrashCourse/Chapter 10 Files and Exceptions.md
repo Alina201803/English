@@ -625,7 +625,159 @@ Please enter the second number: apple
 1apple
 
 加工数字需要 function int()
+
+#这是因为从外部获得的内容都是文本,不管是从键盘输入的,还是从文件里读取的.
+#都是文本,也就是他们都是 " "在双引号里面的.
+In [1]: first_number = input("Please enter the first number: ")
+Please enter the first number: 3
+In [2]: first_number
+Out[2]: '3' #Tada,看见没, 3是被双引号包裹着的.
+In [3]: "3" + "2"
+Out[3]: '32' #这是将两个字符串合并到一起.
+In [4]: "a" + "b"
+Out[4]: 'ab'
+#python或者说编程就是将外部输入的文本转换成1) 数据 (data) 2) 命名 (command)
+
+In [5]: int(first_number)
+Out[5]: 3
+#int, integer是Python预先写好的一个Class, 能将文本转换成整数
+#可以查看一下int
+In [6]: help(int)
+#会出现下面的对话框
 ```
+
+![help_int](images/help_int.png)
+
+在 冒号 `:` 这里闪烁光标, 输入字母 q 是退出,回到原来的ipython界面中.
+
+以后会常用到help() 函数, 稍微熟悉一下这个界面
+
+按空格键是向下翻页, 按b(before)是向前翻页.
+
+按字母g是回到首页, shift + g (也就是大写字母G)是调到尾页.
+
+```python
+Help on class int in module builtins:
+
+class int(object)
+ |  int(x=0) -> integer
+ |  int(x, base=10) -> integer
+ |  
+ |  Convert a number or string to an integer, or return 0 if no arguments
+ |  are given.  If x is a number, return x.__int__().  For floating point
+ |  numbers, this truncates towards zero.
+```
+
+看到没,`int`是一个`class`, 也是继承自`object`, 他能将文本转换成数字(整数)
+
+所以, `int(3)` 与第九章的 `Dog('willie')` 的本质是一样的. 都是接收argument,将其转成实例(Instance).让其活起来.
+
+> 这里可以说转化成实例Instance, 也可以说转化成实例对象 Instance object, 因为在Python中,万物皆对象,
+>
+> 不要被迷惑了,这个Object是多余的.
+>
+> 比如 3, 我们可以说整数3, 也可以说整数对象3, 因为大家都是继承自object,都是从同一个母体里出来的.
+>
+> 比如之前写的`file_object`之所以这样命名,是将python中的file与没被Python处理的File区分开.
+
+将一个文本`'3'` 转换成 整数`3` 这个Object Instance.
+
+当然,我们在ipython和vscode中输入的数字都是 数字Object, 而不是文本.
+
+```python
+In [19]: number_object = 10
+#查看一下他的attribute and method
+#下面有这么多,
+#怎么说呢? 我们用的每一个小的工具,后面都有人做了大量的工作.
+In [20]: dir(number_object)
+Out[20]: 
+['__abs__',
+ ....
+ 'bit_length',
+ 'conjugate',
+ 'denominator',
+ 'from_bytes',
+ 'imag',
+ 'numerator',
+ 'real',
+ 'to_bytes']
+#这些不需要去了解,放在这里只是为了说明, 
+#需要将输入的文本 "3" 转换成 整数`3`
+
+```
+
+input的出来
+
+```python
+#可以分成两步
+In [23]: first_number = input("Please enter the first number: ")
+Please enter the first number: 3
+In [24]: int(first_number)
+Out[24]: 3
+#一般情况下,都是简写成一步,
+first_number = int(input("Please enter the first number: "))
+In [26]: first_number = int(input("Please enter the first number: "))
+Please enter the first number: 3
+In [27]: first_number *3
+Out[27]: 9
+#当然,在程序员看来,用户都是傻子,他们什么都会乱输入.
+#比如
+In [28]: first_number = int(input("Please enter the first number: "))
+Please enter the first number: &
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-28-6e96b84aae4f> in <module>()
+----> 1 first_number = int(input("Please enter the first number: "))
+ValueError: invalid literal for int() with base 10: '&'
+
+#这个时候try就来了.对用户的输入验证其有效性(Verify and validate),教育用户.
+try:
+    first_number = int(input("Please enter the first number: "))
+except ValueError:
+    print("You should input an integer, please try again.")
+##运行一次.
+In [29]: try:
+    ...:     first_number = int(input("Please enter the first number: "))
+    ...: except ValueError: #替换原来的报错内容, 换成我想要说的内容.
+    ...:     print("You should input an integer, please try again.")
+    ...:     
+Please enter the first number: y
+You should input an integer, please try again.
+#运行一次,停止了,没有给用户机会从新输入.
+#使用一个while循环.
+while True:
+    try:
+        first_number = int(input("Please enter the first number: "))
+        break #如果输入正确,就跳出循环.
+    except ValueError:
+        print("You should input an integer, please try again.")
+        continue #如果不正确,就给用户机会再来一遍.
+#运行.
+In [30]: while True:
+    ...:     try:
+    ...:         first_number = int(input("Please enter the first number: "))
+    ...:         break #如果输入正确,就跳出循环.
+    ...:     except ValueError:
+    ...:         print("You should input an integer, please try again.")
+    ...:         continue #如果不正确,就给用户机会再来一遍.
+    ...:     
+Please enter the first number: u
+You should input an integer, please try again.
+Please enter the first number: j
+You should input an integer, please try again.
+Please enter the first number: 7
+
+In [31]: #输入正确,跳出循环
+
+#在这里,就是用程序控制用户,这也是编程乐趣所在.
+
+```
+
+
+
+`help()` 是一个很便利的函数, 任何不了解的内容可以`help()`
+
+
 
 今日所学
 
