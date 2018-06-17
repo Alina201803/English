@@ -782,3 +782,160 @@ In [31]: #输入正确,跳出循环
 今日所学
 
 完成练习
+
+2018-06-17
+
+**源代码**
+
+```python
+import json
+
+numbers = [2,3,4,5,7,11,13]
+
+filename = 'numbers.json'
+with open(filename,'w') as f_obj:
+    json.dump(numbers,f_obj)
+
+    
+import json
+
+filename = 'numbers.json'
+with open(filename) as f_obj:
+    numbers = json.load(f_obj)
+
+print(numbers)
+
+
+import json
+username = input("What is your name? ")
+
+filename = 'username.json'
+with open(filename,'w') as f_obj:
+    json.dump(username,f_obj)
+    print("We will remember you when you come back, " + username + "!")
+What is your name? Alina
+We will remember you when you come back, Alina!
+
+import json
+filename = 'username.json'
+
+with open(filename) as f_obj:
+    username = json.load(f_obj)
+    print("Welcome back, " + username + "!")
+Welcome back, Alina!
+
+
+import json
+
+#load the username, if it has been stored previously.
+#Otherwise, prompt for the username and store it.
+filename = 'username.json'
+try:
+    with open(filename) as f_obj:
+        username = json.load(f_obj)
+except FileNotFoundError:
+    username = input("What is your name? ")
+    with open(filename,'w') as f_obj:
+        json.dump(username,f_obj)
+        print("We will remember you when you comeback, " + username + "!")
+else:
+    print("Welcome back, " + username + "!")
+
+Welcome back, Alina!
+
+
+import json
+
+def greet_user():
+    """Greet the user by name."""
+
+    filename = 'username.json'
+    try:
+        with open(filename) as f_obj:
+            username = json.load(f_obj)
+    except FileNotFoundError:
+        username = input("What is your name? ")
+        with open(filename,'w') as f_obj:
+            json.dump(username,f_obj)
+            print("We will remember you when you comeback, " + username + "!")
+    else:
+        print("Welcome back, " + username + "!")
+greet_user()
+
+
+import json
+
+def get_stored_username():
+    """Get stored username if available"""
+    filename = 'username.json'
+    try:
+        with open(filename) as f_obj:
+            username = json.load(f_obj)
+    except FileNotFoundError:
+        return None
+    else:
+        return username
+
+def greet_user():
+    """Greet the user by name."""
+    username = get_stored_username()
+    if username:
+        print("Welcomeback, " + username + '!')
+    else:
+        username = input("What is your name? ")
+        with open(filename,'w') as f_obj:
+            json.dump(username,f_obj)
+            print("We will remember you when you comeback, " + username + "!")
+    
+greet_user()
+
+
+import json
+
+def get_stored_username():
+    """Get stored username if available"""
+    filename = 'username.json'
+    try:
+        with open(filename) as f_obj:
+            username = json.load(f_obj)
+    except FileNotFoundError:
+        return None
+    else:
+        return username
+def get_new_username():
+    """Prompt for a new username."""
+    username = input("What is your name? ")
+    filename = 'username.json'
+    with open(filename,'w') as f_obj:
+        json.dump(username,f_obj)
+
+def greet_user():
+    """Greet the user by name."""
+    username = get_stored_username()
+    if username:
+        print("Welcomeback, " + username + '!')
+    else:
+        username = get_new_username()
+        print("We will remember you when you comeback, " + username + "!")
+    
+greet_user()
+感觉重组之后代码反而变长了，一个函数只做一件事情,逻辑清晰了一些
+```
+
+**问题集**
+
+What is json?
+
+*JSON is* **short for JavaScript Object Notation***, and is a way to store information in anorganized, easy-to-access manner. In a nutshell, it gives us a human-readable collectionof data that we can access in a really logical manner.* 
+
+看教材内容 感觉json既是一种文件格式，开头的import json中  json又是一个module.
+
+今日所学：
+
+storing data
+
+using json.sump() and json.load()
+
+saving and reading user_generated data
+
+refactoring
