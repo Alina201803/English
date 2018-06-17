@@ -636,7 +636,7 @@ In [3]: "3" + "2"
 Out[3]: '32' #这是将两个字符串合并到一起.
 In [4]: "a" + "b"
 Out[4]: 'ab'
-#python或者说编程就是将外部输入的文本转换成1) 数据 (data) 2) 命名 (command)
+#python或者说编程就是将外部输入的文本转换成1) 数据 (data) 2) 命令 (command)
 
 In [5]: int(first_number)
 Out[5]: 3
@@ -670,7 +670,7 @@ class int(object)
 
 看到没,`int`是一个`class`, 也是继承自`object`, 他能将文本转换成数字(整数)
 
-所以, `int(3)` 与第九章的 `Dog('willie')` 的本质是一样的. 都是接收argument,将其转成实例(Instance).让其活起来.
+所以, `int("3")` 与第九章的 `Dog('willie')` 的本质是一样的. 都是接收argument,将其转成实例(Instance).让其活起来.
 
 > 这里可以说转化成实例Instance, 也可以说转化成实例对象 Instance object, 因为在Python中,万物皆对象,
 >
