@@ -532,3 +532,101 @@ Analyzing text
 working with nultiple files
 
 failing ailently
+
+
+
+2018-06-16
+
+**源代码**
+
+```python
+10-6
+print("Enter two numbres, and I will add them together.")
+
+first_number = input("Please enter the first number: ")
+second_number = input("Please enter the second number: ")
+result = first_number + second_number
+print(result)
+
+Enter two numbres, and I will add them together.
+Please enter the first number: 1
+Please enter the second number: apple
+1apple
+
+
+print("Enter two numbres, and I will add them together.")
+
+first_number = input("Please enter the first number: ")
+second_number = input("Please enter the second number: ")
+try:
+    result = int(first_number) + int(second_number)
+    print(result)
+except ValueError:
+    print("Sorry you have not enter a number!")
+
+10-7
+print("Enter two numbres, and I will add them together.")
+print("Enter 'q' to quit")
+while True:
+    first_number = input("Please enter the first number: ")
+    if first_number == 'q':
+        break
+    second_number = input("Please enter the second number: ")
+    if second_number == 'q':
+        break
+    try:
+        result = int(first_number) + int(second_number)
+        print(result)
+    except ValueError:
+        pass
+
+10-8 
+def content(filename):
+    try:
+        with open(filename) as file_object:
+            contents = file_object.read()
+            print(contents)
+    except FileNotFoundError:
+        print("The file is missing! ")
+
+    
+filenames = ['cats.txt','dogs.txt']
+for filename in filenames:
+    content(filename)
+
+10-9
+def content(filename):
+    try:
+        with open(filename) as file_object:
+            contents = file_object.read()
+            print(contents)
+    except FileNotFoundError:
+        pass
+
+    
+filenames = ['cats.txt','dogs.txt']
+for filename in filenames:
+    content(filename)
+```
+
+**错题集**
+
+```python
+print("Enter two numbres, and I will add them together.")
+
+first_number = input("Please enter the first number: ")
+second_number = input("Please enter the second number: ")
+result = first_number + second_number
+print(result)
+
+Enter two numbres, and I will add them together.
+Please enter the first number: 1
+Please enter the second number: apple
+1apple
+
+加工数字需要 function int()
+```
+
+今日所学
+
+完成练习
