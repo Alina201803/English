@@ -1001,3 +1001,96 @@ using json.sump() and json.load()
 saving and reading user_generated data
 
 refactoring
+
+
+
+2018-06-18
+
+**源代码**
+
+```python
+练习
+10-11
+import json
+
+user_number = input("Please enter your favorite number: ")
+
+
+filename = 'user_number.json'
+with open(filename,'w') as f_object:
+    json.dump(user_number,f_object)
+ 
+import json
+
+filename = 'user_number.json'
+with open(filename) as f_object:
+    usernumber = json.load(f_object)   
+    print("I know your favorite number is " + str(usernumber) + '.')
+
+10-12
+import json
+try:
+    filename = 'user_number.json'
+    with open(filename) as f_object:
+        usernumber = json.load(f_object)   
+
+except FileNotFoundError:
+    user_number = input("Please enter your favorite number: ")
+
+    filename = 'user_number.json'
+    with open(filename,'w') as f_object:
+        json.dump(user_number,f_object)
+else:
+    print("I know your favorite number is " + str(usernumber) + '.')
+
+I know your favorite number is 6.
+
+10-13
+优化昨天的代码 以防止记录的用户名字有错
+import json
+
+def get_stored_username():
+    """Get stored username if available"""
+    filename = 'username.json'
+    try:
+        with open(filename) as f_obj:
+            username = json.load(f_obj)
+    except FileNotFoundError:
+        return None
+    else:
+        return username
+def get_new_username():
+    """Prompt for a new username."""
+    username = input("What is your name? ")
+    filename = 'username.json'
+    with open(filename,'w') as f_obj:
+        json.dump(username,f_obj)
+    return username
+def greet_user():
+    """Greet the user by name."""
+    username = get_stored_username()
+    if username:
+        anser=input("Is your name correct?  " + username +"  Please enter: (YES/NO)")  
+        if anser == 'YES':
+            print("Welcomeback, " + username + '!')
+        else:
+            user_name = get_new_username()
+            print("Welcomeback, " + username + '!')
+    else:
+        username = get_new_username()
+        print("We will remember you when you comeback, " + username + "!")
+        
+
+greet_user()
+
+What is your name? Lily
+We will remember you when you comeback, Lily!
+Is your name correct?  Lily  Please enter: (YES/NO)YES
+Welcomeback, Lily
+
+练习10-13 涉及if statement的嵌套，实际运用中是否经常嵌套 感觉嵌套多了容易出错.....
+```
+
+今日所学 
+
+完成练习 
