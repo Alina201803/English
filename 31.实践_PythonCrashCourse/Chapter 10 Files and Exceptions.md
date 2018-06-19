@@ -1200,7 +1200,8 @@ while commands; do commands; done
 
 -----示例复制的部分
 count=1
-while [ $count -le 5 ]; do
+while [ $count -le 5 ]; 
+do
     echo "$count" 
     count=$((count + 1)) 
 done 
@@ -1208,7 +1209,8 @@ echo "Finished."
 ----结束复制.
 
 count=1 #注意这里等号的前后不能有空格.
-while [ $count -le 5 ]; do #加上do,逻辑就完整了. le is for "less than"
+while [ $count -le 5 ]; 
+do #加上do,逻辑就完整了. le is for "less than"
     echo $count #所有的variable前面都要加 $ 
     count=$((count + 1))  #计算过程需要放入 (())里面,不然1就是文本字符而不是数字1
 done  # 明确的结束.
