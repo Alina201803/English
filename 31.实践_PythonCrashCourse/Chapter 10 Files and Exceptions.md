@@ -1089,7 +1089,148 @@ Is your name correct?  Lily  Please enter: (YES/NO)YES
 Welcomeback, Lily
 
 练习10-13 涉及if statement的嵌套，实际运用中是否经常嵌套 感觉嵌套多了容易出错.....
+#实际应用中,很少用到multiple nested ifs, 最多不超过三层,否则需要对代码重构.
+#这就跟平常做奥数的练习题,买菜的时候用100以内的加减法一样.
+
+但是,
+if statement,(if then)就是日常的decision making 过程
+if 闹钟响了, then I wake up.
+是解决问题过程中最常用也最顺手的逻辑,尤其是思考过程,打草稿的过程.
+所以思考的时候可以用的多层嵌套的if,练习的时候也可以用多层的if,活动活动大脑.
+交付的代码,如果过多的嵌套,需要将其分拆,模块化而且可读.
 ```
+
+
+
+### 如何理解`if statement`
+
+`if statement` 这个抽象的命名(或者概念) 并不好
+
+python是很简洁的编程语言, 简洁而省略了基础逻辑,会给人造成困扰.
+
+`if` 是condition control flow的decision making;
+
+用下面的例子说明 if 的完整逻辑, 他做了三件事:
+
+```python
+In [3]: if 3 == 2:
+   ...:     print("Yes, you are smart.")
+   ...: else:
+   ...:     print("Come on, learn some maths.")
+   ...:     
+Come on, learn some maths.
+
+```
+
+1. Test(or evaluate), 首先分析和评估`3 == 3` 是否正确;
+
+2. Terminate the testing and produce result; 
+
+   -  告诉计算机,到哪里要结束,停止test,这里的`:`, 就是这个功能,告知后面没有内容了;
+
+   - 输出结果, 告诉计算机 success or failure, 
+
+     python用True表示success,  False表示failure
+
+3. Decisions:
+
+   - 根据刚才的结果, 选择要执行的命令; 如果 failure,  `if 3 == 2` is FALSE, 因此执行else
+   - 这个环节做决策,然后执行.
+
+4. 结束.
+
+
+
+在一些底层的编程语言, 比如bash script中, 这个逻辑很清晰.
+
+```bash
+#退出ipython, 回到git bash的界面,试试下面的代码
+#可以直接在git bash中写代码
+#复制下面这一段到git bash中------------------
+if test 3 == 2 ; then 
+    echo "Yes, you are smart" 
+else                          
+    echo "Come on, learn some maths"
+fi
+#结束复制----------------------------------
+$ if test 3 == 2 ; then  #后面多了一个then
+→     echo "Yes, you are smart" #这里的echo相当于print
+→ else                          #这里没有colon :
+→     echo "Come on, learn some maths"
+→ fi
+#会输出结果, 复制到git bash中的时候, 要去备注的内容
+Come on, learn some maths
+
+
+##
+if test 3 == 2; then  #这里是完整的逻辑, 有一个单词test, Python省略了.
+                      #semicolon `;` 相当于 colon `:`表示判断结束,输出判断结果
+                      #then也被Python省略了,接下来干什么, 
+                      # 完整的逻辑是 if test 3 == 2; then (do) bash省略了do
+下面与Python基本是一致的:
+    echo "Yes, you are smart" 
+else                          
+    echo "Come on, learn some maths"
+    
+#最后一点很重要, 有 fi收尾
+fi 表示这一个if desicion control flow结束了.
+有开始有结束,是一个完整的逻辑.
+python省略了所有的类似于 fi 的结束符号.
+
+#上面的代码, 在git bash中可以写成一行:
+$ if test 3 == 2 ; then echo "Yes, you are smart"; else echo "Come on, learn some maths"; fi
+Come on, learn some maths
+
+#另外一种表达方式:
+$ if [ 3 == 2 ] ; then 
+→     echo "Yes, you are smart" 
+→ else                          
+→     echo "Come on, learn some maths"
+→ fi
+Come on, learn some maths
+#这里的 [ 方括号就是 单词 test, 用一个符号表示一个Command;
+#在Python中 [ 方括号是 单词 list, " 引号就是单词 string, 等等
+
+我喜欢抽象成 if then, if statement这个提法,对思考过程没有帮助.
+
+那么 do 在哪里呢?
+bash sript的while loop的语法是这样的:
+
+while commands; do commands; done 
+
+-----示例复制的部分
+count=1
+while [ $count -le 5 ]; do
+    echo "$count" 
+    count=$((count + 1)) 
+done 
+echo "Finished."
+----结束复制.
+
+count=1 #注意这里等号的前后不能有空格.
+while [ $count -le 5 ]; do #加上do,逻辑就完整了. le is for "less than"
+    echo $count #所有的variable前面都要加 $ 
+    count=$((count + 1))  #计算过程需要放入 (())里面,不然1就是文本字符而不是数字1
+done  # 明确的结束.
+echo "Finished."
+
+$ while [ $count -le 5 ]; do
+→     echo "$count" 
+→     count=$((count + 1)) 
+→ done 
+1
+2
+3
+4
+5
+#逻辑完整,但是啰里啰嗦的语言.
+```
+
+总结, 在写`if`,和`while`的时候,
+
+可以在心里默念 `if then (do) `, `while do`
+
+
 
 今日所学 
 
