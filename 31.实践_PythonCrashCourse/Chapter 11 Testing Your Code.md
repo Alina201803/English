@@ -291,6 +291,190 @@ Test的好处是,当有大段的代码的时候,有测试就证明是安全可�
 
 
 
+
+
+2018-06-12
+
+**源代码**
+
+```python
+survey.py
+class AnonymousSurvey():
+    """collect anonymous answers to a survey question."""
+
+    def __init__(self, question):
+        self.question = question
+        self.responses = []
+
+    def show_question(self):
+        """show the survey question"""
+        print(question)
+
+    def store_response(self, new_response):
+        """store a single reponse to the survey."""
+        self.responses.append(new_response)
+
+    def show_results(self):
+        """show all the responses that have been given."""
+        print("Survey results:")
+        for response in responses:
+            print('- ' + response)
+
+            
+language_survey.py
+from survey import AnonymousSurvey
+
+#Define a question, and make a survey.
+question = "What language did you first learn to speak?"
+my_survey = AnonymousSurvey(question)
+
+#Show the question, and store responses to the question.
+my_survey.show_question()
+print("Enter 'q' at any time to quit.\n")
+while True:
+    response = input('Language: ')
+    if response == 'q':
+        break
+    my_survey.store_response(response)
+
+#Show the survey results.
+print("\nThank you to everyone who participated in the survey!")
+my_survey.show_results()
+
+
+tests.py
+import unittest
+from survey import AnonymousSurvey
+
+class TestAnonymousSurvey(unittest.TestCase):
+    """Test that a single reponse is stored properly."""
+    def test_store_single_response(self):
+        question = "What language did you first learn to speak?"
+        my_survey = AnonymousSurvey(question)
+        my_survey.store_response('English')
+
+        self.assertIn('English', my_survey.responses)
+
+unittest.main()
+
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+
+import unittest
+from survey import AnonymousSurvey
+
+class TestAnonymousSurvey(unittest.TestCase):
+    """Test that a single reponse is stored properly."""
+    def test_store_single_response(self):
+        question = "What language did you first learn to speak?"
+        my_survey = AnonymousSurvey(question)
+        my_survey.store_response('English')
+
+        self.assertIn('English', my_survey.responses)
+    
+    def test_store_three_responses(self):
+        question = "What language did you first learn to speak?"
+        my_survey = AnonymousSurvey(question)
+        responses = ['English','Spanish','Mandarin']
+        for response in responses:
+            my_survey.store_response(response)
+
+        for response in responses:
+            self.assertIn(response, my_survey.responses)
+
+
+unittest.main()
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+
+import unittest
+from survey import AnonymousSurvey
+
+
+The setUp() Method
+class TestAnonymousSurvey(unittest.TestCase):
+    """Tests for the class AnonymousSurvey."""
+    def setUp(self):
+        """Creat a survey and a set of responses for use in all test methods"""
+        question = "What language did you first learn to speak?"
+        self.my_survey =  AnonymousSurvey(question)
+        self.responses = ['English','Spanish','Mandarin']
+
+    def test_store_single_response(self):
+        question = "What language did you first learn to speak?"
+        self.my_survey.store_response(self.responses[0])
+        self.assertIn(self.responses[0], self.my_survey.responses)
+
+    
+    def test_store_three_responses(self):
+    
+        for response in self.responses:
+            self.my_survey.store_response(response)
+
+        for response in self.responses:
+            self.assertIn(response, self.my_survey.responses)
+
+
+unittest.main()
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+
+关于setUp()method 这篇代码看的我有些混乱 可能在学class是没有理解好self.......
+我理解class中的 self 是对所创造实例的指代，也将类中的method和实例连接。
+self.my_survey =  AnonymousSurvey(question) 在实例my_survey前还有一个self,有点搞不清楚
+```
+
+
+
+**错题集**
+
+```python
+运行language_survey.py 时 出现报错，提示我没有定义question 和 responses 仔细检查之后，也没发现survey.py里的错误 不知道问题出哪里了....
+
+
+Traceback (most recent call last):
+  File "language_survey.py", line 7, in <module>
+    my_survey.show_question()
+  File "C:\Users\Administrator\desktop\survey.py", line 10, in show_question
+    print(question)
+NameError: name 'question' is not defined
+    
+    
+    
+What language did you first learn to speak?
+Enter 'q' at any time to quit.
+
+Language: q
+
+Thank you to everyone who participated in the survey!
+Survey results:
+Traceback (most recent call last):
+  File "language_survey.py", line 1, in <module>
+    from survey import AnonymousSurvey
+  File "C:\Users\Administrator\desktop\survey.py", line 38, in <module>
+    my_survey.show_results()
+  File "C:\Users\Administrator\desktop\survey.py", line 19, in show_results
+    for response in responses:
+NameError: name 'responses' is not defined
+
+
+```
+
+
+
+
+
+
+
 You could spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
 
 
