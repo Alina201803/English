@@ -633,7 +633,7 @@ NameError: name 'responses' is not defined
 
 
 
-我上传了一本书,
+我上传了一本书, OReilly.Think.Python.2nd.Edition.2015.12
 
 第18章的inheritance,是一扑克牌的案例,有时间看看.
 
