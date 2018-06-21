@@ -6,6 +6,12 @@
 
 
 
+##### hat-trick
+
+three poits, goals, etc. scored by the same player in a particular match or game;
+
+帽子戏法
+
 
 
 ## Project Log
