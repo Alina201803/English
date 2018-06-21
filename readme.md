@@ -213,6 +213,14 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
       - Hacker and Painter Paul Graham
       - Mythms to live by
 
+- 2018-05-13 Sa
+
+   - Alina开始Python Crash Couse
+
 - 2018-06-15 Fr
 
    - 刘CC加入,创建了Github库.
+
+- 2018-06-21 Fr
+
+   - liucc完成第一个pull request.
