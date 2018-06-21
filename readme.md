@@ -215,7 +215,7 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 
 - 2018-05-13 Sa
 
-   - Alina开始Python Crash Couse
+   - Alina开始Python Crash Course
 
 - 2018-06-15 Fr
 
@@ -224,3 +224,4 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 - 2018-06-21 Fr
 
    - liucc完成第一个pull request.
+   - 编程组开始清场观众席.
