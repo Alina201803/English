@@ -308,7 +308,9 @@ class AnonymousSurvey():
 
     def show_question(self):
         """show the survey question"""
-        print(question)
+      #  print(question) #书上这里是错误的.
+        print(self.question) #attribute的调用,必须self.的方式.
+
 
     def store_response(self, new_response):
         """store a single reponse to the survey."""
@@ -317,7 +319,8 @@ class AnonymousSurvey():
     def show_results(self):
         """show all the responses that have been given."""
         print("Survey results:")
-        for response in responses:
+   #    for response in responses: #书上这个地方也是错误的. responses的调用self.responses
+        for response in self.responses
             print('- ' + response)
 
             
@@ -342,7 +345,7 @@ print("\nThank you to everyone who participated in the survey!")
 my_survey.show_results()
 
 
-tests.py
+tests_survey.py
 import unittest
 from survey import AnonymousSurvey
 
@@ -398,7 +401,7 @@ from survey import AnonymousSurvey
 
 
 The setUp() Method
-class TestAnonymousSurvey(unittest.TestCase):
+ TestAnonymousSurvey(unittest.TestCase):
     """Tests for the class AnonymousSurvey."""
     def setUp(self):
         """Creat a survey and a set of responses for use in all test methods"""
@@ -407,7 +410,6 @@ class TestAnonymousSurvey(unittest.TestCase):
         self.responses = ['English','Spanish','Mandarin']
 
     def test_store_single_response(self):
-        question = "What language did you first learn to speak?"
         self.my_survey.store_response(self.responses[0])
         self.assertIn(self.responses[0], self.my_survey.responses)
 
@@ -427,11 +429,127 @@ unittest.main()
 Ran 2 tests in 0.000s
 
 OK
-
+-----------------------
 关于setUp()method 这篇代码看的我有些混乱 可能在学class是没有理解好self.......
 我理解class中的 self 是对所创造实例的指代，也将类中的method和实例连接。
 self.my_survey =  AnonymousSurvey(question) 在实例my_survey前还有一个self,有点搞不清楚
+-------------------------------
+关于setUp()method 这篇代码看的我有些混乱 可能在学class是没有理解好self.......
+我理解class中的 self 是对所创造实例的指代，也将类中的method和实例连接。
+#理解的完全正确, 
+#class中的self是从这个class中创造的实例的指代.
+TestAnonymousSurvey(unittest.TestCase):
+    """Tests for the class AnonymousSurvey."""
+    def setUp(self):
+        """Creat a survey and a set of responses for use in all test methods"""
+        question = "What language did you first learn to speak?"
+        self.my_survey =  AnonymousSurvey(question)
+        self.responses = ['English','Spanish','Mandarin']
+#这里的self, 指的是从
+Class TestAnonymousSurvey创造出来的实例 
+TestAnonymousSurvey()
+而非
+AnonymousSurvey的实例     
+        
+self.my_survey =  AnonymousSurvey(question) 在实例my_survey前还有一个self,有点搞不清楚
+
+my_survey是self的属性,属性可以是任何Object,可以是age,name,也可以是实例.
+也就是说,一个实例可以是其他实例的属性.
+
+#首先, setUp(self):这个method的作用;
+在这个啰嗦的写法的测试中,
+class TestAnonymousSurvey(unittest.TestCase):
+    """Test that a single reponse is stored properly."""
+    def test_store_single_response(self):
+        question = "What language did you first learn to speak?"
+        my_survey = AnonymousSurvey(question)
+        my_survey.store_response('English')
+
+        self.assertIn('English', my_survey.responses)
+    
+    def test_store_three_responses(self):
+        question = "What language did you first learn to speak?"
+        my_survey = AnonymousSurvey(question)
+        responses = ['English','Spanish','Mandarin']
+        for response in responses:
+            my_survey.store_response(response)
+
+        for response in responses:
+            self.assertIn(response, my_survey.responses)
+
+#实例my_survey = AnonymousSurvey(question)分别写在了
+def test_store_single_response(self):和
+def test_store_three_responses(self):中, 
+#做了重复的工作,因此在重构的时候,考虑将两处的实例my_survey = AnonymousSurvey(question)合并到一处. 这是setUp()的作用, 在这里创建AnonymousSurvey(question)这个实例,供test_store_single_response(self)和test_store_three_responses(self)这两个method调用.
+
+
+#然后再看, self.my_survey =  AnonymousSurvey(question), 你对self的理解完全正确.
+但是,重新看看下面的代码:
+这里的self是`TestAnonymousSurvey`的实例,测试匿名调查的实例,也就是说
+self就是TestAnonymousSurvey()这个实例, 是一个不需要传入参数的实例
+而my_survey是AnonymousSurvey(question)这个实例.
+
+#看一下下面的代码:
+class TestAnonymousSurvey(unittest.TestCase):
+    """Tests for the class AnonymousSurvey."""
+    def setUp(self):
+        """Creat a survey and a set of responses for use in all test methods"""
+        question = "What language did you first learn to speak?"
+        self.my_survey =  AnonymousSurvey(question)
+        self.responses = ['English','Spanish','Mandarin']
+
+    def test_store_single_response(self):
+        self.my_survey.store_response(self.responses[0])
+        self.assertIn(self.responses[0], self.my_survey.responses)
+
+    
+    def test_store_three_responses(self):
+    
+        for response in self.responses:
+            self.my_survey.store_response(response)
+
+        for response in self.responses:
+            self.assertIn(response, self.my_survey.responses)
+ 
+#####接着聊
+self.my_survey =  AnonymousSurvey(question)
+这个写法相当于
+TestAnonymousSurvey().my_survey =  AnonymousSurvey(question)
+将实例AnonymousSurvey(question), 变成了
+实例TestAnonymousSurvey()的一个属性, 
+
+这样在
+def test_store_single_response(self) 
+def test_store_three_responses(self)
+中才能直接调用    
+self.my_survey =  AnonymousSurvey(question)
+
+这跟第九章中的self.age, self.name是相同的.
+不仅name(text文本), age(number)可以作为attribute
+实例也可以作为attribute.
+实际上在Python中因为,万物皆object,function,Instance等都可以作为attribute
+class Dog():
+    """A simple attempt to model a dog."""
+
+    def __init__(self,name,age):
+        """Initialize name and age attributes."""
+        self.name = name
+        self.age = age 
+
+    def sit(self):
+        """Simulate a dog sitting in response to a command."""
+        print(self.name.title() + " is now sitting.")
+
+    def roll_over(self):
+        """Simulate rolling over in response to a command."""
+        print(self.name.title() + " rolled over!")
+
+#总结,你的理解没有错误,
+#实例self可以有属性, 而实例本身又可以作为其他实例的属性.因为实例也是Object没有特殊之处.
+            
 ```
+
+
 
 
 
@@ -439,6 +557,10 @@ self.my_survey =  AnonymousSurvey(question) 在实例my_survey前还有一个sel
 
 ```python
 运行language_survey.py 时 出现报错，提示我没有定义question 和 responses 仔细检查之后，也没发现survey.py里的错误 不知道问题出哪里了....
+#这里是教材中的错误,
+#应该是self.question和self.responses
+#真没想到教材里有这么低级的错误,也说明大家都在一个水平上,不存在高不可攀.
+#相信自己的电脑和自己的判断.
 
 
 Traceback (most recent call last):
@@ -460,7 +582,7 @@ Survey results:
 Traceback (most recent call last):
   File "language_survey.py", line 1, in <module>
     from survey import AnonymousSurvey
-  File "C:\Users\Administrator\desktop\survey.py", line 38, in <module>
+  File "C:\Users\	Administrator\desktop\survey.py", line 38, in <module>
     my_survey.show_results()
   File "C:\Users\Administrator\desktop\survey.py", line 19, in show_results
     for response in responses:
@@ -471,7 +593,51 @@ NameError: name 'responses' is not defined
 
 
 
+**问题:**
 
+关于`setUp()method `这篇代码看的我有些混乱 可能在学`class`是没有理解好`self`.......
+我理解class中的 self 是对所创造实例的指代，也将类中的`method`和实例连接。
+`self.my_survey =  AnonymousSurvey(question) `在实例`my_survey`前还有一个`self`,有点搞不清楚
+
+
+
+1. `self.my_survey =  AnonymousSurvey(question) `在实例`my_survey`前还有一个`self`,有点搞不清楚
+
+    - 先只看左边: `self.my_survey =`
+
+      与name在`self.name = "xiaoqiang"`和age在`self.age = 18` 相同, 
+
+      `my_survey`是`self`的一个attribute,  `self.my_survery`, 就是`self.attribute`,并没有特殊之处
+
+    - 不同之处是, self.name的value是文本字符串"小强", self.age的value是数字18
+
+    - 而`self.my_survey =  AnonymousSurvey(question) ` 的value是一个实例. 实例可以作为属性,任何Object都可以作为属性, 在Python中万物皆Object.
+
+
+
+2. 我理解class中的 self 是对所创造实例的指代，也将类中的`method`和实例连接。
+
+   self 指代他所隶属的class中创造的实例, 
+
+   这里self隶属的Class是`class TestAnonymousSurvey(unittest.TestCase):`
+
+   ​
+
+
+
+
+
+
+
+
+
+
+
+我上传了一本书,
+
+第18章的inheritance,是一扑克牌的案例,有时间看看.
+
+另外class可以在不断地练习中慢慢掌握.
 
 
 
