@@ -639,8 +639,6 @@ NameError: name 'responses' is not defined
 
 
 
-
-
 2018-06-23
 
 **源代码**
@@ -670,7 +668,7 @@ class TestEmployee(unittest.TestCase):
         self.my_employee = Employee('James','Browm',0)
     def test_give_default_raise(self):  
         self.my_employee.give_raise()  
-        self.assertEqual(self.my_employee.annual_salary() ,5000) 
+        self.assertEqual(self.my_employee.annual_salary() ,5000)  #去掉()
     def test_give_custom_raise(self):  
         self.my_employee.give_raise(8000)
         self.assertEqual(self.my_employee.annual_salary() ,8000)  
@@ -689,7 +687,7 @@ ERROR: test_give_default_raise (__main__.TestEmployee)
 ----------------------------------------------------------------------
 Traceback (most recent call last):
   File "testemployee.py", line 11, in test_give_default_raise
-    self.assertEqual(self.my_employee.annual_salary() ,5000)
+    self.assertEqual(self.my_employee.annual_salary() ,5000) 
 TypeError: 'int' object is not callable
 
 ----------------------------------------------------------------------
@@ -725,7 +723,18 @@ Ran 2 tests in 0.010s
 
 
 'int' object is not callable  int不能获取 没明白这个报错.....
+
+#只有method和function才能call,
+    def __init__(self, first_name, last_name, annual_salary):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.annual_salary = annual_salary
+self.annual_salary, annual_salary是attribute,不是method,
+因此 self.assertEqual(self.my_employee.annual_salary() ,8000) 应该去掉()
+self.assertEqual(self.my_employee.annual_salary,8000)
 ```
+
+
 
 You could spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
 
