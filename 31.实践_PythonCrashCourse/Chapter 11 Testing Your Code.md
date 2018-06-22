@@ -641,6 +641,92 @@ NameError: name 'responses' is not defined
 
 
 
+2018-06-23
+
+**源代码**
+
+```python
+完成练习11-3
+employee.py
+class Employee():
+    """A simple attempt to represent a employee."""
+
+    def __init__(self, first_name, last_name, annual_salary):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.annual_salary = annual_salary
+        print(self.first_name + self.last_name)
+    def give_raise(self,raise_salary = 5000):
+        self.annual_salary += raise_salary
+        
+testemployee.py
+import unittest
+from employee import Employee
+
+class TestEmployee(unittest.TestCase):
+    """Test for the class Employee"""
+    
+    def setUp(self):
+        self.my_employee = Employee('James','Browm',0)
+    def test_give_default_raise(self):  
+        self.my_employee.give_raise()  
+        self.assertEqual(self.my_employee.annual_salary() ,5000) 
+    def test_give_custom_raise(self):  
+        self.my_employee.give_raise(8000)
+        self.assertEqual(self.my_employee.annual_salary() ,8000)  
+unittest.main()  
+EE
+======================================================================
+ERROR: test_give_custom_raise (__main__.TestEmployee)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "testemployee.py", line 14, in test_give_custom_raise
+    self.assertEqual(self.my_employee.annual_salary() ,8000)
+TypeError: 'int' object is not callable
+
+======================================================================
+ERROR: test_give_default_raise (__main__.TestEmployee)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "testemployee.py", line 11, in test_give_default_raise
+    self.assertEqual(self.my_employee.annual_salary() ,5000)
+TypeError: 'int' object is not callable
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.010s
+
+ 
+```
+
+
+
+**错题集**
+
+```python
+EE
+======================================================================
+ERROR: test_give_custom_raise (__main__.TestEmployee)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "testemployee.py", line 14, in test_give_custom_raise
+    self.assertEqual(self.my_employee.annual_salary() ,8000)
+TypeError: 'int' object is not callable
+
+======================================================================
+ERROR: test_give_default_raise (__main__.TestEmployee)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "testemployee.py", line 11, in test_give_default_raise
+    self.assertEqual(self.my_employee.annual_salary() ,5000)
+TypeError: 'int' object is not callable
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.010s
+
+
+'int' object is not callable  int不能获取 没明白这个报错.....
+```
+
 You could spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
 
 
