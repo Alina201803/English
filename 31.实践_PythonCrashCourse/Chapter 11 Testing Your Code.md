@@ -754,9 +754,11 @@ self.assertEqual(self.my_employee.annual_salary,8000)
 
 
 
-上传图片, 
+**上传图片的方法:**
 
-1. 将图片放到images文件夹`English/EnglishGit/31.实践_PythonCrashCourse/images`: 
+1. 先将要使用的多张图片放到images文件夹`English/EnglishGit/31.实践_PythonCrashCourse/images`: 
+
+   ​
 
    ![1.放入images文件夹](images/1.放入images文件夹.png)
 
@@ -766,7 +768,7 @@ self.assertEqual(self.my_employee.annual_salary,8000)
 
    将images文件夹里的图片,拖拽到typora中:
 
-3. 第三步很关键,  增加一步 git add的操作.
+3. 第三步很关键,  增加一步 git add "images文件夹的操作"的操作.
 
    $ git add 31.实践_PythonCrashCourse/images
 
@@ -774,13 +776,28 @@ self.assertEqual(self.my_employee.annual_salary,8000)
 
    $ git add "31.实践_PythonCrashCourse/Chapter 11 Testing Your Code.md"
 
-   $ git push
+   $ git commit -m "Illustrate to upload images" 
+
+   多次git add 最后一次git commit
 
 原理是,本地图片也要上传到云端.
 
-   ​
 
 
+以上所有的步骤可以简化为:
+
+```python
+#从第三步往后可以简化为:
+git add . #  dot .表示 add 所有的修改的文件
+git commit -m "comments"
+git push
+#但这种方法,不推荐用于团队协作.
+#任何人对文件夹的误操作,误删除,都会直接影响数据库.
+```
+
+
+
+  
 
 You could spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
 
