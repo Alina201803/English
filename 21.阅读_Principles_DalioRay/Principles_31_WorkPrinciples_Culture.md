@@ -120,9 +120,8 @@ UK /ˈkrɪstl/ US /ˈkrɪstəl/
 
    **crystallizer** v.（想法、计划、信仰等）变明确；（使）形成晶体，结晶
 
+   ​
 
-
-### 2018-04-09
 
 #### **Opinion**
 
@@ -794,7 +793,7 @@ UK /dɪˈmɑ:nd/ US /[dɪˈmænd/
 4. 拓展：
    飞机起飞时或上车后，我们要fasten our safety belt ，这里的fasten就是动词使固定；扣紧。而steadfast ['stedfɑːst; -fəst] adj.坚定的，就是standing firmly了，stead-和stand有关。而每天早上吃breakfast，则是打破“牢牢”遵守的基督教意义上的晚餐和早晨之间的（fasting禁食和斋戒）。
 
-**vulnerable /ˈvʌl.nər.ə.bəl/**
+**vulnerable**/ˈvʌl.nər.ə.bəl/**
 
 1. 助记：vulner-创伤 + -able表形容词
    vulner- = wound, 表示“创伤
@@ -3753,11 +3752,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    c. 1300, adjectival use of Old English þuruh (adv.) "from end to end, from side to side," stressed variant of þurh (adv., prep.); **see [through](https://www.etymonline.com/word/through?ref=etymonline_crossreference). Related: thoroughly; thoroughness.**
 
-3. 释义,
+5. 释义,
 
    彻底的 complete, very great, or very much
 
-4. 拓展
+6. 拓展
 
    complete 彻底的
 
@@ -3810,11 +3809,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    also pin-point, "point of a pin," 1849, **from [pin](https://www.etymonline.com/word/pin?ref=etymonline_crossreference) (n.) + [point](https://www.etymonline.com/word/point?ref=etymonline_crossreference) (n.).** Taken into aeronautics in sense "place identified from the air," hence verb meaning "locate precisely" (1917), which originally was aviators' slang. Related: Pinpointed; pinpointing. As an adjective, "performed with precisional accuracy," 1944, originally of aerial bombing.
 
-3. 释义,
+5. 释义,
 
    准确指出 to find out or saythe exact position in space or time of something
 
-4. 拓展
+6. 拓展
 
    vt.查明；精确地找到；准确描述
 
@@ -3881,11 +3880,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    also gobbledegook, "the overinvolved, pompous talk of officialdom" [Klein], 1944, American English, first used by U.S. Rep. Maury Maverick, D.-Texas, (1895-1954), a grandson of the original [maverick](https://www.etymonline.com/word/maverick?ref=etymonline_crossreference)and chairman of U.S. Smaller War Plants Corporation during World War II, in a memo dated March 30, 1944, banning "gobbledygook language" and mock-threateaning, "anyone using the wordsactivation or implementation will be shot." Maverick said he made up the word in imitation of turkey noise. Another word for it, coined about the same time, was bafflegab (1952).
 
-3. 释义,
+5. 释义,
 
    官样文章 language, especially used in official letters, forms, and statements, that seemsdifficult or to mean nothing because you do not understand it
 
-4. 拓展
+6. 拓展
 
    [美国俚语](冗长、浮夸而费解的)语言(或文章)；官样文章；官场语，公文体(=bureaucratese) [亦作 gobbledygook]
 
@@ -3985,11 +3984,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    A very early borrowing into English and said to be the only Latin nautical term used in the Germanic languages (German Anker, Swedish ankar, etc.). The unetymological -ch- emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for [anchorman](https://www.etymonline.com/word/anchorman?ref=etymonline_crossreference) (q.v.).
 
-3. 释义,
+2. 释义,
 
    锚  a heavy metal object, usually shaped like a cross with curved arms, on astrong rope or chain, that is dropped from a boat into the water to prevent theboat from moving away
 
-4. 拓展
+3. 拓展
 
    近义词，
 
@@ -4047,11 +4046,11 @@ prerequisite/ˌpriːˈrek.wɪ.zɪt/
 
    c. 1300, "concealed hole," a type of animal trap, from [pit](https://www.etymonline.com/word/pit?ref=etymonline_crossreference) (n.1) + [fall](https://www.etymonline.com/word/fall?ref=etymonline_crossreference) (n.). Extended sense of "any hidden danger" is first recorded early 15c.
 
-3. 释义,
+2. 释义,
 
    陷阱 a likely mistake or problem in a situation
 
-4. 拓展
+3. 拓展
 
    [deficiency](javascript:void(0);) 缺陷
 
@@ -4520,22 +4519,22 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dia-穿过 + gnos-知道 + is → 穿过[身体]知道 → 诊断。
 2.    词源：
 
-                  etymology
-                  1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
+                                 etymology
+                                 1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
 
 
             etymology
             1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
-
+    
                etymology
                1680s, medical Latin application of Greek diagnosis "a discerning, distinguishing," from stem of diagignoskein "discern, distinguish," literally "to know thoroughly," from dia- "apart" (see dia-) + gignoskein "to learn," from PIE root *gno- "to know."
-
+    
       3. 定义： identifying the nature or cause of some phenomenon 判断 诊断
       4. 例句：.
          She began to consult doctors, and each had a different diagnosis.她开始四处寻医，但每个医生的诊断都不相同。
-
+    
       #### precise/prɪˈsaɪs/
-
+    
       1. 助记：pre在……前的,预先+cise切→预先切好的→精确的
       2. 词源：
          etynology
@@ -4551,14 +4550,21 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
 1.    助记：dur-坚硬 + -able表形容词
 
 2.    词源：
-               etymology
-               late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+                              etymology
+                              late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
       3. 定义：existing for a long time持久的 耐用的
       4. 例句：negotiations for a durable peace为持久和平而进行的谈判
 
+<<<<<<< HEAD
+                  etymology
+                  late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+    
+              etymology
+              late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+=======
 
       #### pervasive/pəˈveɪsɪv/
-    
+​    
 
 
 2.    词源：
@@ -4568,6 +4574,7 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
           
                  etymology
                  late 14c., from Old French durable (11c.), from Latin durabilis "lasting, permanent," from durare "to harden," from durus "hard," from PIE *dru-ro-, suffixed variant form of root *deru- "be firm, solid, steadfast." Durable goods attested from 1930.
+>>>>>>> 03f5fb1cdc88b3ba567175b5eae312052ee9a174
 
       3. 定义：existing for a long time持久的 耐用的
 
@@ -4618,15 +4625,15 @@ Pinpoint** /ˈpɪn.pɔɪnt/ 准确指出
       annalist 编年史作者 triennial 每三年一次
 2.    词源：
 
-                     etymology
-                     also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
-                     late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
+                                    etymology
+                                    also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
+                                    late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
 
 
                etymology
                also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
                late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
-
+    
                   etymology
                   also bi-annual; "occurring every six months, twice a year," 1837; see bi- + annual (adj.). Distinguished in sense from biennial, but the distinction is etymologically arbitrary. Related: Biannually; bi-annually.
                   late 14c., "appointed by the year;" c. 1400, ""occurring or done once a year," from Old French annuel "yearly" (12c.) or directly from Medieval Latin annualis "yearly," corresponding to Latin annalis as adjective form of annus "year."
@@ -4850,7 +4857,7 @@ The new paint wont adhere to the walls so I'll have to strip it all off and star
       俱乐部的成员可以轮流工作，而且一个人就能做好晚上的所有准备工作。
 
 
-#### detect/dɪˈtekt/
+ detect/dɪˈtekt/
 
 1. 助记：
    de-不，非，使相反 + tect-覆盖，即揭开覆盖，查明。
@@ -4891,7 +4898,7 @@ vulnerability/ˌvʌlnərə'bɪlətɪ/
    His vulnerability makes him even more lovable
    他的脆弱反倒让他更加讨人喜欢
 
-audit/ˈɔ:dɪt/
+**audit**/ˈɔ:dɪt/
 
 1. 助记：aud-听 + it → 旁听。坐在旁边听 引申 查账审计
    audi-,audit- = hear, 表示“听”，来源于拉丁语。
@@ -4905,7 +4912,8 @@ audit/ˈɔ:dɪt/
    2. an inspection of the accounting procedures and records by a trained accountant or CPA审计
 4. 例句：Each year they audit our accounts and certify them as being true and fair.他们每年对我们进行账务审核，以确保其真实无误。
 
-consultant/kənˈsʌltənt/
+**consultant**/kənˈsʌltənt/
+
 
 1. 助记：
    consult【协商】 + -ant表名词
@@ -4930,7 +4938,7 @@ consultant/kənˈsʌltənt/
    consultation：[,kɑnsl'teʃən] n. 咨询；磋商；会诊；讨论会
    consultative： [kən'sʌltətɪv] adj. 咨询的
 
-augment/ɔ:gˈment/
+**augment**/ɔ:gˈment/
 
 1. 助记：aug- = increase, 表示“增加”，来源于拉丁语。auth-引申为产生，创造。
    aug-增加 + -ment表名词。
@@ -4950,7 +4958,7 @@ augment/ɔ:gˈment/
    augment： [ɔːg'ment] n.v.增大，增加
    augmentation：[,ɔgmɛn'teʃən] n. 增加，增大；增加物
 
-descend/dɪˈsend/
+**descend**/dɪˈsend/
 
 1. 助记：de-向下  + scend-爬 → 向下爬  下降
    scend-爬
@@ -5096,7 +5104,7 @@ descend/dɪˈsend/
 4. 拓展
 
    January（一月）：双面门神雅努斯
-   
+
    在远古罗马传说中，有一位名叫“雅努斯”（Janus）的天门神，他的头部前后有两副面孔，一副回顾过去，一副眺望未来。他在早晨打开天门，让阳光普照大地；到了晚上他关上天门，让黑夜笼罩大地。
    古罗马人在正月里祭祀雅努斯，罗马的执政官也在正月的第一天就职，并向雅努斯献祭。西元前46年，古罗马凯撒把正月第一天定为罗马历新年的开始，用雅努斯的名字来命名第一个月，在拉丁语中拼写为Januarius（month of Janus） 英语中表示“一月”的单词January，便是由拉丁语Januarius演变而来的。
 
@@ -5105,7 +5113,7 @@ descend/dɪˈsend/
    Janus：['dʒeinəs] n.雅努斯，两面神
    Janus-faced：伪善的，口是心非的，有双面孔的
    January：['dʒænjʊ(ə)rɪ] n.一月
-   
+
    
 
 **Visionary** /ˈvɪʒ.er.i/ 想象的
@@ -5761,6 +5769,76 @@ descend/dɪˈsend/
    她在伦敦的生活平淡无奇，几乎有些枯燥。
 
 
+#### thorny/ˈθɔ:ni/
+
+1. 助记：thorn【刺】 + -y表形容词，引申词义棘手的，麻烦的。
+2. 词源：
+   etymology
+   Old English þornig; see thorn + -y (2). Figurative sense is attested from mid-14c. Related: Thorniness. Similar formation in Dutch doornig, German dornig. The figurative image is widespread; Greek had akanthologos as a nickname for a quibbler, literally "thorn-gathering," and akanthobates, nickname for a grammarian (fem. akanthobatis).
+3. 定义：
+   1. If you describe a problem as thorny, you mean that it is very complicated and difficult to solve, and that people are often unwilling to discuss it.棘手的 复杂难解的
+   2. A thorny plant or tree is covered with thorns带刺的，多刺的
+4. 例句：
+   The young captain is pondering over a thorny problem. 
+   年轻的上尉正在思考一个棘手的问题.
+   The roses are thorny. Take care not to prick your hands. 
+   玫瑰有刺,小心扎手.
+
+#### moan/məʊn/
+
+1. 助记：可能来自拟声词，模仿叹息的声音
+2. 词源：
+   etymology
+   c. 1200, "lamentation, mourning, weeping; complaining, the expressing of complaints; a complaint; lover's complaint; accusation, charge," probably from an unrecorded Old English *man "complaint," related to Old English mænan "complain, moan," also "tell, intend, signify" (see mean (v.1)); but OED discounts this connection. Meaning "long, low inarticulate murmur from some prolonged pain" is first recorded 1670s, "with onomatopoeic suggestion" 
+3. 定义：
+   If you moan, you make a low sound, usually because you are unhappy or in pain.呻吟;呜咽
+   To moan means to complain or speak in a way which shows that you are very unhappy.抱怨;发牢骚
+4. 例句：
+   You can go see him and have a good old moan. 
+   你可以去看看他，好好地诉诉苦。
+
+#### careen/kəˈri:n/
+
+1. 助记：本义将船倾斜，将龙骨外露进行修补，来自拉丁词carina, 龙骨，词源同hard. 后受career影响，词义主要用于疾驰。
+2. 词源：
+   etymology
+   1590s, "to turn a ship on its side" (with the keel exposed, for inspection, repairs, etc.), from French cariner, literally "to expose a ship's keel," from Middle French carene "keel" (16c.), from Italian (Genoese dialect) carena, from Latin carina "keel of a ship," also (and perhaps originally) "nutshell," possibly from PIE root *kar- "hard."
+3. 定义：To careen somewhere means to rush forward in an uncontrollable way. (失控地)疾驶，猛冲
+4. 例句：
+   He stood to one side as they careened past him... 
+   他们在他身边疾驰而过，他赶紧让到一边。
+
+#### grind/graɪnd/
+
+1. 助记：gr- = rub, 表示“摩擦”。原始印欧语形式为*ghreu(rub, grind.)
+
+   来自 PIE*ghreu,刮，磨，擦，词源同 chrism,great,grit.即磨下来的小砂子。gravel 砂砾 砾石
+
+2. 词源：
+   etymology
+   late Old English, "the gnashing（咬牙切齿） of teeth;" c. 1200, "the act of chewing or grinding," from grind (v.). The sense "steady, hard, tedious work" first recorded 1851 in college student slang (but compare gerund-grinder, 1710); the meaning "hard-working student, one who studies with dogged application" is American English slang from 1864. Slang meaning "sexual intercourse" is by 1893.
+
+3. 定义：
+   1. If you grind a substance such as corn, you crush it between two hard surfaces or with a machine until it becomes a fine powder.磨碎；碾碎； 将…磨成粉
+   2. If you refer to routine tasks or activities as the grind, you mean they are boring and take up a lot of time and effort.枯燥乏味的事；苦差事
+
+4. 例句：
+   .the odor of fresh ground coffee. 
+   现磨咖啡的香气
+   Life continues to be a terrible grind for the ordinary person. 
+   生活对于平头百姓而言依然是理不清的琐事。
+
+
+#### hit the nail on the head
+
+The last observation of yours has hit the nail on the head. 
+
+你最后的意见真是一针见血.
+
+Every word he said hit the nail on the head. 
+
+他说的真是头头是道.
+
 
 
 ## 15. Use Tools and Protocols to Shape How Work Is Done
@@ -5896,7 +5974,7 @@ descend/dɪˈsend/
 **Convert** /kənˈvɝːt/ 转换
 
 
-Convert** /kənˈvɝːt/ 转换
+**Convert** /kənˈvɝːt/ 转换
 
 1. 助记,
 
@@ -5926,6 +6004,8 @@ Convert** /kənˈvɝːt/ 转换
 
    idolater 皈依者
 
+   ​
+
 **Symbiosis** /ˌsɪm.baɪˈoʊ.sɪs/ 共栖
 
 1. 助记,
@@ -5951,6 +6031,176 @@ Convert** /kənˈvɝːt/ 转换
 4. 拓展
 
    [symbiotic](javascript:void(0);) [生态] 共生的；共栖的
+
+
+####  dissemination/dɪˌsemɪ'neɪʃn/
+
+1. 助记：dis-分开 + semin-种子 + -ate表动词 → 散布(种子)。
+2. 词源：
+   etymology
+   c. 1600, from Latin disseminatus, past participle of disseminare "to spread abroad, disseminate," from dis- "in every direction" (see dis-) + seminare "to plant, propagate," from semen (genitive seminis) "seed" (from PIE root *sē- "to sow"). Related: Disseminated; disseminates; disseminating. Middle English had dissemen "to scatter" (early 15c.).
+3. 定义To disseminate information or knowledge means to distribute it so that it reaches many people or organizations.散播，宣传
+4. 例句：
+   He promoted the dissemination of scientific ideas. 
+   他推动了科学观念的传播。
+   He was fully bent upon the dissemination of Chinese culture all over the world. 
+   他一心致力于向全世界传播中国文化.
+
+#### lieutenant/lefˈtenənt/
+
+1. 助记：tenant n. 承租人, 房客, 居住者 vt. 租借 lieu n. 场所
+2. 词源：
+   etymology
+   late 14c., "one who takes the place of another," from Old French lieu tenant "substitute, deputy," literally "place holder" (14c.), from lieu "place" (see lieu) + tenant, present participle of tenir "to hold," from PIE root *ten- "to stretch." The notion is of a "substitute" for higher authority.
+3. 定义：
+   1. If you refer to someone as a person's lieutenant, you mean they are that person's assistant, especially their main assistant, in an organization or activity.助理；（尤指）副职
+   2. A lieutenant is a person who holds a junior officer's rank in the army, navy, marines, or air force, or in the American police force.（陆军、海军陆战队、空军）中尉，少尉；（海军）上尉；（美国警察的）警督，小队长
+4. 例句：
+   As a second lieutenant, he had to salute damned near everybody. 
+   身为少尉，他几乎是逢人便得敬礼。
+5. 拓展：lieutenant（中尉）：代理指挥官职位的军官
+   英语单词lieutenant来自法语短语lieu tenant，由lieu（代替）和tenant（持有人）组成，字面意思就是“代替行使指挥权的人”，指的是在战场上当指挥官牺牲或受伤而无法指挥时，代替行使指挥权的人。16世纪70年代后用来表示中尉军衔，仅次于上尉（captain）。
+   lieutenant：[lef'tenənt] n.中尉，副官，助理人员
+   lieutenancy：[lef'tenənsɪ] n. 代理官员；中尉之军衔
+   tenant：['tɛnənt] n. 承租人；房客；佃户；居住者vt. 租借
+
+#### arbitrary/ˈɑ:bɪtrəri/
+
+1. 助记：arbitr-判断 + -ary形容词后缀 → 做出[自己的]判断 → 武断的。
+   arbitr- = judge, 表示“判断”。复合词根：ar-=ad- + bit-走。
+2. 词源：
+   etymology
+   c. 1400, "deciding by one's own discretion, depending on one's judgment," from Latin arbitrarius "of arbitration," hence "depending on the will, uncertain," from arbiter (see arbiter). The meaning in English gradually descended to "capricious, ungoverned by reason or rule, despotic" (1640s). Related: Arbitrarily; arbitrariness.
+3. 定义：If you describe an action, rule, or decision as arbitrary, you think that it is not based on any principle, plan, or system. It often seems unfair because of this.武断的;任意的;任性的;主观的
+4. 例句：
+   The choice of players for the team seemed completely arbitrary. 
+   看来这个队的队员完全是随意选定的。
+   .A good judge does not make arbitrary decisions. 
+   一个优秀的法官不会作武断的判决.
+5. 拓展：arbiter（仲裁者）：古罗马时期的审判员制度
+   古罗马时期，国家的司法权力掌握在“裁判官”手中。这个职位最早设立于公元前376年，是从执政官的职权中分离出来的，地位仅次于执政官，享有在其职责范围内的法律方面的最高权威。但裁判官并不参与具体案件的审判，而是交给审判员去审理。审判员不是国家官吏，他是由裁判官从预定名单中选定并授权处理特定案件的公断人，因此在拉丁语中被称为arbiter，由ad（to）和baetere（来、去）构成，字面意思就是“去某地（审案）的人”。
+   arbiter和arbitrator同源，在现代都能表示“仲裁人”，区别在于：arbiter一词更为古老，是书面用语，通常应用于文学领域，“审判”的意味胜过“仲裁”；而arbitrator比较通俗，通常表示受争议双方所托，居中仲裁，拥有较大的自由裁量权，甚至可以是arbitrary（独断的）。
+   arbiter：['ɑːbɪtə] n.仲裁者，裁决人
+   arbitrator：['ɑːbɪtreɪtə] n.仲裁者，公断人
+   arbitrate：['ɑrbɪtret] vt.仲裁，公断
+   arbitrary：['ɑrbətrɛri] adj.独断的，武断的，任意的，专制的
+
+#### autocratic/ɔ:tə'krætɪk/
+
+1. 助记：auto-自己 + cratic 
+   auto- 表示“自己”，来源于希腊语。
+   crat- = rule, ruler, 表示“统治或政体，统治者”，最初含义表示“力量”。
+2. 词源：
+   etymology
+   "holding unlimited and independent powers of government," 1815 (in reference to Napoleon), from French autocratique, from autocrate, from Latinized form of Greek autokrates (see autocrat). Earlier autocratoric (1670s) was directly from Greek autokratorikos "of or for an autocrat, despotically." Autocratical is attested from 1767 (in reference to Elizabeth I).
+3. 定义：An autocratic person or organization has complete power and makes decisions without asking anyone else's advice. 独裁的;专制的;独断专行的
+4. 例句：
+   Some feudal states were ruled by autocratic kings. 
+   有些封建国家由专制的国王统治.
+   The people have grown intolerant in recent weeks of the King's autocratic ways. 
+   最近几周国王的专制行径让民众忍无可忍。
+
+
+#### accordance/əˈkɔ:dns/
+
+1. 助记：accord  n. 一致, 调和, 协定 vt. 给与, 使一致 vi. 相符合
+   ac-同ad- + cord-心 → 指一条心的  与什么相符合
+2. 词源：
+   etymology
+   c. 1300, "compliance;" early 14c., "agreement, concurrence, state of being in accord," from Old French acordance "agreeing, reconciliation, harmony," noun of action from acorder "reconcile, agree, be in harmony" (see accord (v.)). Of things, "conformity, compatibility, harmony," late 14c. Meaning "formal adjustment of a difference, peace treaty" is from late 13c. Phrase in accordance with is attested by 1793 (in Middle English, in accordance of was the usual form).
+3. 定义：If something is done in accordance with a particular rule or system, it is done in the way that the rule or system says that it should be done.按照;依据
+4. 例句：
+   One's opinion tends to differ in accordance with one's standpoint. 
+   不同的立场势必形成不同的见解.
+   She was dismissed in accordance with the company's usual displinary procedures. 
+   按照公司一般纪律程序,她被解雇了.
+5. 拓展：cord-（心）：源自心脏的意识活动
+   我们中国人认为心脏是人的意识活动的场所，所以才有“心灵”、“心理”、“心思”等词汇。和我们东方人一样，古代西方人也有类似的观念，所以很多表示意识活动的单词都由表示心脏的词根cord-构成。该词根来自拉丁语cor/cordis（心脏）。词根card-/cardio-（心脏）来自希腊语kardia，但最终源头和cord-一样来自原始印欧语词根kerd-。
+   cord-：心脏，心理，心灵
+   core：[kɔː] n.核心，要点
+   cordial：['kɔːdɪəl] adj. 衷心的，诚恳的；兴奋的
+   concord：['kɒŋkɔːd] n.和谐；和睦；一致；协调
+   accord： [ə'kɔːd]n. 符合；一致；协议；自愿vt. 使一致；给予vi. 符合；一致
+   accordance：[ə'kɔrdns] n. 一致；和谐
+   discord：['dɪskɔːd] n. 不和；不调和；嘈杂声vi. 不一致；刺耳
+   card-/cardio-：心脏
+   cardiac：['kɑrdɪæk] n. 强心剂；强胃剂adj. 心脏的；心脏病的；贲门的
+   cardiology：[,kɑrdɪ'ɑlədʒi] n. 心脏病学
+   cardiopathy： [,kɑrdɪ'ɑpəθi] n. 心脏病
+
+
+#### fief/fi:f/
+
+1. 助记：来自 PIE*peku,牛。引申词义耕作，耕种
+2. 词源：
+   etymology
+   also feoff, 1610s, from French fief (12c.) "a 'feud,' possession, holding, domain; feudal duties, payment," from Medieval Latin feodum "land or other property whose use is granted in return for service," widely said to be from Frankish *fehu-od "payment-estate," or a similar Germanic compound, in which the first element is from Proto-Germanic *fekhu, making it cognate with Old English feoh "money, movable property, cattle" (see fee). Second element perhaps is similar to Old English ead "wealth" (see Edith).
+3. 定义：In former times, a fief was a piece of land given to someone by their lord, to whom they had a duty to provide particular services in return.采邑，封地
+4. 例句:
+   For five years she was marooned in the Tigers'northern fief. 
+   在猛虎组织的北部据点,她被拘禁了长达五年之久.
+5. 拓展：指有土地所有权的国王或庄园领主把土地封给其臣民或臣子进行耕作，以臣民或臣子上交一定的田租或提供劳务服务做为交换，类似于中国古代的分封制。比较其词源同源词 feudal,fee.
+
+#### strife/straɪf/
+
+1. 助记：strife- = contend, 表示“竞争
+    strid-竞争 → 竞争时发出的尖叫声。刺耳的, 吱吱尖叫的, 尖锐的, 刺眼的
+2. 词源：
+   etymology
+   c. 1200, "quarrel, fight, discord," from Old French estrif "fight, battle, combat, conflict; torment, distress; dispute, quarrel," variant of estrit "quarrel, dispute, impetuosity," probably from Frankish *strid "strife, combat" or another Germanic source (compare Old High German strit "quarrel, dispute"), related to Old High German stritan "to fight;" see stride (v.).
+3. 定义：Strife is strong disagreement or fighting.严重不和;冲突;争斗
+4. 例句：The country was torn apart by strife. 
+              这个国家被内部纷争搞得四分五裂。
+
+#### assassinate/əˈsæsɪneɪt/
+
+1. 助记：来自阿拉伯词hashash, 大麻，烟叶。刺客行刺前吸食有麻醉作用。
+2. 词源：
+   etymology
+   A fanatical Ismaili Muslim sect of the mountains of Lebanon in the time of the Crusades, under leadership of the "Old Man of the Mountains" (translates Arabic shaik-al-jibal, name applied to Hasan ibu-al-Sabbah), they had a reputation for murdering opposing leaders after intoxicating themselves by eating hashish. The plural suffix -in was mistaken in Europe for part of the word (compare Bedouin). Middle English had the word as hassais (mid-14c.), from Old French hassasis, assasis, which is from the Arabic word.
+3. 定义：When someone important is assassinated, they are murdered as a political act.行刺;暗杀
+4. 例句：Would the USA be radically different today if Kennedy had not been assassinated?... 如果肯尼迪没有被暗杀，今天的美国会有根本性的不同吗？
+5. 拓展：assassin（刺客）：中世纪时著名穆斯林暗杀组织阿萨辛
+   中世纪时期，在阿富汗至叙利亚山区，活跃着一个穆斯林异端教派阿萨辛（Hashshashin），由穆斯林右边极端分子组成，以其暗杀活动闻名于世。欧洲的十字军就曾经深受其害。该组织的创始人为突厥籍的波斯人哈桑•萨巴赫，即大名鼎鼎的“山中老人”，在金庸的《倚天屠龙记》中就曾提到这位“山中老人”。《马可波罗游记》也曾对“山中老人”及阿萨辛有详细描述。
+   据记载，山中老人为了培养刺客，在一个隐秘的峡谷中斥巨资修建了一个“极乐园”。园子里长满奇珍异果，修建有富丽堂皇的楼台亭阁，里面住着精通音律的妙龄少女，随处都有美酒、蜜糖。山中老人平时在训练时，会不时向受训者讨论伊斯兰先知所提到的“极乐园”。然后在特定日子，让受训者吸食一种特殊的毒品。趁他们昏迷之际，将其移入极乐园。受训者苏醒后，就会以为自己真的身处传说中的极乐园。受训者在极乐园中尽情享乐几日后，又会被再次麻醉，移出极乐园。从此以后，受训者会心甘情愿供山中老人驱使，以求死后长住极乐园。
+   山中老人让受训者吸食的毒品在阿拉伯语中叫做hashish，所以该组织被称为Hashshashin，本意是“吸食hashish的人”。英语单词assassin就是由阿拉伯语Hashshashin演变而来的。
+   assassin：[ə'sæsɪn]n.刺客，暗杀者
+   assassinate：[ə'sæsɪneɪt] vt.暗杀，行刺
+   assassination：[əˌsæsɪˈneɪʃn] n.暗杀，行刺
+
+#### senate/ˈsenət/
+
+1. 助记：来自拉丁语 senatus,古罗马元老会，来自 senex,老人，长者，词源同 senior.后借用该词指参议院。
+   sen- = old, 表示“老”。
+   sen-老 + -ile形容词后缀。senile高龄的, 衰老的, 老年期的
+2. 词源：
+   etymology
+   c. 1200, "legal and administrative body of ancient Rome," from Old French senat or Latin senatus "highest council of the state in ancient Rome," literally "council of elders," from senex (genitive senis) "old man, old" (from PIE root *sen- "old"). Attested from late 14c. in reference to governing bodies of free cities in Europe; of national governing bodies from 1550s; specific sense of upper house of U.S. legislature is recorded from 1775.
+3. 定义：The Senate is the smaller and more important of the two parts of the parliament in some countries, for example the United States and Australia.参议院
+4. 例句：The Senate is expected to pass the bill shortly. 
+   预计参议院不久就会通过此议案。
+5. 拓展:senate（参议院）：古罗马的元老院
+   在古罗马的酋长制时代，为了辅助酋长治理国家，由氏族长老会议演变产生了“元老院”。所谓“元老院”，就是由组成国家的各个部落中的长老们构成的政治机构，是存续时间最长的古罗马国家机构。
+   古罗马共和国时代，元老院由前任国家长官和其他贵族代表组成，共300名，拥有立法权，掌管财政和外交，统辖行省，主持重大宗教活动。在共和国的最后几十年里，由于议员腐败、自身改革失败及贵族议员对平民的排斥，元老院的威望降低。由于军阀崛起，元老院的权力被消弱。后来，恺撒大帝把元老院的员额增加到900。罗马帝国时代，国家权力被逐渐地转移到皇帝的名下。元老院实权日趋缩小，但仍是贵族统治的重要支柱。
+   在英语中，古罗马的“元老院”就叫做senate，源自拉丁语senatus，字面意思就是“council of elders”（长老们组成的委员会），源自拉丁语senex（老人、长老）。英国议会中的“上院”和美国国会中的“参议院”其实都源自古罗马的“元老院”，所以它们也都叫做senate。senate里面的成员就叫做senator（参议员）。
+   senate：['senɪt] n.（古罗马）元老院，英国议会上院，美国国会参议院
+   senator：['senətə] n.参议员，元老
+   senile：['sinaɪl] adj. 高龄的；老衰的；高龄所致的
+   senior：['sinɪɚ] adj. 高级的；年长的；地位较高的；年资较深的，资格较老的n. 上司；较年长者；毕业班学生
+
+#### appeal/əˈpi:l/
+
+1. 助记：ap-=ad- + peal-=pel-击，打 → 原指推进，推动 → 词义弱化为恳求。
+2. 词源：
+   etymology
+   c. 1300, "proceeding taken to reverse a decision by submitting it to the review of a higher authority," from Old French apel "call, appeal in court" (Modern French appel), back-formation from apeler "call upon" (see appeal (v.)). Meaning "call to an authority" is from 1620s; that of "attractive power" attested by 1904.
+3. 定义：If you appeal to someone to do something, you make a serious and urgent request to them.呼吁;恳请;恳求
+4. 例句：The case is being referred to the Court of Appeal. 
+              该案件将移交上诉法院审理。
+5. 拓展：peal（钟声）：教堂用来召唤信徒参加活动的钟声
+   在基督教社会中，教堂会定期召开各种宗教活动。每当活动快开始时，教堂就会敲钟，用钟声来通知信徒，召唤信徒参加活动。这种钟声在英语中被称为peal，通常认为是来源于单词appeal（呼吁、请求），因为钟声是用来appeal信徒们来教堂的。
+   peal：[piːl] n.钟声，钟乐，编钟，响亮持久的声音vt.大声发出，使鸣响vi.大声鸣响
+   appeal：[ə'piːl] n.呼吁，恳求，吸引力，上诉vi.呼吁，请求，上诉，求助，有吸引力
 
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
@@ -6024,10 +6274,192 @@ Convert** /kənˈvɝːt/ 转换
    [urgent](javascript:void(0);) / [instant](javascript:void(0);)
 
 
+## WORK PRINCIPLES:PUTTING IT ALL TOGETHER
+
+**Utopia** /juːˈtoʊ.pi.ə/ 乌托邦
+
+1. 助记,
+
+   u+top+ia
+   u- (ou "not, no") + top- "place" + -ia. 字面含义为：不存在的地方。同源词：topography, topology, toponym.音译“乌托邦”
+
+2. 词源,
+
+   **OED Origin**
+
+   Mid 16th century: based on Greek ou **‘not’ + topos ‘place’;** the word was first used in the book Utopia (1516) by Sir Thomas More.
+
+   **Etymology**
+
+   1551, from Modern Latin Utopia, literally "nowhere," coined by Thomas More (and used as title of his book, 1516, about an imaginary island enjoying the utmost perfection in legal, social, and political systems), from Greek ou **"not" + topos "place" (see topos).** The current (since c. 1960) explanation of Greek ou "not" is an odd one, as it derives the word from the PIE root *aiw- "vital force, life; long life, eternity." Linguists presume a pre-Greek phrase (ne) hoiu (kwid) "(not on your) life," with ne "not" +kwid, an "emphasizing particle" [Watkins]. The same pattern is found elsewhere.
+   Extended to any perfect place by 1610s. Commonly, but incorrectly, taken as from Greek eu- "good" (see eu-) an error reinforced by the introduction of dystopia (1868). On the same model, Bentham had cacotopia (1818).
+
+3. 释义
+
+   (the idea of) a perfect society in which everyone works well with each other and is happy
+
+4. 拓展
+
+   Utopia Glacier 乌托邦冰河
+   Agrarian Utopi人间乐土
+   Whose Utopia 谁的乌托邦
+
+
+#### aesthetic/i:sˈθetɪk/
+
+1. 助记：esthet-感觉 + -ic表形容词。
+   aesthet- = feeling, 表示“感觉”。
+   ana-没有，无 + esthetic【感觉的】麻醉剂, 麻药 a. 麻木的, 麻醉的
+2. 词源：
+   etymology
+   1798, from German Ästhetisch (mid-18c.) or French esthétique (which is from German), ultimately from Greek aisthetikos "of or for perception by the senses, perceptive," of things, "perceptible," from aisthanesthai "to perceive (by the senses or by the mind), to feel," from PIE *awis-dh-yo-, from root *au- "to perceive."
+3. 定义：Aesthetic is used to talk about beauty or art, and people's appreciation of beautiful things.美的；艺术的；美感的；审美的
+4. 例句：.
+   He responded very strongly to the aesthetic of this particular work. 
+   他强烈地感受到这件作品的美学价值。
+   an aesthetic appreciation of the landscape 
+   用审美的眼光欣赏风景
+5. 拓展:aesthetic（审美的）：研究人类感性认识的学科
+   英语单词aesthetic表示“审美的”，加上一个否定前缀an后形成的单词anaesthetic却表示“麻醉”，这是为什么呢？原来，aesthetic来自希腊语aisthetikos，本意就是“感知、感觉”的意思，所以加上an后就是“没有感觉”，即“麻醉”的意思。那么，aesthetic的词义又是怎么从“感知、感觉”转变为“审美”的呢？这都拜“美学之父”鲍姆嘉通所赐。
+   鲍姆嘉通（Alexander Gottlieb Baumgarten，1714-1762）是德国哲学家和美学家，美学学科的开创者。鲍姆嘉通把美学规定为研究人感性认识的学科。他认为人的心理活动分为知、情、意三方面。研究“知”或人的理性认识有逻辑学，研究人的意志有伦理学，而研究人的情感即人的感性认识的学科，鲍姆嘉通将其称为“aesthetics”，因为它的研究对象是aesthetic（感知、感觉），后来翻译成汉语就成了“美学”。随着美学的发展，aesthetic变成了美学中的专用名词，原有的词义反而被人遗忘了，只有在含有它的其他词语如anaesthetic（麻醉）中才能发现它的初始含义。
+   aesthetic：[iːs'θetɪk; es-] adj.美的，美学的，审美的，有审美情趣的
+   aesthetics：[iːs'θetɪks; es-] n.美学，审美观，关于美的哲学
+   anaesthetic：[,ænɪs'θetɪk] n.麻醉剂，麻药adj.麻醉的
+   anaesthesia：[,ænɪs'θiːzɪə] n.麻醉，麻木，感觉缺失，等于anesthesia
+
+#### nudge/nʌdʒ/
+
+1. 助记：词源不详。用肘轻推, 推动, 讨厌家伙
+2. 词源：
+   etymology
+   "to push slightly with the elbow," 1670s, perhaps from Scandinavian (compare Norwegian nugge, nyggje "to jostle, rub;" Icelandic nugga "to rub, massage"). Related: Nudged; nudging.
+3. 定义：
+   1. If you nudge someone, you push them gently, usually with your elbow, in order to draw their attention to something.(通常指用肘)轻推，轻碰(以引起注意)
+   2. If you nudge someone into doing something, you gently persuade them to do it.劝说;鼓动
+4. 例句：.
+   1. Foreigners must use their power to nudge the country towards greater tolerance. 外国人必须动用他们的力量促使这个国家变得更加宽容。
+   2. She slipped her arm under his and gave him a nudge. 
+      她挽住他的胳膊，轻轻推了他一下。
+
+
+#### astound/əˈstaʊnd/
+
+1. 助记：as-=ex-表强调 + toun-=ton-雷，拟声词 + -d，指如被雷击。
+   ton-,thunder,ston- = thunder，表示“打雷”。 使惊骇, 使大惊
+2. 词源：
+   etymology
+   mid-15c., from Middle English astouned, astoned (c. 1300), past participle of astonen, astonien "to stun" (see astonish), with more of the original sense of Vulgar Latin *extonare. The unusual form is perhaps because the past participle was so much more common it came to be taken for the infinitive, or/and by the same pattern which produced round (v.) from round (adj.), or by the intrusion of an unetymological -d as in sound (n.1). Related: Astounded; astounding.
+   c. 1300, astonien, "to stun, strike senseless," from Old French estoner "to stun, daze, deafen, astound," from Vulgar Latin *extonare, from Latin ex "out" (see ex-) + tonare "to thunder" (see thunder (n.)); so, literally "to leave someone thunderstruck." The modern form (influenced by English verbs in -ish, such as distinguish, diminish) is attested from 1520s. The meaning "amaze, shock with wonder" is from 1610s.
+3. 定义：If something astounds you, you are very surprised by it. 使大吃一惊;使惊骇;使震惊
+4. 例句：He used to astound his friends with feats of physical endurance. 
+   过去，他表现出来的惊人耐力常让朋友们大吃一惊。
+
+#### gorgeously/'ɡɔ:dʒəslɪ/
+
+1. 助记：
+   可能来自gorge，喉咙，吞没，咽口水，比喻极其壮观或美丽的事物和人。
+   gorg- = throat, 表示“喉”。
+   举例：regorge 吐出, 使倒流
+2. 词源：
+   etymology
+   c. 1500, "splendid, showy, sumptuously adorned" (of clothing), from Middle French gorgias "elegant, fashionable," of unknown origin; perhaps a special use of gorgias "necklace" (and thus "fond of or resembling jewelry"), from Old French gorge "throat," also "something adorning the throat" (see gorge (n.)). A connection to the Greek proper name Gorgias (supposedly in reference to a notorious sophist) also has been proposed. Related: Gorgeousness.
+3. 定义：
+   1. If you say that something is gorgeous, you mean that it gives you a lot of pleasure or is very attractive.令人愉快的；美丽动人的；引人入胜的
+   2. If you describe things such as clothes and colours as gorgeous, you mean they are bright, rich, and impressive.绚丽的；华丽的；灿烂的
+4. 例句：
+   1. The girl is gorgeously dressed. 这个女孩打扮得花枝招展
+   2. She has a gorgeously warm speaking voice. 
+      她的嗓音温婉动听。
+5. 拓展：gorgeous ['gɔːdʒəs] adj.华丽的；极好的。拉丁词根gorg-,gurg-表喉咙（咀嚼），如单词engorge [ɪn'gɔːdʒ] v.狼吞虎咽和regurgitation [rɪ,ɡɜːdʒɪ'teɪʃən] n.回流；反刍。中世纪法国贵族妇女一种包裹着脖子的包（饰）头巾叫做gorgias，因其优雅和繁复的构造产生了gorgeous这个单词。
+
+#### epic/ˈepɪk/
+
+1. 助记：来自PIE*wekw, 说，叙述，词源同voice, invoke。ep- 
+   = speaking, 表示“说”。 引申为 史诗
+2. 词源：
+   etymology
+   1580s, "pertaining to or constituting a lengthy heroic poem," via Middle French épique or directly from Latin epicus, from Greek epikos, from epos "a word; a tale, story; promise, prophecy, proverb; poetry in heroic verse," from PIE root *wekw- "to speak."
+3. 定义：An epic is a long book, poem, or film, whose story extends over a long period of time or tells of great events.史诗;叙事诗;史诗般的作品
+4. 例句：
+   1. Their epic fight is the subject of a new film. 他们史诗般的战斗是一部新电影的主题。
+   2. Like "Gone With The Wind" it's an unashamed epic romance. 
+      和《飘》一样,它也是一个无所顾忌的史诗般的爱情故事.
+
+
+#### acknowledgement/əkˈnɒlɪdʒmənt/
+
+1. 助记：ac-去往 + knowledge=know, 知道，了解。
+2. 词源：
+   etymology
+   1590s, "act of acknowledging," from acknowledge + -ment. "An early instance of -ment added to an orig. Eng. vb." [OED]. Meaning "token of due recognition" is recorded from 1610s.
+   late 15c., "admit or show one's knowledge," a blend of Middle English aknow "admit or show one's knowledge" (from Old English oncnawan "understand, come to recognize," from on (see on (prep.)) + cnawan "recognize;" see know) and Middle English knowlechen "admit, acknowledge" (c. 1200; see knowledge). "By 16th c. the earlier vbs. knowledge and a(c)know ... were obs., and acknowledge took their place" [OED].
+3. 定义：
+   1. The acknowledgements in a book are the section in which the author thanks all the people who have helped him or her.致谢，鸣谢
+   2. A gesture of acknowledgement, such as a smile, shows someone that you have seen and recognized them.打招呼的表示（如微笑等）
+   3. An acknowledgement is a statement or action which recognizes that something exists or is true.（对事实、局面等的）承认
+4. 例句：
+   1. Farling smiled in acknowledgement and gave a bow. 
+         法林微笑示意，又躬身行了个礼。
+   2. Their replies were no more than grunts of acknowledgement. 
+      他们所谓的回答不过是表示承认的咕哝罢了。
+
+#### euphoric/juːˈfɒr.ɪk/
+
+1. 助记： 来自 eu "well" (see eu-) + pherein "to carry," 精神状况好 兴高采烈
+2. 词源：
+   etymology
+   "characterized by euphoria," 1885, originally with reference to cocaine, from euphoria + -ic. The noun meaning "a drug which causes euphoria" also is from 1885. Euphoriant is from 1946 as a noun, 1947 as an adjective.
+   1727, a physician's term for "condition of feeling healthy and comfortable (especially when sick)," medical Latin, from Greek euphoria "power of enduring easily," from euphoros, literally "bearing well," from eu "well" (see eu-) + pherein "to carry," from PIE root *bher- (1) "to carry." Non-technical use, now the main one, dates to 1882 and perhaps is a reintroduction. Earlier the word meant "effective operation of a medicine on a patient" (1680s).
+3. 定义：If you are euphoric, you feel intense happiness and excitement.狂喜的;兴高采烈的
+4. 例句：
+   1. I felt heady and euphoric. 
+      我开始兴奋，有些飘飘然了
+   2. They grow euphoric in authority and panicky at the thought of losing it. 
+      他们掌握了权力便得意洋洋,一想到可能丢权便又惊慌失措.
+
+#### boon/bu:n/
+
+1. 助记：bon-好，词源同bonus。bon- = good, 表示“好”。和表示美丽的词根bell-同源，原始印欧语形式为*dau。
+   bon-好 + hom-=hum-人 + ie → 好人,性情温和。bonhomie温和 友好
+   bonnie 漂亮的
+2. 词源：
+   etymology
+   in boon companion "convivial friend, close intimate" (1560s), the only real survival of Middle English boon "good" (early 14c.), from Old French bon (see bon), from Latin bonus "good" (see bonus). Probably influenced by boon (n.).
+3. 定义：You can describe something as a boon when it makes life better or easier for someone. 给生活带来方便的事物
+4. 例句：This battery booster is a boon for photographers. 
+   这种电池充电器是摄影工作者的好帮手。
+
+#### scatter/ˈskætə(r)/
+
+1. 助记：来自中古英语 scateren,分散，散开，可能最终来自 PIE*sek,砍，切，削，词源同 segment,dissect. 消散, 分散, 散播, 散射, 散布, 酒馆
+2. 词源：
+   etymology
+   early 14c., transitive, probably a variant of Middle English scateren (see scatter (v.)). Compare Old Dutch schetteren Low German schateren. Formations such as scatter-brained had parallel forms in shatter-brained, etc. Intransitive sense from 1560s. Related: Shattered; shattering. Carlyle (1841) used shatterment. Shatters "fragments" is from 1630s.
+   mid-12c. (transitive), possibly a northern English variant of Middle English schateren (see shatter), reflecting Norse influence. Intransitive sense from early 15c. Related: Scattered; scattering. As a noun from 1640s.
+3. 定义：
+   1. If you scatter things over an area, you throw or drop them so that they spread all over the area.撒;撒播;撒于…上
+   2. If a group of people scatter or if you scatter them, they suddenly separate and move in different directions. (使)(人群)分散;(使)散布在各处;(使)散开
+4. 例句：
+   1. Scatter the tomato over, then dress the salad. 把西红柿散放在上面，然后给色拉加调味汁。
+   2. When the tree falls, the monkeys scatter“树倒猴狲散. ”
+
+
+#### option/ˈɒpʃn/
+
+1. 助记：opt-选择 + ion表名词
+   opt- = choose, 表示“选择”。optant 抉择者 选择者
+2. 词源：
+   etymology
+   c. 1600, "action of choosing," from French option (Old French opcion), from Latin optionem (nominative optio) "choice, free choice, liberty to choose," from root of optare "to desire, choose," from PIE root *op- (2) "to choose, prefer." Meaning "thing that may be chosen" is attested from 1885. Commercial transaction sense first recorded 1755 (the verb in this sense is from 1934). As a North American football play, it is recorded from 1954.
+3. 定义：
+   1. An option is something that you can choose to do in preference to one or more alternatives.可选择的事物
+   2. If you have the option of doing something, you can choose whether to do it or not.选择；选择权
+   3. An option is one of a number of subjects which a student can choose to study as a part of his or her course.选修课
+4. 例句:It is thought that a management buyout is one option. 
+   管理层收购被认为是一种选择。
 
 
 ## 16.And for Heaven’s Sake, Don’t Overlook Governance!
-
 
 
 

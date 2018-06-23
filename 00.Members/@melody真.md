@@ -1627,7 +1627,7 @@ Early 17th century (in the sense ‘well-balanced state of mind’): from Latin 
 
 c. 1600, "state of mental balance," from Latin aequilibrium "an even balance; a horizontal position," from aequilibris "equal, level, horizontal, evenly balanced," from aequus "equal" (see [equal](https://www.etymonline.com/word/equal?ref=etymonline_crossreference) (adj.)) + libra "a balance, pair of scales, plummet" (see [Libra](https://www.etymonline.com/word/Libra?ref=etymonline_crossreference)). Related: Equilibrious.
 
-**whack**
+**whack** 
 
 释义:
 
@@ -1833,40 +1833,87 @@ Mid 16th century: perhaps from Middle English pars ‘parts of speech’, from O
 
 **telex**
 
-释义:
+1. 释义:
 
-a method of sending written messages down a phone line from one teleprinter to another, the machine that does this, or the message itself电传；电传打字机；电传电报
+   a method of sending written messages down a phone line from one teleprinter to another, the machine that does this, or the message itself电传；电传打字机；电传电报
 
-例句:
+   例句:
 
-The [details](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/detail) were [sent](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sent) by telex.详细资料用电传发送过去了
+   The [details](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/detail) were [sent](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sent) by telex.详细资料用电传发送过去了
 
-词源:
+2. 词源:
 
-1.选自牛津词源词典
+   1.选自牛津词源词典
 
-1930s: blend of teleprinter and exchange.
+   1930s: blend of teleprinter and exchange.
 
-2.选自etymonline
+3. 选自etymonline
 
-1932, "a communication system of teletypewriters," from tel(etype) ex(change).
+   1932, "a communication system of teletypewriters," from tel(etype) ex(change).
+
+
 
 **derivative**
 
+1. 释义:
+
+   If something is derivative, it is not the result of new ideas, but has beendeveloped from or copies something else.缺乏独创性的；模仿的
+
+   例句:
+
+   His [painting](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/painting)/[style](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/style) is very derivative.他的油画／风格有很重的模仿痕迹。
+
+2. 词源:
+
+   1.选自牛津词源词典
+
+   Late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive).
+
+   2.选自etymonline
+2.early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
+
+
+early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
+
+
+
+5月8日
+
+**audacious**
+
 释义:
 
-If something is derivative, it is not the result of new ideas, but has beendeveloped from or copies something else.缺乏独创性的；模仿的
+showing a willingness to take risks or offend people大胆的；敢于冒险的；鲁莽的；放肆的
 
 例句:
 
-His [painting](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/painting)/[style](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/style) is very derivative.他的油画／风格有很重的模仿痕迹。
+He [described](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/describe) the [plan](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/plan) as [ambitious](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/ambitious) and audacious.他认为这是一项宏伟而大胆的计划。
 
 词源:
 
-1.选自牛津词源词典
+1.选自牛津词典词源
 
-Late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive).
+Mid 16th century: from Latin audax, audac- ‘bold’ (from audere ‘dare’) + -ious.
 
 2.选自etymonline
 
-early 15c. (adj.); mid-15c. (n.), from Middle French dérivatif (15c.), from Late Latin derivat-, past participle stem of Latin derivare (see [derive](https://www.etymonline.com/word/derive?ref=etymonline_crossreference)). Mathematical sense is from 1670s.
+1540s, "confident, intrepid, daring," from Middle French audacieux, from audace "boldness," from Latin audacia "daring, boldness, courage," from audax "brave, bold, daring," but more often "bold" in a bad sense, "rash, foolhardy," from audere "to dare, be bold." In English, the bad sense of "shameless, unrestrained by propriety" is attested from 1590s. Related: Audaciously; audaciousness.
+
+**brewery**
+
+释义:
+
+a company that makes beer or a place where beer is made啤酒公司；啤酒厂
+
+词源:
+
+1.选自牛津词典词源
+
+Mid 17th century: from brew, probably on the pattern of Dutch brouwerij.
+
+2.选自etymonline
+
+1650s (but perhaps from c. 1200 as a surname element); see [brew](https://www.etymonline.com/word/brew?ref=etymonline_crossreference) (v.) + [-ery](https://www.etymonline.com/word/-ery?ref=etymonline_crossreference). Old English had breawern in this sense (from aern "house;" see [barn](https://www.etymonline.com/word/barn?ref=etymonline_crossreference)), and [brewhouse](https://www.etymonline.com/word/brewhouse?ref=etymonline_crossreference) was the more common word through 18c.
+
+
+
