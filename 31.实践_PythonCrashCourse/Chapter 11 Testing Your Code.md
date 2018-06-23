@@ -756,7 +756,7 @@ self.assertEqual(self.my_employee.annual_salary,8000)
 
 **上传图片的方法:**
 
-1. 先将要使用的多张图片放到images文件夹`English/EnglishGit/31.实践_PythonCrashCourse/images`: 
+1. 先将要使用的多张图片放到images文件夹`English/31.实践_PythonCrashCourse/images`: 
 
    ​
 
