@@ -736,6 +736,26 @@ self.assertEqual(self.my_employee.annual_salary,8000)
 
 
 
+
+
+
+
+2018-06-23
+
+大致总结了一下最近所学。
+
+![1](C:\Users\Administrator\Desktop\1.jpg)
+
+![2](C:\Users\Administrator\Desktop\3.jpg)
+
+![2](C:\Users\Administrator\Desktop\2.jpg)
+
+
+
+
+
+
+
 You could spend the rest of your life learning all the intricacies of Python and of programming in general, but then you’d never complete any projects. Don’t try to write perfect code; write code that works, and then decide whether to improve your code for that project or move on to some- thing new.
 
 
