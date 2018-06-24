@@ -125,6 +125,8 @@ apply arguments to which ticks.
 which一共3个参数[‘major’ | ‘minor’ | ‘both’]
 默认是major表示主刻度，后面分布为次刻度及主次刻度都显示
 来源：知乎
+#嗯,python crash course是台阶, 
+#以后估计每天的工作就是搜索和查官方文档.
 
 ```
 
@@ -137,6 +139,8 @@ changing the label type and graph thickness
 correcting the plot
 
 plotting and styling individual points with scatter()
+
+
 
 poltting a series of points with scatter()
 
