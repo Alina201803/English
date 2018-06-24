@@ -744,11 +744,11 @@ self.assertEqual(self.my_employee.annual_salary,8000)
 
 大致总结了一下最近所学。
 
-![1](C:\Users\Administrator\Desktop\1.jpg)
+![review_1](C:\Users\Administrator\Desktop\English\31.实践_PythonCrashCourse\images\review_1.jpg)
 
-![2](C:\Users\Administrator\Desktop\3.jpg)
+![review_2](C:\Users\Administrator\Desktop\English\31.实践_PythonCrashCourse\images\review_2.jpg)
 
-![2](C:\Users\Administrator\Desktop\2.jpg)
+![review_3](C:\Users\Administrator\Desktop\English\31.实践_PythonCrashCourse\images\review_3.jpg)
 
 
 
