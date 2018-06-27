@@ -349,3 +349,172 @@ plotting the random walk
 generating multiple random walks
 
 coloring the points
+
+
+
+2018-06-27
+
+**源代码**
+
+```python
+ploting the starting and ending points
+import matplotlib.pyplot as plt
+
+from random_walk import RandomWalk
+#Keep making new walks, as long as the program is active.
+while True:
+    #Make a random walk, and plot the points.
+    rw = RandomWalk()
+    rw.fill_walk()
+   
+    point_numbers = list(range(rw.num_points))
+    plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues, edgecolor='none', s=15)
+    
+    #Emphasize the first and last points.
+    plt.scatter(0, 0, c='green', edgecolors='none', s=100)
+    plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',s=100)
+    
+    plt.show()
+    keep_running = input("Making another walk?(y/n):")
+    if keep_running == 'n':
+        break
+        
+ cleaning up the axes
+import matplotlib.pyplot as plt
+
+from random_walk import RandomWalk
+#Keep making new walks, as long as the program is active.
+while True:
+    #Make a random walk, and plot the points.
+    rw = RandomWalk()
+    rw.fill_walk()
+   
+    point_numbers = list(range(rw.num_points))
+    plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues, edgecolor='none', s=15)
+    
+    #Emphasize the first and last points.
+    plt.scatter(0, 0, c='green', edgecolors='none', s=100)
+    plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',s=100)
+    
+    #Remove the axes.
+    plt.axes().get_xaxis().set_visible(False)
+    plt.axes().get_yaxis().set_visible(False)
+    
+    plt.show()
+    keep_running = input("Making another walk?(y/n):")
+    if keep_running == 'n':
+        break
+
+ adding plot points
+import matplotlib.pyplot as plt
+
+from random_walk import RandomWalk
+#Keep making new walks, as long as the program is active.
+while True:
+    #Make a random walk, and plot the points.
+    rw = RandomWalk(50000)
+    rw.fill_walk()
+   
+    point_numbers = list(range(rw.num_points))
+    plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues, edgecolor='none', s=1)
+    
+    #Emphasize the first and last points.
+    plt.scatter(0, 0, c='green', edgecolors='none', s=100)
+    plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',s=100)
+    
+    #Remove the axes.
+    plt.axes().get_xaxis().set_visible(False)
+    plt.axes().get_yaxis().set_visible(False)
+    
+    plt.show()
+    keep_running = input("Making another walk?(y/n):")
+    if keep_running == 'n':
+        break
+
+altering the size to fil the screen
+import matplotlib.pyplot as plt
+
+from random_walk import RandomWalk
+#Keep making new walks, as long as the program is active.
+while True:
+    #Make a random walk, and plot the points.
+    rw = RandomWalk(50000)
+    rw.fill_walk()
+
+    #Set the size of the plotting window.
+    plt.figure(figsize=(10, 6))
+   
+    point_numbers = list(range(rw.num_points))
+    plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues, edgecolor='none', s=1)
+    
+    #Emphasize the first and last points.
+    plt.scatter(0, 0, c='green', edgecolors='none', s=100)
+    plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',s=100)
+    
+    #Remove the axes.
+    plt.axes().get_xaxis().set_visible(False)
+    plt.axes().get_yaxis().set_visible(False)
+    
+    plt.show()
+    keep_running = input("Making another walk?(y/n):")
+    if keep_running == 'n':
+        break
+
+练习
+import matplotlib.pyplot as plt
+
+from random_walk import RandomWalk
+#Keep making new walks, as long as the program is active.
+while True:
+    #Make a random walk, and plot the points.
+    rw = RandomWalk(50000)
+    rw.fill_walk()
+
+    #Set the size of the plotting window.
+    plt.figure(dpi=128, figsize=(10, 6))
+   
+    point_numbers = list(range(rw.num_points))
+    plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues, edgecolor='none', s=1)
+    
+    #Emphasize the first and last points.
+    plt.scatter(0, 0, c='green', edgecolors='none', s=100)
+    plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',s=100)
+    
+    #Remove the axes.
+    plt.axes().get_xaxis().set_visible(False)
+    plt.axes().get_yaxis().set_visible(False)
+    
+    plt.show()
+    keep_running = input("Making another walk?(y/n):")
+    if keep_running == 'n':
+        break
+```
+
+**问题集**
+
+```python
+
+plt.axes().get_xaxis().set_visible(False)
+plt.axes().get_yaxis().set_visible(False)
+chaining of methods/method chaining
+
+维基百科
+Method chaining, also known as named parameter idiom, is a common syntax for invoking multiple method calls in object-oriented programming languages Each method returns an object, allowing the calls to be chained together in a single statement without requiring variables to store the intermediate results.Local variable declarations are syntactic sugar because of the difficulty humans have with deeply nested method calls.A method chain is also known as a train wreck due to the increase in the number of methods that come one after another in the same line that occurs as more methods are chained together even though line breaks are often added between methods.
+
+Method chaining, also known as named parameter idiom, is a common syntax for invoking multiple method calls in object-oriented programming languages. Each method returns an object, allowing the calls to be chained together in a single statement without requiring variables to store the intermediate results.
+
+
+有的python初学者对python方法连续调用不是很清楚，像雾里看花一样。
+python一切都是对象，对象调用它的方法，如果带返回值，放回值也是对象，  
+这个返回值也有方法，当然就可以用点号调用它的方法， 
+```
+
+**今日所学**
+
+ploting the starting and ending points
+
+cleaning up the axes
+
+adding plot points
+
+altering the size to fil the screen
