@@ -1,3 +1,31 @@
+### 2018-6-30
+
+##### 复习交作业流程
+
+##### 1.源代码
+
+`cd ~/desktop/English`
+
+`git remote add upstream https://github.com/M-DFK/English`
+
+`git fetch upstream`
+
+`git merge upstream/master`
+
+`start /c/Users/liuli/Desktop/English/00.Members/@liucc1071.md`
+
+`git add /c/Users/liuli/Desktop/English/00.Members/@liucc1071.md`
+
+`git commit -m '2018-6-30'`
+
+`git push origin master`
+
+[Pull requests]
+
+
+
+
+
 ### 2018-6-29
 
 @刘CC同学 
