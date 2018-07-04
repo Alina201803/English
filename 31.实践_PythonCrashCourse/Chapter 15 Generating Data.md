@@ -747,3 +747,221 @@ hist.render_to_file('dice_visual.svg')
 **今日所学**
 
 rilling dice of different sizes
+
+
+
+2018-07-04
+
+**源代码**
+
+```python
+15-6
+import pygal
+
+from die import Die
+
+#Creat two D6 dice
+die_1 = Die()
+die_2 = Die()
+
+#Make some rolls, and store results in a list.
+results = []
+for roll_num in range(10000):
+    result = die_1.roll() + die_2.roll()
+    results.append(result)
+
+#Analyze the results.
+frequencies = []
+max_result = die_1.num_sides + die_2.num_sides
+
+for value in range(2, max_result+1):
+    frequency = results.count(value)
+    frequencies.append(frequency)
+
+#Visualize the results.
+hist = pygal.Bar()
+
+hist.title = "Results of rilling two D6 dice 1000 times."
+hist.x_labels = list(range(2, max_result+1))
+hist.x_title = 'Result'
+hist.y_title = 'Frequency of Result'
+
+hist.add('D6 + D6', frequencies)
+hist.render_to_file('dice_visual.svg')
+
+
+import pygal
+
+from die import Die
+
+#Creat two D6 dice
+die_1 = Die()
+die_2 = Die()
+
+#Make some rolls, and store results in a list.
+results = []
+results=[die_1.roll()+die_2.roll() for roll_num in range(1000)]
+#Analyze the results.
+frequencies = []
+max_result = die_1.num_sides + die_2.num_sides
+
+frequencies=[results.count(value) for value in range(2,max_result+1)]
+
+#Visualize the results.
+hist = pygal.Bar()
+
+hist.title = "Results of rilling two D6 dice 1000 times."
+hist.x_labels = [i for i in range(2, max_result+1)]
+hist.x_title = 'Result'
+hist.y_title = 'Frequency of Result'
+
+hist.add('D6 + D6', frequencies)
+hist.render_to_file('dice_visual.svg')
+
+15-7
+import pygal
+
+from die import Die
+
+#Creat two D6 dice
+die_1 = Die(8)
+die_2 = Die(8)
+
+#Make some rolls, and store results in a list.
+results = []
+for roll_num in range(10000):
+    result = die_1.roll() + die_2.roll()
+    results.append(result)
+
+#Analyze the results.
+frequencies = []
+max_result = die_1.num_sides + die_2.num_sides
+
+for value in range(2, max_result+1):
+    frequency = results.count(value)
+    frequencies.append(frequency)
+
+#Visualize the results.
+hist = pygal.Bar()
+
+hist.title = "Results of rilling two D6 dice 1000 times."
+hist.x_labels = ['2','3','4','5','6','7','8','9','10','11','12','13','14','15','16']
+hist.x_title = 'Result'
+hist.y_title = 'Frequency of Result'
+
+hist.add('D6 + D8', frequencies)
+hist.render_to_file('8_dice_visual.svg')
+
+
+15-8
+import pygal
+
+from die import Die
+
+#Creat two D6 dice
+die_1 = Die()
+die_2 = Die()
+die_3 = Die()
+
+#Make some rolls, and store results in a list.
+results = []
+for roll_num in range(10000):
+    result = die_1.roll() + die_2.roll() + die_3.roll()
+    results.append(result)
+
+#Analyze the results.
+frequencies = []
+max_result = die_1.num_sides + die_2.num_sides +die_3.num_sides
+
+for value in range(3, max_result+1):
+    frequency = results.count(value)
+    frequencies.append(frequency)
+
+#Visualize the results.
+hist = pygal.Bar()
+
+hist.title = "Results of rilling two D6 dice 1000 times."
+hist.x_labels = list(range(3, max_result+1))
+hist.x_title = 'Result'
+hist.y_title = 'Frequency of Result'
+
+hist.add('D6 + D6 + D6', frequencies)
+hist.render_to_file('3_dice_visual.svg')
+
+
+15_9
+import pygal
+
+from die import Die
+
+#Creat two D6 dice
+die_1 = Die()
+die_2 = Die()
+
+
+#Make some rolls, and store results in a list.
+results = []
+for roll_num in range(10000):
+    result = die_1.roll() * die_2.roll()
+    results.append(result)
+
+#Analyze the results.
+frequencies = []
+max_result = die_1.num_sides * die_2.num_sides 
+
+for value in range(1, max_result+1):
+    frequency = results.count(value)
+    frequencies.append(frequency)
+
+#Visualize the results.
+hist = pygal.Bar()
+
+hist.title = "Results of rilling two D6 dice 1000 times."
+hist.x_labels = list(range(1, max_result+1))
+hist.x_title = 'Result'
+hist.y_title = 'Frequency of Result'
+
+hist.add('D6 * D6', frequencies)
+hist.render_to_file('multiplication_dice_visual.svg')
+
+15-10
+import matplotlib.pyplot as plt
+
+from die import Die
+
+#Creat two D6 dice
+die_1 = Die()
+die_2 = Die()
+
+
+#Make some rolls, and store results in a list.
+results = []
+for roll_num in range(10000):
+    result = die_1.roll() + die_2.roll() 
+    results.append(result)
+
+#Analyze the results.
+frequencies = []
+max_result = die_1.num_sides + die_2.num_sides 
+
+for value in range(2, max_result+1):
+    frequency = results.count(value)
+    frequencies.append(frequency)
+
+#Visualize the results.
+x_values = list(range(2, max_result+1))
+y_values = frequencies
+plt.scatter(x_values, y_values, s = 100)
+plt.show()
+
+```
+
+**错题集**
+
+```python
+hist.x_labels() 错写成list.x_label()..... x轴 没有横坐标  需注意函数名字
+```
+
+**今日所学**
+
+完成练习
