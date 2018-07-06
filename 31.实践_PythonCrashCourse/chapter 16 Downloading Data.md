@@ -406,6 +406,9 @@ TypeError: 'list' object is not an iterator
 这一点可以暂时不求甚解.
 只要知道python是用__iter__和__next__这两个内置method定义iterator,
 然后用next()调用__next__,for循环调用__next__就行. 不然,for循环他会静止在一个地方,不可能自动执行下一个.
+def __next__(self):
+#这里面实际写的是  i = i + 1,
+   
                                                       
 #总结,csv.reader(f)是将一个csv格式的文本转化成python的iterator object.
                                                    
