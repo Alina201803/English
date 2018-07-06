@@ -513,3 +513,168 @@ plotting a longer timeframe，
 plotting a second data series 
 
 shading an area in the chart
+
+
+
+2018-07-06
+
+**源代码**
+
+```python
+error-checking 
+import csv
+from datetime import datetime
+
+from matplotlib import pyplot as plt
+
+#Get dates and high and low temperatures from file.
+filename = 'death_valley_2014.csv'
+with open(filename) as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+
+    dates, highs, lows = [], [], []
+    for row in reader:
+        current_date = datetime.strptime(row[0], "%Y-%m-%d")
+        dates.append(current_date)
+
+        high = int(row[1])
+        highs.append(high)
+
+        low = int(row[3])
+        lows.append(low)
+
+#plot data
+fig = plt.figure(dpi = 128, figsize=(10, 6))
+plt.plot(dates, highs, c="red", alpha=0.5)
+plt.plot(dates, lows, c="blue", alpha=0.5)
+plt.fill_between(dates, highs, lows, facecolor="blue", alpha=0.1)
+
+#Format plot
+plt.title("Daily high and low temperatures - 2014", fontsize=24)
+plt.xlabel('', fontsize=16)
+fig.autofmt_xdate()
+plt.ylabel("Temperature (F)", fontsize=16)
+plt.tick_params(axis='both', which='major', labelsize=16)
+
+plt.show()
+
+Traceback (most recent call last):
+  File "2018-07-06.py", line 17, in <module>
+    high = int(row[1])
+ValueError: invalid literal for int() with base 10: ''
+
+
+import csv
+from datetime import datetime
+
+from matplotlib import pyplot as plt
+
+#Get dates and high and low temperatures from file.
+filename = 'death_valley_2014.csv'
+with open(filename) as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+
+    dates, highs, lows = [], [], []
+    for row in reader:
+        try:
+            current_date = datetime.strptime(row[0], "%Y-%m-%d")
+            high = int(row[1])
+            low = int(row[3])
+        except ValueError:
+            print(current_date, 'missing data')
+        else:
+            dates.append(current_date)
+            highs.append(high)
+            lows.append(low)
+        
+
+#plot data
+fig = plt.figure(dpi = 128, figsize=(10, 6))
+plt.plot(dates, highs, c="red", alpha=0.5)
+plt.plot(dates, lows, c="blue", alpha=0.5)
+plt.fill_between(dates, highs, lows, facecolor="blue", alpha=0.1)
+
+#Format plot
+plt.title("Daily high and low temperatures - 2014", fontsize=24)
+plt.xlabel('', fontsize=16)
+fig.autofmt_xdate()
+plt.ylabel("Temperature (F)", fontsize=16)
+plt.tick_params(axis='both', which='major', labelsize=16)
+
+plt.show()
+
+mapping global data sets : json format
+extracting relevant data
+import json
+
+#Load the data into a list
+filename = 'population_data.json'
+
+with open(filename) as f:
+    pop_data = json.load(f)
+
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = pop_dict["Value"]
+        print(country_name + ": " + population)
+
+converting strings into numerical values
+import json
+
+#Load the data into a list
+filename = 'population_data.json'
+
+with open(filename) as f:
+    pop_data = json.load(f)
+
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(pop_dict["Value"])
+        print(country_name + ": " + str(population))
+Arab World: 357868000
+Caribbean small states: 6880000
+East Asia & Pacific (all income levels): 2201536674
+East Asia & Pacific (developing only): 1961558757
+Euro area: 331766000
+Europe & Central Asia (all income levels): 890424544
+Europe & Central Asia (developing only): 405204000
+European Union: 502125000
+Heavily indebted poor countries (HIPC): 635663000
+Traceback (most recent call last):
+  File "2018-07-06-1.py", line 13, in <module>
+    population = int(pop_dict["Value"])
+ValueError: invalid literal for int() with base 10: '1127437398.85751'
+
+
+import json
+
+#Load the data into a list
+filename = 'population_data.json'
+
+with open(filename) as f:
+    pop_data = json.load(f)
+
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict["Value"]))
+        print(country_name + ": " + str(population))
+```
+
+今日所学：
+
+error-checking 
+
+mapping global data sets : json format
+
+extracting relevant data
+
+converting strings into numerical values
+
