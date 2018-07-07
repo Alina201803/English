@@ -678,3 +678,122 @@ extracting relevant data
 
 converting strings into numerical values
 
+ 2018-07-07
+
+**源代码**
+
+```python
+countries.py
+from pygal.i18n import COUNTRIES
+
+for country_code in sorted(COUNTRIES.keys()):
+    print(country_code, COUNTRIES[country_code])
+
+country_codes.py
+from pygal_maps_world.i18n import COUNTRIES
+
+def get_country_code(country_name):
+    """Return the Pygal 2-digit country code for the given country."""
+    for code, name in COUNTRIES.items():
+        if name == country_name:
+            return code
+    # If the country wasn't found, return None.
+    return None
+print(get_country_code('Andorra'))
+print(get_country_code('United Arab Emirates'))
+print(get_country_code('Afghanistan'))
+
+world_population.py
+import json
+
+from country_codes import get_country_code
+
+#load the data into a list.
+filename = 'population_data.json'
+with open(filename) as f:
+    pop_data = json.load(f)
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict['Value']))
+        code = get_country_code(country_name)
+        if code:
+            print(code + ": " + str(population))
+        else:
+            print('ERROR - ' +country_name)
+
+americas.py
+import pygal.maps.world
+
+wm = pygal.maps.world.World()
+wm.title = 'North, Central, and South America'
+
+wm.add('North America', ['ca', 'mx', 'us'])
+wm.add('Central America', ['bz','cr','gt','hn','ni','pa','sv'])
+wm.add('South America', ['ar','bo','br','cl','co','ec','gf','gy','pe','py','sr','uy','ve'])
+
+wm.render_to_file('americas.svg')
+
+na_populations.py
+import pygal.maps.world
+
+wm = pygal.maps.world.World()
+wm.title = 'populations of Countries in North America'
+wm.add('North America', {'ca': 34126000, 'us': 309349000, 'mx':113423000})
+
+wm.render_to_file('na_population.svg')
+
+
+import json
+
+import pygal.maps.world
+
+from country_codes import get_country_code
+#load the data into a list.
+filename = 'population_data.json'
+with open(filename) as f:
+    pop_data = json.load(f)
+#Build a dictionary of population data.
+cc_populations = {}
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict['Value']))
+        code = get_country_code(country_name)
+        if code:
+            cc_populations[code] = population
+wm = pygal.maps.world.World()
+wm.title = 'World Population in 2010, by Country'
+wm.add('2010', cc_populations)
+
+wm.render_to_file('world_population.svg')
+```
+
+ImportError: No module named 'pygal.i18n'
+
+AttributeError: module 'pygal' has no attribute 'Worldmap'
+
+报错，解答：
+
+本章用到`pygal.i18n`获取国别码, 现在pygal已经没有i18n模块，要改用`pygal_maps_world.i18n`，解决方法如下：
+
+```
+在终端中运行下面语句（注意pip3/pip）
+pip install pygal_maps_world12
+在代码文件中添加下面语句：
+from pygal_maps_world.i18n import COUNTRIES
+
+改为 import pygal.maps.world
+wm = pygal.maps.world.World()
+```
+
+**今日所学**
+
+obtaining two-digit country codes
+
+building a world map
+
+plotting numerical data on a world map
+
+plotting a complete population map
