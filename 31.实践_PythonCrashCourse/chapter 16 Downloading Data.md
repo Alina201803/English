@@ -940,3 +940,146 @@ styling world maps in pygal
 
 lighting the color theme
 
+
+
+2018-07-09
+
+**源代码**
+
+```python
+练习 16-6
+from country_codes import get_country_code
+import pygal.maps.world
+import csv
+
+#Get countries and GDP datas from file
+filename = 'GDP.csv'
+with open (filename, encoding='ISO-8859-1') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    print(header_row)
+    row_1 = next(reader)
+    print(row_1)
+    row_2 = next(reader)
+    print(row_2)
+    row_3 = next(reader)
+    print(row_3)
+    row_4 = next(reader)
+    print(row_4)
+
+#Build a dictionary of gdp data.
+    country_gdp = {}
+    for row in reader:
+        gdp = row[4]
+        country = row[3]
+        code = get_country_code(country)
+        if code:
+            country_gdp[code] = gdp
+
+
+
+wm = pygal.maps.world.World()
+wm.title = 'GDP of countries in the world'
+wm.add('GDP', country_gdp)
+
+wm.render_to_file('gdp of countries in the world.svg')
+练习 16-7
+from country_codes import get_country_code
+import pygal.maps.world
+import csv
+
+#Get countries and  datas from file
+filename = 'API_AG.csv'
+with open(filename, encoding='gb18030',errors='ignore') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    print(header_row)
+    row_1 = next(reader)
+    print(row_1)
+    row_2 = next(reader)
+    print(row_2)
+    row_3 = next(reader)
+    print(row_3)
+    row_4 = next(reader)
+    print(row_4)
+    row_5 = next(reader)
+    print(row_5)
+#Build a dictionary of  data.
+    country_agricultural_land = {}
+    for row in reader:
+        land = row[6]
+        country = row[0]
+        code = get_country_code(country)
+        if code:
+           country_agricultural_land[code] = land
+
+wm = pygal.maps.world.World()
+wm.title = 'country_agricultural_land of countries in the world in 1961'
+wm.add('1961', country_agricultural_land)
+
+wm.render_to_file('country_agricultural_land of countries in the world.svg')
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+Traceback (most recent call last):
+  File "test.py", line 34, in <module>
+    wm.render_to_file('country_agricultural_land of countries in the world.svg')
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 114, in render_to_file
+    f.write(self.render(is_unicode=True, **kwargs))
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 52, in render
+    self.setup(**kwargs)
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\base.py", line 217, in setup
+    self._draw()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\graph.py", line 933, in _draw
+    self._plot()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\map.py", line 83, in _plot
+    ratio = .3 + .7 * (value - min_) / (max_ - min_)
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+练习 16-8
+import unittest
+from country_codes import get_country_code
+
+class TestCountryCodes(unittest.TestCase):
+    """针对get_country_codes的测试类"""
+ 
+    def test_country_codes(self):
+        country_name = 'Australia'
+        code = get_country_code(country_name)
+        self.assertEqual(code, 'au')
+
+unittest.main()
+
+```
+
+**错题集**
+
+```python
+1.练习 16-6 16-7 引入文件时报错
+UnicodeDecodeError: 'gbk' codec can't decode byte 0xbf in position 2: illegal multibyte sequence”
+搜索给出解决方案：
+with open (filename, encoding='ISO-8859-1') as f:  加上 encoding='ISO-8859-1'
+2 运行 16-7 出现报错 没搜索到解决办法......
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+Traceback (most recent call last):
+  File "test.py", line 34, in <module>
+    wm.render_to_file('country_agricultural_land of countries in the world.svg')
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 114, in render_to_file
+    f.write(self.render(is_unicode=True, **kwargs))
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 52, in render
+    self.setup(**kwargs)
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\base.py", line 217, in setup
+    self._draw()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\graph.py", line 933, in _draw
+    self._plot()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\map.py", line 83, in _plot
+    ratio = .3 + .7 * (value - min_) / (max_ - min_)
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+ 
+```
+
+今日所学
+
+练习（从网上下载数据，利用pygal使数据可视化）
+
+练习做得很艰难，报错，搜索修改，有些自己改正了，但还是有错误.......
+
