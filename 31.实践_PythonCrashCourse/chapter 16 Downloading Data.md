@@ -8,7 +8,7 @@
 import csv
 
 filename = 'sitka_weather_07-2014.csv'
-with open(filename) as f:
+#with open(filename) as f:
     reader = csv.reader(f)
     header_row = next(reader)
     print(header_row)
@@ -1187,11 +1187,11 @@ with open(filename, encoding='utf-8') as f:
 ar_land_10, ar_land_50 , ar_land_100 = {}, {}, {}
 for co, Ag_land in datas.items():
     if  Ag_land < 10:
-        ar_land_10[co] = Ag_land
+        ar_land_10[co] = Ag_land #ag_land
     elif Ag_land < 50:
-        ar_land_50[co] = Ag_land
+        ar_land_50[co] = Ag_land #ag_land
     else:
-        ar_land_100[co] = Ag_land
+        ar_land_100[co] = Ag_land #ag_land
 
 wm = pygal.maps.world.World()
 wm.title = 'Agricultural land (% of land area) in the world'
@@ -1213,7 +1213,10 @@ from country_codes import get_country_code
 import pygal.maps.world
 
 filename = 'API_AG.csv'
-with open(filename, encoding='utf-8') as f:
+#这里不必用utf-8,python默认便是用utf-8解析,
+#with open(filename, encoding='utf-8') as f:
+#修改后,解释见文末。
+with open(filename, newline="") as f:
     reader = csv.reader(f)
     header_row = next(reader)
     row_1 = next(reader)
@@ -1222,17 +1225,23 @@ with open(filename, encoding='utf-8') as f:
     row_4 = next(reader)
     print(row_4)
 
-   
+    #data = {} 
     for row in reader:
         country_name = row[0]
         try:
             Agricultural_land = int(float(row[5]))
+            #agricultural_land = float(row[5])
+            #这里是重复的, 
+            #接Agricultural_land = float(row[5])
+            #要么Agricultural_land = int(row[5])
+            #Agricultural的首字母A,按规范,不推荐大写,只有自定义class的时候用大写.
+            #agricultural_land
         except ValueError:
             print('MISSING DATA')
         else:
-            data = {}
+            data = {} #你说得对, data放在这里每次都会被清空,最后只留下一个数据.
             code = get_country_code(country_name)
-            data[code] = Agricultural_land
+            data[code] = Agricultural_land #agricultural_land
             print(data)
        
 
@@ -1262,3 +1271,42 @@ MISSING DATA
 **今日所学**
 
 完成练习16-7 
+
+对`csv`的使用,Python3的官方文档建议, 
+
+If *csvfile* is a file object, it should be opened with `newline=''`.
+
+[14.1. csv — CSV File Reading and Writing — Python 3.7.0 documentation](https://docs.python.org/3/library/csv.html)
+
+This enables universal `newlines` mode, which allows the csv module to read and write new lines correctly for **all operating systesm**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
