@@ -513,3 +513,752 @@ plotting a longer timeframe，
 plotting a second data series 
 
 shading an area in the chart
+
+
+
+2018-07-06
+
+**源代码**
+
+```python
+error-checking 
+import csv
+from datetime import datetime
+
+from matplotlib import pyplot as plt
+
+#Get dates and high and low temperatures from file.
+filename = 'death_valley_2014.csv'
+with open(filename) as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+
+    dates, highs, lows = [], [], []
+    for row in reader:
+        current_date = datetime.strptime(row[0], "%Y-%m-%d")
+        dates.append(current_date)
+
+        high = int(row[1])
+        highs.append(high)
+
+        low = int(row[3])
+        lows.append(low)
+
+#plot data
+fig = plt.figure(dpi = 128, figsize=(10, 6))
+plt.plot(dates, highs, c="red", alpha=0.5)
+plt.plot(dates, lows, c="blue", alpha=0.5)
+plt.fill_between(dates, highs, lows, facecolor="blue", alpha=0.1)
+
+#Format plot
+plt.title("Daily high and low temperatures - 2014", fontsize=24)
+plt.xlabel('', fontsize=16)
+fig.autofmt_xdate()
+plt.ylabel("Temperature (F)", fontsize=16)
+plt.tick_params(axis='both', which='major', labelsize=16)
+
+plt.show()
+
+Traceback (most recent call last):
+  File "2018-07-06.py", line 17, in <module>
+    high = int(row[1])
+ValueError: invalid literal for int() with base 10: ''
+
+
+import csv
+from datetime import datetime
+
+from matplotlib import pyplot as plt
+
+#Get dates and high and low temperatures from file.
+filename = 'death_valley_2014.csv'
+with open(filename) as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+
+    dates, highs, lows = [], [], []
+    for row in reader:
+        try:
+            current_date = datetime.strptime(row[0], "%Y-%m-%d")
+            high = int(row[1])
+            low = int(row[3])
+        except ValueError:
+            print(current_date, 'missing data')
+        else:
+            dates.append(current_date)
+            highs.append(high)
+            lows.append(low)
+        
+
+#plot data
+fig = plt.figure(dpi = 128, figsize=(10, 6))
+plt.plot(dates, highs, c="red", alpha=0.5)
+plt.plot(dates, lows, c="blue", alpha=0.5)
+plt.fill_between(dates, highs, lows, facecolor="blue", alpha=0.1)
+
+#Format plot
+plt.title("Daily high and low temperatures - 2014", fontsize=24)
+plt.xlabel('', fontsize=16)
+fig.autofmt_xdate()
+plt.ylabel("Temperature (F)", fontsize=16)
+plt.tick_params(axis='both', which='major', labelsize=16)
+
+plt.show()
+
+mapping global data sets : json format
+extracting relevant data
+import json
+
+#Load the data into a list
+filename = 'population_data.json'
+
+with open(filename) as f:
+    pop_data = json.load(f)
+
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = pop_dict["Value"]
+        print(country_name + ": " + population)
+
+converting strings into numerical values
+import json
+
+#Load the data into a list
+filename = 'population_data.json'
+
+with open(filename) as f:
+    pop_data = json.load(f)
+
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(pop_dict["Value"])
+        print(country_name + ": " + str(population))
+Arab World: 357868000
+Caribbean small states: 6880000
+East Asia & Pacific (all income levels): 2201536674
+East Asia & Pacific (developing only): 1961558757
+Euro area: 331766000
+Europe & Central Asia (all income levels): 890424544
+Europe & Central Asia (developing only): 405204000
+European Union: 502125000
+Heavily indebted poor countries (HIPC): 635663000
+Traceback (most recent call last):
+  File "2018-07-06-1.py", line 13, in <module>
+    population = int(pop_dict["Value"])
+ValueError: invalid literal for int() with base 10: '1127437398.85751'
+
+
+import json
+
+#Load the data into a list
+filename = 'population_data.json'
+
+with open(filename) as f:
+    pop_data = json.load(f)
+
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict["Value"]))
+        print(country_name + ": " + str(population))
+```
+
+今日所学：
+
+error-checking 
+
+mapping global data sets : json format
+
+extracting relevant data
+
+converting strings into numerical values
+
+ 2018-07-07
+
+**源代码**
+
+```python
+countries.py
+from pygal.i18n import COUNTRIES
+
+for country_code in sorted(COUNTRIES.keys()):
+    print(country_code, COUNTRIES[country_code])
+
+country_codes.py
+from pygal_maps_world.i18n import COUNTRIES
+
+def get_country_code(country_name):
+    """Return the Pygal 2-digit country code for the given country."""
+    for code, name in COUNTRIES.items():
+        if name == country_name:
+            return code
+    # If the country wasn't found, return None.
+    return None
+print(get_country_code('Andorra'))
+print(get_country_code('United Arab Emirates'))
+print(get_country_code('Afghanistan'))
+
+world_population.py
+import json
+
+from country_codes import get_country_code
+
+#load the data into a list.
+filename = 'population_data.json'
+with open(filename) as f:
+    pop_data = json.load(f)
+#Print the 2010 population for each country.
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict['Value']))
+        code = get_country_code(country_name)
+        if code:
+            print(code + ": " + str(population))
+        else:
+            print('ERROR - ' +country_name)
+
+americas.py
+import pygal.maps.world
+
+wm = pygal.maps.world.World()
+wm.title = 'North, Central, and South America'
+
+wm.add('North America', ['ca', 'mx', 'us'])
+wm.add('Central America', ['bz','cr','gt','hn','ni','pa','sv'])
+wm.add('South America', ['ar','bo','br','cl','co','ec','gf','gy','pe','py','sr','uy','ve'])
+
+wm.render_to_file('americas.svg')
+
+na_populations.py
+import pygal.maps.world
+
+wm = pygal.maps.world.World()
+wm.title = 'populations of Countries in North America'
+wm.add('North America', {'ca': 34126000, 'us': 309349000, 'mx':113423000})
+
+wm.render_to_file('na_population.svg')
+
+
+import json
+
+import pygal.maps.world
+
+from country_codes import get_country_code
+#load the data into a list.
+filename = 'population_data.json'
+with open(filename) as f:
+    pop_data = json.load(f)
+#Build a dictionary of population data.
+cc_populations = {}
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict['Value']))
+        code = get_country_code(country_name)
+        if code:
+            cc_populations[code] = population
+wm = pygal.maps.world.World()
+wm.title = 'World Population in 2010, by Country'
+wm.add('2010', cc_populations)
+
+wm.render_to_file('world_population.svg')
+```
+
+ImportError: No module named 'pygal.i18n'
+
+AttributeError: module 'pygal' has no attribute 'Worldmap'
+
+报错，解答：
+
+本章用到`pygal.i18n`获取国别码, 现在pygal已经没有i18n模块，要改用`pygal_maps_world.i18n`，解决方法如下：
+
+```
+在终端中运行下面语句（注意pip3/pip）
+pip install pygal_maps_world12
+在代码文件中添加下面语句：
+from pygal_maps_world.i18n import COUNTRIES
+
+改为 import pygal.maps.world
+wm = pygal.maps.world.World()
+```
+
+**今日所学**
+
+obtaining two-digit country codes
+
+building a world map
+
+plotting numerical data on a world map
+
+plotting a complete population map
+
+
+
+2018-07-08
+
+**源代码**
+
+```python
+import json
+
+import pygal.maps.world
+
+from country_codes import get_country_code
+#load the data into a list.
+filename = 'population_data.json'
+with open(filename) as f:
+    pop_data = json.load(f)
+#Build a dictionary of population data.
+cc_populations = {}
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict['Value']))
+        code = get_country_code(country_name)
+        if code:
+            cc_populations[code] = population
+
+#Group the countries into 3 population levels.
+cc_pops_1, cc_pops_2, cc_pops_3 = {}, {}, {}
+for cc, pop in cc_populations.items():
+    if pop < 10000000:
+        cc_pops_1[cc] = pop
+    elif pop < 1000000000:
+        cc_pops_2[cc] = pop
+    else:
+        cc_pops_3[cc] = pop
+
+#See how many countries are in each level.
+print(len(cc_pops_1), len(cc_pops_2), len(cc_pops_3))
+
+wm = pygal.maps.world.World()
+wm.title = 'World Population in 2010, by Country'
+wm.add('0-10m', cc_pops_1)
+wm.add('10m-1bn',cc_pops_2)
+wm.add('>1bn',cc_pops_3)
+
+wm.render_to_file('world_population.svg')
+
+import json
+
+import pygal.maps.world
+from pygal.style import RotateStyle
+
+from country_codes import get_country_code
+#load the data into a list.
+filename = 'population_data.json'
+with open(filename) as f:
+    pop_data = json.load(f)
+#Build a dictionary of population data.
+cc_populations = {}
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict['Value']))
+        code = get_country_code(country_name)
+        if code:
+            cc_populations[code] = population
+
+#Group the countries into 3 population levels.
+cc_pops_1, cc_pops_2, cc_pops_3 = {}, {}, {}
+for cc, pop in cc_populations.items():
+    if pop < 10000000:
+        cc_pops_1[cc] = pop
+    elif pop < 1000000000:
+        cc_pops_2[cc] = pop
+    else:
+        cc_pops_3[cc] = pop
+
+#See how many countries are in each level.
+print(len(cc_pops_1), len(cc_pops_2), len(cc_pops_3))
+
+wm_style = RotateStyle('#336699')
+wm = pygal.maps.world.World(style=wm_style)
+wm.title = 'World Population in 2010, by Country'
+wm.add('0-10m', cc_pops_1)
+wm.add('10m-1bn',cc_pops_2)
+wm.add('>1bn',cc_pops_3)
+
+wm.render_to_file('world_population.svg')
+
+import json
+
+import pygal.maps.world
+from pygal.style import RotateStyle
+from pygal.style import LightColorizedStyle
+
+from country_codes import get_country_code
+#load the data into a list.
+filename = 'population_data.json'
+with open(filename) as f:
+    pop_data = json.load(f)
+#Build a dictionary of population data.
+cc_populations = {}
+for pop_dict in pop_data:
+    if pop_dict['Year'] == '2010':
+        country_name = pop_dict['Country Name']
+        population = int(float(pop_dict['Value']))
+        code = get_country_code(country_name)
+        if code:
+            cc_populations[code] = population
+
+#Group the countries into 3 population levels.
+cc_pops_1, cc_pops_2, cc_pops_3 = {}, {}, {}
+for cc, pop in cc_populations.items():
+    if pop < 10000000:
+        cc_pops_1[cc] = pop
+    elif pop < 1000000000:
+        cc_pops_2[cc] = pop
+    else:
+        cc_pops_3[cc] = pop
+
+#See how many countries are in each level.
+print(len(cc_pops_1), len(cc_pops_2), len(cc_pops_3))
+
+wm_style = RotateStyle('#336699', base_style=LightColorizedStyle)
+wm = pygal.maps.world.World(style=wm_style)
+wm.title = 'World Population in 2010, by Country'
+wm.add('0-10m', cc_pops_1)
+wm.add('10m-1bn',cc_pops_2)
+wm.add('>1bn',cc_pops_3)
+
+wm.render_to_file('1_world_population.svg')
+
+```
+
+**今日所学**
+
+grouping countries by population
+
+styling world maps in pygal
+
+lighting the color theme
+
+
+
+2018-07-09
+
+**源代码**
+
+```python
+练习 16-6
+from country_codes import get_country_code
+import pygal.maps.world
+import csv
+
+#Get countries and GDP datas from file
+filename = 'GDP.csv'
+with open (filename, encoding='ISO-8859-1') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    print(header_row)
+    row_1 = next(reader)
+    print(row_1)
+    row_2 = next(reader)
+    print(row_2)
+    row_3 = next(reader)
+    print(row_3)
+    row_4 = next(reader)
+    print(row_4)
+
+#Build a dictionary of gdp data.
+    country_gdp = {}
+    for row in reader:
+        gdp = row[4]
+        country = row[3]
+        code = get_country_code(country)
+        if code:
+            country_gdp[code] = gdp
+
+
+
+wm = pygal.maps.world.World()
+wm.title = 'GDP of countries in the world'
+wm.add('GDP', country_gdp)
+
+wm.render_to_file('gdp of countries in the world.svg')
+练习 16-7
+from country_codes import get_country_code
+import pygal.maps.world
+import csv
+
+#Get countries and  datas from file
+filename = 'API_AG.csv'
+with open(filename, encoding='gb18030',errors='ignore') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    print(header_row)
+    row_1 = next(reader)
+    print(row_1)
+    row_2 = next(reader)
+    print(row_2)
+    row_3 = next(reader)
+    print(row_3)
+    row_4 = next(reader)
+    print(row_4)
+    row_5 = next(reader)
+    print(row_5)
+#Build a dictionary of  data.
+    country_agricultural_land = {}
+    for row in reader:
+        land = row[6]
+        country = row[0]
+        code = get_country_code(country)
+        if code:
+           country_agricultural_land[code] = land
+
+wm = pygal.maps.world.World()
+wm.title = 'country_agricultural_land of countries in the world in 1961'
+wm.add('1961', country_agricultural_land)
+
+wm.render_to_file('country_agricultural_land of countries in the world.svg')
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+Traceback (most recent call last):
+  File "test.py", line 34, in <module>
+    wm.render_to_file('country_agricultural_land of countries in the world.svg')
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 114, in render_to_file
+    f.write(self.render(is_unicode=True, **kwargs))
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 52, in render
+    self.setup(**kwargs)
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\base.py", line 217, in setup
+    self._draw()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\graph.py", line 933, in _draw
+    self._plot()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\map.py", line 83, in _plot
+    ratio = .3 + .7 * (value - min_) / (max_ - min_)
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+练习 16-8
+import unittest
+from country_codes import get_country_code
+
+class TestCountryCodes(unittest.TestCase):
+    """针对get_country_codes的测试类"""
+ 
+    def test_country_codes(self):
+        country_name = 'Australia'
+        code = get_country_code(country_name)
+        self.assertEqual(code, 'au')
+
+unittest.main()
+
+```
+
+**错题集**
+
+```python
+1.练习 16-6 16-7 引入文件时报错
+UnicodeDecodeError: 'gbk' codec can't decode byte 0xbf in position 2: illegal multibyte sequence”
+搜索给出解决方案：
+with open (filename, encoding='ISO-8859-1') as f:  加上 encoding='ISO-8859-1'
+2 运行 16-7 出现报错 没搜索到解决办法......
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+Traceback (most recent call last):
+  File "test.py", line 34, in <module>
+    wm.render_to_file('country_agricultural_land of countries in the world.svg')
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 114, in render_to_file
+    f.write(self.render(is_unicode=True, **kwargs))
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\public.py", line 52, in render
+    self.setup(**kwargs)
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\base.py", line 217, in setup
+    self._draw()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\graph.py", line 933, in _draw
+    self._plot()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pyg                                                                                                                al\graph\map.py", line 83, in _plot
+    ratio = .3 + .7 * (value - min_) / (max_ - min_)
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+ 
+```
+
+今日所学
+
+练习（从网上下载数据，利用pygal使数据可视化）
+
+练习做得很艰难，报错，搜索修改，有些自己改正了，但还是有错误.......
+
+
+
+2018-07-10
+
+**源代码**
+
+```python
+练习16-7
+(1)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+   
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            data = {}
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+       
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural_land of countries in the world'
+wm.add('argu_land',data)
+wm.render_to_file('Agricultural_land of countries in the world.svg')
+
+(2)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+    data = {}
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural land (% of land area) in the world'
+wm.add('argu_land',data)
+wm.render_to_file('1_Agricultural_land of countries in the world.svg')
+
+(3)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+    data = {}
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+
+ar_land_10, ar_land_50 , ar_land_100 = {}, {}, {}
+for co, Ag_land in datas.items():
+    if  Ag_land < 10:
+        ar_land_10[co] = Ag_land
+    elif Ag_land < 50:
+        ar_land_50[co] = Ag_land
+    else:
+        ar_land_100[co] = Ag_land
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural land (% of land area) in the world'
+wm.add('0-10',  ar_land_10)
+wm.add('10-50', ar_land_50)
+wm.add('50-100', ar_land_100 )
+
+wm.render_to_file('Agricultural land (% of land area) in the world.svg')
+
+
+```
+
+**错题集**
+
+```python
+(1)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+   
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            data = {}
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+       
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural_land of countries in the world'
+wm.add('argu_land',data)
+wm.render_to_file('Agricultural_land of countries in the world.svg')
+今天把昨天的错误分析了一下，又看了一遍教材讲解，决定再做一遍习题16-7
+这次Python没有报错，很开心。结果出来的visualization有问题，只显示一个国家（Agricultural_land of countries in the world.svg）
+很不解，鼓捣半天不知道哪里错了，又读了一遍题目: generates a dictionary with Pygal's two_latter country codes as its keys and chosen data from data from the files as its values，
+发现我创建的data{} 是一个一个孤立小字典,不是一个将数据囊括的大字典。print（data)的结果如下：
+{None: 11}
+{'af': 57}
+{'ao': 45}
+{'al': 44}
+{'ad': 55}
+   省略
+{'us': 48}
+MISSING DATA
+{None: 44}
+{'za': 83}
+{'zm': 25}
+{'zw': 28}
+翻看教材明白明白是创建的data{}不正确。，找到原因 data{} 不应该放在for loop里。在（2）中改正之后，终于出来了完整的visualization(1_Agricultural_land of countries in the world.svg)。在（3）中将效果优化(Agricultural land (% of land area) in the world.svg)
+```
+
+**今日所学**
+
+完成练习16-7 
