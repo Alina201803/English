@@ -1083,3 +1083,182 @@ TypeError: unsupported operand type(s) for -: 'str' and 'str'
 
 练习做得很艰难，报错，搜索修改，有些自己改正了，但还是有错误.......
 
+
+
+2018-07-10
+
+**源代码**
+
+```python
+练习16-7
+(1)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+   
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            data = {}
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+       
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural_land of countries in the world'
+wm.add('argu_land',data)
+wm.render_to_file('Agricultural_land of countries in the world.svg')
+
+(2)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+    data = {}
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural land (% of land area) in the world'
+wm.add('argu_land',data)
+wm.render_to_file('1_Agricultural_land of countries in the world.svg')
+
+(3)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+    data = {}
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+
+ar_land_10, ar_land_50 , ar_land_100 = {}, {}, {}
+for co, Ag_land in datas.items():
+    if  Ag_land < 10:
+        ar_land_10[co] = Ag_land
+    elif Ag_land < 50:
+        ar_land_50[co] = Ag_land
+    else:
+        ar_land_100[co] = Ag_land
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural land (% of land area) in the world'
+wm.add('0-10',  ar_land_10)
+wm.add('10-50', ar_land_50)
+wm.add('50-100', ar_land_100 )
+
+wm.render_to_file('Agricultural land (% of land area) in the world.svg')
+
+
+```
+
+**错题集**
+
+```python
+(1)
+import csv
+from country_codes import get_country_code
+import pygal.maps.world
+
+filename = 'API_AG.csv'
+with open(filename, encoding='utf-8') as f:
+    reader = csv.reader(f)
+    header_row = next(reader)
+    row_1 = next(reader)
+    row_2 = next(reader)
+    row_3 = next(reader)
+    row_4 = next(reader)
+    print(row_4)
+
+   
+    for row in reader:
+        country_name = row[0]
+        try:
+            Agricultural_land = int(float(row[5]))
+        except ValueError:
+            print('MISSING DATA')
+        else:
+            data = {}
+            code = get_country_code(country_name)
+            data[code] = Agricultural_land
+            print(data)
+       
+
+wm = pygal.maps.world.World()
+wm.title = 'Agricultural_land of countries in the world'
+wm.add('argu_land',data)
+wm.render_to_file('Agricultural_land of countries in the world.svg')
+今天把昨天的错误分析了一下，又看了一遍教材讲解，决定再做一遍习题16-7
+这次Python没有报错，很开心。结果出来的visualization有问题，只显示一个国家（Agricultural_land of countries in the world.svg）
+很不解，鼓捣半天不知道哪里错了，又读了一遍题目: generates a dictionary with Pygal's two_latter country codes as its keys and chosen data from data from the files as its values，
+发现我创建的data{} 是一个一个孤立小字典,不是一个将数据囊括的大字典。print（data)的结果如下：
+{None: 11}
+{'af': 57}
+{'ao': 45}
+{'al': 44}
+{'ad': 55}
+   省略
+{'us': 48}
+MISSING DATA
+{None: 44}
+{'za': 83}
+{'zm': 25}
+{'zw': 28}
+翻看教材明白明白是创建的data{}不正确。，找到原因 data{} 不应该放在for loop里。在（2）中改正之后，终于出来了完整的visualization(1_Agricultural_land of countries in the world.svg)。在（3）中将效果优化(Agricultural land (% of land area) in the world.svg)
+```
+
+**今日所学**
+
+完成练习16-7 
