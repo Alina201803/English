@@ -1,4 +1,4 @@
-### chapter 16 Downloading Data
+### Chapter 16 Downloading Data
 
 2018-07-02
 
