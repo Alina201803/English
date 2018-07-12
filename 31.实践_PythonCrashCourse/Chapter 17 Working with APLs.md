@@ -160,3 +160,163 @@ processing an API response
 
 working with the response dictionary
 
+
+
+2018-07-12
+
+**今日所学**
+
+```python
+
+import requests
+
+# Make an API call and store the response.
+url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
+r = requests.get(url)
+print("Status code:", r.status_code)
+#Store API response in a variable.
+response_dict = r.json()
+print("Total repositories:", response_dict['total_count'])
+
+#Explore information about the repositories.
+repo_dicts = response_dict['items']
+print("Repositories returned:", len(repo_dicts))
+
+print("\nSelected information about each repository: ")
+for repo_dict in repo_dicts:
+    print('\nName :', repo_dict['name'])
+    print('Owner:', repo_dict['owner']['login'])
+    print('Stars:',repo_dict['stargazers_count'])
+    print('Repository:',repo_dict['html_url'])
+    print('Description:',repo_dict['description'])
+
+Status code: 200
+Total repositories: 2803737
+Repositories returned: 30
+
+Selected information about each repository:
+
+Name : awesome-python
+Owner: vinta
+Stars: 52430
+Repository: https://github.com/vinta/awesome-python
+Description: A curated list of awesome Python frameworks, libraries, softwad resources
+
+Name : youtube-dl
+Owner: rg3
+Stars: 39607
+Repository: https://github.com/rg3/youtube-dl
+Description: Command-line program to download videos from YouTube.com and ovideo sites
+
+Name : public-apis
+Owner: toddmotto
+Stars: 39344
+Repository: https://github.com/toddmotto/public-apis
+Description: A collective list of public JSON APIs for use in web developme
+
+Name : models
+Owner: tensorflow
+Stars: 38151
+Repository: https://github.com/tensorflow/models
+Description: Models and examples built with TensorFlow
+
+Name : flask
+Owner: pallets
+Stars: 37276
+Repository: https://github.com/pallets/flask
+Description: The Python micro framework for building web applications.
+
+Name : thefuck
+Owner: nvbn
+Stars: 36180
+Repository: https://github.com/nvbn/thefuck
+Description: Magnificent app which corrects your previous console command.
+
+Name : httpie
+Owner: jakubroztocil
+Stars: 36015
+Repository: https://github.com/jakubroztocil/httpie
+Description: Modern command line HTTP client ▒C user-friendly curl alternatith intuitive UI, JSON support, syntax highlighting, wget-like downloads, eions, etc.  https://httpie.org
+
+Name : django
+Owner: django
+Stars: 35036
+Repository: https://github.com/django/django
+Description: The Web framework for perfectionists with deadlines.
+
+Name : awesome-machine-learning
+Owner: josephmisiti
+Stars: 34073
+Repository: https://github.com/josephmisiti/awesome-machine-learning
+Description: A curated list of awesome Machine Learning frameworks, librarid software.
+
+Name : requests
+Owner: requests
+Stars: 33476
+Repository: https://github.com/requests/requests
+        
+  
+making API Rate Limits
+enter https://api.github.com/rate_limit 
+{
+  "resources": {
+    "core": {
+      "limit": 60,
+      "remaining": 60,
+      "reset": 1531407754
+    },
+    "search": {
+      "limit": 10,
+      "remaining": 10,
+      "reset": 1531404214
+    },
+    "graphql": {
+      "limit": 0,
+      "remaining": 0,
+      "reset": 1531407754
+    }
+  },
+  "rate": {
+    "limit": 60,
+    "remaining": 60,
+    "reset": 1531407754
+  }
+}
+
+import requests
+import pygal
+from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
+
+# Make an API call and store the response.
+url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
+r = requests.get(url)
+print("Status code:", r.status_code)
+#Store API response in a variable.
+response_dict = r.json()
+print("Total repositories:", response_dict['total_count'])
+
+#Explore information about the repositories.
+repo_dicts = response_dict['items']
+
+names, stars = [],[]
+for repo_dict in repo_dicts:
+    names.append(repo_dict['name'])
+    stars.append(repo_dict['stargazers_count'])
+
+#Make visualization.
+my_style = LS('#333366', base_style=LCS)
+chart = pygal.Bar(style=my_style, x_label_rotation=45, show_legend=False)
+chart.title = 'Most-Starred Python Projects on GitHub'
+chart.x_labels = names
+
+chart.add('',stars)
+chart.render_to_file('python_repos.svg')
+```
+
+**今日所学**
+
+summarizing the top repositories
+
+monitoring apl rate limits
+
+visualizing repositories using pygal 第一步
