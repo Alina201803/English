@@ -320,3 +320,127 @@ summarizing the top repositories
 monitoring apl rate limits
 
 visualizing repositories using pygal 第一步
+
+
+
+2018-07-13
+
+**源代码**
+
+```python
+1.refining pygal charts
+import requests
+import pygal
+from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
+
+# Make an API call and store the response.
+url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
+r = requests.get(url)
+print("Status code:", r.status_code)
+#Store API response in a variable.
+response_dict = r.json()
+print("Total repositories:", response_dict['total_count'])
+
+#Explore information about the repositories.
+repo_dicts = response_dict['items']
+
+names, stars = [],[]
+for repo_dict in repo_dicts:
+    names.append(repo_dict['name'])
+    stars.append(repo_dict['stargazers_count'])
+
+#Make visualization.
+my_style = LS('#333366', base_style=LCS)
+
+my_config = pygal.Config()
+my_config.x_label_rotation = 45
+my_config.show_legend = False
+my_config.title_font_size = 24
+my_config.label_font_size = 14
+my_config.major_label_font_size = 18
+my_config.truncate_label = 15
+my_config.show_y_guides = False
+my_config.width = 1000
+
+chart = pygal.Bar(my_config, style=my_style)
+chart.title = 'Most-Starred Python Projects on GitHub'
+chart.x_labels = names
+
+chart.add('',stars)
+chart.render_to_file('python_repos.svg')
+
+2.adding custom tooltips
+import pygal
+from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
+
+my_style = LS('#333366', base_style=LCS)
+chart = pygal.Bar(style=my_style, x_label_rotation=45, show_legend=False)
+chart.title = 'Python Projects'
+chart.x_labels = ['awesome-python','youtube-dl','public-apis']
+
+plot_dicts = [
+    {'value':52476, 'label': 'Description of awesome-python'},
+    {'value':39640, 'label': 'Description of youtube_dl'},
+    {'value':39397, 'label': 'Description of public-apis'}
+    ]
+
+chart.add('',plot_dicts)
+chart.render_to_file('bar_descriptions.svg')
+
+
+3.plotting the data
+import requests
+import pygal
+from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
+
+# Make an API call, and store the response.
+url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
+r = requests.get(url)
+print("Status code:", r.status_code)
+
+# Store API response in a variable.
+response_dict = r.json()
+print("Total repositories:", response_dict['total_count'])
+
+# Explore information about the repositories.
+repo_dicts = response_dict['items']
+
+names, plot_dicts = [], []
+for repo_dict in repo_dicts:
+    names.append(repo_dict['name'])
+    
+    plot_dict = {
+        'value': repo_dict['stargazers_count'],
+        'label': repo_dict['description'],
+        }
+    plot_dicts.append(plot_dict)
+
+# Make visualization.
+my_style = LS('#333366', base_style=LCS)
+
+my_config = pygal.Config()
+my_config.x_label_rotation = 45
+my_config.show_legend = False
+my_config.title_font_size = 24
+my_config.label_font_size = 14
+my_config.major_label_font_size = 18
+my_config.truncate_label = 15
+my_config.show_y_guides = False
+my_config.width = 1000
+
+chart = pygal.Bar(my_config, style=my_style)
+chart.title = 'Most-Starred Python Projects on GitHub'
+chart.x_labels = names
+
+chart.add('', plot_dicts)
+chart.render_to_file('python_repos.svg')
+
+```
+
+**今日所学**
+
+refining pygal charts
+
+adding custom tooltips
+
+plotting the data
