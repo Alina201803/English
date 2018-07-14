@@ -444,3 +444,136 @@ refining pygal charts
 adding custom tooltips
 
 plotting the data
+
+
+
+2018-07-14
+
+**源代码**
+
+```python
+adding clickable links to our graph
+import requests
+import pygal
+from pygal.style import LightColorizedStyle as LCS, LightenStyle as LS
+
+# Make an API call, and store the response.
+url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
+r = requests.get(url)
+print("Status code:", r.status_code)
+
+# Store API response in a variable.
+response_dict = r.json()
+print("Total repositories:", response_dict['total_count'])
+
+# Explore information about the repositories.
+repo_dicts = response_dict['items']
+
+names, plot_dicts = [], []
+for repo_dict in repo_dicts:
+    names.append(repo_dict['name'])
+    
+    plot_dict = {
+        'value': repo_dict['stargazers_count'],
+        **'label': repo_dict['description'],**
+        'xlink': repo_dict['html_url'],
+        }
+    plot_dicts.append(plot_dict)
+
+# Make visualization.
+my_style = LS('#333366', base_style=LCS)
+
+my_config = pygal.Config()
+my_config.x_label_rotation = 45
+my_config.show_legend = False
+my_config.title_font_size = 24
+my_config.label_font_size = 14
+my_config.major_label_font_size = 18
+my_config.truncate_label = 15
+my_config.show_y_guides = False
+my_config.width = 1000
+
+chart = pygal.Bar(my_config, style=my_style)
+chart.title = 'Most-Starred Python Projects on GitHub'
+chart.x_labels = names
+
+chart.add('', plot_dicts)
+chart.render_to_file('python_repos.svg')
+
+Status code: 200
+Total repositories: 2198954
+Traceback (most recent call last):
+  File "2018-07-13-1.py", line 45, in <module>
+    chart.render_to_file('python_repos.svg')
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\graph\public.py", line 114, in render_to_file
+    f.write(self.render(is_unicode=True, **kwargs))
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\graph\public.py", line 52, in render
+    self.setup(**kwargs)
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\graph\base.py", line 217, in setup
+    self._draw()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\graph\graph.py", line 933, in _draw
+    self._plot()
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\graph\bar.py", line 146, in _plot
+    self.bar(serie)
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\graph\bar.py", line 116, in bar
+    metadata)
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\util.py", line 233, in decorate
+    metadata['label'])
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python35\site-packages\pygal\_compat.py", line 61, in to_unicode
+    return string.decode('utf-8')
+AttributeError: 'NoneType' object has no attribute 'decode'
+
+ the hackers news API 
+import requests
+
+from operator import itemgetter
+
+# Make an API call, and store the response.
+url = 'https://hacker-news.firebaseio.com/v0/topstories.json'
+r = requests.get(url)
+print("Status code:", r.status_code)
+
+# Process information about each submission.
+submission_ids = r.json()
+submission_dicts = []
+for submission_id in submission_ids[:30]:
+    # Make a separate API call for each submission.
+    url = ('https://hacker-news.firebaseio.com/v0/item/' +
+            str(submission_id) + '.json')
+    submission_r = requests.get(url)
+    print(submission_r.status_code)
+    response_dict = submission_r.json()
+    
+    submission_dict = {
+        'title': response_dict['title'],
+        'link': 'http://news.ycombinator.com/item?id=' + str(submission_id),
+        'comments': response_dict.get('descendants', 0)
+        }
+    submission_dicts.append(submission_dict)
+    
+submission_dicts = sorted(submission_dicts, key=itemgetter('comments'),
+                            reverse=True)
+
+for submission_dict in submission_dicts:
+    print("\nTitle:", submission_dict['title'])
+    print("Discussion link:", submission_dict['link'])
+    print("Comments:", submission_dict['comments'])
+
+```
+
+**错题本**
+
+```python
+今天在Stack Overflow 里提问的adding clickable links to our graph 中的
+AttributeError: 'NoneType' object has no attribute 'decode' 报错
+结果在别人的问题下发现解决办法。。。。。
+Try str() like above, it seems the data you got before hasn't clarifed the type of value that 'description' storged
+'label': repo_dict['description'],改为str（repo_dict['description']）后成功
+ 然后这个图太棒了，能看到最受欢迎的project，点击柱状图，还能跳转到相应的github页面。
+```
+
+**今日所学**
+
+adding clickable links to our graph
+
+the hackers news API
